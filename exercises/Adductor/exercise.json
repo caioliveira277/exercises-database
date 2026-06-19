@@ -1,5 +1,12 @@
 {
   "name": "Adductor",
+  "aliases": [
+    "Adductor Foam Roll",
+    "Hip Adductor Foam Roll",
+    "Adductor SMR",
+    "Adductor Foam Roll Myofascial Release",
+    "Inner Thigh Foam Roll"
+  ],
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",

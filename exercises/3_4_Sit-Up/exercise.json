@@ -1,5 +1,9 @@
 {
   "name": "3/4 Sit-Up",
+  "aliases": [
+    "Three Quarter Sit Up",
+    "Sit-Up (Three-Quarter)"
+  ],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
