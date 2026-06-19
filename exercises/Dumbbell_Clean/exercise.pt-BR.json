@@ -1,0 +1,27 @@
+{
+  "name": "Haltere limpo",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Comece em pé com um haltere em cada mão, com os pés afastados na largura dos ombros.",
+    "Abaixe os pesos até o chão flexionando os quadris e joelhos, empurrando os quadris para trás até que os halteres alcancem o chão. Esta será sua posição inicial.",
+    "Para iniciar o movimento, salte violentamente para cima, estendendo os quadris, joelhos e tornozelos para acelerar os pesos para cima. Mantendo uma pegada neutra nos halteres, mantenha os braços retos até atingir a extensão total.",
+    "Após a extensão total, dobre novamente os quadris e joelhos para receber o peso na posição de agachamento. Deixe os braços dobrarem, guiando os halteres até os ombros.",
+    "Ao receber o peso na posição de agachamento, estenda os quadris e joelhos para terminar em pé com os pesos sobre os ombros."
+  ],
+  "category": "força"
+}

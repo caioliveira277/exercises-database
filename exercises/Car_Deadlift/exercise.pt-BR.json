@@ -1,0 +1,24 @@
+{
+  "name": "Levantamento terra de carro",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "trapézios"
+  ],
+  "instructions": [
+    "Este aparelho de evento normalmente possui alças neutras, no entanto, alguns possuem uma barra reta que você pode abordar como um levantamento terra normal. O aparelho pode ser carregado com um veículo ou outros objetos pesados, como pneus de tratores ou barris.",
+    "Centralize-se entre as alças se você for um agachador forte, ou recue alguns centímetros se você for um levantador terra forte. Seus pés devem estar separados na largura do quadril. Dobre o quadril para segurar as alças. Com os pés e a pegada firmes, respire fundo, abaixe os quadris e flexione os joelhos.",
+    "Olhe para frente com a cabeça, mantenha o peito erguido e as costas arqueadas e comece a dirigir pelos calcanhares para mover o peso para cima. À medida que o peso aumenta, junte as omoplatas enquanto impulsiona os quadris para a frente.",
+    "Abaixe o peso dobrando os quadris e guiando-o até o chão."
+  ],
+  "category": "strongman"
+}

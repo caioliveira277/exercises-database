@@ -1,0 +1,21 @@
+{
+  "name": "Flexões ponderadas",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Prenda um peso em um cinto de imersão e prenda-o em volta da cintura. Segure a barra suspensa com as palmas das mãos voltadas para a frente. Para uma pegada média, suas mãos devem estar espaçadas na largura dos ombros. Ambos os braços devem estar estendidos à sua frente, segurando a barra na pegada escolhida.",
+    "Você vai querer trazer o tronco para trás cerca de 30 graus enquanto cria uma curvatura na parte inferior das costas e projeta o peito para fora. Esta será sua posição inicial.",
+    "Agora, expire e puxe o tronco para cima até que a cabeça fique acima das mãos. Concentre-se em apertar as omoplatas para trás e para baixo ao atingir a posição contraída superior.",
+    "Após um breve momento na posição superior contraída, inspire e abaixe lentamente o tronco de volta à posição inicial com os braços estendidos e os dorsais totalmente esticados."
+  ],
+  "category": "força"
+}

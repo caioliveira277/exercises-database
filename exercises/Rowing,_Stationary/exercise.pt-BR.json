@@ -1,0 +1,24 @@
+{
+  "name": "Remo, Estacionário",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Para começar, sente-se no remador. Certifique-se de que seus calcanhares estejam apoiados confortavelmente na base dos pedais e que as tiras estejam seguras. Selecione o programa que deseja usar, se aplicável. Sente-se ereto e incline-se para a frente na altura dos quadris.",
+    "Existem três fases de movimento ao usar um remador. A primeira fase é quando você avança no remador. Seus joelhos estão dobrados e contra o peito. A parte superior do corpo está ligeiramente inclinada para a frente, mantendo uma boa postura. Em seguida, empurre os pedais e estenda as pernas enquanto leva as mãos à região abdominal superior, apertando os ombros para trás ao fazer isso. Para evitar forçar as costas, use principalmente os músculos das pernas e do quadril.",
+    "A fase de recuperação envolve simplesmente esticar os braços, dobrar os joelhos e trazer o corpo para a frente novamente durante a transição de volta para a primeira fase."
+  ],
+  "category": "cardio"
+}

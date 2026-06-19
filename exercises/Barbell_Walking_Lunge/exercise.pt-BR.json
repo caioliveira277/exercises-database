@@ -1,0 +1,22 @@
+{
+  "name": "Estocada de caminhada com barra",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece em pé com os pés afastados na largura dos ombros e uma barra na parte superior das costas.",
+    "Dê um passo à frente com uma perna, flexionando os joelhos para deixar cair os quadris. Desça até que o joelho traseiro quase toque o chão. Sua postura deve permanecer ereta e o joelho da frente deve ficar acima do pé da frente.",
+    "Passe pelo calcanhar do pé dianteiro e estenda os dois joelhos para se levantar novamente.",
+    "Dê um passo à frente com o pé traseiro, repetindo a estocada na perna oposta."
+  ],
+  "category": "força"
+}

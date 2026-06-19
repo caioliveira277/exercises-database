@@ -1,0 +1,17 @@
+{
+  "name": "Extensão de alça de corrente",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Você precisará de dois cabos e uma bancada plana, além de correntes, para este exercício. Prenda o meio das correntes nas alças e posicione-se na bancada plana. Seus cotovelos devem estar apontando para cima.",
+    "Comece estendendo o cotovelo, mantendo o braço imóvel e os pulsos em pronação.",
+    "Faça uma pausa no bloqueio e inverta o movimento para retornar à posição inicial."
+  ],
+  "category": "levantamento de peso básico"
+}

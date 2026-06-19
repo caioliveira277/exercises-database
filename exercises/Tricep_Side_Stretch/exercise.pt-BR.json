@@ -1,0 +1,17 @@
+{
+  "name": "Alongamento lateral do tríceps",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Passe o braço direito sobre o corpo e sobre o ombro esquerdo, segurando o cotovelo com a mão esquerda, até sentir um alongamento no tríceps. Em seguida, repita para o outro braço."
+  ],
+  "category": "alongamento"
+}

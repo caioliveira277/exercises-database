@@ -1,0 +1,22 @@
+{
+  "name": "Curvas laterais do cabo de polia alta de um braço",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Conecte uma alça padrão a uma torre. Mova o cabo para a posição mais alta da polia.",
+    "Fique com o lado voltado para o cabo. Com uma mão, estenda a mão e agarre a alça com uma pegada por baixo.",
+    "Puxe o cabo para baixo até que o cotovelo toque sua lateral e a alça fique perto de seu ombro.",
+    "Posicione os pés na largura do quadril. Coloque a mão livre no quadril para ajudar a avaliar o ponto de articulação.",
+    "Mantenha o braço em posição estática. Contraia obliquamente para reduzir o peso em uma flexão lateral.",
+    "Depois de atingir a contração máxima, solte lentamente o peso para a posição inicial. A pilha de pesos nunca deve ser descarregada na posição de repouso. O objetivo é a tensão constante durante a série.",
+    "Repita até o fracasso.",
+    "Depois, reposicione e repita a mesma série de movimentos no lado oposto."
+  ],
+  "category": "força"
+}

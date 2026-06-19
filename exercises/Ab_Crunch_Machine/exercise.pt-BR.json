@@ -1,0 +1,18 @@
+{
+  "name": "Máquina de abdominais",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Selecione uma resistência leve e sente-se na máquina de abdominais, colocando os pés sob as almofadas fornecidas e agarrando as alças superiores. Seus braços devem estar dobrados em um ângulo de 90 graus enquanto você apoia o tríceps nas almofadas fornecidas. Esta será sua posição inicial.",
+    "Ao mesmo tempo, comece a levantar as pernas enquanto tritura a parte superior do tronco. Expire enquanto executa esse movimento. Dica: certifique-se de usar um movimento lento e controlado. Concentre-se em usar os abdominais para mover o peso enquanto relaxa as pernas e os pés.",
+    "Após uma segunda pausa, retorne lentamente à posição inicial enquanto inspira.",
+    "Repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Salto de caixa (resposta múltipla)",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Assuma uma postura relaxada de frente para a caixa ou plataforma, a aproximadamente um braço de distância. Os braços devem estar abaixados nas laterais e as pernas ligeiramente flexionadas.",
+    "Usando os braços para auxiliar na explosão inicial, salte para cima e para frente, pousando com os pés simultaneamente no topo da caixa ou plataforma.",
+    "Imediatamente desça ou pule de volta ao ponto de partida original; em seguida, repita a sequência."
+  ],
+  "category": "pliometria"
+}

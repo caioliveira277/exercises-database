@@ -1,0 +1,24 @@
+{
+  "name": "Imprensa dobrada",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um kettlebell no ombro. Limpe o kettlebell até os ombros, estendendo-o pelas pernas e quadris enquanto levanta o kettlebell em direção ao ombro. O pulso deve girar enquanto você faz isso. Esta será sua posição inicial.",
+    "Comece inclinando-se para o lado oposto ao kettlebell, continuando até conseguir tocar o chão com a mão livre, mantendo os olhos no kettlebell. Ao fazer isso, pressione o peso verticalmente estendendo-se através do cotovelo, mantendo o braço perpendicular ao chão.",
+    "Retorne à posição vertical, com o kettlebell acima da cabeça. Retorne o kettlebell ao ombro e repita o número desejado de repetições."
+  ],
+  "category": "força"
+}

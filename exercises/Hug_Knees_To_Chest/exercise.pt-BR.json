@@ -1,0 +1,19 @@
+{
+  "name": "Abrace os joelhos no peito",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos"
+  ],
+  "instructions": [
+    "Deite-se de costas e puxe os joelhos até o peito.",
+    "Mantenha os braços sob os joelhos, não acima (isso colocaria muita pressão nas articulações dos joelhos).",
+    "Puxe lentamente os joelhos em direção aos ombros. Isso também alonga os músculos das nádegas."
+  ],
+  "category": "alongamento"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Agachamento com pistola automática Smith",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para começar, primeiro coloque a barra na posição que melhor corresponda à sua altura. Passe por baixo dele e posicione a barra na parte de trás dos ombros.",
+    "Pegue a barra com as mãos voltadas para frente, destrave-a e levante-a do rack estendendo as pernas. 3",
+    "Mova um pé para frente cerca de 30 centímetros na frente da barra. Estenda a outra perna à sua frente, mantendo-a fora do chão. Olhe para frente o tempo todo e mantenha a coluna neutra ou ligeiramente arqueada. Esta será sua posição inicial.",
+    "Mantendo uma boa postura, abaixe-se flexionando o joelho e o quadril, descendo até onde a flexibilidade permitir.",
+    "Faça uma breve pausa na parte inferior e depois retorne à posição inicial passando pelo calcanhar do pé, estendendo o joelho e o quadril."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Exercício de trituração de bola",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se sobre uma bola de exercícios com a curvatura lombar pressionada contra a superfície esférica da bola. Seus pés devem estar dobrados na altura dos joelhos e pressionados firmemente contra o chão. A parte superior do tronco deve ficar pendurada no topo da bola. Os braços devem ser mantidos ao lado do corpo ou cruzados sobre o peito, pois essas posições evitam tensões no pescoço (ao contrário das mãos atrás da nuca).",
+    "Abaixe o tronco em uma posição alongada, mantendo o pescoço parado o tempo todo. Esta será sua posição inicial.",
+    "Com os quadris parados, flexione a cintura contraindo os abdominais e enrole os ombros e o tronco para cima até sentir uma boa contração nos abdominais. Os braços devem simplesmente deslizar para cima pelas laterais das pernas, se você os tiver ao lado, ou apenas ficar em cima do peito, se eles estiverem cruzados. A região lombar deve sempre ficar em contato com a bola. Expire ao realizar esse movimento e mantenha a contração por um segundo.",
+    "Ao inspirar, volte à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

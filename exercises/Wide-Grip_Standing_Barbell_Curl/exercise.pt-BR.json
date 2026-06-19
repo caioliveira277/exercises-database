@@ -1,0 +1,19 @@
+{
+  "name": "Curvatura com barra em pé de grande aderência",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé com o tronco ereto enquanto segura uma barra pela alça externa larga. A palma das mãos deve estar voltada para frente. Os cotovelos devem estar próximos ao tronco. Esta será sua posição inicial.",
+    "Enquanto mantém os braços parados, enrole os pesos para a frente enquanto contrai os bíceps enquanto expira. Dica: Apenas os antebraços devem se mover.",
+    "Continue o movimento até que os bíceps estejam totalmente contraídos e a barra esteja na altura dos ombros. Mantenha a posição contraída por um segundo e contraia os bíceps com força.",
+    "Lentamente, comece a trazer a barra de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

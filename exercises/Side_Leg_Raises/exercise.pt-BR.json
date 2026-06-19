@@ -1,0 +1,17 @@
+{
+  "name": "Elevações laterais das pernas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique próximo a uma cadeira, na qual você possa se apoiar. Fique em uma perna só. Esta será sua posição inicial.",
+    "Mantendo a perna esticada, levante-a o mais para o lado possível e balance-a de volta para baixo, permitindo que cruze a perna oposta.",
+    "Repita esse movimento de balanço de 5 a 10 vezes, aumentando a amplitude do movimento ao fazer isso."
+  ],
+  "category": "alongamento"
+}

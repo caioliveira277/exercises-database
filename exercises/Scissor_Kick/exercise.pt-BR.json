@@ -1,0 +1,19 @@
+{
+  "name": "Chute de tesoura",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, deite-se com as costas apoiadas no chão ou sobre um colchonete (opcional). Seus braços devem estar totalmente estendidos para os lados, com as palmas voltadas para baixo. Nota: Os braços devem estar parados o tempo todo.",
+    "Com uma ligeira flexão nos joelhos, levante as pernas de modo que os calcanhares fiquem a cerca de 15 centímetros do chão. Esta é a posição inicial.",
+    "Agora levante a perna esquerda até um ângulo de 45 graus enquanto a perna direita é abaixada até que o calcanhar esteja a cerca de 5 a 7 centímetros do chão.",
+    "Alterne os movimentos levantando a perna direita e abaixando a perna esquerda. Lembre-se de respirar enquanto realiza este exercício.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "alongamento"
+}

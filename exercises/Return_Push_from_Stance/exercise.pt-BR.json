@@ -1,0 +1,22 @@
+{
+  "name": "Retornar impulso da posição",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "tríceps"
+  ],
+  "instructions": [
+    "Você precisará de um parceiro para este exercício.",
+    "Comece com uma postura atlética de 2 ou 3 pontos.",
+    "Ao sinal, posicione-se para receber o passe do seu parceiro.",
+    "Pegue a bola medicinal com as duas mãos e jogue-a imediatamente de volta para o seu parceiro.",
+    "Você pode modificar esse exercício executando rotas diferentes."
+  ],
+  "category": "pliometria"
+}

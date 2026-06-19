@@ -1,0 +1,24 @@
+{
+  "name": "Agachamento com halteres Plie",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Segure um haltere na base com as duas mãos e fique em pé. Mova as pernas de modo que fiquem mais largas que a largura dos ombros, com os joelhos ligeiramente flexionados.",
+    "Os dedos dos pés devem estar voltados para fora. Nota: Seus braços devem estar parados durante a execução do exercício. Esta é a posição inicial.",
+    "Dobre lentamente os joelhos e abaixe as pernas até que as coxas fiquem paralelas ao chão. Certifique-se de inspirar, pois esta é a parte excêntrica do exercício.",
+    "Pressione principalmente com o calcanhar para trazer o corpo de volta à posição inicial enquanto expira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

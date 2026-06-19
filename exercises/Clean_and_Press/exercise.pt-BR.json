@@ -1,0 +1,32 @@
+{
+  "name": "Limpe e pressione",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "dorsal médio",
+    "quadríceps",
+    "ombros",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "Assuma uma postura na largura dos ombros, com os joelhos dentro dos braços. Agora, mantendo as costas retas, dobre os joelhos e os quadris para poder agarrar a barra com os braços totalmente estendidos e uma pegada pronada um pouco mais larga que a largura dos ombros. Aponte os cotovelos para os lados. A barra deve ficar próxima às canelas. Posicione os ombros acima ou ligeiramente à frente da barra. Estabeleça uma postura com as costas retas. Esta será sua posição inicial.",
+    "Comece a puxar a barra estendendo os joelhos. Mova os quadris para frente e levante os ombros na mesma proporção, mantendo o ângulo das costas constante; continue a levantar a barra, mantendo-a próxima ao corpo.",
+    "À medida que a barra passa pelo joelho, estenda os tornozelos, joelhos e quadris com força, semelhante a um movimento de salto. Ao fazer isso, continue a guiar a barra com as mãos, encolhendo os ombros e usando o impulso do movimento para puxar a barra o mais alto possível. A barra deve ficar próxima ao seu corpo e você deve manter os cotovelos para fora.",
+    "Na elevação máxima, seus pés devem sair do chão e você deve começar a se puxar para baixo da barra. A mecânica disso pode mudar um pouco, dependendo do peso utilizado. Você deve descer para uma posição de cócoras enquanto se puxa para baixo da barra.",
+    "Quando a barra atingir a altura terminal, gire os cotovelos ao redor e sob a barra. Coloque a barra na frente dos ombros, mantendo o tronco ereto e flexionando os quadris e joelhos para absorver o peso da barra.",
+    "Fique em pé, segurando a barra na posição limpa.",
+    "Sem mover os pés, pressione a barra acima da cabeça enquanto expira. Abaixe a barra sob controle."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Extensão de tríceps com halteres de dois braços curvados sentados",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se na ponta de um banco plano com um haltere em ambos os braços e uma pegada neutra (palmas da mão voltadas para você).",
+    "Dobre ligeiramente os joelhos e leve o tronco para a frente, dobrando a cintura, mantendo as costas retas até ficarem quase paralelas ao chão. Certifique-se de manter a cabeça erguida.",
+    "Os braços com halteres devem estar próximos ao tronco e alinhados com ele (levantados até ficarem paralelos ao chão enquanto os antebraços apontam para o chão enquanto as mãos seguram os pesos). Dica: Deve haver um ângulo de 90 graus entre os antebraços e o braço. Esta é a sua posição inicial.",
+    "Mantendo os braços estacionários, use o tríceps para levantar o peso enquanto expira até que os antebraços fiquem paralelos ao chão e todo o braço esteja estendido. Como muitos outros exercícios para os braços, apenas o antebraço se move.",
+    "Após uma segunda contração na parte superior, abaixe lentamente os halteres de volta à posição inicial enquanto inspira.",
+    "Repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

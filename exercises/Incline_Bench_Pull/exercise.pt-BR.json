@@ -1,0 +1,24 @@
+{
+  "name": "Puxar banco inclinado",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Pegue um haltere em cada mão e deite-se de bruços em um banco inclinado com inclinação de aproximadamente 30 graus.",
+    "Deixe os braços pendurados ao lado do corpo, totalmente estendidos, apontando para o chão.",
+    "Gire os pulsos até que suas mãos fiquem em pronação (palmas para baixo).",
+    "Agora abra os cotovelos. Esta será sua posição inicial.",
+    "Ao expirar, comece a puxar os halteres para cima, como se estivesse fazendo um supino reverso. Você fará isso dobrando os cotovelos e levantando os braços enquanto deixa os antebraços pendurados. Continue esse movimento até que os braços estejam no mesmo nível das costas. Dica: Os cotovelos ficarão para o lado e os braços e o tronco deverão formar a letra “T” no topo do movimento. Segure a contração na parte superior por um segundo.",
+    "Volte lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

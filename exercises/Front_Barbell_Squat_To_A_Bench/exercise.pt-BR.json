@@ -1,0 +1,24 @@
+{
+  "name": "Agachamento frontal com barra em um banco",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Este exercício é melhor executado dentro de um rack de agachamento por motivos de segurança. Para começar, primeiro coloque um banco plano atrás de você e coloque a barra em um rack que melhor corresponda à sua altura. Uma vez escolhida a altura correta e a barra carregada, coloque os braços sob a barra, mantendo os cotovelos elevados e o braço ligeiramente acima, paralelo ao chão. Apoie a barra em cima dos deltóides e cruze os braços enquanto segura a barra para controle total.",
+    "Levante a barra do rack empurrando primeiro com as pernas e ao mesmo tempo endireitando o tronco.",
+    "Afaste-se do rack e posicione as pernas usando uma postura média na largura dos ombros, com os dedos dos pés ligeiramente apontados. Mantenha a cabeça erguida o tempo todo, pois olhar para baixo o desequilibrará e também manterá as costas retas. Esta será sua posição inicial. (Nota: Para os propósitos desta discussão usaremos a postura média descrita acima, que visa o desenvolvimento geral; no entanto, você pode escolher qualquer uma das três posturas descritas na seção sobre posicionamento dos pés).",
+    "Comece a abaixar lentamente a barra dobrando os joelhos enquanto mantém uma postura reta com a cabeça erguida. Continue descendo até tocar o banco com os glúteos. Inspire ao realizar esta parte do movimento. Dica: Se você executou o exercício corretamente, a frente dos joelhos deve formar uma linha reta imaginária com os dedos dos pés perpendicular à frente. Se seus joelhos ultrapassarem essa linha imaginária (se ultrapassarem os dedos dos pés), você estará colocando uma pressão indevida no joelho e o exercício foi executado incorretamente.",
+    "Comece a levantar a barra ao expirar, empurrando o chão principalmente com o calcanhar do pé enquanto estica as pernas novamente e volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

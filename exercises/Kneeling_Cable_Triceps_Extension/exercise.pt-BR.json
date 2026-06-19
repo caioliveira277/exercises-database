@@ -1,0 +1,21 @@
+{
+  "name": "Extensão de tríceps com cabo ajoelhado",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque um banco de lado na frente de uma máquina de polia alta.",
+    "Segure uma barra reta acima da cabeça com as mãos a cerca de 15 centímetros de distância e com as palmas voltadas para baixo.",
+    "Fique de costas para a máquina e ajoelhe-se.",
+    "Coloque a cabeça e a parte de trás dos braços no banco. Os cotovelos devem estar dobrados com os antebraços apontando para a polia alta. Esta será sua posição inicial.",
+    "Mantendo sempre os braços próximos à cabeça com os cotovelos para dentro, pressione a barra para fora em um movimento semicircular até que os cotovelos estejam travados e os braços fiquem paralelos ao chão. Contraia fortemente o tríceps e mantenha esta posição por um segundo. Expire ao realizar esse movimento.",
+    "Retorne lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

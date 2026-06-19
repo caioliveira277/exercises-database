@@ -1,0 +1,20 @@
+{
+  "name": "Aumentos retos no banco inclinado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézios"
+  ],
+  "instructions": [
+    "Coloque uma barra no chão, atrás da cabeceira de um banco inclinado.",
+    "Deite-se no banco de bruços. Com uma pegada pronada, levante a barra do chão, mantendo os braços retos. Deixe a barra pendurada para baixo. Esta será sua posição inicial.",
+    "Para começar, levante a barra na frente da cabeça enquanto mantém os braços estendidos.",
+    "Retorne à posição inicial."
+  ],
+  "category": "força"
+}

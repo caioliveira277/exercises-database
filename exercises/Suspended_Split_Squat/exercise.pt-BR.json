@@ -1,0 +1,24 @@
+{
+  "name": "Agachamento dividido suspenso",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Suspenda as alças de forma que as alças fiquem a 18-30 polegadas do chão.",
+    "De costas para a configuração, coloque o pé traseiro na alça atrás de você. Mantenha a cabeça voltada para frente e o peito para cima, com o joelho levemente flexionado. Esta será sua posição inicial.",
+    "Desça flexionando os joelhos e quadris, abaixando-se até o chão. Mantenha o peso no calcanhar e mantenha a postura durante todo o exercício.",
+    "No final do movimento, inverta o movimento, estendendo-se pelo quadril e joelho para retornar à posição inicial."
+  ],
+  "category": "força"
+}

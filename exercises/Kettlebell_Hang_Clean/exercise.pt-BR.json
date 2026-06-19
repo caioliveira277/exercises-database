@@ -1,0 +1,23 @@
+{
+  "name": "Kettlebell pendurado limpo",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Coloque o kettlebell entre os pés. Para chegar à posição inicial, empurre a bunda para trás e olhe para frente.",
+    "Limpe o kettlebell no ombro. Limpe o kettlebell até os ombros, estendendo-o pelas pernas e quadris enquanto levanta o kettlebell em direção ao ombro. O pulso deve girar enquanto você faz isso.",
+    "Abaixe o kettlebell até uma posição suspensa entre as pernas enquanto mantém os isquiotibiais carregados. Mantenha a cabeça erguida o tempo todo."
+  ],
+  "category": "força"
+}

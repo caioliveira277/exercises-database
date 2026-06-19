@@ -1,0 +1,20 @@
+{
+  "name": "Elevação do deltóide traseiro sentado e curvado",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque alguns halteres olhando para frente em frente a um banco plano.",
+    "Sente-se na ponta do banco com as pernas juntas e os halteres atrás das panturrilhas.",
+    "Dobre a cintura mantendo as costas retas para pegar os halteres. As palmas das mãos devem estar voltadas uma para a outra enquanto você as pega. Esta será sua posição inicial.",
+    "Mantendo o tronco para a frente e parado e os braços ligeiramente dobrados na altura dos cotovelos, levante os halteres para o lado até que ambos os braços fiquem paralelos ao chão. Expire ao levantar os pesos. (Observação: evite balançar o tronco ou trazer os braços para trás em vez de para os lados.)",
+    "Após uma contração de um segundo na parte superior, abaixe lentamente os halteres de volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

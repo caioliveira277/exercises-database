@@ -1,0 +1,21 @@
+{
+  "name": "Alongamento da panturrilha sentado",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Sente-se direito em um colchonete.",
+    "Dobre um joelho e coloque o pé no chão para estabilizar o tronco.",
+    "Endireite a outra perna e flexione o tornozelo.",
+    "Usando uma faixa, uma toalha ou a mão, se puder, puxe os dedos dos pés em sua direção. Segure por 10 a 20 segundos e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

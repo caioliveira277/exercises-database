@@ -1,0 +1,20 @@
+{
+  "name": "Motoristas de automóveis",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Em pé, segure uma barra com as duas mãos nas posições 3 e 9 horas. As palmas das mãos devem estar voltadas uma para a outra e os braços devem estar estendidos à sua frente. Esta será sua posição inicial.",
+    "Inicie o movimento girando a placa o mais para o lado possível. Use o mesmo tipo de movimento que você usaria para virar o volante para o lado.",
+    "Inverta o movimento, virando-o totalmente para o lado oposto.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

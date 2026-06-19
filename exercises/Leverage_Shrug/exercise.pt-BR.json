@@ -1,0 +1,21 @@
+{
+  "name": "Aproveite o encolher de ombros",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Carregue os pinos com um peso apropriado. Posicione-se diretamente entre as alças.",
+    "Segure as alças superiores com uma pegada confortável e abaixe os quadris enquanto respira. Olhe para frente com a cabeça e mantenha o peito erguido.",
+    "Dirija pelo chão com os calcanhares, estendendo os quadris e os joelhos enquanto fica em pé. Mantenha os braços retos durante todo o movimento, terminando com os ombros para trás. Esta será sua posição inicial.",
+    "Aumente o peso encolhendo os ombros em direção às orelhas, movendo-se para cima e para baixo.",
+    "Faça uma pausa no início do movimento e retorne o peso à posição inicial."
+  ],
+  "category": "força"
+}

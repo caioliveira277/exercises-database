@@ -1,0 +1,24 @@
+{
+  "name": "Prensa de chão com um braço",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se sobre uma superfície plana com as costas apoiadas no chão ou em um colchonete. Certifique-se de que seus joelhos estejam dobrados.",
+    "Peça a um parceiro que lhe entregue a barra por um lado. Ao começar, seu braço deve estar totalmente estendido, semelhante à posição inicial de um supino com barra. Porém, desta vez sua pegada será neutra (palmas voltadas para o tronco).",
+    "Certifique-se de que a mão que você não está usando para levantar o peso esteja colocada ao seu lado.",
+    "Comece o exercício abaixando a barra até que o cotovelo toque o chão. Certifique-se de inspirar, pois esta é a parte excêntrica (parte inferior do exercício).",
+    "Em seguida, comece a levantar a barra de volta à posição inicial original. Lembre-se de expirar durante o concêntrico (parte de elevação do exercício).",
+    "Repita até ter realizado as repetições recomendadas.",
+    "Troque de braço e repita o movimento."
+  ],
+  "category": "força"
+}

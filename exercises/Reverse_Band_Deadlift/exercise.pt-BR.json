@@ -1,0 +1,26 @@
+{
+  "name": "Deadlift com banda reversa",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Coloque a barra em um rack de energia. Prenda as faixas na parte superior do rack, usando pinos de faixas ou a própria estrutura. Prenda a outra extremidade das faixas na barra.",
+    "Aproxime-se da barra de forma que ela fique centralizada sobre seus pés. Seus pés devem estar separados na largura do quadril. Dobre o quadril para segurar a barra na largura dos ombros, permitindo que as omoplatas se projetem. Normalmente, você usaria uma pegada overhand ou uma pegada over/under em séries mais pesadas.",
+    "Com os pés e a pegada firme, respire fundo, abaixe os quadris e dobre os joelhos até que as canelas entrem em contato com a barra. Olhe para frente com a cabeça, mantenha o peito erguido e as costas arqueadas e comece a dirigir pelos calcanhares para mover o peso para cima.",
+    "Depois que a barra passar pelos joelhos, puxe-a agressivamente para trás, unindo as omoplatas enquanto empurra os quadris para frente na barra.",
+    "Abaixe a barra dobrando os quadris e guiando-a até o chão."
+  ],
+  "category": "levantamento de peso básico"
+}

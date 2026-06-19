@@ -1,0 +1,16 @@
+{
+  "name": "Prancha",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique de bruços no chão, apoiando o peso nos dedos dos pés e nos antebraços. Seus braços estão dobrados e diretamente abaixo dos ombros.",
+    "Mantenha o corpo reto o tempo todo e mantenha essa posição o maior tempo possível. Para aumentar a dificuldade, um braço ou perna pode ser levantado."
+  ],
+  "category": "força"
+}

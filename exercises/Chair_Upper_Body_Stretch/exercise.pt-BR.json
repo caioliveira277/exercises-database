@@ -1,0 +1,19 @@
+{
+  "name": "Alongamento da parte superior do corpo da cadeira",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "peitoral"
+  ],
+  "instructions": [
+    "Sente-se na beirada de uma cadeira, segurando as costas dela.",
+    "Estique os braços, mantendo as costas retas, e puxe a parte superior do corpo para a frente para sentir um alongamento. Segure por 20-30 segundos."
+  ],
+  "category": "alongamento"
+}

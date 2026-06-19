@@ -1,0 +1,20 @@
+{
+  "name": "Remada vertical com barra",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézios"
+  ],
+  "instructions": [
+    "Segure uma barra com uma pegada pronada ligeiramente menor que a largura dos ombros. A barra deve ficar apoiada na parte superior das coxas, com os braços estendidos e uma leve flexão nos cotovelos. Suas costas também devem estar retas. Esta será sua posição inicial.",
+    "Agora expire e use as laterais dos ombros para levantar a barra, levantando os cotovelos para cima e para o lado. Mantenha a barra próxima ao corpo enquanto a levanta. Continue levantando a barra até quase tocar seu queixo. Dica: Seus cotovelos devem conduzir o movimento e devem estar sempre mais altos que os antebraços. Lembre-se de manter o tronco parado e fazer uma pausa por um segundo no início do movimento.",
+    "Abaixe a barra lentamente até a posição inicial. Inspire ao realizar esta parte do movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

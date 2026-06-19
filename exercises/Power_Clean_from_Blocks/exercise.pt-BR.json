@@ -1,0 +1,21 @@
+{
+  "name": "Limpeza energética de blocos",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "quadríceps"
+  ],
+  "instructions": [
+    "Com uma barra em caixas da altura desejada, segure na parte externa das pernas. Abaixe os quadris com o peso concentrado nos calcanhares, costas retas, cabeça voltada para frente, peito para cima, com os ombros bem na frente da barra. Esta será sua posição inicial.",
+    "Comece a primeira puxada passando pelos calcanhares, estendendo os joelhos. O ângulo das costas deve permanecer o mesmo e os braços devem permanecer retos. À medida que a barra se aproxima da posição do meio da coxa, comece a estender-se pelos quadris.",
+    "Em um movimento de salto, acelere estendendo os quadris, joelhos e tornozelos, usando a velocidade para mover a barra para cima. Não deve haver necessidade de puxar ativamente os braços para acelerar o peso. Ao final da segunda puxada, o corpo deve estar totalmente estendido, ligeiramente inclinado para trás, com os braços ainda estendidos.",
+    "Quando a extensão total for alcançada, faça a transição para a terceira puxada encolhendo agressivamente os ombros e flexionando os braços com os cotovelos para cima e para fora. No pico da extensão, puxe-se sob a barra o suficiente para que ela possa ser apoiada nos ombros, girando os cotovelos sob a barra ao fazer isso. A barra deve ser apoiada nos ombros estendidos, tocando levemente a garganta com as mãos relaxadas.",
+    "Recupere-se imediatamente dirigindo pelos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Continue até ficar em pé e complete a repetição devolvendo o peso às caixas."
+  ],
+  "category": "levantamento de peso olímpico"
+}

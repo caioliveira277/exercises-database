@@ -1,0 +1,21 @@
+{
+  "name": "Flexões de mão",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "De costas para a parede, dobre a cintura e coloque as duas mãos no chão na largura dos ombros.",
+    "Jogue-se contra a parede com os braços esticados. Seu corpo deve estar de cabeça para baixo com os braços e as pernas totalmente estendidos. Mantenha todo o seu corpo o mais reto possível. Dica: Se estiver fazendo isso pela primeira vez, peça ajuda a um observador. Além disso, certifique-se de ficar de frente para a parede com a cabeça, em vez de olhar para baixo.",
+    "Abaixe-se lentamente até o chão enquanto inspira até que sua cabeça quase toque o chão. Dica: É de extrema importância descer devagar para evitar ferimentos na cabeça.",
+    "Empurre-se para cima lentamente enquanto expira até que os cotovelos estejam quase travados.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

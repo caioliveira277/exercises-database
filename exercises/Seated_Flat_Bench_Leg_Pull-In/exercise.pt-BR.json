@@ -1,0 +1,18 @@
+{
+  "name": "Pull-in de perna de banco plano sentado",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco com as pernas esticadas à sua frente, ligeiramente abaixo da paralela, e os braços apoiados nas laterais do banco. Seu tronco deve estar inclinado para trás em um ângulo de 45 graus em relação ao banco. Esta será sua posição inicial.",
+    "Traga os joelhos em sua direção enquanto aproxima o tronco deles ao mesmo tempo. Expire enquanto executa esse movimento.",
+    "Após uma segunda pausa, volte à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

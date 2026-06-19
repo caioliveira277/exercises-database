@@ -1,0 +1,18 @@
+{
+  "name": "Extensão de tríceps suspensa em trenó",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda alças duplas a um trenó usando uma corrente ou corda. Carregue o trenó com uma carga apropriada.",
+    "De costas para o trenó, afaste-se até que haja tensão na linha. Levante as mãos acima da cabeça, mantendo-as juntas, com as palmas voltadas uma para a outra. Seus cotovelos devem estar apontados para cima com os cotovelos flexionados. Esta será sua posição inicial.",
+    "Estenda através do cotovelo para esticar o braço. Certifique-se de que seu braço permaneça em posição para isolar o tríceps.",
+    "Após a extensão total, dê um passo à frente para eliminar a folga da linha. Você pode manter os pés escalonados para obter mais estabilidade."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Aproveite a Linha Iso",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Coloque um peso adequado nos pinos e ajuste a altura do assento para que as alças fiquem na altura do peito. Segure as alças com uma pegada neutra ou pronada. Esta será sua posição inicial.",
+    "Puxe as alças em direção ao tronco, retraindo as omoplatas enquanto flexiona o cotovelo.",
+    "Faça uma pausa na parte inferior do movimento e, em seguida, retorne lentamente as alças à posição inicial. Para repetições múltiplas, evite retornar completamente o peso às paradas para manter a tensão nos músculos que estão sendo trabalhados."
+  ],
+  "category": "força"
+}

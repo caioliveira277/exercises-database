@@ -1,0 +1,19 @@
+{
+  "name": "Lúcio Pendurado",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pendure-se em uma barra de apoio com as pernas e os pés juntos, usando uma pegada pronada (palmas voltadas para você) que seja um pouco mais larga que a largura dos ombros. Dica: Você pode usar bandagens para os pulsos para facilitar a fixação na barra.",
+    "Agora dobre os joelhos em um ângulo de 90 graus e traga a parte superior das pernas para a frente, de modo que as panturrilhas fiquem perpendiculares ao chão, enquanto as coxas permanecem paralelas a ele. Esta será sua posição inicial.",
+    "Puxe as pernas para cima enquanto expira até quase tocar as canelas na barra acima de você. Dica: Tente esticar as pernas o máximo possível enquanto estiver no topo.",
+    "Abaixe as pernas o mais lentamente possível até chegar à posição inicial. Dica: Evite balançar e usar impulso o tempo todo.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Extensão de tríceps com halteres em pé",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, levante-se com um haltere segurado pelas duas mãos. Seus pés devem estar separados um do outro na largura dos ombros. Lentamente, use as duas mãos para agarrar o haltere e levante-o sobre a cabeça até que ambos os braços estejam totalmente estendidos.",
+    "A resistência deve estar apoiada nas palmas das mãos, com os polegares ao redor. A palma das mãos deve estar voltada para o teto. Esta será sua posição inicial.",
+    "Mantendo os braços próximos à cabeça, com os cotovelos voltados para dentro e perpendiculares ao chão, abaixe a resistência em um movimento semicircular atrás da cabeça até que os antebraços toquem o bíceps. Dica: Os braços devem permanecer parados e apenas os antebraços devem se mover. Inspire enquanto executa esta etapa.",
+    "Volte à posição inicial usando o tríceps para levantar o haltere. Expire enquanto executa esta etapa.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

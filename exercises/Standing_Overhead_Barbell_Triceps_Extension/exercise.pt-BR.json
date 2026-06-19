@@ -1,0 +1,21 @@
+{
+  "name": "Extensão de tríceps com barra suspensa em pé",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para começar, levante-se segurando uma barra ou barra e-z usando uma pegada pronada (palmas voltadas para frente) com as mãos mais próximas uma da outra do que a largura dos ombros. Seus pés devem estar separados na largura dos ombros.",
+    "Agora eleve a barra acima da cabeça até que os braços estejam totalmente estendidos. Mantenha os cotovelos para dentro. Esta será a sua posição inicial.",
+    "Mantendo os braços próximos à cabeça e os cotovelos perpendiculares ao chão, abaixe a resistência em um movimento semicircular atrás da cabeça até que os antebraços toquem o bíceps. Dica: Os braços devem permanecer parados e apenas os antebraços devem se mover. Inspire enquanto executa esta etapa.",
+    "Volte à posição inicial usando o tríceps para levantar a barra. Expire enquanto executa esta etapa.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

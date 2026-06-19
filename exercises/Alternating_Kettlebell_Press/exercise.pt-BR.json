@@ -1,0 +1,19 @@
+{
+  "name": "Prensa Kettlebell Alternada",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe dois kettlebells nos ombros. Limpe os kettlebells até os ombros, estendendo-os pelas pernas e quadris enquanto puxa os kettlebells em direção aos ombros. Gire os pulsos enquanto faz isso.",
+    "Pressione um diretamente acima da cabeça, estendendo-o pelo cotovelo, girando-o de forma que a palma da mão fique voltada para a frente enquanto segura o outro kettlebell parado.",
+    "Abaixe o kettlebell pressionado até a posição inicial e pressione imediatamente com o outro braço."
+  ],
+  "category": "força"
+}

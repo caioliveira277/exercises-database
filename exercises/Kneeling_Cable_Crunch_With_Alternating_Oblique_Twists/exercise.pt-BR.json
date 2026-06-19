@@ -1,0 +1,23 @@
+{
+  "name": "Trituração de cabo ajoelhado com torções oblíquas alternadas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Conecte uma corda a um cabo de polia alta e posicione um tapete no chão em frente a ele.",
+    "Segure a corda com as duas mãos e ajoelhe-se a aproximadamente meio metro da torre.",
+    "Posicione a corda atrás da cabeça com as mãos perto das orelhas.",
+    "Mantenha as mãos no mesmo lugar, contraia os abdominais e puxe a corda para baixo em um movimento de esmagamento até que os cotovelos alcancem os joelhos.",
+    "Faça uma breve pausa na parte inferior e suba de forma lenta e controlada até chegar à posição inicial.",
+    "Repita o mesmo movimento descendente até chegar à metade do caminho, momento em que começará a girar um dos cotovelos em direção ao joelho oposto.",
+    "Novamente, faça uma breve pausa na parte inferior e suba de maneira lenta e controlada até chegar à posição inicial.",
+    "Repita o mesmo movimento de antes, mas alterne o outro cotovelo com o joelho oposto.",
+    "Continue esta série de movimentos até o fracasso."
+  ],
+  "category": "força"
+}

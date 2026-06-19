@@ -1,0 +1,19 @@
+{
+  "name": "Alongamento da panturrilha gastrocnêmio em pé",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Coloque o calcanhar direito em um degrau com o joelho estendido e incline-se para frente para agarrar o dedo do pé direito com a mão direita. O joelho esquerdo deve estar ligeiramente flexionado e as costas retas.",
+    "Apoie o peso na perna esquerda e coloque a mão esquerda na coxa esquerda.",
+    "Puxe os dedos do pé direito em direção ao joelho até sentir um alongamento na panturrilha."
+  ],
+  "category": "alongamento"
+}

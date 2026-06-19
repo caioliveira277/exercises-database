@@ -1,0 +1,20 @@
+{
+  "name": "Resistência do pescoço do arnês de cabeça sentado",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque uma tira de pescoço no chão, na extremidade de um banco plano. Depois de selecionar os pesos, sente-se na extremidade do banco plano com os pés mais largos que a largura dos ombros. Os dedos dos pés devem ser apontados.",
+    "Mova lentamente o tronco para a frente até ficar quase paralelo ao chão. Usando as duas mãos, posicione com segurança a alça do pescoço em volta da cabeça. Dica: Certifique-se de que os pesos ainda estejam no chão para evitar qualquer tensão no pescoço. Agora segure o peso com as duas mãos enquanto eleva o tronco para trás até que fique quase perpendicular ao chão. Observação: sua cabeça e tronco precisam estar ligeiramente inclinados para a frente para realizar este exercício.",
+    "Agora coloque as duas mãos em cima dos joelhos. Esta é a posição inicial.",
+    "Abaixe lentamente o pescoço até que o queixo toque a parte superior do peito enquanto inspira.",
+    "Ao expirar, traga o pescoço de volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

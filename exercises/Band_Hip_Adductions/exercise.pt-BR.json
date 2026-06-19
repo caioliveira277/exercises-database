@@ -1,0 +1,20 @@
+{
+  "name": "Banda de aduções de quadril",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ancore uma faixa em torno de um poste sólido ou outro objeto.",
+    "Fique com o lado esquerdo voltado para o poste e passe o pé direito pela faixa, passando-o ao redor do tornozelo.",
+    "Fique em pé e segure-se no poste, se necessário. Esta será sua posição inicial.",
+    "Mantendo o joelho reto, levante as pernas direitas para o lado o máximo que puder.",
+    "Retorne à posição inicial e repita a contagem de repetições desejada.",
+    "Troque de lado."
+  ],
+  "category": "força"
+}

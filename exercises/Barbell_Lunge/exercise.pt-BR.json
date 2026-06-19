@@ -1,0 +1,23 @@
+{
+  "name": "Estocada com barra",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Este exercício é melhor executado dentro de um rack de agachamento por motivos de segurança. Para começar, primeiro coloque a barra em um rack logo abaixo do nível dos ombros. Depois que a altura correta for escolhida e a barra carregada, passe por baixo da barra e coloque a parte de trás dos ombros (um pouco abaixo do pescoço) sobre ela.",
+    "Segure-se na barra com os dois braços de cada lado e levante-a do rack empurrando primeiro com as pernas e ao mesmo tempo endireitando o tronco.",
+    "Afaste-se do suporte e dê um passo à frente com a perna direita e agache-se sobre os quadris, mantendo o tronco ereto e o equilíbrio. Inspire ao descer. Observação: não permita que o joelho ultrapasse os dedos dos pés ao descer, pois isso causará estresse excessivo na articulação do joelho. li>",
+    "Usando principalmente o calcanhar do pé, empurre para cima e volte à posição inicial enquanto expira.",
+    "Repita o movimento pela quantidade recomendada de repetições e depois execute com a perna esquerda."
+  ],
+  "category": "força"
+}

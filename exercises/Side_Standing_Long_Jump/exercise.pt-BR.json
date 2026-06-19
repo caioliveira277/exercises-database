@@ -1,0 +1,21 @@
+{
+  "name": "Salto em distância lateral",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece em pé com os pés afastados na largura do quadril em uma postura atlética. A cabeça e o peito devem estar levantados, os joelhos e os quadris ligeiramente flexionados. Esta será sua posição inicial.",
+    "Inclinando-se para a direita, estenda os quadris, joelhos e tornozelos para pular no ar. Bloqueie com os braços para liderar o movimento, saltando o mais para a direita que puder.",
+    "Aterrisse na mesma direção com os pés afastados na largura do quadril, absorvendo o impacto pela parte inferior do corpo."
+  ],
+  "category": "pliometria"
+}

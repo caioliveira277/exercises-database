@@ -1,0 +1,20 @@
+{
+  "name": "Recusar crise oblíqua",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda as pernas no final do banco de declínio e deite-se lentamente no banco.",
+    "Levante a parte superior do corpo do banco até que o tronco esteja a cerca de 35-45 graus, se medido a partir do chão.",
+    "Coloque uma mão ao lado da cabeça e a outra na coxa. Esta será sua posição inicial.",
+    "Levante a parte superior do corpo lentamente a partir da posição inicial enquanto vira o tronco para a esquerda. Continue contraindo enquanto expira até que o cotovelo direito toque o joelho esquerdo. Mantenha esta posição contraída por um segundo. Dica: concentre-se em manter os abdominais contraídos e os movimentos lentos e controlados.",
+    "Abaixe o corpo lentamente até a posição inicial enquanto inspira.",
+    "Depois de completar uma série à direita com a quantidade recomendada de repetições, mude para o lado esquerdo. Dica: Concentre-se em realmente torcer o tronco e sentir a contração quando estiver na posição levantada."
+  ],
+  "category": "força"
+}

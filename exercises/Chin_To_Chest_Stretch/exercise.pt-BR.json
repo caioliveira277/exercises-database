@@ -1,0 +1,18 @@
+{
+  "name": "Alongamento do queixo ao peito",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [
+    "trapézios"
+  ],
+  "instructions": [
+    "Sente-se no chão.",
+    "Coloque as duas mãos na parte de trás da cabeça, os dedos entrelaçados, os polegares apontando para baixo e os cotovelos apontando para a frente. Puxe lentamente a cabeça até o peito. Segure por 20-30 segundos."
+  ],
+  "category": "alongamento"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Leg Press Máquina Smith",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Posicione uma barra da máquina Smith a alguns metros do chão. Certifique-se de que ele esteja apoiado nas seguranças. Depois de carregar a barra com um peso apropriado, deite-se embaixo da barra. Coloque o meio dos pés na barra, dobrando os joelhos contra o peito. Esta será sua posição inicial.",
+    "Comece o movimento passando pelos pés para mover a barra para cima, estendendo os quadris e joelhos. Não trave os joelhos.",
+    "No início do movimento, faça uma breve pausa antes de retornar à posição inicial."
+  ],
+  "category": "força"
+}

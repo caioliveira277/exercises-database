@@ -1,0 +1,20 @@
+{
+  "name": "Salto de foguete",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece em uma postura relaxada, com os pés afastados na largura dos ombros e mantenha os braços próximos ao corpo.",
+    "Para iniciar o movimento, agache-se até a metade e exploda de volta o mais alto possível.",
+    "Estenda totalmente todo o corpo, alcançando a cabeça o máximo possível. Ao pousar, absorva o impacto pelas pernas."
+  ],
+  "category": "pliometria"
+}

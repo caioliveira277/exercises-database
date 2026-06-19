@@ -1,0 +1,16 @@
+{
+  "name": "Flexor intermediário do quadril e alongamento quádruplo",
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de bruços no chão, com uma corda, cinto ou faixa enrolada em um pé.",
+    "Flexione o joelho e estenda o quadril da perna a ser esticada, usando as duas mãos para puxar o cinto. O joelho e o quadril devem sair do chão, criando tensão nos flexores do quadril e no quadríceps. Mantenha o alongamento por 10 a 20 segundos e repita com a outra perna."
+  ],
+  "category": "alongamento"
+}

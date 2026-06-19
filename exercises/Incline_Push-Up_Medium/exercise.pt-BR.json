@@ -1,0 +1,23 @@
+{
+  "name": "Flexão inclinada média",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Fique de frente para uma barra da máquina Smith ou uma plataforma elevada e robusta a uma altura apropriada.",
+    "Coloque as mãos na barra, com as mãos afastadas na largura dos ombros.",
+    "Posicione os pés atrás da barra com os braços e o corpo retos. Esta será sua posição inicial.",
+    "Mantendo o corpo reto, abaixe o peito até a barra dobrando os braços.",
+    "Retorne à posição inicial estendendo os cotovelos e empurrando-se para cima."
+  ],
+  "category": "força"
+}

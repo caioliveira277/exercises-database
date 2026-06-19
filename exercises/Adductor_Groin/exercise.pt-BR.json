@@ -1,0 +1,18 @@
+{
+  "name": "Adutor/virilha",
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com os pés levantados em direção ao teto.",
+    "Peça ao seu parceiro que segure seus pés ou tornozelos. Abduza as pernas o máximo que puder. Esta será sua posição inicial.",
+    "Tente apertar as pernas por 10 segundos ou mais, enquanto seu parceiro o impede de fazer isso.",
+    "Agora, relaxe os músculos das pernas enquanto seu parceiro afasta os pés, alongando-os o máximo que for confortável para você. Certifique-se de informar ao seu parceiro quando o alongamento for adequado para evitar alongamento excessivo ou lesões."
+  ],
+  "category": "alongamento"
+}

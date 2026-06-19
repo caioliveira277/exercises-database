@@ -1,0 +1,24 @@
+{
+  "name": "Fileiras de polias de cabo de um braço sentadas",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "trapézios"
+  ],
+  "instructions": [
+    "Para chegar à posição inicial, primeiro sente-se na máquina e coloque os pés na plataforma frontal ou na barra transversal fornecida, certificando-se de que os joelhos estejam ligeiramente dobrados e não travados.",
+    "Incline-se enquanto mantém o alinhamento natural das costas e segure o acessório de alça única com o braço esquerdo, segurando com as palmas para baixo.",
+    "Com o braço estendido, puxe para trás até que o tronco fique em um ângulo de 90 graus em relação às pernas. Suas costas devem estar ligeiramente arqueadas e seu peito deve estar saliente. Você deve sentir um bom alongamento no dorso enquanto segura a barra à sua frente. O braço direito pode ser mantido pela cintura. Esta é a posição inicial do exercício.",
+    "Mantendo o tronco parado, puxe as alças em direção ao tronco enquanto mantém os braços próximos a ele enquanto gira o pulso, de modo que quando sua mão estiver perto dos abdominais ela esteja em uma posição neutra (palmas voltadas para o tronco). Expire enquanto executa esse movimento. Nesse ponto, você deve contrair os músculos das costas com força.",
+    "Mantenha a contração por um segundo e volte lentamente à posição original enquanto inspira. Dica: lembre-se de girar o pulso ao voltar à posição inicial, de modo que as palmas fiquem voltadas para baixo novamente.",
+    "Repita pela quantidade recomendada de repetições e depois execute o mesmo movimento com a mão direita."
+  ],
+  "category": "força"
+}

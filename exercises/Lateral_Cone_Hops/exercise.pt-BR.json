@@ -1,0 +1,24 @@
+{
+  "name": "Lúpulo Cone Lateral",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Posicione vários cones em uma fileira com vários metros de distância.",
+    "Fique próximo ao final dos cones, voltado para 90 graus em relação à direção de deslocamento. Esta será sua posição inicial.",
+    "Comece o salto mergulhando os joelhos para iniciar um reflexo de alongamento e imediatamente inverta a direção para sair do chão, saltando para cima e para os lados sobre o cone.",
+    "Use as pernas para absorver o impacto na aterrissagem e recupere-se para o próximo salto, continuando pela fileira de cones."
+  ],
+  "category": "pliometria"
+}

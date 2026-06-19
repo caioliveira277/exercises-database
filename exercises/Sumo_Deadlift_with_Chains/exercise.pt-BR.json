@@ -1,0 +1,28 @@
+{
+  "name": "Deadlift de sumô com correntes",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "dorsal médio",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Você pode prender as correntes nas mangas da barra ou simplesmente pendurar o meio sobre a barra para que haja um aumento maior de peso à medida que você levanta. Tente manter as pontas das correntes longe das placas para não bater nelas ao abaixar o peso.",
+    "Comece com uma barra colocada no chão. Aproxime-se da barra de forma que ela cruze o meio dos pés. Os pés devem ser bem afastados, próximos às golas. Dobre os quadris para segurar a barra. Os braços devem ficar diretamente abaixo dos ombros, dentro das pernas, e você pode usar uma pegada pronada, uma pegada mista ou uma pegada em gancho. Relaxe os ombros, o que na verdade alonga os braços.",
+    "Respire e abaixe os quadris, olhando para frente com a cabeça e o peito para cima. Dirija pelo chão, afastando os pés, com o peso na parte de trás dos pés. Estenda-se pelos quadris e joelhos.",
+    "À medida que a barra passa pelos joelhos, incline-se para trás e empurre os quadris contra a barra, unindo as omoplatas.",
+    "Retorne o peso ao chão dobrando os quadris e controlando o peso na descida."
+  ],
+  "category": "levantamento de peso básico"
+}

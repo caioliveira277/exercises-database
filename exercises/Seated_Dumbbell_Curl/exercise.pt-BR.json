@@ -1,0 +1,19 @@
+{
+  "name": "Curvatura com halteres sentado",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco plano com um haltere em cada mão apoiado no comprimento dos braços. Os cotovelos devem estar próximos ao tronco.",
+    "Gire as palmas das mãos para que fiquem voltadas para o tronco. Esta será sua posição inicial.",
+    "Enquanto mantém o braço parado, enrole os pesos e comece a torcer os pulsos assim que os halteres passarem pelas coxas, de modo que as palmas das mãos fiquem voltadas para a frente no final do movimento. Certifique-se de contrair o bíceps ao expirar e de que apenas os antebraços se movam. Continue o movimento até que os bíceps estejam totalmente contraídos e os halteres estejam na altura dos ombros. Mantenha a posição contraída por um segundo enquanto aperta o bíceps.",
+    "Lentamente, comece a trazer os halteres de volta à posição inicial enquanto inspira e gira os pulsos de volta para uma pegada neutra.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Arrebatar levantamento terra",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "O snatch deadlift fortalece a primeira puxada do snatch. Comece com uma pegada ampla com a barra colocada na plataforma. Os pés devem ficar diretamente abaixo dos quadris, com os pés virados para fora. Agache-se na barra, mantendo as costas em extensão absoluta com a cabeça voltada para frente.",
+    "Inicie o movimento passando pelos calcanhares, elevando os quadris. O ângulo das costas deve permanecer o mesmo até que a barra passe pelos joelhos.",
+    "Nesse ponto, conduza os quadris pela barra enquanto se deita. Retorne a barra para a plataforma invertendo o movimento."
+  ],
+  "category": "levantamento de peso olímpico"
+}

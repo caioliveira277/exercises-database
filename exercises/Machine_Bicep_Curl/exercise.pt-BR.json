@@ -1,0 +1,18 @@
+{
+  "name": "Onda de bíceps máquina",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste o assento na altura apropriada e faça a seleção do peso. Coloque os braços contra as almofadas e segure as alças. Esta será sua posição inicial.",
+    "Execute o movimento flexionando o cotovelo, puxando o antebraço em direção ao braço.",
+    "Faça uma pausa no início do movimento e retorne lentamente o peso à posição inicial.",
+    "Evite retornar o peso até as paradas até que a série esteja completa para manter a tensão nos músculos que estão sendo trabalhados."
+  ],
+  "category": "força"
+}

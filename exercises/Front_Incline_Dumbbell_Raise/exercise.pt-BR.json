@@ -1,0 +1,19 @@
+{
+  "name": "Levantamento de haltere inclinado frontal",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco inclinado com a inclinação definida entre 30 e 60 graus, enquanto segura um haltere em cada mão. Dica: você pode alterar o ângulo para atingir o músculo de maneira um pouco diferente a cada vez.",
+    "Estenda os braços esticados à sua frente e coloque as palmas das mãos voltadas para baixo, com os halteres levantados cerca de 2,5 cm acima das coxas. Esta será sua posição inicial.",
+    "Levante lentamente os halteres até que fiquem ligeiramente acima dos ombros, mantendo os cotovelos travados. Aperte a parte superior por um segundo e expire durante esta parte do movimento. Dica: Mantenha a cabeça apoiada no banco e as pernas no chão o tempo todo.",
+    "Abaixe os braços de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

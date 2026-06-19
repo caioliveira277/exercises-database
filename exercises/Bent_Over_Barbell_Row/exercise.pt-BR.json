@@ -1,0 +1,22 @@
+{
+  "name": "Remada com barra curvada",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Segurando uma barra com pegada pronada (palmas das mãos voltadas para baixo), dobre levemente os joelhos e leve o tronco para frente, dobrando a cintura, mantendo as costas retas até ficarem quase paralelas ao chão. Dica: certifique-se de manter a cabeça erguida. A barra deve ficar pendurada diretamente à sua frente, enquanto seus braços ficam pendurados perpendicularmente ao chão e ao tronco. Esta é a sua posição inicial.",
+    "Agora, mantendo o tronco parado, expire e levante a barra em sua direção. Mantenha os cotovelos próximos ao corpo e use apenas os antebraços para segurar o peso. Na posição contraída superior, contraia os músculos das costas e segure por uma breve pausa.",
+    "Em seguida, inspire e abaixe lentamente a barra de volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

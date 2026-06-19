@@ -1,0 +1,20 @@
+{
+  "name": "Extensão de tríceps de um braço com cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Com a mão direita, segure uma única alça presa à polia do cabo alto usando uma pegada supinada (por baixo; palmas voltadas para cima). Você deve estar diretamente na frente da pilha de pesos.",
+    "Agora puxe a alça para baixo de modo que o braço e o cotovelo fiquem travados na lateral do corpo. O braço e o antebraço devem formar um ângulo agudo (menos de 90 graus). Você pode manter o outro braço pela cintura e pode ter uma perna à sua frente e a outra atrás para melhor equilíbrio. Esta será sua posição inicial.",
+    "Ao contrair o tríceps, mova a alça única para o lado até que seu braço fique reto. Expire enquanto executa esse movimento. Dica: Apenas os antebraços devem se mover. Seus braços devem permanecer parados o tempo todo.",
+    "Aperte o tríceps e segure por um segundo nesta posição contraída.",
+    "Retorne lentamente a alça à posição inicial.",
+    "Repita pela quantidade recomendada de repetições e depois execute o mesmo movimento com o outro braço."
+  ],
+  "category": "força"
+}

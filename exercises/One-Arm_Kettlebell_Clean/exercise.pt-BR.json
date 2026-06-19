@@ -1,0 +1,22 @@
+{
+  "name": "Kettlebell limpo com um braço",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre os pés. Ao se abaixar para pegar o kettlebell, empurre a bunda para trás e mantenha os olhos voltados para frente.",
+    "Limpe o kettlebell até os ombros, estendendo-o pelas pernas e quadris enquanto levanta o kettlebell em direção ao ombro. O pulso deve girar enquanto você faz isso.",
+    "Retorne o peso à posição inicial."
+  ],
+  "category": "força"
+}

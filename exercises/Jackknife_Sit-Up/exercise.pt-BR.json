@@ -1,0 +1,18 @@
+{
+  "name": "Abdominais Jackknife",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão (ou colchonete) de costas, com os braços estendidos para trás, atrás da cabeça, e as pernas estendidas também. Esta será sua posição inicial.",
+    "Ao expirar, dobre a cintura enquanto levanta simultaneamente as pernas e os braços para se encontrarem em uma posição de canivete. Dica: As pernas devem estar estendidas e levantadas em um ângulo de aproximadamente 35-45 graus do chão e os braços devem estar estendidos e paralelos às pernas. A parte superior do tronco deve estar fora do chão.",
+    "Ao inspirar, abaixe os braços e as pernas de volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

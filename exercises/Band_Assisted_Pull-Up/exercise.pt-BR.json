@@ -1,0 +1,22 @@
+{
+  "name": "Pull-up assistido por banda",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "antebraços",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Estrangule a faixa ao redor do centro da barra pullup. Você pode usar faixas diferentes para fornecer vários níveis de assistência.",
+    "Puxe a ponta da faixa para baixo e coloque um joelho dobrado no laço, garantindo que não escorregue. Segure a barra de médio a largo. Esta será sua posição inicial.",
+    "Puxe-se para cima contraindo os dorsais enquanto flexiona o cotovelo. O cotovelo deve ser direcionado para o seu lado. Puxe para a frente, tentando passar o queixo por cima da barra. Evite movimentos de balanço ou solavancos.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "força"
+}

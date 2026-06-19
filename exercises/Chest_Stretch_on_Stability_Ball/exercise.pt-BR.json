@@ -1,0 +1,17 @@
+{
+  "name": "Alongamento do peito na bola de estabilidade",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique de joelhos ao lado de uma bola de exercícios.",
+    "Coloque os cotovelos em cima da bola, mantendo o braço estendido ao lado do corpo. Esta será sua posição inicial.",
+    "Abaixe o tronco em direção ao chão, mantendo o cotovelo em cima da bola. Mantenha o alongamento por 20 a 30 segundos e repita com o outro braço."
+  ],
+  "category": "alongamento"
+}

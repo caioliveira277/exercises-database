@@ -1,0 +1,20 @@
+{
+  "name": "Curvatura do pulso com halteres com um braço e palmas para baixo",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco plano com um haltere na mão direita.",
+    "Coloque os pés apoiados no chão, a uma distância um pouco maior que a largura dos ombros.",
+    "Incline-se para a frente e coloque o antebraço direito em cima da coxa direita com a palma da mão voltada para baixo. Dica: certifique-se de que a parte de trás do pulso fique sobre os joelhos. Esta será sua posição inicial.",
+    "Abaixe o haltere o máximo possível enquanto segura firmemente o haltere. Inspire enquanto executa esse movimento.",
+    "Agora enrole o haltere o mais alto possível enquanto contrai os antebraços e expira. Mantenha a contração por um segundo antes de abaixar novamente. Dica: O único movimento deve acontecer no pulso.",
+    "Execute a quantidade recomendada de repetições, troque de braço e repita o movimento."
+  ],
+  "category": "força"
+}

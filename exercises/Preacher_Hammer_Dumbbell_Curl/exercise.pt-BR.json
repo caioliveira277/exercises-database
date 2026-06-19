@@ -1,0 +1,20 @@
+{
+  "name": "Curvatura com halteres martelo pregador",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Coloque a parte superior de ambos os braços em cima do banco do pregador enquanto segura um haltere em cada mão com as palmas voltadas uma para a outra (pega neutra).",
+    "Ao inspirar, abaixe lentamente os halteres até que o braço esteja estendido e o bíceps totalmente esticado.",
+    "Ao expirar, use o bíceps para enrolar o peso até que o bíceps esteja totalmente contraído e os halteres estejam na altura dos ombros.",
+    "Aperte o bíceps com força por um segundo na posição contraída e repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

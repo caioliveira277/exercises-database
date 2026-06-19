@@ -1,0 +1,19 @@
+{
+  "name": "Braquial-SMR",
+  "aliases": [
+    "Liberação Miofascial Auto Braquial"
+  ],
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de lado, com o braço apoiado no rolo de espuma. O braço deve estar mais ou menos alinhado com o corpo, com a parte externa do bíceps pressionada contra o rolo de espuma.",
+    "Levante os quadris do chão, apoiando o peso no braço e nos pés. Segure por 10 a 30 segundos e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

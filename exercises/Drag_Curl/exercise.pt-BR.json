@@ -1,0 +1,20 @@
+{
+  "name": "Arrastar onda",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Pegue uma barra com pegada supinada (palmas voltadas para frente) e aproxime os cotovelos do tronco e das costas. Esta será sua posição inicial.",
+    "Ao expirar, enrole a barra para cima, mantendo os cotovelos voltados para trás enquanto \"arrasta\" a barra para cima, mantendo-a em contato com o tronco. Dica: como você pode ver, você não manterá os cotovelos presos ao lado do corpo, mas sim os trará de volta. Além disso, não levante os ombros.",
+    "Volte lentamente à posição inicial enquanto mantém a barra em contato com o tronco o tempo todo.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

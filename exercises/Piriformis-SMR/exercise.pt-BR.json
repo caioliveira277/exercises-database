@@ -1,0 +1,19 @@
+{
+  "name": "Piriforme-SMR",
+  "aliases": [
+    "Liberação Miofascial Auto Piriforme"
+  ],
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se com as nádegas em cima de um rolo de espuma. Dobre os joelhos e cruze uma perna de modo que o tornozelo fique sobre o joelho. Esta será sua posição inicial.",
+    "Mude o peso para o lado da perna cruzada, rolando sobre as nádegas até sentir tensão no glúteo superior. Você pode ajudar no alongamento usando uma mão para puxar o joelho dobrado em direção ao peito. Mantenha essa posição por 10 a 30 segundos e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

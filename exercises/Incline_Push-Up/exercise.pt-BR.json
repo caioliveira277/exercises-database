@@ -1,0 +1,20 @@
+{
+  "name": "Flexão inclinada",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Fique de frente para um banco ou plataforma elevada e robusta. Coloque as mãos na borda do banco ou plataforma, um pouco mais largas que a largura dos ombros.",
+    "Posicione o antepé atrás do banco ou plataforma com os braços e o corpo retos. Os braços devem estar perpendiculares ao corpo. Mantendo o corpo reto, abaixe o tórax até a borda da caixa ou plataforma dobrando os braços.",
+    "Empurre o corpo para cima até que os braços estejam estendidos. Repita."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Crunches oblíquos - no chão",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece deitando-se sobre o lado direito, com as pernas uma em cima da outra. Certifique-se de que seus joelhos estejam um pouco flexionados.",
+    "Coloque a mão esquerda atrás da cabeça.",
+    "Quando estiver nesta posição definida, comece movendo o cotovelo esquerdo para cima, como faria com uma flexão normal, exceto que desta vez a ênfase principal está nos oblíquos.",
+    "Amasse o mais alto que puder, mantenha a contração por um segundo e depois volte lentamente à posição inicial.",
+    "Lembre-se de inspirar durante a parte excêntrica (abaixamento) do exercício e expirar durante a parte concêntrica (elevação) do exercício."
+  ],
+  "category": "força"
+}

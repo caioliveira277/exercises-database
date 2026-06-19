@@ -1,5 +1,8 @@
 {
   "name": "Iliotibial Tract-SMR",
+  "aliases": [
+    "Iliotibial Tract Self Myofascial Release"
+  ],
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",

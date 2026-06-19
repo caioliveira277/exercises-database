@@ -1,5 +1,8 @@
 {
   "name": "Rhomboids-SMR",
+  "aliases": [
+    "Rhomboids Self Myofascial Release"
+  ],
   "force": "static",
   "level": "intermediate",
   "mechanic": null,

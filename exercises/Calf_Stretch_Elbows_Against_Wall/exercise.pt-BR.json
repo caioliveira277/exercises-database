@@ -1,0 +1,17 @@
+{
+  "name": "Cotovelos elásticos da panturrilha contra a parede",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique de frente para uma parede a alguns metros de distância.",
+    "Encoste-se na parede, colocando o peso nos antebraços.",
+    "Tente manter os calcanhares no chão. Segure por 10-20 segundos. Você pode avançar ou aproximar a parede, tornando-a mais ou menos difícil, respectivamente."
+  ],
+  "category": "alongamento"
+}

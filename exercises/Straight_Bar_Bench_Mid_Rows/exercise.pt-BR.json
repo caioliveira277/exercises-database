@@ -1,0 +1,20 @@
+{
+  "name": "Banco de barra reta, linhas intermediárias",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Coloque uma barra carregada na extremidade de um banco. De pé no banco atrás da barra, faça uma pegada média e pronada. Fique em pé com os quadris para trás e o peito para cima, mantendo a coluna neutra. Esta será sua posição inicial.",
+    "Reme a barra até o tronco, retraindo as omoplatas e flexionando os cotovelos. Use um movimento controlado sem solavancos.",
+    "Após uma breve pausa, retorne lentamente a barra à posição inicial, certificando-se de descer até o fim."
+  ],
+  "category": "força"
+}

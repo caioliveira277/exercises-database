@@ -1,0 +1,21 @@
+{
+  "name": "Abdominais de sapo",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se com as costas apoiadas no chão (ou colchonete) e as pernas estendidas à sua frente.",
+    "Agora dobre os joelhos e coloque a parte externa das coxas no chão (ou tapete) enquanto faz com que as solas dos pés se toquem.",
+    "Agora tente empurrar ambas as solas e trazê-las o mais próximo possível de você enquanto mantém a parte externa das coxas no chão (ou pelo menos quase tocando-as). Dica: Nesta posição suas pernas devem criar um formato de diamante.",
+    "Agora, cruze os braços à sua frente tocando os ombros opostos. Esta será sua posição inicial.",
+    "Ao expirar, alise a parte inferior das costas no chão enquanto enrola o tronco para cima. Dica: será como realizar o primeiro 1/4 do movimento de um abdominais. Segure na posição superior por um segundo.",
+    "Ao inspirar, abaixe lentamente de volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

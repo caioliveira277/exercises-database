@@ -1,5 +1,8 @@
 {
   "name": "Calves-SMR",
+  "aliases": [
+    "Calves Self Myofascial Release"
+  ],
   "force": "static",
   "level": "intermediate",
   "mechanic": null,

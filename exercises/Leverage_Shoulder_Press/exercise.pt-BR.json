@@ -1,0 +1,19 @@
+{
+  "name": "Aproveite a prensa de ombro",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um peso apropriado nos pinos e ajuste o assento à sua altura. As alças devem estar próximas ao topo dos ombros no início do movimento. Seu peito e cabeça devem estar levantados e as alças seguradas com uma pegada pronada. Esta será sua posição inicial.",
+    "Pressione as alças para cima estendendo-as pelo cotovelo.",
+    "Após uma breve pausa no topo, retorne o peso logo acima da posição inicial, mantendo a tensão nos músculos, não retornando o peso às paradas até que a série seja concluída."
+  ],
+  "category": "força"
+}

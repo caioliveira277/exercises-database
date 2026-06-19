@@ -1,0 +1,20 @@
+{
+  "name": "Extensão de tríceps com cabo baixo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Selecione o peso desejado e deite-se com a face para cima no banco de uma máquina de remo sentada que possui uma corda presa a ela. Sua cabeça deve estar apontando para o acessório.",
+    "Agarre a parte externa das pontas da corda com as palmas voltadas uma para a outra (aperto neutro).",
+    "Posicione os cotovelos de forma que fiquem dobrados em um ângulo de 90 graus e os braços fiquem perpendiculares (ângulo de 90 graus) ao tronco. Dica: Mantenha os cotovelos para dentro e certifique-se de que os braços apontem para o teto enquanto os antebraços apontam para a polia acima da cabeça. Esta será sua posição inicial.",
+    "Ao expirar, estenda os antebraços até que fiquem retos e verticais. Os braços e cotovelos permanecem estacionários durante todo o movimento. Apenas os antebraços devem se mover. Contraia o tríceps com força por um segundo.",
+    "Ao inspirar, retorne lentamente à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

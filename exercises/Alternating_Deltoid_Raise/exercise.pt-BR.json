@@ -1,0 +1,19 @@
+{
+  "name": "Elevação alternada do deltóide",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Em pé, segure um par de halteres ao seu lado.",
+    "Mantendo os cotovelos ligeiramente dobrados, levante os pesos diretamente à sua frente até a altura dos ombros, evitando qualquer balanço ou trapaça.",
+    "Devolva os pesos para o seu lado.",
+    "Na próxima repetição, levante os pesos lateralmente, elevando-os para o lado até a altura dos ombros.",
+    "Retorne os pesos à posição inicial e continue alternando para a frente e para os lados."
+  ],
+  "category": "força"
+}

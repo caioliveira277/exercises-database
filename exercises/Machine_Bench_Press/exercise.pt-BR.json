@@ -1,0 +1,24 @@
+{
+  "name": "Supino de máquina",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se na máquina de prensa torácica e selecione o peso.",
+    "Pise na alavanca fornecida pela máquina, pois ela o ajudará a trazer as alças para frente para que você possa agarrá-las e estender totalmente os braços.",
+    "Segure as alças com as palmas para baixo e levante os cotovelos de modo que os braços fiquem paralelos ao chão, nas laterais do tronco. Dica: Seus antebraços estarão apontando para frente enquanto você segura as alças. Depois de trazer as alças para frente e estender os braços, você estará na posição inicial.",
+    "Agora traga as alças de volta para você enquanto inspira.",
+    "Empurre as alças para longe de você enquanto flexiona os peitorais e expira. Segure a contração por um segundo antes de voltar à posição inicial.",
+    "Repita para a quantidade recomendada de repetições.",
+    "Quando terminar, pise na alavanca novamente e lentamente coloque as alças de volta no lugar original."
+  ],
+  "category": "força"
+}

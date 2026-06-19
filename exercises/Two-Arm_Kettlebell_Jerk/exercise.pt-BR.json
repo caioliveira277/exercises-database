@@ -1,0 +1,19 @@
+{
+  "name": "Idiota Kettlebell de dois braços",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe dois kettlebells nos ombros. Limpe os kettlebells até os ombros, estendendo-os pelas pernas e quadris enquanto balança os kettlebells em direção aos ombros. Gire os pulsos ao fazer isso, de modo que as palmas fiquem voltadas para a frente. Agache-se alguns centímetros e inverta o movimento rapidamente, conduzindo os dois kettlebells acima da cabeça. Imediatamente após o empurrão inicial, agache-se novamente e fique sob os kettlebells. Assim que os kettlebells estiverem travados, fique em pé para completar o exercício."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Flexões Oblíquas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão com a parte inferior das costas pressionada contra o chão. Para este exercício, você precisará colocar uma mão ao lado da cabeça e a outra lateralmente no chão.",
+    "Certifique-se de que seus pés estejam elevados e apoiados em uma superfície plana.",
+    "Agora levante o ombro onde sua mão toca sua cabeça.",
+    "Simplesmente eleve o ombro e o corpo até tocar o joelho. Por exemplo, se você tem a mão direita ao lado da cabeça, então você deseja elevar o corpo até que o cotovelo direito toque o joelho esquerdo. A mesma variação pode ser aplicada fazendo o inverso e usando o cotovelo esquerdo para tocar o joelho direito.",
+    "Depois que o joelho tocar o cotovelo, abaixe o corpo até chegar à posição inicial.",
+    "Lembre-se de inspirar durante a parte excêntrica (abaixamento) do exercício e expirar durante a parte concêntrica (ascendente) do exercício.",
+    "Continue alternando desta maneira até que todas as repetições recomendadas para cada lado tenham sido concluídas."
+  ],
+  "category": "força"
+}

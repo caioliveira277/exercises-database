@@ -1,5 +1,8 @@
 {
   "name": "Foot-SMR",
+  "aliases": [
+    "Foot Self Myofascial Release"
+  ],
   "force": "static",
   "level": "intermediate",
   "mechanic": null,

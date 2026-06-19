@@ -1,0 +1,17 @@
+{
+  "name": "Cruzes de Ferro (alongamento)",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de bruços no chão, com os braços estendidos ao lado do corpo e as palmas das mãos pressionadas no chão. Esta será sua posição inicial.",
+    "Para começar, flexione um joelho e passe a perna pela parte de trás do corpo, tentando tocá-la no chão perto da mão oposta.",
+    "Retorne imediatamente a perna à posição inicial e repita rapidamente com a outra perna. Continue alternando por 10-20 repetições."
+  ],
+  "category": "alongamento"
+}

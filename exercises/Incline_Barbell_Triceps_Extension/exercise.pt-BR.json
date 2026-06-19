@@ -1,0 +1,22 @@
+{
+  "name": "Extensão de tríceps com barra inclinada",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Segure uma barra com uma pegada pronada (palmas para baixo) um pouco mais próxima que a largura dos ombros.",
+    "Deite-se em um banco inclinado em qualquer ângulo entre 45-75 graus.",
+    "Traga a barra acima da cabeça com os braços estendidos e os cotovelos para dentro. Os braços devem estar alinhados com o tronco acima da cabeça. Esta será sua posição inicial.",
+    "Agora abaixe a barra em um movimento semicircular atrás da cabeça até que os antebraços toquem o bíceps. Inspire enquanto executa esse movimento. Dica: mantenha os braços parados e próximos à cabeça o tempo todo. Apenas os antebraços devem se mover.",
+    "Retorne à posição inicial enquanto expira e contrai o tríceps. Segure a contração por um segundo.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

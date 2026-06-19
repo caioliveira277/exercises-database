@@ -1,0 +1,21 @@
+{
+  "name": "Torção Russa",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "lombar"
+  ],
+  "instructions": [
+    "Deite-se no chão, colocando os pés sob algo que não se mova ou peça a um parceiro que os segure. Suas pernas devem estar dobradas na altura dos joelhos.",
+    "Eleve a parte superior do corpo para criar uma forma de V imaginária com as coxas. Seus braços devem estar totalmente estendidos à sua frente, perpendiculares ao tronco e com as mãos entrelaçadas. Esta é a posição inicial.",
+    "Gire o tronco para o lado direito até que os braços fiquem paralelos ao chão enquanto expira.",
+    "Segure a contração por um segundo e volte à posição inicial enquanto expira. Agora passe para o lado oposto executando as mesmas técnicas que aplicou no lado direito.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

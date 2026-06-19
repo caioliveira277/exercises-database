@@ -1,0 +1,24 @@
+{
+  "name": "Salto com obstáculos",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Monte uma fileira de obstáculos ou outras pequenas barreiras, colocando-os a alguns metros de distância.",
+    "Fique na frente do primeiro obstáculo com os pés afastados na largura dos ombros. Esta será sua posição inicial.",
+    "Comece saltando com os dois pés sobre o primeiro obstáculo, balançando os dois braços enquanto salta.",
+    "Absorva o impacto da aterrissagem dobrando os joelhos, recuperando-se do primeiro salto saltando sobre o próximo obstáculo. Continue até ter saltado todos os obstáculos."
+  ],
+  "category": "pliometria"
+}

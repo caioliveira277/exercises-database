@@ -1,0 +1,19 @@
+{
+  "name": "Pressão de Ombro - Com Bandas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Para começar, fique em pé sobre uma faixa de exercícios para que a tensão comece no comprimento do braço. Segure as alças e levante-as de forma que as mãos fiquem na altura dos ombros de cada lado.",
+    "Gire os pulsos de forma que as palmas das mãos fiquem voltadas para a frente. Os cotovelos devem estar dobrados, com os braços e antebraços alinhados com o tronco. Esta é a sua posição inicial.",
+    "Ao expirar, levante as alças até que os braços estejam totalmente estendidos acima da cabeça."
+  ],
+  "category": "força"
+}

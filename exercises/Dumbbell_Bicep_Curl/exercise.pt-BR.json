@@ -1,0 +1,20 @@
+{
+  "name": "Curvatura de bíceps com halteres",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Fique em pé com um haltere em cada mão com o braço estendido. Mantenha os cotovelos próximos ao tronco e gire as palmas das mãos até que fiquem voltadas para frente. Esta será sua posição inicial.",
+    "Agora, mantendo os braços parados, expire e enrole os pesos enquanto contrai os bíceps. Continue a levantar os pesos até que os bíceps estejam totalmente contraídos e os halteres estejam na altura dos ombros. Mantenha a posição contraída por uma breve pausa enquanto aperta o bíceps.",
+    "Em seguida, inspire e comece lentamente a abaixar os halteres de volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

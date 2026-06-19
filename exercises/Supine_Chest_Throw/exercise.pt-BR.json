@@ -1,0 +1,21 @@
+{
+  "name": "Lançamento de peito supino",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Este exercício é ótimo para passes no peito quando você não tem um parceiro ou uma parede com força suficiente. Deite-se no chão de costas com os joelhos dobrados.",
+    "Comece com a bola no peito, segurada com as duas mãos na parte inferior.",
+    "Exploda, estendendo-se pelo cotovelo para lançar a bola diretamente acima de você, o mais alto possível.",
+    "Pegue a bola com as duas mãos enquanto ela cai."
+  ],
+  "category": "pliometria"
+}

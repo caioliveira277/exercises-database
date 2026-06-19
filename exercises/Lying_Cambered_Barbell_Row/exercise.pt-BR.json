@@ -1,0 +1,22 @@
+{
+  "name": "Remada com barra curvada deitada",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "trapézios"
+  ],
+  "instructions": [
+    "Coloque uma barra curvada embaixo de um banco de exercícios.",
+    "Deite-se de bruços no banco de exercícios e agarre a barra com as palmas para baixo (pega pronada) que seja mais larga que a largura dos ombros. Esta será sua posição inicial.",
+    "Ao expirar, reme a barra para cima enquanto mantém os cotovelos próximos ao corpo, no peito, a fim de atingir a parte superior das costas, ou no estômago, se seu objetivo for atingir os dorsais.",
+    "Depois de uma segunda posição no topo, abaixe lentamente até a posição inicial enquanto inspira."
+  ],
+  "category": "força"
+}

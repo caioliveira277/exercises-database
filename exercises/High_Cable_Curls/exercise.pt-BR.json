@@ -1,0 +1,18 @@
+{
+  "name": "Cachos de cabo altos",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique entre duas polias altas e segure uma alça em cada braço. Posicione os braços de forma que fiquem paralelos ao chão, com as palmas das mãos voltadas para você. Esta será sua posição inicial.",
+    "Enrole as alças em sua direção até que fiquem próximas às orelhas. Ao fazer isso, certifique-se de flexionar o bíceps e expirar. Os braços devem permanecer parados e apenas os antebraços devem se mover. Segure por um segundo na posição contraída enquanto aperta o bíceps.",
+    "Lentamente, traga os braços de volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "De baixo para cima",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece deitando-se de costas no chão. Suas pernas devem estar retas e os braços ao lado do corpo. Esta será sua posição inicial.",
+    "Para realizar o movimento, dobre os joelhos em direção ao peito, flexionando os quadris e os joelhos. Em seguida, estenda as pernas diretamente acima de você, de modo que fiquem perpendiculares ao chão. Gire e eleve a pélvis para levantar os glúteos do chão.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Step Ups com halteres",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique em pé enquanto segura um haltere em cada mão (as palmas voltadas para os lados das pernas).",
+    "Coloque o pé direito na plataforma elevada. Suba na plataforma estendendo o quadril e o joelho da perna direita. Use o calcanhar principalmente para levantar o resto do corpo e coloque também o pé da perna esquerda na plataforma. Expire enquanto executa a força necessária para subir.",
+    "Desça com a perna esquerda flexionando o quadril e o joelho da perna direita enquanto inspira. Retorne à posição original de pé colocando o pé direito próximo ao pé esquerdo na posição inicial.",
+    "Repita com a perna direita pela quantidade recomendada de repetições e depois execute com a perna esquerda."
+  ],
+  "category": "força"
+}

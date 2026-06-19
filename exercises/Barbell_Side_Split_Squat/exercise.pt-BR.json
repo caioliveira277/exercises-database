@@ -1,0 +1,22 @@
+{
+  "name": "Agachamento lateral com barra",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Fique em pé enquanto segura uma barra colocada na parte de trás dos ombros (um pouco abaixo do pescoço). Seus pés devem estar bem afastados, com o pé da perna dianteira inclinado para o lado. Esta será sua posição inicial.",
+    "Abaixe o corpo em direção ao lado do pé inclinado, dobrando o joelho e o quadril da perna dianteira e mantendo a perna oposta apenas ligeiramente flexionada. Inspire enquanto abaixa o corpo.",
+    "Retorne à posição inicial estendendo o quadril e o joelho da perna dianteira. Expire enquanto executa esse movimento.",
+    "Após realizar a quantidade recomendada de repetições, repita o movimento com a perna oposta."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Curva lateral da bola ponderada",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, deite-se sobre uma bola de exercícios com o lado esquerdo do tronco (cintura, quadris e ombros) pressionado contra a bola.",
+    "Seus pés devem estar no chão enquanto as pernas estão cruzadas e penduradas na bola. Segure um prato de peso com a mão direita diretamente no lado direito da cabeça. Dica: certifique-se de que o lado liso da placa esteja apoiado em sua cabeça.",
+    "Coloque o braço esquerdo sobre o tronco de forma que a palma da mão fique nos oblíquos. Deve haver um ângulo reto entre o antebraço esquerdo e o braço. Esta é a posição inicial.",
+    "Levante a lateral do tronco flexionando lateralmente a cintura enquanto expira.",
+    "Segure a contração por um segundo e abaixe lentamente de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Troque de lado e repita o exercício."
+  ],
+  "category": "força"
+}

@@ -1,5 +1,8 @@
 {
   "name": "Lower Back-SMR",
+  "aliases": [
+    "Lower Back Self Myofascial Release"
+  ],
   "force": "static",
   "level": "beginner",
   "mechanic": null,

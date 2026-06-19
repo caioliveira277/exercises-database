@@ -1,0 +1,18 @@
+{
+  "name": "Prensa para panturrilha",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste o assento de forma que as pernas fiquem apenas ligeiramente flexionadas na posição inicial. A planta dos pés deve estar firmemente na plataforma.",
+    "Selecione um peso apropriado e segure as alças. Esta será sua posição inicial.",
+    "Endireite as pernas estendendo os joelhos, levantando apenas o peso da pilha. Seu tornozelo deve estar totalmente flexionado, com os dedos apontando para cima. Execute o movimento pressionando para baixo através da planta dos pés, tanto quanto possível.",
+    "Após uma breve pausa, inverta o movimento e repita."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Cruzamento de cabo de braço único",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece movendo as polias para a posição alta, selecione a resistência a ser utilizada e segure uma alça em cada mão.",
+    "Dê um passo à frente na frente de ambas as polias com os braços estendidos à sua frente, juntando as mãos. Sua cabeça e seu peito devem estar levantados enquanto você se inclina para frente, enquanto seus pés devem estar cambaleantes. Esta será sua posição inicial.",
+    "Mantendo o braço esquerdo no lugar, permita que o braço direito se estenda para o lado, mantendo uma ligeira flexão no cotovelo. O braço direito deve estar perpendicular ao corpo, aproximadamente na altura dos ombros.",
+    "Retorne o braço à posição inicial puxando a mão de volta à linha média do corpo.",
+    "Mantenha-se na posição inicial por um segundo e repita o movimento no lado oposto. Continue alternando para frente e para trás pelo número prescrito de repetições."
+  ],
+  "category": "força"
+}

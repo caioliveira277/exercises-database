@@ -1,0 +1,22 @@
+{
+  "name": "Estocada traseira com halteres",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique em pé com o tronco ereto segurando dois halteres nas mãos ao lado do corpo. Esta será sua posição inicial.",
+    "Dê um passo para trás com a perna direita a cerca de 60 centímetros do pé esquerdo e abaixe a parte superior do corpo, enquanto mantém o tronco ereto e o equilíbrio. Inspire ao descer. Dica: Como nos outros exercícios, não permita que o joelho ultrapasse os dedos dos pés ao descer, pois isso causará estresse excessivo na articulação do joelho. Certifique-se de manter a canela dianteira perpendicular ao chão. Mantenha o tronco ereto durante a estocada; flexores flexíveis do quadril são importantes. Uma estocada longa enfatiza o Glúteo Máximo; uma estocada curta enfatiza o quadríceps.",
+    "Empurre para cima e volte à posição inicial enquanto expira. Dica: Use a planta dos pés para empurrar e acentuar o quadríceps. Para focar nos glúteos, pressione com os calcanhares.",
+    "Agora repita com a perna oposta."
+  ],
+  "category": "força"
+}

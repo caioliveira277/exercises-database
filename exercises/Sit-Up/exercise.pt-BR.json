@@ -1,0 +1,19 @@
+{
+  "name": "Abdominais",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão, colocando os pés sob algo que não se mova ou peça a um parceiro que os segure. Suas pernas devem estar dobradas na altura dos joelhos.",
+    "Coloque as mãos atrás da cabeça e junte-as entrelaçando os dedos. Esta é a posição inicial.",
+    "Eleve a parte superior do corpo para criar uma forma de V imaginária com as coxas. Expire ao realizar esta parte do exercício.",
+    "Depois de sentir a contração por um segundo, abaixe a parte superior do corpo de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

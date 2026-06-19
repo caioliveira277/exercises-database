@@ -1,0 +1,20 @@
+{
+  "name": "Abrace uma bola",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos"
+  ],
+  "instructions": [
+    "Sente-se no chão.",
+    "Coloque uma bola de exercícios entre as duas pernas e abaixe os quadris em direção ao chão.",
+    "Abrace a bola com os braços para apoiar o corpo. Ajuste as pernas de forma que os pés fiquem apoiados no chão e os joelhos alinhados com os tornozelos. Mantenha uma boa pegada na bola para que ela não role para longe de você e o mande de volta para as nádegas."
+  ],
+  "category": "alongamento"
+}

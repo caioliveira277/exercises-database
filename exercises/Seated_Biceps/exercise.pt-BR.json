@@ -1,0 +1,20 @@
+{
+  "name": "Bíceps sentado",
+  "force": "estática",
+  "level": "avançado",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Sente-se no chão com os joelhos dobrados e o parceiro atrás de você. Estenda os braços para trás com as palmas voltadas uma para a outra. Seu parceiro segurará seus pulsos para você. Esta será a posição inicial.",
+    "Tente flexionar os cotovelos, enquanto seu parceiro impede qualquer movimento real.",
+    "Após 10-20 segundos, relaxe os braços enquanto seu parceiro puxa suavemente os pulsos para cima para alongar os bíceps. Certifique-se de informar ao seu parceiro quando o alongamento é apropriado para evitar lesões ou alongamento excessivo."
+  ],
+  "category": "alongamento"
+}

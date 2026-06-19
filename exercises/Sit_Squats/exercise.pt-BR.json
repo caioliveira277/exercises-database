@@ -1,0 +1,21 @@
+{
+  "name": "Agachamento sentado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique em pé com os pés afastados na largura dos ombros. Esta será sua posição inicial.",
+    "Comece o movimento flexionando os joelhos e quadris, sentando-se com os quadris.",
+    "Continue até ter agachado uma parte do caminho, mas acima do paralelo, e inverta rapidamente o movimento até retornar à posição inicial. Repita por 5-10 repetições."
+  ],
+  "category": "alongamento"
+}

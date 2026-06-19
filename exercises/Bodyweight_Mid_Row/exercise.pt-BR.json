@@ -1,0 +1,20 @@
+{
+  "name": "Linha intermediária de peso corporal",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Comece segurando um aparelho de pull-up com uma pegada média a larga, com as palmas voltadas para longe de você. Na posição suspensa, coloque os joelhos contra o peito, inclinando-se para trás e colocando as pernas sobre o lado do aparelho de flexão. Esta será sua posição inicial.",
+    "Começando com os braços esticados, flexione os cotovelos e retraia as omoplatas para levantar o corpo até que as pernas entrem em contato com o aparelho de flexão.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "força"
+}

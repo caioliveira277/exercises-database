@@ -1,0 +1,22 @@
+{
+  "name": "Salto de profundidade linear",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Você precisará de duas caixas ou bancos espaçados alguns metros um do outro. Comece ficando em uma caixa voltada para a outra plataforma.",
+    "Para iniciar o movimento, desça suavemente até o chão entre as plataformas, permitindo que os joelhos e quadris flexionem.",
+    "Inverta o movimento explodindo, estendendo-se pelos quadris, joelhos e tornozelos para pular para a outra plataforma.",
+    "Aterre suavemente, absorvendo o impacto pelas pernas."
+  ],
+  "category": "pliometria"
+}

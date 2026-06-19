@@ -1,0 +1,16 @@
+{
+  "name": "Rotação do tronco",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé segurando uma bola de exercícios com as duas mãos. Estenda os braços para que a bola fique bem à sua frente. Esta será sua posição inicial.",
+    "Gire o tronco para um lado, mantendo os olhos na bola enquanto se move. Agora, gire de volta para a direção oposta. Repita por 10-20 repetições."
+  ],
+  "category": "alongamento"
+}

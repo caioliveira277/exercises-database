@@ -1,0 +1,19 @@
+{
+  "name": "Encolher de ombros limpo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece com uma pegada na largura dos ombros, overhand duplo ou gancho, com a barra pendurada no meio da coxa. Suas costas devem estar retas e ligeiramente inclinadas para a frente.",
+    "Encolha os ombros em direção às orelhas. Embora este exercício geralmente possa ser carregado com mais peso do que um limpo, evite sobrecarregar a ponto de a execução ficar mais lenta."
+  ],
+  "category": "levantamento de peso olímpico"
+}

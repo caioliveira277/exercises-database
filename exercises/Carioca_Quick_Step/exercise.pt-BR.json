@@ -1,0 +1,24 @@
+{
+  "name": "Passo Rápido Carioca",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "abdutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Comece com os pés afastados alguns centímetros e o braço esquerdo levantado em uma posição relaxada e atlética.",
+    "Com o pé direito, dê um passo rápido para trás e puxe o joelho para cima.",
+    "Levante os braços para cima ao puxar o joelho direito, certificando-se de que o joelho fique reto para cima e para baixo. Evite virar os pés enquanto se move e continue olhando para frente enquanto se move para o lado."
+  ],
+  "category": "pliometria"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Treinador de Pedra Atlas",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Este treinador é eficaz para desenvolver a força da Pedra Atlas para quem não tem acesso a pedras e normalmente é feito de pontas de barra ou cano pesado.",
+    "Comece carregando o peso desejado na barra. Monte o peso, envolvendo os braços em volta do implemento, dobrando os quadris.",
+    "Comece puxando o peso além dos joelhos, estendendo-se pelos quadris. À medida que o peso passa pelos joelhos, ele pode ser dobrado apoiando-o nas coxas e recostando-se, abraçando-o firmemente contra o peito.",
+    "Termine o movimento estendendo os quadris e joelhos para elevar o peso o mais alto possível. O peso pode ser devolvido ao colo ou ao solo para repetições sucessivas."
+  ],
+  "category": "strongman"
+}

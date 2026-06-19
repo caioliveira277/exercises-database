@@ -1,0 +1,17 @@
+{
+  "name": "Tornozelo no joelho",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Na posição deitada, dobre os joelhos e mantenha os pés no chão.",
+    "Coloque o tornozelo de um pé no joelho oposto.",
+    "Segure a coxa ou joelho da perna de baixo e puxe ambas as pernas em direção ao peito. Relaxe o pescoço e os ombros. Segure por 10-20 segundos e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

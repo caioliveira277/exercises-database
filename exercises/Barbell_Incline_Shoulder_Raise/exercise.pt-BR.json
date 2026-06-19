@@ -1,0 +1,20 @@
+{
+  "name": "Elevação de ombro inclinada com barra",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral"
+  ],
+  "instructions": [
+    "Deite-se em um banco inclinado. Usando uma empunhadura de largura média (uma empunhadura um pouco mais larga que a largura dos ombros), levante a barra do suporte e segure-a diretamente sobre você com os braços esticados. Esta será sua posição inicial.",
+    "Mantendo os braços retos, levante a barra protraindo as omoplatas, levantando os ombros do banco enquanto expira.",
+    "Traga a barra de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

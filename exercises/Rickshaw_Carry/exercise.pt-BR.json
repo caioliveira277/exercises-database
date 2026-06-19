@@ -1,0 +1,24 @@
+{
+  "name": "Transporte de riquixá",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Posicione a estrutura no ponto inicial e carregue com o peso adequado. De pé no centro da estrutura, comece segurando as alças e passando pelos calcanhares para levantar a estrutura. Certifique-se de que seu peito e cabeça estejam erguidos e que suas costas estejam retas.",
+    "Comece imediatamente a caminhar rapidamente com passos rápidos e controlados. Mantenha o peito erguido e a cabeça para a frente e continue respirando. Traga a estrutura para o chão depois de atingir o ponto final."
+  ],
+  "category": "strongman"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Arremesso supino com dois braços",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se no chão de costas com os joelhos dobrados.",
+    "Segure a bola com as duas mãos, estendendo os braços totalmente atrás da cabeça. Esta será sua posição inicial.",
+    "Inicie o movimento no ombro, jogando a bola diretamente à sua frente enquanto se senta, tentando percorrer a distância máxima.",
+    "A bola pode ser lançada para um parceiro ou rebatida na parede."
+  ],
+  "category": "pliometria"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Levantamento terra romeno",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Coloque uma barra à sua frente no chão e agarre-a usando uma pegada pronada (palmas voltadas para baixo) um pouco mais larga que a largura dos ombros. Dica: Dependendo do peso utilizado, você pode precisar de bandagens nos pulsos para realizar o exercício e também de uma plataforma elevada para permitir melhor amplitude de movimento.",
+    "Dobre ligeiramente os joelhos e mantenha as canelas verticais, os quadris para trás e as costas retas. Esta será sua posição inicial.",
+    "Mantendo as costas e os braços sempre retos, use os quadris para levantar a barra enquanto expira. Dica: O movimento não deve ser rápido, mas constante e sob controle.",
+    "Quando estiver completamente ereto, abaixe a barra empurrando os quadris para trás, dobrando apenas levemente os joelhos, ao contrário do agachamento. Dica: Respire fundo no início do movimento e mantenha o peito elevado. Prenda a respiração ao abaixar e expire ao completar o movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

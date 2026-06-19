@@ -1,0 +1,20 @@
+{
+  "name": "Remada Kettlebell Alternada",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells na frente dos pés. Dobre ligeiramente os joelhos e empurre o bumbum para fora o máximo possível. Ao se curvar para chegar à posição inicial, segure os dois kettlebells pelas alças.",
+    "Puxe um kettlebell do chão enquanto segura o outro kettlebell. Retraia a omoplata do lado de trabalho, enquanto flexiona o cotovelo, puxando o kettlebell em direção ao estômago ou caixa torácica.",
+    "Abaixe o kettlebell no braço ativo e repita com o outro braço."
+  ],
+  "category": "força"
+}

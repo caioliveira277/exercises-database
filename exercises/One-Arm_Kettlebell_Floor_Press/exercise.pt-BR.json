@@ -1,0 +1,19 @@
+{
+  "name": "Prensa de chão Kettlebell com um braço",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão segurando um kettlebell com uma das mãos, com o braço apoiado no chão. A palma da mão deve estar voltada para dentro.",
+    "Pressione o kettlebell em direção ao teto, girando o pulso.",
+    "Abaixe o kettlebell de volta à posição inicial e repita."
+  ],
+  "category": "força"
+}

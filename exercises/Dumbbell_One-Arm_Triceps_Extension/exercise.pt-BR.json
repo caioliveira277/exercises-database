@@ -1,0 +1,20 @@
+{
+  "name": "Extensão de tríceps com halteres com um braço",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pegue um haltere e sente-se em um banco de imprensa militar ou em um banco utilitário que tenha apoio para as costas enquanto você coloca os halteres na posição vertical em cima das coxas ou fica em pé.",
+    "Levante o haltere até a altura dos ombros e depois estenda o braço sobre a cabeça de forma que todo o braço fique perpendicular ao chão e próximo à cabeça. O haltere deve ficar em cima de você. A outra mão pode ser mantida totalmente estendida para o lado, pela cintura, apoiando o braço que possui o haltere ou agarrando uma superfície fixa.",
+    "Gire o pulso de modo que a palma da mão fique voltada para a frente e o dedo mínimo voltado para o teto. Esta será sua posição inicial.",
+    "Abaixe lentamente o haltere atrás da cabeça enquanto mantém o braço parado. Inspire ao realizar esse movimento e faça uma pausa quando o tríceps estiver totalmente alongado.",
+    "Retorne à posição inicial flexionando o tríceps enquanto expira. Dica: É imprescindível que apenas o antebraço se mova. O braço deve permanecer sempre parado próximo à cabeça.",
+    "Repita pela quantidade recomendada de repetições e troque de braço."
+  ],
+  "category": "força"
+}

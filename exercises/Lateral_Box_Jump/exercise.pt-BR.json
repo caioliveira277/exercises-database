@@ -1,0 +1,25 @@
+{
+  "name": "Salto de caixa lateral",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Assuma uma posição confortável em pé, com uma pequena caixa posicionada ao seu lado. Esta será sua posição inicial.",
+    "Mergulhe rapidamente em um quarto de agachamento para iniciar o reflexo de alongamento e imediatamente inverta a direção para pular para cima e para o lado.",
+    "Traga os joelhos alto o suficiente para garantir que seus pés tenham uma boa folga sobre a caixa.",
+    "Pouse no centro da caixa, usando as pernas para absorver o impacto.",
+    "Salte com cuidado para o outro lado da caixa e continue indo e voltando por várias repetições."
+  ],
+  "category": "pliometria"
+}

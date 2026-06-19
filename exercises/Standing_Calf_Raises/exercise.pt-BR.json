@@ -1,0 +1,19 @@
+{
+  "name": "Elevação da panturrilha em pé",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste a alavanca acolchoada da máquina de elevação de panturrilha para se adequar à sua altura.",
+    "Coloque os ombros sob as almofadas fornecidas e posicione os dedos dos pés voltados para a frente (ou usando qualquer uma das outras duas posições descritas no início do capítulo). As pontas dos pés devem ser fixadas no topo do bloco da panturrilha, com os calcanhares estendendo-se para fora dele. Empurre a alavanca para cima estendendo os quadris e os joelhos até que o tronco fique ereto. Os joelhos devem ser mantidos ligeiramente flexionados; nunca trancado. Os dedos dos pés devem estar voltados para a frente, para fora ou para dentro, conforme descrito no início do capítulo. Esta será sua posição inicial.",
+    "Levante os calcanhares ao expirar, estendendo os tornozelos o mais alto possível e flexionando a panturrilha. Certifique-se de que o joelho esteja sempre parado. Não deve haver flexão em nenhum momento. Mantenha a posição contraída por um segundo antes de começar a descer.",
+    "Volte lentamente à posição inicial enquanto inspira, abaixando os calcanhares enquanto dobra os tornozelos até que as panturrilhas estejam esticadas.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

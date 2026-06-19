@@ -1,0 +1,24 @@
+{
+  "name": "Chute duplo na bunda",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece em pé com os joelhos ligeiramente flexionados.",
+    "Agache-se rapidamente por uma curta distância, flexionando os quadris e joelhos, e estenda imediatamente para saltar até obter a altura vertical máxima.",
+    "Ao subir, contraia os calcanhares flexionando os joelhos, tentando tocar as nádegas.",
+    "Termine o movimento pousando com os joelhos parcialmente flexionados, usando as pernas para absorver o impacto."
+  ],
+  "category": "pliometria"
+}

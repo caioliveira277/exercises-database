@@ -1,0 +1,23 @@
+{
+  "name": "Passagem de estocada",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Fique em pé com o tronco ereto segurando um kettlebell na mão direita. Esta será sua posição inicial.",
+    "Dê um passo à frente com o pé esquerdo e abaixe a parte superior do corpo flexionando o quadril e o joelho, mantendo o tronco ereto. Abaixe o joelho de trás até quase tocar o chão.",
+    "Ao avançar, passe o kettlebell sob a perna da frente para a mão oposta.",
+    "Pressionando o calcanhar do pé, retorne à posição inicial.",
+    "Repita o movimento pela quantidade recomendada de repetições, alternando as pernas."
+  ],
+  "category": "força"
+}

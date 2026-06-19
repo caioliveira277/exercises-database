@@ -1,0 +1,19 @@
+{
+  "name": "Glúteo sentado",
+  "force": "estática",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "adutores"
+  ],
+  "instructions": [
+    "Na posição sentada com os joelhos dobrados, cruze um tornozelo sobre o joelho oposto. Seu parceiro ficará atrás de você. Agora, incline-se para frente enquanto seu parceiro apoia seus ombros com as mãos. Esta será sua posição inicial.",
+    "Tente empurrar o tronco para trás por 10 a 20 segundos, pois seu parceiro impede qualquer movimento real do tronco.",
+    "Agora relaxe os músculos enquanto seu parceiro aumenta o alongamento empurrando suavemente o tronco para a frente por 10 a 20 segundos."
+  ],
+  "category": "alongamento"
+}

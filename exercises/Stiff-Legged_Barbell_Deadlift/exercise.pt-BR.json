@@ -1,0 +1,22 @@
+{
+  "name": "Deadlift com barra com pernas rígidas",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Segure uma barra com uma pegada pronada (palmas voltadas para baixo). Você pode precisar de algumas bandagens nos pulsos se usar uma quantidade significativa de peso.",
+    "Fique em pé com o tronco reto e as pernas espaçadas na largura dos ombros ou em uma postura mais estreita. Os joelhos devem estar ligeiramente flexionados. Esta é a sua posição inicial.",
+    "Mantendo os joelhos estacionários, abaixe a barra até o topo dos pés, dobrando os quadris enquanto mantém as costas retas. Continue avançando como se fosse pegar algo do chão até sentir um alongamento nos isquiotibiais. Inspire enquanto executa esse movimento.",
+    "Comece a levantar o tronco novamente, estendendo os quadris até voltar à posição inicial. Expire ao realizar esse movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

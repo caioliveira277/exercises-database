@@ -1,0 +1,26 @@
+{
+  "name": "Agachamento caixa com banda reversa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece em um rack de energia com uma caixa na altura apropriada atrás de você. Coloque as faixas em pinos ou presas na parte superior do rack, garantindo que fiquem diretamente acima da barra durante o agachamento. Anexe a outra extremidade à barra.",
+    "Comece pisando sob a barra e colocando-a na parte de trás dos ombros. Aperte as omoplatas e gire os cotovelos para a frente, tentando dobrar a barra sobre os ombros. Remova a barra do rack, criando um arco firme na parte inferior das costas, e volte para a posição. Coloque os pés mais afastados para dar mais ênfase às costas, glúteos, adutores e isquiotibiais, ou mais próximos para maior desenvolvimento dos quadríceps. Mantenha a cabeça voltada para frente.",
+    "Com as costas, os ombros e o núcleo tensos, empurre os joelhos e o bumbum para fora e comece a descida. Sente-se com os quadris até sentar na caixa. Idealmente, suas canelas devem estar perpendiculares ao solo. Faça uma pausa quando chegar à caixa e relaxe os flexores do quadril. Nunca salte de uma caixa.",
+    "Mantendo o peso sobre os calcanhares e empurrando os pés e os joelhos para fora, suba da caixa enquanto conduz o movimento com a cabeça. Continue para cima, mantendo a tensão da cabeça aos pés. Tenha cuidado ao retornar a barra ao suporte."
+  ],
+  "category": "levantamento de peso básico"
+}

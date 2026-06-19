@@ -1,5 +1,8 @@
 {
   "name": "Neck-SMR",
+  "aliases": [
+    "Neck Self Myofascial Release"
+  ],
   "force": "static",
   "level": "intermediate",
   "mechanic": null,

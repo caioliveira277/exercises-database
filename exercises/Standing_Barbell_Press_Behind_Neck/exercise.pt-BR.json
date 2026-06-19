@@ -1,0 +1,22 @@
+{
+  "name": "Pressão com barra em pé atrás do pescoço",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Este exercício é melhor realizado dentro de um rack de agachamento para facilitar a pegada na barra. Para começar, primeiro coloque a barra em um rack que melhor corresponda à sua altura. Depois que a altura correta for escolhida e a barra carregada, passe por baixo da barra e coloque a parte de trás dos ombros (um pouco abaixo do pescoço) sobre ela.",
+    "Segure-se na barra com os dois braços de cada lado e levante-a do rack empurrando primeiro com as pernas e ao mesmo tempo endireitando o tronco.",
+    "Afaste-se do rack e posicione as pernas usando uma postura média na largura dos ombros, com os dedos dos pés ligeiramente apontados. Suas costas devem ser mantidas retas durante a execução deste exercício. Esta será sua posição inicial.",
+    "Eleve a barra acima da cabeça, estendendo totalmente os braços enquanto expira.",
+    "Mantenha a contração por um segundo e abaixe a barra de volta à posição inicial inspirando.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

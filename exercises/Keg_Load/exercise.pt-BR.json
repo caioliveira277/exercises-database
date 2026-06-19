@@ -1,0 +1,29 @@
+{
+  "name": "Carga de barril",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "bíceps",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "dorsal médio",
+    "quadríceps",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Para carregar barris, coloque o número desejado a uma distância da plataforma de carregamento, normalmente de 30 a 50 pés.",
+    "Comece agarrando a alça próxima do primeiro barril, inclinando-a para o lado para agarrar a borda oposta do fundo do barril. Levante o barril até o peito.",
+    "Quanto mais alto você colocar o barril, mais rápido você poderá se mover para a plataforma. Geralmente não é permitido carregar nos ombros. Certifique-se de segurar firmemente o barril. Mova-se o mais rápido possível até a plataforma e carregue-a, estendendo-se pelos quadris, joelhos e tornozelos para que fique o mais alto possível.",
+    "Retorne à posição inicial para recuperar o próximo barril e repita até que o evento seja concluído."
+  ],
+  "category": "strongman"
+}

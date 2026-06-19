@@ -1,0 +1,22 @@
+{
+  "name": "Agachamento frontal (pega limpa)",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para começar, primeiro coloque a barra em um suporte ligeiramente abaixo do nível dos ombros. Coloque a barra em cima dos deltóides, empurrando as clavículas e tocando levemente a garganta. Suas mãos devem estar seguras, tocando a barra apenas com os dedos para ajudar a mantê-la na posição.",
+    "Levante a barra do rack empurrando primeiro com as pernas e ao mesmo tempo endireitando o tronco. Afaste-se do rack e posicione as pernas usando uma postura média na largura dos ombros, com os dedos dos pés ligeiramente apontados. Mantenha a cabeça e os cotovelos sempre levantados. Esta será sua posição inicial.",
+    "Dobre os joelhos, sentando-se entre as pernas. Continue descendo até que os isquiotibiais estejam nas panturrilhas. Mantenha os joelhos alinhados com os pés, usando conscientemente os abdutores para empurrar os joelhos para fora enquanto você agacha.",
+    "Comece a levantar a barra ao expirar, empurrando o chão principalmente com o calcanhar ou meio do pé enquanto estica as pernas novamente e retorna à posição inicial."
+  ],
+  "category": "força"
+}

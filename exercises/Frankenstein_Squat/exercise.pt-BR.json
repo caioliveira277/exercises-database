@@ -1,0 +1,23 @@
+{
+  "name": "Agachamento Frankenstein",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Este exercício ensina o posicionamento adequado da barra e do corpo durante o agachamento limpo e frontal.",
+    "Coloque a barra na frente dos ombros, liberando a pegada e estendendo os braços à sua frente. Os ombros devem ser empurrados para a frente para criar uma prateleira e a barra deve estar em contato com a garganta. Certifique-se de mover apenas as omoplatas para frente; não arredonde a coluna torácica.",
+    "Agache-se flexionando os joelhos e quadris, sentando-se entre as pernas. Mantenha o tronco ereto, os braços para cima e os ombros para a frente, e a barra deve permanecer no lugar. Vá para a parte inferior do agachamento, até que os isquiotibiais entrem em contato com as panturrilhas.",
+    "Retorne à posição vertical passando pela frente do calcanhar e estendendo os joelhos e quadris."
+  ],
+  "category": "levantamento de peso olímpico"
+}

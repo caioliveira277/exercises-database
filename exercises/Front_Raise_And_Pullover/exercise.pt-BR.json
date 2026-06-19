@@ -1,0 +1,23 @@
+{
+  "name": "Levantamento frontal e pulôver",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "dorsais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano enquanto segura uma barra com as palmas para baixo, com cerca de 15 centímetros de distância.",
+    "Coloque a barra na parte superior das coxas, estenda os braços e trave-os mantendo uma ligeira flexão nos cotovelos. Esta será sua posição inicial.",
+    "Agora levante o peso usando um movimento semicircular e mantendo os braços retos enquanto inspira. Continue o mesmo movimento até que a barra esteja do outro lado, acima da sua cabeça. (Dica: a barra percorrerá aproximadamente 180 graus). Neste ponto, seus braços devem estar paralelos ao chão, com as palmas das mãos voltadas para o teto.",
+    "Agora retorne a barra à posição inicial invertendo o movimento ao expirar.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

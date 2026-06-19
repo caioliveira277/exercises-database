@@ -1,0 +1,17 @@
+{
+  "name": "Alongamento de isquiotibiais e panturrilhas em pé",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sendo enrolado em um cinto, faixa ou corda em torno de um pé. Em pé, coloque o pé à frente.",
+    "Dobre a perna de trás, mantendo a da frente reta. Agora levante os dedos do pé da frente do chão e incline-se para a frente.",
+    "Usando o cinto, puxe a parte superior do pé para aumentar o alongamento da panturrilha. Segure por 10 a 20 segundos e repita com o outro pé."
+  ],
+  "category": "alongamento"
+}

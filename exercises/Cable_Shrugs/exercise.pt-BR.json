@@ -1,0 +1,19 @@
+{
+  "name": "Encolhimento de ombros",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure um acessório de barra de cabo que esteja preso a uma polia baixa com uma largura de ombro ou uma pegada ligeiramente mais larga (palmas voltadas para baixo).",
+    "Fique ereto perto da polia com os braços estendidos à sua frente segurando a barra. Esta será sua posição inicial.",
+    "Levante a barra elevando os ombros o mais alto possível enquanto expira. Segure a contração na parte superior por um segundo. Dica: Os braços devem permanecer sempre estendidos. Evite usar o bíceps para ajudar a levantar a barra. Apenas os ombros devem subir e descer.",
+    "Abaixe a barra de volta à posição original.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

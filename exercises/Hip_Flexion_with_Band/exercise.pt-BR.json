@@ -1,0 +1,18 @@
+{
+  "name": "Flexão de quadril com faixa",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda uma extremidade da faixa na parte inferior de um poste e prenda a outra em um tornozelo.",
+    "Fique de costas para o ponto de fixação da banda.",
+    "Mantendo a cabeça e o peito erguidos, levante o joelho até 90 graus e faça uma pausa.",
+    "Retorne a perna à posição inicial."
+  ],
+  "category": "força"
+}

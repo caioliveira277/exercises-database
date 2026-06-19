@@ -1,0 +1,25 @@
+{
+  "name": "Remada com halteres com um braço",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Escolha um banco plano e coloque um haltere de cada lado dele.",
+    "Coloque a perna direita em cima da extremidade do banco, dobre o tronco para a frente a partir da cintura até que a parte superior do corpo fique paralela ao chão e coloque a mão direita na outra extremidade do banco para se apoiar.",
+    "Use a mão esquerda para pegar o haltere no chão e segurar o peso enquanto mantém a região lombar reta. A palma da mão deve estar voltada para o tronco. Esta será sua posição inicial.",
+    "Puxe a resistência diretamente para o lado do peito, mantendo o braço próximo ao corpo e o tronco parado. Expire enquanto executa esta etapa. Dica: concentre-se em contrair os músculos das costas quando atingir a posição totalmente contraída. Além disso, certifique-se de que a força seja realizada com os músculos das costas e não com os braços. Finalmente, a parte superior do tronco deve permanecer estacionária e apenas os braços devem mover-se. Os antebraços não devem realizar nenhum outro trabalho exceto segurar o haltere; portanto, não tente puxar o haltere para cima usando os antebraços.",
+    "Abaixe a resistência diretamente para a posição inicial. Inspire enquanto executa esta etapa.",
+    "Repita o movimento pela quantidade especificada de repetições.",
+    "Troque de lado e repita novamente com o outro braço."
+  ],
+  "category": "força"
+}

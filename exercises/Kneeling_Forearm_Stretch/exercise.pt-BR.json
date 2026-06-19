@@ -1,0 +1,16 @@
+{
+  "name": "Alongamento do antebraço ajoelhado",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece ajoelhando-se em um tapete com as palmas das mãos abertas e os dedos apontando para os joelhos.",
+    "Incline-se lentamente para trás, mantendo as palmas das mãos apoiadas no chão, até sentir um alongamento nos pulsos e antebraços. Segure por 20-30 segundos."
+  ],
+  "category": "alongamento"
+}

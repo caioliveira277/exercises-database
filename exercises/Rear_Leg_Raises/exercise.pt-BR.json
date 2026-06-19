@@ -1,0 +1,16 @@
+{
+  "name": "Elevações da perna traseira",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque-se sobre as mãos e os joelhos em um colchonete. Sua cabeça deve estar voltada para frente e a flexão dos joelhos deve criar um ângulo de 90 graus entre os isquiotibiais e as panturrilhas. Esta será sua posição inicial.",
+    "Estenda uma perna para cima e atrás de você. O joelho e o quadril devem se estender. Repita por 5 a 10 repetições e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

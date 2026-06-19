@@ -1,0 +1,21 @@
+{
+  "name": "Salto de tesoura",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Assuma uma posição de estocada com um pé à frente, o joelho dobrado e o joelho de trás quase tocando o chão.",
+    "Certifique-se de que o joelho da frente esteja acima da linha média do pé. Estendendo-se pelas duas pernas, pule o mais alto possível, balançando os braços para ganhar sustentação.",
+    "Ao pular o mais alto que puder, mude a posição das pernas, movendo a perna da frente para trás e a perna de trás para a frente.",
+    "Ao pousar, absorva o impacto pelas pernas adotando a posição de estocada e repita."
+  ],
+  "category": "pliometria"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Prensa Dupla Kettlebell",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe dois kettlebells nos ombros.",
+    "Agache-se alguns centímetros e inverta o movimento rapidamente. Use o impulso das pernas para impulsionar os kettlebells acima da cabeça.",
+    "Assim que os kettlebells estiverem travados, abaixe-os até os ombros e repita."
+  ],
+  "category": "força"
+}

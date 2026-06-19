@@ -1,5 +1,8 @@
 {
   "name": "Hamstring-SMR",
+  "aliases": [
+    "Hamstring Self Myofascial Release"
+  ],
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",

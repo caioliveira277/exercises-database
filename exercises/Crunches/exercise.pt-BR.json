@@ -1,0 +1,20 @@
+{
+  "name": "Flexões",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com os pés apoiados no chão ou apoiado em um banco com os joelhos dobrados em um ângulo de 90 graus. Se você estiver apoiando os pés em um banco, coloque-os de sete a dezoito centímetros de distância e aponte os dedos dos pés para dentro para que se toquem.",
+    "Agora coloque as mãos levemente em cada lado da cabeça, mantendo os cotovelos para dentro. Dica: não cruze os dedos atrás da cabeça.",
+    "Enquanto empurra a parte inferior das costas no chão para isolar melhor os músculos abdominais, comece a rolar os ombros para fora do chão.",
+    "Continue empurrando para baixo o máximo que puder com a parte inferior das costas enquanto contrai os abdominais e expira. Seus ombros devem levantar-se do chão apenas cerca de dez centímetros e a parte inferior das costas deve permanecer no chão. No topo do movimento, contraia fortemente os abdominais e mantenha a contração por um segundo. Dica: Concentre-se em movimentos lentos e controlados – não se engane usando o impulso.",
+    "Após a contração de um segundo, comece a descer lentamente novamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

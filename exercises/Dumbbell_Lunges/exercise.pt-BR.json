@@ -1,0 +1,22 @@
+{
+  "name": "Pulmões com halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique em pé com o tronco ereto segurando dois halteres nas mãos ao lado do corpo. Esta será sua posição inicial.",
+    "Dê um passo à frente com a perna direita a cerca de 60 centímetros do pé deixado parado para trás e abaixe a parte superior do corpo, mantendo o tronco ereto e mantendo o equilíbrio. Inspire ao descer. Observação: como nos outros exercícios, não permita que o joelho ultrapasse os dedos dos pés ao descer, pois isso causará estresse excessivo na articulação do joelho. Certifique-se de manter a canela dianteira perpendicular ao chão.",
+    "Usando principalmente o calcanhar do pé, empurre para cima e volte à posição inicial enquanto expira.",
+    "Repita o movimento pela quantidade recomendada de repetições e depois execute com a perna esquerda."
+  ],
+  "category": "força"
+}

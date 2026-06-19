@@ -1,0 +1,21 @@
+{
+  "name": "Caminhada para trás em trenó",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "dorsal médio",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Prenda alças duplas a um trenó conectado por uma corda ou corrente. Carregue o trenó com um peso leve.",
+    "Fique de frente para o trenó, recuando até que haja alguma tensão na linha. Mantenha as mãos diretamente acima da cabeça com os cotovelos estendidos. Esta será sua posição inicial.",
+    "Ande para trás, mantendo os braços levantados acima da cabeça. Evite movimentos bruscos."
+  ],
+  "category": "força"
+}

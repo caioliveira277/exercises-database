@@ -1,0 +1,20 @@
+{
+  "name": "Arrasto de trenó - arnês",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para começar, carregue o trenó com o peso desejado e prenda a alça de tração. Você pode puxar com alças, usar um arnês ou prender a alça a um cinto de lastro.",
+    "Seja puxando para frente ou para trás, incline-se na direção da viagem e avance estendendo-se pelos quadris e joelhos."
+  ],
+  "category": "strongman"
+}

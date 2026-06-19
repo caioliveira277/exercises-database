@@ -1,0 +1,20 @@
+{
+  "name": "Flexão escapular",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [
+    "dorsais",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Segure em pronação uma barra pull-up.",
+    "Da posição suspensa, levante-se alguns centímetros sem usar os braços. Faça isso pressionando a cintura escapular em um movimento reverso de encolher os ombros.",
+    "Faça uma pausa na conclusão do movimento e retorne lentamente à posição inicial antes de realizar mais repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Flye com halteres de banco plano de um braço",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano com um haltere em uma das mãos apoiado no topo da coxa. A palma da sua mão com o haltere deve estar em posição neutra.",
+    "Usando as coxas para ajudá-lo a levantar o haltere, limpe o haltere para poder segurá-lo à sua frente com o braço de levantamento totalmente estendido. Lembre-se de manter uma pegada neutra neste exercício. Your non lifting hand should be to the side holding the flat bench for better support. Esta será sua posição inicial.",
+    "Seu braço com o peso deve ficar ligeiramente dobrado no cotovelo para evitar estresse no tendão do bíceps. Comece abaixando o braço com o peso em um amplo arco até sentir um alongamento no peito. Inspire enquanto executa esta parte do movimento. Dica: Lembre-se de que durante todo o movimento o braço que levanta deve permanecer parado; o movimento deve ocorrer apenas na articulação do ombro.",
+    "Retorne o braço que levanta à posição inicial enquanto contrai os músculos do peito e expira. Dica: Certifique-se de usar o mesmo arco de movimento usado para abaixar os pesos.",
+    "Segure por um segundo na posição contraída e repita o movimento pela quantidade prescrita de repetições.",
+    "Troque de braço e repita o exercício."
+  ],
+  "category": "força"
+}

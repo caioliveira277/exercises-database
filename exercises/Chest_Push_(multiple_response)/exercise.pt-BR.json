@@ -1,0 +1,22 @@
+{
+  "name": "Empurrão no peito (resposta múltipla)",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece ajoelhado de frente para uma parede ou utilize um parceiro. Segure a bola com as duas mãos firmemente no peito.",
+    "Execute o passe explodindo para frente e para fora com os quadris enquanto empurra a bola o mais forte possível.",
+    "Continue caindo para frente, segurando-se com as mãos.",
+    "Retorne imediatamente à posição vertical. Repita pelo número desejado de repetições."
+  ],
+  "category": "pliometria"
+}

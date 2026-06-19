@@ -1,0 +1,19 @@
+{
+  "name": "Abdominais ponderados",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com os pés apoiados no chão ou apoiado em um banco com os joelhos dobrados em um ângulo de 90 graus.",
+    "Segure um peso contra o peito ou estenda-o acima do tronco. Esta será sua posição inicial.",
+    "Agora, expire e lentamente comece a levantar os ombros do chão. Seus ombros devem levantar-se do chão cerca de 10 centímetros, enquanto a parte inferior das costas permanece no chão.",
+    "No início do movimento, flexione os abdominais e segure por uma breve pausa.",
+    "Em seguida, inspire e abaixe lentamente de volta à posição inicial."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Curvado sobre a fileira de dois halteres com as palmas das mãos voltadas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Com um haltere em cada mão (palmas voltadas uma para a outra), dobre ligeiramente os joelhos e leve o tronco para a frente, dobrando a cintura, mantendo as costas retas até ficarem quase paralelas ao chão. Dica: certifique-se de manter a cabeça erguida. Os pesos devem ficar pendurados diretamente à sua frente, enquanto seus braços ficam pendurados perpendicularmente ao chão e ao tronco. Esta é a sua posição inicial.",
+    "Enquanto mantém o tronco parado, levante os halteres para o lado enquanto expira, apertando as omoplatas. Na posição contraída superior, contraia os músculos das costas e segure por um segundo.",
+    "Abaixe lentamente o peso novamente para a posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

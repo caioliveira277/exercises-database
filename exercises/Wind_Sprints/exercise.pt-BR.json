@@ -1,0 +1,18 @@
+{
+  "name": "Corridas de Vento",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pendure-se em uma barra suspensa usando uma pegada pronada. Seus braços e pernas devem estar estendidos. Esta será sua posição inicial.",
+    "Comece levantando rapidamente um joelho o mais alto que puder. Não balance o corpo ou as pernas. 3",
+    "Inverta imediatamente o movimento, retornando a perna à posição inicial. Simultaneamente, levante o joelho oposto o mais alto possível.",
+    "Continue alternando entre as pernas até que o conjunto esteja completo."
+  ],
+  "category": "força"
+}

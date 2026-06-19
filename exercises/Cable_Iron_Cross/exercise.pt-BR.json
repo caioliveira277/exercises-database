@@ -1,0 +1,19 @@
+{
+  "name": "Cruz de Ferro Cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece movendo as polias para a posição alta, selecione a resistência a ser utilizada e segure uma alça em cada mão.",
+    "Fique diretamente entre as duas polias com os braços estendidos para os lados. Sua cabeça e peito devem estar levantados enquanto seus braços formam um “T”. Esta será sua posição inicial.",
+    "Mantendo os cotovelos estendidos, puxe os braços para os lados.",
+    "Retorne os braços à posição inicial após uma pausa no pico da contração.",
+    "Continue o movimento pelo número prescrito de repetições."
+  ],
+  "category": "força"
+}

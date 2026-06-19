@@ -1,0 +1,17 @@
+{
+  "name": "Alongamento de virilha e costas",
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se no chão com os joelhos dobrados e os pés juntos.",
+    "Entrelace os dedos atrás da cabeça. Esta será sua posição inicial.",
+    "Curve-se para baixo, trazendo os cotovelos para a parte interna das coxas. Após uma breve pausa, retorne à posição inicial com a cabeça erguida e as costas retas. Repita por 10-20 repetições."
+  ],
+  "category": "alongamento"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Enrolamento de cabo aéreo",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, defina um peso confortável em cada lado da polia. Nota: Certifique-se de que a quantidade de peso selecionada seja a mesma em cada lado.",
+    "Agora ajuste a altura das polias de cada lado e certifique-se de que elas estejam posicionadas a uma altura superior à dos seus ombros.",
+    "Fique no meio de ambos os lados e use uma pegada por baixo (palmas voltadas para o teto) para agarrar cada alça. Seus braços devem estar totalmente estendidos e paralelos ao chão, com os pés posicionados na largura dos ombros um do outro. Seu corpo deve estar alinhado uniformemente com as alças. Esta é a posição inicial.",
+    "Ao expirar, aperte lentamente os bíceps de cada lado até que os antebraços e os bíceps se toquem.",
+    "Ao inspirar, mova os antebraços de volta à posição inicial. Observação: todo o seu corpo fica parado durante este exercício, exceto os antebraços.",
+    "Repita pela quantidade recomendada de repetições prescritas em seu programa."
+  ],
+  "category": "força"
+}

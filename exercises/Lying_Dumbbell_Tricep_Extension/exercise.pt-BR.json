@@ -1,0 +1,21 @@
+{
+  "name": "Extensão de tríceps com halteres deitados",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano enquanto segura dois halteres bem à sua frente. Seus braços devem estar totalmente estendidos em um ângulo de 90 graus do tronco e do chão. As palmas das mãos devem estar voltadas para dentro e os cotovelos dobrados. Esta é a posição inicial.",
+    "Ao inspirar e manter os braços parados com os cotovelos para dentro, abaixe lentamente o peso até que os halteres estejam perto das orelhas.",
+    "Nesse ponto, mantendo os cotovelos para dentro e os braços parados, use o tríceps para trazer o peso de volta à posição inicial enquanto expira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

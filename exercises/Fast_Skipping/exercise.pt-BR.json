@@ -1,0 +1,23 @@
+{
+  "name": "Pular rápido",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece em uma posição relaxada com uma perna ligeiramente à frente. Esta será sua posição inicial.",
+    "Pule executando um padrão step-hop de passo direito-direito para passo esquerdo-esquerdo e assim por diante, alternando para frente e para trás.",
+    "Execute saltos rápidos mantendo contato próximo com o solo e reduza o tempo no ar, movendo-se o mais rápido possível."
+  ],
+  "category": "pliometria"
+}

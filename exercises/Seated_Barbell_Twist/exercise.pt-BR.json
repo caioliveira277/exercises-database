@@ -1,0 +1,20 @@
+{
+  "name": "Torção com barra sentada",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece sentando-se na ponta de um banco plano com uma barra colocada em cima das coxas. Seus pés devem estar separados um do outro na largura dos ombros.",
+    "Segure a barra com as palmas voltadas para baixo e certifique-se de que suas mãos estejam mais largas que a largura dos ombros. Comece a levantar a barra acima da cabeça até que os braços estejam totalmente estendidos.",
+    "Agora abaixe a barra atrás da cabeça até que ela fique apoiada na base do pescoço. Esta é a posição inicial.",
+    "Mantendo os pés e a cabeça imóveis, mova a cintura de um lado para o outro para que os músculos oblíquos sintam a contração. Mova-se apenas de um lado para o outro até onde sua cintura permitir. Esticar ou mover-se muito pode causar lesões. Dica: Use um movimento lento e controlado.",
+    "Lembre-se de expirar enquanto gira o corpo para o lado e inspirar ao voltar à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

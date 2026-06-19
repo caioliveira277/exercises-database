@@ -1,0 +1,19 @@
+{
+  "name": "Alongamento da parte inferior das costas da cadeira",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "lombar"
+  ],
+  "instructions": [
+    "Sente-se ereto em uma cadeira.",
+    "Curve-se para o lado com o braço acima da cabeça. Você pode segurar a cadeira com a mão livre.",
+    "Segure por 10 segundos e repita para o outro lado."
+  ],
+  "category": "alongamento"
+}

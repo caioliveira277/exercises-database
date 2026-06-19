@@ -1,0 +1,16 @@
+{
+  "name": "Elevações das pernas dianteiras",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique próximo a uma cadeira ou outro suporte, segurando-se com uma das mãos.",
+    "Balance a perna para frente, mantendo-a reta. Continue com um balanço para baixo, trazendo a perna o mais para trás que sua flexibilidade permitir. Repita 5 a 10 vezes e depois troque as pernas."
+  ],
+  "category": "alongamento"
+}

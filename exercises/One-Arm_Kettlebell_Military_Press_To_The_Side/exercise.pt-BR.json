@@ -1,0 +1,19 @@
+{
+  "name": "Pressão militar Kettlebell com um braço para o lado",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um kettlebell no ombro. Limpe o kettlebell até o ombro, estendendo-o pelas pernas e quadris enquanto puxa o kettlebell em direção ao ombro. Gire o pulso ao fazer isso, de modo que a palma fique voltada para dentro. Esta será sua posição inicial.",
+    "Olhe para o kettlebell e pressione-o para cima e para fora até que fique travado acima da cabeça.",
+    "Abaixe o kettlebell de volta ao ombro sob controle e repita. Certifique-se de contrair o dorso, a bunda e o estômago com força para aumentar a estabilidade e a força."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Pronação deitada com halteres",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano de bruços, com um braço segurando um haltere e a outra mão em cima do banco dobrado para que você possa apoiar a cabeça nele.",
+    "Dobre os cotovelos do braço que segura o haltere de modo que ele crie um ângulo de 90 graus entre o braço e o antebraço.",
+    "Agora levante o braço de modo que o antebraço fique perpendicular ao chão e o braço fique perpendicular ao tronco. Dica: O braço deve ficar paralelo ao chão e também criar um ângulo de 90 graus com o tronco. Esta será sua posição inicial.",
+    "Ao expirar, gire externamente o antebraço para que o haltere seja levantado para a frente enquanto você mantém o ângulo de flexão de 90 graus entre os braços e o antebraço. Você continuará essa rotação externa até que o antebraço fique paralelo ao chão. Neste ponto você manterá a contração por um segundo.",
+    "Ao inspirar, volte lentamente à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

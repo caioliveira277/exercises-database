@@ -1,0 +1,20 @@
+{
+  "name": "Torção completa da bola medicinal",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para este exercício você precisará de uma bola medicinal e de um parceiro. Fique de costas um para o outro, com uma distância de 2 a 3 pés entre eles. Esta será sua posição inicial.",
+    "Segure a bola na frente do tronco. Abra os quadris e gire os ombros ao mesmo tempo que o seu parceiro.",
+    "Para uma rotação completa, você e seu parceiro devem girar na mesma direção, ou seja, no sentido anti-horário.",
+    "Passe a bola para o seu parceiro e agora vocês dois podem girar na direção oposta para repetir o procedimento."
+  ],
+  "category": "pliometria"
+}

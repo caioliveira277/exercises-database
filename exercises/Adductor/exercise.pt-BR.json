@@ -1,11 +1,11 @@
 {
   "name": "Adutor",
   "aliases": [
-    "Liberação de Adutores com Rolo de Espuma",
-    "Liberação dos Adutores do Quadril com Rolo de Espuma",
-    "SMR de Adutores",
-    "Liberação Miofascial de Adutores com Rolo de Espuma",
-    "Liberação da Parte Interna da Coxa com Rolo de Espuma"
+    "Rolo de espuma adutor",
+    "Rolo de espuma para adutor de quadril",
+    "Adutor SMR",
+    "Liberação Miofascial de Rolo de Espuma Adutor",
+    "Rolo de espuma interna da coxa"
   ],
   "force": "estática",
   "level": "intermediário",
@@ -17,8 +17,8 @@
   "secondaryMuscles": [],
   "instructions": [
     "Deite-se de bruços com uma perna sobre um rolo de espuma.",
-    "Gire a perna para que o rolo de espuma fique em contato com a parte interna da coxa. Transfira para o rolo o máximo de peso que conseguir tolerar.",
-    "Enquanto tenta relaxar os músculos da parte interna da coxa, role sobre a espuma entre o quadril e o joelho, mantendo os pontos de tensão por 10 a 30 segundos. Repita com a outra perna."
+    "Gire a perna para que o rolo de espuma entre em contato com a parte interna da coxa. Transfira o máximo de peso possível para o rolo de espuma.",
+    "Ao tentar relaxar os músculos da parte interna da coxa, role a espuma entre o quadril e o joelho, mantendo os pontos de tensão por 10 a 30 segundos. Repita com a outra perna."
   ],
   "category": "alongamento"
 }

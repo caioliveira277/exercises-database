@@ -1,0 +1,22 @@
+{
+  "name": "Salto estrela",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece em uma postura relaxada, com os pés afastados na largura dos ombros e mantenha os braços próximos ao corpo.",
+    "Para iniciar o movimento, agache-se até a metade e exploda de volta o mais alto possível. Estenda totalmente todo o corpo, afastando as pernas e os braços do corpo.",
+    "Ao pousar, traga os membros de volta e absorva o impacto pelas pernas."
+  ],
+  "category": "pliometria"
+}

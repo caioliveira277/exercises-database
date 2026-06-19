@@ -1,0 +1,29 @@
+{
+  "name": "Pedras Atlas",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "adutores",
+    "bíceps",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "dorsal médio",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Comece com a pedra do atlas entre os pés. Dobre os quadris para envolver os braços verticalmente ao redor da Pedra Atlas, tentando colocar os dedos sob a pedra. Muitas pedras terão uma pequena porção plana na parte inferior, o que tornará a pedra mais fácil de segurar.",
+    "Puxando a pedra para o tronco, passe pela metade posterior dos pés para puxar a pedra do chão.",
+    "À medida que a pedra passa pelos joelhos, dobre-a sentando-se de costas, puxando a pedra para cima das coxas.",
+    "Sente-se agachado, colocando a pedra no alto do peito enquanto muda a pegada para alcançá-la. Fique em pé, dirigindo com os quadris. Aproxime-se da plataforma de carga e incline-se para trás, estendendo os quadris para colocar a pedra o mais alto possível."
+  ],
+  "category": "strongman"
+}

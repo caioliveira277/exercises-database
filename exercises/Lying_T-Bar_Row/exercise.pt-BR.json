@@ -1,0 +1,23 @@
+{
+  "name": "Linha T-Bar Deitada",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Carregue a máquina de remo com barra em T com o peso desejado e ajuste a altura das pernas de forma que a parte superior do tórax fique no topo da almofada. Dica: Em algumas máquinas, tudo o que você pode fazer é ficar no degrau apropriado que permite que você fique a uma altura que tenha a parte superior do tórax no topo da almofada.",
+    "Deite-se de bruços na almofada e segure as alças. Você pode usar as palmas para baixo, as palmas para cima ou as palmas na posição, dependendo da parte das costas que deseja enfatizar.",
+    "Levante a barra do rack e estenda os braços à sua frente. Esta será sua posição inicial.",
+    "Ao expirar, puxe lentamente o peso para cima e contraia as costas no início do movimento. Dica: Mantenha os braços o mais próximo possível do tronco durante todo o movimento para envolver melhor os músculos das costas. Além disso, não levante o corpo da almofada em nenhum momento e evite usar o bíceps para levantar o peso.",
+    "Após uma segunda contração no topo do movimento, ao inspirar, volte lentamente à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

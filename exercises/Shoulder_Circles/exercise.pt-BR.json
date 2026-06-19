@@ -1,0 +1,18 @@
+{
+  "name": "Círculos de Ombro",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézios"
+  ],
+  "instructions": [
+    "Com os ombros relaxados e os braços apoiados frouxamente ao lado do corpo (ou no colo, se estiver sentado), role suavemente os ombros para frente, para cima, para trás e para baixo.",
+    "Direção reversa. Você pode fazer este exercício alternando os ombros ou ambos ao mesmo tempo."
+  ],
+  "category": "alongamento"
+}

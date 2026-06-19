@@ -1,0 +1,18 @@
+{
+  "name": "Curvatura inclinada com halteres",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco inclinado com um haltere em cada mão, com os braços estendidos. Mantenha os cotovelos próximos ao tronco e gire as palmas das mãos até que fiquem voltadas para frente. Esta será sua posição inicial.",
+    "Enquanto mantém o braço parado, enrole os pesos para a frente enquanto contrai o bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que os bíceps estejam totalmente contraídos e os halteres estejam na altura dos ombros. Mantenha a posição contraída por um segundo.",
+    "Lentamente, comece a trazer os halteres de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

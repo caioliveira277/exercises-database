@@ -1,0 +1,19 @@
+{
+  "name": "Levantamento de bunda (ponte)",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Deite-se no chão de costas com as mãos ao lado do corpo e os joelhos dobrados. Seus pés devem ser colocados na largura dos ombros. Esta será sua posição inicial.",
+    "Empurrando principalmente com os calcanhares, levante os quadris do chão enquanto mantém as costas retas. Expire enquanto executa esta parte do movimento e segure no topo por um segundo.",
+    "Volte lentamente à posição inicial enquanto inspira."
+  ],
+  "category": "força"
+}

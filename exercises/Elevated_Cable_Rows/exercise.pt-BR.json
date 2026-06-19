@@ -1,0 +1,24 @@
+{
+  "name": "Linhas de cabos elevadas",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "dorsal médio",
+    "trapézios"
+  ],
+  "instructions": [
+    "Obtenha algum tipo de plataforma (pode ser uma plataforma de aeróbica ou de elevação de panturrilha) com cerca de 10 a 15 centímetros de altura.",
+    "Coloque-o no assento da máquina de remo de cabos.",
+    "Sente-se na máquina e coloque os pés na plataforma frontal ou na barra transversal fornecida, certificando-se de que os joelhos estejam ligeiramente dobrados e não travados.",
+    "Incline-se enquanto mantém o alinhamento natural das costas e segure as alças da barra em V.",
+    "Com os braços estendidos, puxe para trás até que o tronco fique em um ângulo de 90 graus em relação às pernas. Suas costas devem estar ligeiramente arqueadas e seu peito deve estar saliente. Você deve sentir um bom alongamento nos dorsais enquanto segura a barra à sua frente. Esta é a posição inicial do exercício.",
+    "Mantendo o tronco parado, puxe as alças em direção ao tronco, mantendo os braços próximos a ele até tocar os abdominais. Expire enquanto executa esse movimento. Nesse ponto, você deve contrair os músculos das costas com força. Mantenha a contração por um segundo e volte lentamente à posição original enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

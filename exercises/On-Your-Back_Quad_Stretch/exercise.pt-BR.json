@@ -1,0 +1,18 @@
+{
+  "name": "Alongamento quádruplo nas costas",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano ou degrau e pendure uma perna e um braço para o lado.",
+    "Dobre o joelho e segure a parte superior do pé. Ao fazer isso, tome cuidado para não arquear a região lombar.",
+    "Puxe o umbigo em direção à coluna para ficar em ponto morto. Pressione o pé para baixo e na mão. Para adicionar alongamento do quadril, levante o quadril da perna que você está segurando em direção ao teto.",
+    "Troque de lado."
+  ],
+  "category": "alongamento"
+}

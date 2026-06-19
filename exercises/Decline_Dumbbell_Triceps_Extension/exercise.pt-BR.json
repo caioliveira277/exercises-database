@@ -1,0 +1,19 @@
+{
+  "name": "Recusar extensão de tríceps com halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda as pernas no final do banco de declínio e deite-se com um haltere em cada mão na parte superior das coxas. As palmas da sua mão ficarão voltadas uma para a outra.",
+    "Quando estiver deitado, mova os halteres à sua frente, na largura dos ombros. As palmas das mãos devem estar voltadas uma para a outra e os braços devem estar perpendiculares ao chão e totalmente estendidos. Esta será sua posição inicial.",
+    "Ao inspirar e manter os braços parados (e os cotovelos para dentro), abaixe os halteres lentamente, movendo os antebraços em um movimento semicircular em sua direção até que os polegares estejam próximos às orelhas. Inspire enquanto executa esta parte do movimento.",
+    "Levante os halteres de volta à posição inicial contraindo os tríceps e expirando.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

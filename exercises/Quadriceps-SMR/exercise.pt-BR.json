@@ -1,0 +1,19 @@
+{
+  "name": "Quadríceps-SMR",
+  "aliases": [
+    "Autoliberação Miofascial do Quadríceps"
+  ],
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de bruços no chão com o peso apoiado nas mãos ou antebraços. Coloque um rolo de espuma embaixo de uma perna no quadríceps e mantenha o pé fora do chão. Certifique-se de relaxar a perna o máximo possível. Esta será sua posição inicial.",
+    "Transferindo o máximo de peso tolerável para a perna a ser esticada, role sobre a espuma de cima do joelho até abaixo do quadril, mantendo os pontos de tensão por 10 a 30 segundos. Troque de lado."
+  ],
+  "category": "alongamento"
+}

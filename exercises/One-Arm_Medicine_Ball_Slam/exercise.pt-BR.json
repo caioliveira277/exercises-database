@@ -1,0 +1,21 @@
+{
+  "name": "Golpe de bola medicinal com um braço",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece em pé com uma postura atlética e escalonada. Segure uma bola medicinal com uma das mãos, do mesmo lado da perna de trás. Esta será sua posição inicial.",
+    "Comece enrolando o braço, levantando a bola medicinal acima da cabeça. Ao fazer isso, estenda os quadris, joelhos e tornozelos para se preparar para a batida.",
+    "No pico da extensão, flexione os ombros, a coluna e os quadris para lançar a bola com força no chão, bem à sua frente.",
+    "Pegue a bola no salto e continue pelo número desejado de repetições."
+  ],
+  "category": "força"
+}

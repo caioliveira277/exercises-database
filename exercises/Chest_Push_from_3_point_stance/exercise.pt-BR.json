@@ -1,0 +1,21 @@
+{
+  "name": "Empurrão no peito a partir da postura de 3 pontos",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece em uma postura de três pontos, agachado com as costas retas e uma mão no chão. Coloque a bola medicinal diretamente à sua frente.",
+    "Para começar, dê o primeiro passo puxando a bola até o peito, posicionando as duas mãos para se preparar para o lançamento.",
+    "Ao executar o segundo passo, solte a bola de forma explosiva o mais forte possível."
+  ],
+  "category": "pliometria"
+}

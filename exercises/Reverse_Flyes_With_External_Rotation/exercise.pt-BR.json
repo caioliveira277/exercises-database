@@ -1,0 +1,21 @@
+{
+  "name": "Moscas reversas com rotação externa",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, deite-se em um banco inclinado em um ângulo de 30 graus com o peito e o estômago pressionando contra a inclinação.",
+    "Coloque os halteres em cada mão com as palmas voltadas para o chão. Seus braços devem estar à sua frente, de modo que fiquem perpendiculares ao ângulo do banco. Dica: Seus cotovelos devem estar ligeiramente flexionados. As pernas devem estar estacionárias enquanto aplica pressão com a ponta dos pés (os calcanhares não devem tocar o chão). Esta é a posição inicial.",
+    "Mantendo a ligeira flexão dos cotovelos, mova os pesos para fora e para longe um do outro em um movimento de arco enquanto expira.",
+    "À medida que você levanta o peso, seu pulso deve girar externamente 90 graus, de modo que você passe de uma pegada com as palmas para baixo (pronada) para uma pegada com as palmas voltadas uma para a outra (neutra). Dica: Tente apertar as omoplatas para obter os melhores resultados deste exercício.",
+    "Os braços devem ser elevados até ficarem no nível da cabeça.",
+    "Sinta a contração e abaixe lentamente os pesos de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

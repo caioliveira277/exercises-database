@@ -1,0 +1,18 @@
+{
+  "name": "Flexões de pernas deitadas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste a alavanca da máquina para se ajustar à sua altura e deite-se de bruços na máquina de flexão de pernas com a almofada da alavanca na parte de trás das pernas (apenas alguns centímetros abaixo das panturrilhas). Dica: De preferência, use uma máquina de flexão de pernas que seja angular em vez de plana, pois uma posição angular é mais favorável para o recrutamento dos isquiotibiais.",
+    "Mantendo o tronco apoiado no banco, certifique-se de que as pernas estejam totalmente esticadas e segure as alças laterais da máquina. Posicione os dedos dos pés retos (ou você também pode usar qualquer uma das outras duas posturas descritas na seção de posicionamento dos pés). Esta será sua posição inicial.",
+    "Ao expirar, levante as pernas o máximo possível, sem levantar a parte superior das pernas da almofada. Depois de atingir a posição totalmente contraída, segure-a por um segundo.",
+    "Ao inspirar, traga as pernas de volta à posição inicial. Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

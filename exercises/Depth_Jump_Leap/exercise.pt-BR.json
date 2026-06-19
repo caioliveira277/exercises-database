@@ -1,0 +1,24 @@
+{
+  "name": "Salto em profundidade",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para esta furadeira você precisará de duas caixas ou bancadas, uma de 30 a 16 centímetros de altura e a outra de 22 a 26 centímetros de altura.",
+    "Fique em uma das duas caixas com os braços nas laterais; os pés devem estar juntos e ligeiramente afastados da borda, como no salto em profundidade. Coloque a outra caixa aproximadamente 60 ou 90 centímetros à frente e de frente para o artista.",
+    "Comece largando a caixa inicial, pousando e decolando simultaneamente com os dois pés.",
+    "Rebote dirigindo para cima e para fora o mais intensamente possível, usando os braços e toda a extensão do corpo para pular para a caixa mais alta. Novamente, permita que as pernas absorvam o impacto."
+  ],
+  "category": "pliometria"
+}

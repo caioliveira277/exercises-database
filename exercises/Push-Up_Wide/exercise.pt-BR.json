@@ -1,0 +1,22 @@
+{
+  "name": "Flexão ampla",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Com as mãos bem afastadas, apoie o corpo na ponta dos pés e as mãos em posição de prancha. Seus cotovelos devem estar estendidos e seu corpo reto. Não permita que seus quadris caiam. Esta será sua posição inicial.",
+    "Para começar, deixe os cotovelos flexionarem, abaixando o peito até o chão enquanto inspira.",
+    "Usando os músculos peitorais, pressione a parte superior do corpo de volta à posição inicial, estendendo os cotovelos. Expire ao executar esta etapa.",
+    "Após pausar na posição contraída, repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

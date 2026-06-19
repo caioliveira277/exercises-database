@@ -1,0 +1,19 @@
+{
+  "name": "Tocadores de calcanhar alternativos",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão com os joelhos dobrados e os pés no chão separados por cerca de 18-24 polegadas. Seus braços devem estar estendidos ao seu lado. Esta será sua posição inicial.",
+    "Amasse o tronco para a frente e para cima cerca de 7 a 10 centímetros para o lado direito e toque o calcanhar direito enquanto mantém a contração por um segundo. Expire enquanto executa este movimento.",
+    "Agora volte lentamente à posição inicial enquanto inspira.",
+    "Agora amasse o tronco para a frente e suba cerca de 7 a 10 centímetros para o lado esquerdo e toque o calcanhar esquerdo enquanto mantém a contração por um segundo. Expire enquanto executa esse movimento e depois volte à posição inicial enquanto inspira. Agora que ambos os calcanhares foram tocados, isso é considerado 1 repetição.",
+    "Continue alternando os lados dessa maneira até que todas as repetições prescritas sejam concluídas."
+  ],
+  "category": "força"
+}

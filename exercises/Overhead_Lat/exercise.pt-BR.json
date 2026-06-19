@@ -1,0 +1,19 @@
+{
+  "name": "Lat superior",
+  "force": "estática",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se ereto no chão com seu parceiro atrás de você. Levante um braço e flexione o cotovelo, tentando tocar as costas com a mão. Seu parceiro deve segurar seu tríceps e pulso. Esta será sua posição inicial.",
+    "Tente puxar o braço para o lado, pois seu parceiro o impede de realmente fazê-lo.",
+    "Após 10-20 segundos, relaxe o braço e permita que seu parceiro alongue ainda mais o dorso, aplicando uma leve pressão no tríceps. Segure por 10-20 segundos e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

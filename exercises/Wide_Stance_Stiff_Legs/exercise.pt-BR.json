@@ -1,0 +1,20 @@
+{
+  "name": "Pernas rígidas de postura ampla",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece com uma barra colocada no chão. Adote uma postura ampla e, em seguida, dobre os quadris para agarrar a barra. Seus quadris devem estar o mais para trás possível e as pernas quase retas. Mantenha as costas retas e a cabeça e o peito erguidos. Esta será sua posição inicial.",
+    "Comece o movimento envolvendo os quadris, conduzindo-os para a frente enquanto permite que os braços fiquem retos. Continue até ficar em pé e, em seguida, retorne lentamente o peso à posição inicial. Para repetições sucessivas, o peso não precisa tocar o chão."
+  ],
+  "category": "levantamento de peso olímpico"
+}

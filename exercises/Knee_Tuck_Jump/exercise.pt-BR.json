@@ -1,0 +1,23 @@
+{
+  "name": "Salto com joelho",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Comece em uma posição confortável em pé, com os joelhos ligeiramente flexionados. Mantenha as mãos à sua frente, com as palmas para baixo e as pontas dos dedos juntas na altura do peito. Esta será sua posição inicial.",
+    "Mergulhe rapidamente em um quarto de agachamento e imediatamente exploda para cima. Leve os joelhos em direção ao peito, tentando tocá-los nas palmas das mãos.",
+    "Salte o mais alto que puder, levantando os joelhos e, em seguida, assegure-se de que um bom terreno esteja estendendo novamente as pernas, absorvendo o impacto ao permitir que os joelhos se dobrem novamente."
+  ],
+  "category": "pliometria"
+}

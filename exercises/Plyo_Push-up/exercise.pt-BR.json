@@ -1,0 +1,23 @@
+{
+  "name": "Flexão Plyo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Fique de bruços no chão, apoiando o peso nas mãos e nos dedos dos pés.",
+    "Seus braços devem estar totalmente estendidos com as mãos na largura dos ombros. Mantenha o corpo reto durante todo o movimento. Esta será sua posição inicial.",
+    "Desça flexionando o cotovelo, abaixando o peito em direção ao chão.",
+    "Na parte inferior, inverta o movimento empurrando-se para cima através da extensão do cotovelo o mais rápido possível. Tente empurrar a parte superior do corpo para cima até que as mãos saiam do chão.",
+    "Volte à posição inicial e repita o exercício.",
+    "Para maior dificuldade, adicione palmas ao movimento enquanto você está no ar."
+  ],
+  "category": "pliometria"
+}

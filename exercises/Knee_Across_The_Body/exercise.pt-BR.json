@@ -1,0 +1,19 @@
+{
+  "name": "Joelho ao longo do corpo",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "lombar"
+  ],
+  "instructions": [
+    "Deite-se no chão com a perna direita esticada. Dobre a perna esquerda e abaixe-a sobre o corpo, segurando o joelho em direção ao chão com a mão direita. (O joelho não precisa tocar o chão se você estiver tenso.)",
+    "Coloque o braço esquerdo confortavelmente ao seu lado e vire a cabeça para a esquerda. Imagine que você tem um peso amarrado ao cóccix. deixe o cóccix cair em direção ao chão enquanto o peito se estende na direção oposta para alongar a parte inferior das costas. Troque de lado."
+  ],
+  "category": "alongamento"
+}

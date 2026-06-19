@@ -1,0 +1,19 @@
+{
+  "name": "Curvatura EZ-Bar",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra EZ",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé enquanto segura uma barra curva EZ na alça externa larga. As palmas das mãos devem estar voltadas para a frente e ligeiramente inclinadas para dentro devido ao formato da barra. Mantenha os cotovelos próximos ao tronco. Esta será sua posição inicial.",
+    "Agora, mantendo os braços parados, expire e enrole os pesos para a frente enquanto contrai os bíceps. Concentre-se apenas em mover os antebraços.",
+    "Continue a levantar o peso até que os bíceps estejam totalmente contraídos e a barra esteja na altura dos ombros. Mantenha a posição contraída superior por um momento e contraia os bíceps.",
+    "Em seguida, inspire e abaixe lentamente a barra de volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

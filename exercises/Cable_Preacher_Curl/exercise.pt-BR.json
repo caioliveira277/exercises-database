@@ -1,0 +1,23 @@
+{
+  "name": "Curvatura do Pregador de Cabo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Coloque um banco de pregador cerca de 60 centímetros na frente de uma máquina de polias.",
+    "Anexe uma barra reta à polia baixa.",
+    "Sente-se no banco do pregador com os cotovelos e os braços firmemente em cima do banco e peça a alguém que lhe entregue a barra da polia baixa.",
+    "Segure a barra e estenda totalmente os braços em cima do banco do pregador. Esta será sua posição inicial.",
+    "Agora comece a empilhar o peso em direção aos ombros e contraia os bíceps com força no topo do movimento. Expire ao realizar esse movimento. Além disso, segure por um segundo no topo.",
+    "Agora abaixe lentamente o peso até a posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

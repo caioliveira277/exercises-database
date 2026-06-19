@@ -1,0 +1,24 @@
+{
+  "name": "Roda de Conan",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "bíceps",
+    "panturrilhas",
+    "antebraços",
+    "lombar",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Com o peso carregado, segure com força na extremidade do implemento. Coloque a barra na dobra do cotovelo e segure no pulso. Tente manter o peso longe dos antebraços.",
+    "Comece levantando o peso do chão. Mantenha uma postura firme e ereta ao caminhar, dando passos curtos e rápidos. Olhe para cima e para longe enquanto gira em círculo. Não prenda a respiração durante o evento. Continue andando até completar uma ou mais voltas completas."
+  ],
+  "category": "strongman"
+}

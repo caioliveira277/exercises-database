@@ -1,0 +1,16 @@
+{
+  "name": "Alongamento lateral no chão",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Primeiro, deite-se sobre o lado esquerdo, dobrando o joelho esquerdo à sua frente para estabilizar o tronco (use também os músculos abdominais para mantê-lo em pé).",
+    "Estique a perna direita e descanse o pé direito no chão, atrás do esquerdo. Estique o braço direito sobre a cabeça e puxe suavemente o pulso direito para esticar todo o lado direito do corpo. Troque de lado."
+  ],
+  "category": "alongamento"
+}

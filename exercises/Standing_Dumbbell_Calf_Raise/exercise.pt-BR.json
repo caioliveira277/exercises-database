@@ -1,0 +1,18 @@
+{
+  "name": "Levantamento de panturrilha com halteres em pé",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé com o tronco ereto segurando dois halteres nas mãos ao lado do corpo. Coloque a planta do pé em uma tábua de madeira resistente e estável (com cerca de 5 a 7 centímetros de altura) enquanto os calcanhares se estendem e tocam o chão. Esta será sua posição inicial.",
+    "Com os dedos apontando para frente (para atingir todas as partes igualmente), para dentro (para dar ênfase à parte externa da cabeça) ou para fora (para dar ênfase à parte interna da cabeça), levante os calcanhares do chão enquanto expira, contraindo as panturrilhas. Segure a contração superior por um segundo.",
+    "Ao inspirar, volte à posição inicial abaixando lentamente os calcanhares.",
+    "Repita pela quantidade recomendada de vezes."
+  ],
+  "category": "força"
+}

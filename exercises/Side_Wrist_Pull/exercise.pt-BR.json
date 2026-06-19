@@ -1,0 +1,19 @@
+{
+  "name": "Tração lateral do pulso",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "dorsais"
+  ],
+  "instructions": [
+    "Este alongamento funciona melhor em pé. Cruze o braço esquerdo sobre a linha média do corpo e segure o pulso esquerdo com a mão direita na altura dos quadris. Comece o alongamento com o braço esquerdo dobrado.",
+    "Endireite-o lentamente, puxe-o e levante-o até a altura dos ombros, conforme ilustrado. Sinta esse alongamento originar-se nas costas, não nos ombros, e não puxe com muita força a articulação dos ombros. Troque de lado."
+  ],
+  "category": "alongamento"
+}

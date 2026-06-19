@@ -1,0 +1,20 @@
+{
+  "name": "Soltar Empurrão",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Posicione caixas baixas ou outras plataformas com 2 a 3 pés de distância.",
+    "Passe para uma posição de flexão entre eles, apoiando-se colocando as mãos nas caixas.",
+    "Com boa postura, desça das plataformas pressionando para cima e movendo as mãos na largura dos ombros, amortecendo a aterrissagem ao absorver o impacto através do braço."
+  ],
+  "category": "pliometria"
+}

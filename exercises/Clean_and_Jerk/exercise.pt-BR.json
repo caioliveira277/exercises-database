@@ -1,0 +1,30 @@
+{
+  "name": "Limpo e Idiota",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "quadríceps",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "Com uma barra no chão perto das canelas, faça uma pegada overhand ou gancho logo fora das pernas. Abaixe os quadris com o peso concentrado nos calcanhares, costas retas, cabeça voltada para frente, peito para cima, com os ombros bem na frente da barra. Esta será sua posição inicial.",
+    "Comece a primeira puxada passando pelos calcanhares, estendendo os joelhos. O ângulo das costas deve permanecer o mesmo e os braços devem permanecer retos. Mova o peso com controle enquanto continua acima dos joelhos.",
+    "Em seguida vem a segunda puxada, principal fonte de aceleração do clean. À medida que a barra se aproxima da posição do meio da coxa, comece a estender-se pelos quadris. Em um movimento de salto, acelere estendendo os quadris, joelhos e tornozelos, usando a velocidade para mover a barra para cima. Não deve haver necessidade de puxar ativamente os braços para acelerar o peso; ao final da segunda puxada, o corpo deve estar totalmente estendido, ligeiramente inclinado para trás, com os braços ainda estendidos.",
+    "Quando a extensão total for alcançada, faça a transição para a terceira puxada encolhendo agressivamente os ombros e flexionando os braços com os cotovelos para cima e para fora. No pico da extensão, puxe-se agressivamente para baixo, girando os cotovelos sob a barra enquanto faz isso. Receba a barra na posição de agachamento frontal, cuja profundidade depende da altura da barra no final da terceira puxada. A barra deve ser apoiada nos ombros estendidos, tocando levemente a garganta com as mãos relaxadas. Continue descendo até a posição de agachamento inferior, o que ajudará na recuperação.",
+    "Recupere-se imediatamente dirigindo pelos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Continue até ficar em pé.",
+    "A segunda fase é o jerk, que eleva o peso acima da cabeça. De pé com o peso apoiado na frente dos ombros, comece com o mergulho. Com os pés diretamente sob os quadris, flexione os joelhos sem mover os quadris para trás. Desça apenas ligeiramente e inverta a direção com a maior força possível.",
+    "Dirija pelos calcanhares, crie o máximo de velocidade e força possível e certifique-se de mover a cabeça para fora do caminho quando a barra sair dos ombros.",
+    "Neste momento em que os pés saem do chão, os pés devem ser colocados na posição de recepção o mais rápido possível. No breve momento em que os pés não estiverem se movimentando ativamente contra a plataforma, o esforço do atleta para empurrar a barra para cima irá empurrá-los para baixo. Os pés devem estar separados, com um pé à frente e outro atrás. Receba a barra com os braços travados acima da cabeça. Retorne à posição em pé."
+  ],
+  "category": "levantamento de peso olímpico"
+}

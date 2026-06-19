@@ -1,0 +1,15 @@
+{
+  "name": "Ponte Lateral",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [],
+  "category": "força"
+}

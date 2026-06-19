@@ -1,0 +1,23 @@
+{
+  "name": "Pulôver com barra larga e larga",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco declinado com ambas as pernas firmemente travadas na posição. Alcance a barra atrás da cabeça usando uma pegada pronada (palmas voltadas para fora). Certifique-se de agarrar a barra mais larga que a largura dos ombros para este exercício. Levante lentamente a barra do chão usando os braços.",
+    "Quando posicionados corretamente, seus braços devem estar totalmente estendidos e perpendiculares ao chão. Esta é a posição inicial.",
+    "Comece movendo a barra para baixo em um movimento semicircular, como se fosse colocá-la no chão, mas pare quando os braços estiverem paralelos ao chão. Dica: Mantenha os braços totalmente estendidos o tempo todo. O movimento só deve acontecer na articulação do ombro. Inspire ao realizar esta parte do movimento.",
+    "Agora levante a barra enquanto expira até voltar à posição inicial. Lembre-se de manter o controle total da barra em todos os momentos.",
+    "Repita o movimento pela quantidade prescrita de repetições do seu programa de treinamento.",
+    "Quando terminar a série, abaixe lentamente a barra até que fique nivelada com sua cabeça e solte-a."
+  ],
+  "category": "força"
+}

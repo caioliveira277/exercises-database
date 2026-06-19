@@ -1,0 +1,19 @@
+{
+  "name": "Prensa de panturrilha na máquina de leg press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Usando uma máquina de leg press, sente-se na máquina e coloque as pernas na plataforma diretamente à sua frente, em uma posição média (na largura dos ombros).",
+    "Abaixe as barras de segurança que prendem a plataforma com pesos no lugar e pressione a plataforma totalmente para cima até que suas pernas estejam totalmente estendidas à sua frente, sem travar os joelhos. (Observação: em algumas unidades de leg press você pode deixar as barras de segurança ligadas para maior segurança. Se sua unidade de leg press permitir isso, então este é o método preferido de realizar o exercício.) Seu tronco e as pernas devem formar um ângulo perfeito de 90 graus. Agora coloque cuidadosamente os dedos dos pés e a planta dos pés na parte inferior da plataforma, com os calcanhares estendidos. Os dedos dos pés devem estar voltados para a frente, para fora ou para dentro, conforme descrito no início do capítulo. Esta será sua posição inicial.",
+    "Pressione a plataforma levantando os calcanhares enquanto expira, estendendo os tornozelos o mais alto possível e flexionando a panturrilha. Certifique-se de que o joelho esteja sempre parado. Não deve haver flexão em nenhum momento. Mantenha a posição contraída por um segundo antes de começar a descer.",
+    "Volte lentamente à posição inicial enquanto inspira, abaixando os calcanhares enquanto dobra os tornozelos até que as panturrilhas estejam esticadas.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

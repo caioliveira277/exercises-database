@@ -1,0 +1,20 @@
+{
+  "name": "Corrida/caminhada em trilha",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Correr ou caminhar em trilhas fará o sangue bombear e o coração bater quase imediatamente. Certifique-se de ter bons sapatos. Enquanto você usa os músculos das panturrilhas e das nádegas para subir uma colina, os joelhos, articulações e tornozelos absorvem a maior parte do impacto que volta para baixo. Dê passos menores ao descer uma ladeira, mantenha os joelhos dobrados para reduzir o impacto e diminua a velocidade para evitar cair.",
+    "Uma pessoa de 150 libras pode queimar mais de 200 calorias por 30 minutos caminhando em uma subida, em comparação com 175 em uma superfície plana. Se estiver correndo na trilha, uma pessoa de 150 libras pode queimar bem mais de 500 calorias em 30 minutos."
+  ],
+  "category": "cardio"
+}

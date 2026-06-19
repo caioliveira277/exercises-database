@@ -1,0 +1,24 @@
+{
+  "name": "Supino com banda reversa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "antebraços",
+    "dorsais",
+    "dorsal médio",
+    "ombros"
+  ],
+  "instructions": [
+    "Posicione um banco dentro de um power rack, com a barra na altura correta. Comece ancorando as faixas nos pinos das faixas ou no topo do rack. Certifique-se de que você estará posicionado corretamente sob as faixas. Anexe a outra extremidade à barra.",
+    "Deite-se no banco, coloque os pés embaixo de você e arqueie as costas. Usando a barra para ajudar a suportar o peso, levante os ombros do banco e retraia-os, apertando as omoplatas. Use os pés para colocar as armadilhas no banco. Mantenha essa posição corporal firme durante todo o movimento. Por mais ampla que seja sua pegada, ela deve cobrir o anel da barra.",
+    "Puxe a barra para fora do suporte sem esticar os ombros. Concentre-se em apertar a barra e tentar separá-la. Abaixe a barra até a parte inferior do tórax ou parte superior do estômago. A barra, o pulso e o cotovelo devem permanecer alinhados o tempo todo.",
+    "Faça uma pausa quando a barra tocar seu tronco e, em seguida, mova a barra para cima com o máximo de força possível. Os cotovelos devem ser dobrados até o bloqueio."
+  ],
+  "category": "levantamento de peso básico"
+}

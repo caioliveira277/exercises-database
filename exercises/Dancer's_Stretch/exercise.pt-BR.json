@@ -1,0 +1,21 @@
+{
+  "name": "Alongamento do dançarino",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "glúteos"
+  ],
+  "instructions": [
+    "Sente-se no chão.",
+    "Cruze a perna direita sobre a esquerda, mantendo o joelho dobrado. Sua perna esquerda está reta e apoiada no chão.",
+    "Coloque o braço esquerdo na perna direita e a mão direita no chão.",
+    "Gire a parte superior do corpo para a direita e segure por 10 a 20 segundos. Troque de lado."
+  ],
+  "category": "alongamento"
+}

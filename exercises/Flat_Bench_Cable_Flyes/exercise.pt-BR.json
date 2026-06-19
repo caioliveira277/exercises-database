@@ -1,0 +1,21 @@
+{
+  "name": "Cabos de bancada plana voam",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posicione um banco plano entre duas roldanas baixas de modo que, ao deitar sobre ele, seu peito fique alinhado com as roldanas do cabo.",
+    "Deite-se no banco e mantenha os pés no chão.",
+    "Peça a alguém que lhe entregue as alças de cada mão. Você agarrará cada acessório de alça com as palmas para cima.",
+    "Estenda os braços ao lado do corpo com uma ligeira flexão nos cotovelos. Dica: você manterá essa curva constante durante todo o movimento. Seus braços devem estar paralelos ao chão. Esta é a sua posição inicial.",
+    "Agora comece a levantar os braços em um movimento semicírculo diretamente à sua frente, puxando os cabos juntos até que ambas as mãos se encontrem no topo do movimento. Contraia o peito ao realizar esse movimento e expire durante esse movimento. Além disso, segure a contração por um segundo na parte superior. Dica: Quando executado corretamente, na posição superior desse movimento, os braços devem ficar perpendiculares ao tronco e o chão tocando acima do peito.",
+    "Volte lentamente à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

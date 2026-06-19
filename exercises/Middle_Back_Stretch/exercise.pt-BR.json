@@ -1,0 +1,20 @@
+{
+  "name": "Alongamento médio das costas",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "dorsais",
+    "lombar"
+  ],
+  "instructions": [
+    "Fique em pé com os pés afastados na largura dos ombros e as mãos nos quadris.",
+    "Torça na cintura até sentir um alongamento. Segure por 10 a 15 segundos e depois gire para o outro lado."
+  ],
+  "category": "alongamento"
+}

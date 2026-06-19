@@ -1,0 +1,19 @@
+{
+  "name": "Pushdown de tríceps - fixação de corda",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda uma corda a uma polia alta e agarre com uma pegada neutra (palmas voltadas uma para a outra).",
+    "Em pé, com o tronco reto e uma inclinação muito pequena para a frente, aproxime os braços do corpo e perpendiculares ao chão. Os antebraços devem apontar para a polia enquanto seguram a corda com as palmas voltadas uma para a outra. Esta é a sua posição inicial.",
+    "Usando o tríceps, abaixe a corda enquanto traz cada lado da corda para o lado das coxas. Ao final do movimento os braços estão totalmente estendidos e perpendiculares ao chão. Os braços devem permanecer sempre parados próximos ao tronco e apenas os antebraços devem se mover. Expire ao realizar esse movimento.",
+    "Depois de segurar por um segundo, na posição contraída, leve a corda lentamente até o ponto inicial. Inspire enquanto executa esta etapa.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

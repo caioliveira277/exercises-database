@@ -1,0 +1,20 @@
+{
+  "name": "Elevação de haltere único",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "trapézios"
+  ],
+  "instructions": [
+    "Com uma postura ampla, segure um haltere com as duas mãos, segurando a cabeça do haltere em vez da alça. Seus braços devem estar estendidos e pendurados na cintura. Esta será sua posição inicial.",
+    "Levante o peso até ficar acima do nível dos ombros, mantendo os braços estendidos. Seu tronco e quadris devem permanecer parados durante todo o movimento.",
+    "Retorne à posição inicial e repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

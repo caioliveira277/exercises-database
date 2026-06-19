@@ -1,0 +1,26 @@
+{
+  "name": "Queixos lado a lado",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "dorsal médio",
+    "ombros"
+  ],
+  "instructions": [
+    "Segure a barra pull-up com as palmas das mãos voltadas para a frente, usando uma pegada ampla.",
+    "Como você tem os dois braços estendidos à sua frente, segurando a barra com uma pegada ampla, traga o tronco para trás cerca de 30 graus ou mais enquanto cria uma curvatura na parte inferior das costas e estica o peito. Esta é a sua posição inicial.",
+    "Puxe o tronco para cima enquanto se inclina para o lado esquerdo até que a barra quase toque a parte superior do peito, puxando os ombros e os braços para baixo e para trás. Expire ao realizar esta parte do movimento. Dica: concentre-se em contrair os músculos das costas quando atingir a posição totalmente contraída. A parte superior do tronco deve permanecer estacionária enquanto se move pelo espaço (sem balançar) e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho além de segurar a barra.",
+    "Após um segundo de contração, inspire ao voltar à posição inicial.",
+    "Agora, puxe o tronco para cima enquanto se inclina para o lado direito até que a barra quase toque a parte superior do peito, puxando os ombros e os braços para baixo e para trás. Expire ao realizar esta parte do movimento. Dica: concentre-se em contrair os músculos das costas quando atingir a posição totalmente contraída. A parte superior do tronco deve permanecer estacionária enquanto se move pelo espaço e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho além de segurar a barra.",
+    "Após um segundo de contração, inspire ao voltar à posição inicial.",
+    "Repita as etapas 3 a 6 até ter realizado a quantidade prescrita de repetições para cada lado."
+  ],
+  "category": "força"
+}

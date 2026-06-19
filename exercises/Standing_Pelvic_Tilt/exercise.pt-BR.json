@@ -1,0 +1,19 @@
+{
+  "name": "Inclinação pélvica em pé",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos"
+  ],
+  "instructions": [
+    "Comece com os pés afastados na distância do quadril.",
+    "Dobre ligeiramente os joelhos para mantê-los macios e elásticos.",
+    "Você pode mover a pélvis para frente, para trás e para trás algumas vezes antes de segurar o cóccix para a frente nesse alongamento."
+  ],
+  "category": "alongamento"
+}

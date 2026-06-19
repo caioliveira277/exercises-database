@@ -1,0 +1,21 @@
+{
+  "name": "Agachamento ajoelhado",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Defina a barra na altura adequada em um rack de energia. Ajoelhe-se atrás do bar; pode ser benéfico colocar um tapete para proteger os joelhos. Deslize por baixo da barra, colocando-a na parte de trás dos ombros. Suas omoplatas devem estar retraídas e a barra bem apertada nas costas. Desembale o peso.",
+    "Com a cabeça voltada para frente, sente-se com a bunda até tocar as panturrilhas.",
+    "Inverta o movimento, retornando o tronco à posição vertical."
+  ],
+  "category": "levantamento de peso básico"
+}

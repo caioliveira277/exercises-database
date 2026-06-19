@@ -1,0 +1,22 @@
+{
+  "name": "Deadlift com halteres com pernas rígidas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Segure alguns halteres segurando-os ao seu lado com o braço estendido.",
+    "Fique em pé com o tronco reto e as pernas espaçadas na largura dos ombros ou em uma postura mais estreita. Os joelhos devem estar ligeiramente flexionados. Esta é a sua posição inicial.",
+    "Mantendo os joelhos estacionários, abaixe os halteres até a parte superior dos pés, dobrando a cintura e mantendo as costas retas. Continue avançando como se fosse pegar algo do chão até sentir um alongamento nos isquiotibiais. Expire enquanto executa este movimento",
+    "Comece a levantar o tronco novamente, estendendo os quadris e a cintura até voltar à posição inicial. Inspire enquanto executa esse movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

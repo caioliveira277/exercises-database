@@ -1,0 +1,20 @@
+{
+  "name": "Postura de criança",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Fique de joelhos e ande com as mãos à sua frente.",
+    "Abaixe as nádegas para sentar-se sobre os calcanhares. Deixe seus braços se arrastarem pelo chão enquanto você se recosta para alongar toda a coluna.",
+    "Depois de se acomodar sobre os calcanhares, coloque as mãos próximas aos pés e relaxe. \"respire\" em suas costas. Descanse a testa no chão. Evite esta posição se tiver problemas nos joelhos."
+  ],
+  "category": "alongamento"
+}

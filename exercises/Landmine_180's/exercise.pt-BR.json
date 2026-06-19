@@ -1,0 +1,23 @@
+{
+  "name": "Mina terrestre dos anos 180",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar",
+    "ombros"
+  ],
+  "instructions": [
+    "Posicione uma barra em uma mina terrestre ou ancore-a com segurança em um canto. Carregue a barra com um peso apropriado.",
+    "Levante a barra do chão, levando-a até a altura dos ombros com as duas mãos e os braços estendidos à sua frente. Adote uma postura ampla. Esta será sua posição inicial.",
+    "Execute o movimento girando o tronco e os quadris enquanto balança o peso totalmente para o lado. Mantenha os braços estendidos durante todo o exercício.",
+    "Inverta o movimento para balançar o peso totalmente para o lado oposto.",
+    "Continue alternando o movimento até que a série esteja completa."
+  ],
+  "category": "força"
+}

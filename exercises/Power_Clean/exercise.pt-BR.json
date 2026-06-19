@@ -1,0 +1,48 @@
+{
+  "name": "Limpeza energética",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "dorsal médio",
+    "quadríceps",
+    "ombros",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "Fique em pé com os pés ligeiramente mais afastados do que a largura dos ombros e os dedos apontando ligeiramente para fora.",
+    "Agache-se e segure a barra com uma pegada fechada e pronada. Suas mãos devem estar um pouco mais largas que a largura dos ombros, fora dos joelhos, com os cotovelos totalmente estendidos.",
+    "Coloque a barra cerca de 2,5 cm na frente das canelas e sobre a planta dos pés.",
+    "Suas costas devem estar retas ou ligeiramente arqueadas, seu peito levantado e para fora e suas omoplatas devem estar retraídas.",
+    "Mantenha a cabeça em uma posição neutra (alinhada com a coluna vertebral e não inclinada ou girada) com os olhos voltados para a frente. Inspire durante esta fase.",
+    "Levante a barra do chão estendendo com força os quadris e os joelhos ao expirar. Dica: A parte superior do tronco deve manter o mesmo ângulo. Não dobre ainda a cintura e não deixe os quadris subirem antes dos ombros (isso teria o efeito de empurrar os glúteos no ar e alongar os isquiotibiais).",
+    "Mantenha os cotovelos totalmente estendidos com a cabeça em posição neutra e os ombros acima da barra.",
+    "À medida que a barra sobe, mantenha-a o mais próximo possível das canelas.",
+    "À medida que a barra passa pelos joelhos, empurre os quadris para a frente e dobre levemente os joelhos para evitar travá-los. Dica: Neste ponto suas coxas devem estar encostadas na barra.",
+    "Mantenha as costas retas ou ligeiramente arqueadas, os cotovelos totalmente estendidos e a cabeça neutra. Dica: você prenderá a respiração até a próxima fase.",
+    "Inspire e, em seguida, estenda com força e rapidez os quadris e os joelhos e fique na ponta dos pés.",
+    "Mantenha a barra o mais próximo possível do corpo. Dica: Suas costas devem estar retas, com os cotovelos apontados para os lados e a cabeça em posição neutra. Além disso, mantenha os ombros acima da barra e os braços retos o maior tempo possível.",
+    "Quando as articulações da parte inferior do corpo estiverem totalmente estendidas, encolha os ombros para cima rapidamente, sem deixar os cotovelos flexionarem ainda. Expire durante esta parte do movimento.",
+    "À medida que os ombros atingem a elevação mais alta, flexione os cotovelos para começar a puxar o corpo para baixo da barra.",
+    "Continue a puxar os braços o mais alto e o mais longo possível. Dica: Devido ao caráter explosivo desta fase, seu tronco ficará ereto ou com as costas arqueadas, sua cabeça ficará levemente inclinada para trás e seus pés poderão perder contato com o chão.",
+    "Depois que a parte inferior do corpo estiver totalmente estendida e a barra atingir a altura quase máxima, puxe o corpo para baixo da barra e gire os braços ao redor e sob a barra.",
+    "Simultaneamente, flexione os quadris e os joelhos em uma posição de agachamento.",
+    "Quando os braços estiverem sob a barra, inspire e levante os cotovelos para posicionar os braços paralelos ao chão. Coloque a barra na frente da clavícula e nos músculos frontais dos ombros.",
+    "Pegue a barra com o tronco ereto e tenso, posição neutra da cabeça e pés chatos. Expire durante este movimento.",
+    "Levante-se estendendo os quadris e joelhos até uma posição totalmente ereta.",
+    "Abaixe a barra reduzindo gradativamente a tensão muscular dos braços para permitir uma descida controlada da barra até as coxas. Inspire durante este movimento.",
+    "Flexione simultaneamente os quadris e os joelhos para amortecer o impacto da barra nas coxas.",
+    "Agache-se com os cotovelos totalmente estendidos até que a barra toque o chão.",
+    "Recomece na Fase 1 e repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

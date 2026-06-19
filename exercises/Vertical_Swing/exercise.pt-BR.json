@@ -1,0 +1,22 @@
+{
+  "name": "Balanço Vertical",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "quadríceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Deixe o haltere pendurado com os braços estendidos entre as pernas, segurando-o com as duas mãos. Mantenha as costas retas e a cabeça erguida.",
+    "Balance o haltere entre as pernas, flexionando os quadris e dobrando levemente os joelhos.",
+    "Inverta o movimento com força, estendendo os quadris, joelhos e tornozelos para impulsionar-se para cima, balançando o haltere sobre a cabeça.",
+    "Ao pousar, absorva o impacto pelas pernas e puxe o haltere até o tronco antes da próxima repetição."
+  ],
+  "category": "pliometria"
+}

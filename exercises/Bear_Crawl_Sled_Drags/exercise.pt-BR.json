@@ -1,0 +1,20 @@
+{
+  "name": "Dragas de trenó de rastreamento de urso",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Usando um arnês ou um cinto solto, prenda a corrente na parte de trás de modo que você fique de costas para o trenó. Abaixe-se para que suas mãos fiquem no chão. Suas costas devem estar retas e os joelhos dobrados. Esta é a sua posição inicial.",
+    "Comece dirigindo com as pernas, alternando esquerda e direita. Use as mãos para manter o equilíbrio e ajudar a puxar. Tente manter as costas retas enquanto percorre uma determinada distância."
+  ],
+  "category": "strongman"
+}

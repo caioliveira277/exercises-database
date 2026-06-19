@@ -1,0 +1,22 @@
+{
+  "name": "Máquina de imersão",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Sente-se com segurança em uma máquina de imersão, selecione o peso e segure firmemente as alças.",
+    "Agora mantenha os cotovelos ao lado do corpo para dar ênfase ao tríceps. Os cotovelos devem estar dobrados em um ângulo de 90 graus.",
+    "Ao contrair o tríceps, estenda os braços para baixo enquanto expira. Dica: Na parte inferior do movimento, concentre-se em manter os braços ligeiramente flexionados para manter a tensão no músculo tríceps.",
+    "Agora, lentamente, deixe seus braços voltarem à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

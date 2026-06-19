@@ -1,0 +1,21 @@
+{
+  "name": "Prensa de ombro suspensa da máquina Smith",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Para começar, coloque uma bancada plana (ou de preferência uma com apoio para as costas) embaixo de uma ferraria. Posicione a barra em uma altura que, ao sentar no banco plano, os braços estejam quase totalmente estendidos para alcançar a barra.",
+    "Depois de atingir a altura correta, sente-se ligeiramente atrás da barra para que haja uma linha reta imaginária da ponta do nariz até a barra. Seus pés devem estar parados. Pegue a barra com as palmas voltadas para frente, destrave-a e levante-a de forma que os braços fiquem totalmente estendidos. Esta é a posição inicial.",
+    "Lentamente, comece a abaixar a barra até que ela fique nivelada com o queixo enquanto inspira.",
+    "Em seguida, levante a barra de volta à posição inicial usando os ombros enquanto expira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Extensão de quadril com faixas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Prenda uma extremidade da faixa na parte inferior de um poste e prenda a outra em um tornozelo.",
+    "De frente para o ponto de fixação da faixa, segure-se na coluna para se estabilizar.",
+    "Mantendo a cabeça e o peito erguidos, mova a perna resistida para trás o máximo que puder, mantendo o joelho reto.",
+    "Retorne a perna à posição inicial."
+  ],
+  "category": "força"
+}

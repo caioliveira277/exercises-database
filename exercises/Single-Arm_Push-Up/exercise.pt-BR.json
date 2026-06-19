@@ -1,0 +1,21 @@
+{
+  "name": "Flexão de braço único",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece deitado no chão. Coloque-se em uma posição apoiando o peso nos dedos dos pés e em um braço. Seu braço ativo deve ser colocado diretamente sob o ombro, totalmente estendido. Suas pernas devem estar estendidas, e para esse movimento você pode precisar de uma base mais larga, colocando os pés mais afastados do que em uma flexão normal.",
+    "Mantenha uma boa postura e coloque a mão livre atrás das costas. Esta será sua posição inicial.",
+    "Abaixe-se permitindo que o cotovelo flexione até tocar o chão.",
+    "Desça lentamente e inverta a direção estendendo o braço para retornar à posição inicial."
+  ],
+  "category": "força"
+}

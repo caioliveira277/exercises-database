@@ -1,0 +1,20 @@
+{
+  "name": "Trituração de cabos",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajoelhe-se abaixo de uma polia alta que contém uma corda presa.",
+    "Segure o acessório do cabo e abaixe a corda até que suas mãos estejam próximas ao seu rosto.",
+    "Flexione levemente os quadris e permita que o peso hiperestenda a parte inferior das costas. Esta será sua posição inicial.",
+    "Com os quadris parados, flexione a cintura enquanto contrai os abdominais, de modo que os cotovelos se desloquem em direção ao meio das coxas. Expire ao realizar esta parte do movimento e mantenha a contração por um segundo.",
+    "Retorne lentamente à posição inicial enquanto inspira. Dica: certifique-se de manter uma tensão constante nos abdominais durante todo o movimento. Além disso, não escolha um peso tão pesado que a região lombar aguente o peso do trabalho.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

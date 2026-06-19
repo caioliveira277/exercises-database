@@ -1,0 +1,23 @@
+{
+  "name": "Levantamento Terra por Cabo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Mova os cabos para a parte inferior das torres e selecione um peso apropriado. Fique diretamente entre as colunas.",
+    "Para começar, agache-se e flexione os quadris e os joelhos até alcançar as alças.",
+    "Depois de agarrá-los, comece sua subida. Dirigindo pelos calcanhares, estenda os quadris e os joelhos, mantendo as mãos penduradas ao lado do corpo. Mantenha a cabeça e o peito erguidos durante todo o movimento.",
+    "Depois de atingir a posição totalmente ereta, retorne à posição inicial e repita."
+  ],
+  "category": "força"
+}

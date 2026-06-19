@@ -1,0 +1,22 @@
+{
+  "name": "Embaralhamento de caixa lado a lado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique de lado da caixa com o pé esquerdo apoiado no meio dela.",
+    "Para começar, pule para o outro lado da caixa, pousando com o pé direito em cima da caixa e o pé esquerdo no chão. Balance os braços para ajudar no seu movimento.",
+    "Continue embaralhando a caixa para frente e para trás."
+  ],
+  "category": "pliometria"
+}

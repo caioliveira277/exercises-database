@@ -1,0 +1,19 @@
+{
+  "name": "O Straddle",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Comece sentado e ereto. Comece estendendo as pernas à sua frente em forma de V.",
+    "Com as mãos no chão, incline-se para frente o máximo possível. Segure por 10 a 20 segundos."
+  ],
+  "category": "alongamento"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Prensa de tórax com cabo inclinado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Ajuste o peso para uma quantidade adequada e sente-se, segurando as alças. Os braços devem estar a cerca de 45 graus do corpo, com a cabeça e o peito para cima. Os cotovelos devem estar dobrados em cerca de 90 graus. Esta será sua posição inicial.",
+    "Comece estendendo-se pelo cotovelo, pressionando as alças diretamente à sua frente. Mantenha as omoplatas retraídas enquanto executa o movimento.",
+    "Após pausar na extensão total, retorne à posição inicial, mantendo a tensão nos cabos."
+  ],
+  "category": "força"
+}

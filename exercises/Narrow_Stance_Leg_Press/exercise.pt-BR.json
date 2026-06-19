@@ -1,0 +1,23 @@
+{
+  "name": "Leg press de postura estreita",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Usando uma máquina de leg press, sente-se na máquina e coloque as pernas na plataforma diretamente à sua frente, em uma postura estreita menor que a largura dos ombros, com os dedos dos pés ligeiramente apontados. Seus pés devem estar separados por cerca de 7 centímetros ou menos. Dica: Mantenha a cabeça sempre erguida e também mantenha as costas apoiadas na almofada o tempo todo.",
+    "Abaixe as barras de segurança que prendem a plataforma com pesos no lugar e pressione a plataforma totalmente para cima até que suas pernas estejam totalmente estendidas à sua frente. Dica: certifique-se de não travar os joelhos. Seu tronco e as pernas devem formar um ângulo perfeito de 90 graus. Esta será sua posição inicial.",
+    "Ao inspirar, abaixe lentamente a plataforma até que a parte superior e inferior das pernas formem um ângulo de 90 graus.",
+    "Empurrando principalmente com os calcanhares e usando o quadríceps, volte à posição inicial ao expirar.",
+    "Repita pela quantidade recomendada de repetições e certifique-se de travar os alfinetes de segurança corretamente quando terminar. Você não quer que aquela plataforma caia sobre você totalmente carregada."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Arrebatamento de poder",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece com uma barra carregada no chão. A barra deve estar próxima ou tocando as canelas, e uma pegada ampla deve ser feita na barra. Os pés devem ficar diretamente abaixo dos quadris, com os pés voltados para fora conforme necessário. Abaixe os quadris, com o peito para cima e a cabeça voltada para frente. Os ombros devem ficar bem na frente da barra. Esta será a posição inicial.",
+    "Comece a primeira puxada passando pela frente dos calcanhares, levantando a barra do chão. O ângulo das costas deve permanecer o mesmo até que a barra passe pelos joelhos.",
+    "Faça a transição para a segunda puxada estendendo-se pelos quadris, joelhos e tornozelos, elevando a barra o mais rápido possível. A barra deve ficar próxima ao corpo. No pico da extensão, encolha os ombros e deixe os cotovelos flexionarem para o lado.",
+    "Ao mover os pés para a posição de recepção, uma posição um pouco mais ampla, puxe-se para baixo da barra enquanto a eleva acima da cabeça. A barra deve ser recebida em agachamento parcial. Continue levantando a barra até a posição acima da cabeça, recebendo a barra travada acima da cabeça.",
+    "Retorne à posição ereta com o peso sobre a cabeça."
+  ],
+  "category": "levantamento de peso olímpico"
+}

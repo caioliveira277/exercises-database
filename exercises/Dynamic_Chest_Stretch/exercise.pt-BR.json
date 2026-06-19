@@ -1,0 +1,18 @@
+{
+  "name": "Alongamento dinâmico do peito",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Fique em pé com as mãos juntas e os braços estendidos diretamente à sua frente. Esta será sua posição inicial.",
+    "Mantendo os braços retos, mova-os rapidamente para trás o máximo possível e para dentro novamente, semelhante a um movimento exagerado de bater palmas. Repita de 5 a 10 vezes, aumentando a velocidade à medida que faz isso."
+  ],
+  "category": "alongamento"
+}

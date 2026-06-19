@@ -1,0 +1,23 @@
+{
+  "name": "Agachamento com salto ponderado",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Posicione uma barra levemente carregada na parte de trás dos ombros. Você também pode usar um colete pesado, um saco de areia ou outro tipo de resistência para este exercício.",
+    "O peso deve ser leve o suficiente para não desacelerar significativamente. Seus pés devem estar fora da largura dos ombros, com a cabeça e o peito para cima. Esta será sua posição inicial.",
+    "Usando um contramovimento, agache-se parcialmente e imediatamente inverta a direção para explodir do chão, estendendo-se pelos quadris, joelhos e tornozelos. Mantenha uma boa postura durante todo o salto.",
+    "Ao retornar ao solo, absorva o impacto pelas pernas."
+  ],
+  "category": "força"
+}

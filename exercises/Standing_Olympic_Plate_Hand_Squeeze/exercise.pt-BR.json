@@ -1,0 +1,20 @@
+{
+  "name": "Aperto manual da placa olímpica em pé",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [
+    "bíceps"
+  ],
+  "instructions": [
+    "Para começar, fique em pé enquanto segura uma placa de peso pela crista com o braço estendido em cada mão, usando uma pegada neutra (palmas voltadas para dentro). Seus pés devem estar separados um do outro na largura dos ombros. Esta será sua posição inicial.",
+    "Abaixe as placas até que os dedos estejam quase estendidos, mas ainda consigam segurar pesos. Inspire ao abaixar as placas.",
+    "Agora levante as placas de volta à posição inicial enquanto expira, fechando as mãos.",
+    "Repita pela quantidade recomendada de repetições prescritas em seu programa."
+  ],
+  "category": "força"
+}

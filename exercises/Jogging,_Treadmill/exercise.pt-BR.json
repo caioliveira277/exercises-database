@@ -1,0 +1,19 @@
+{
+  "name": "Corrida, esteira",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para começar, suba na esteira e selecione a opção desejada no menu. A maioria das esteiras tem configuração manual ou você pode selecionar um programa para executar. Normalmente, você pode inserir sua idade e peso para estimar a quantidade de calorias queimadas durante o exercício. A elevação pode ser ajustada para alterar a intensidade do treino.",
+    "As esteiras oferecem conveniência, benefícios cardiovasculares e geralmente têm menos impacto do que correr ao ar livre. Uma pessoa de 150 libras queimará quase 250 calorias correndo por 30 minutos, em comparação com mais de 450 calorias correndo. Mantenha a postura adequada ao correr e segure as alças apenas quando necessário, como ao desmontar ou verificar sua frequência cardíaca."
+  ],
+  "category": "cardio"
+}

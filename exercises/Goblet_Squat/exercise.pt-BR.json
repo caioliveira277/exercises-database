@@ -1,0 +1,22 @@
+{
+  "name": "Agachamento em Cálice",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "ombros"
+  ],
+  "instructions": [
+    "Fique em pé segurando um kettlebell leve pelos chifres, próximo ao peito. Esta será sua posição inicial.",
+    "Agache-se entre as pernas até que os isquiotibiais estejam nas panturrilhas. Mantenha o peito e a cabeça erguidos e as costas retas.",
+    "Na posição inferior, faça uma pausa e use os cotovelos para empurrar os joelhos para fora. Retorne à posição inicial e repita por 10-20 repetições."
+  ],
+  "category": "força"
+}

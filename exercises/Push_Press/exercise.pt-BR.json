@@ -1,0 +1,16 @@
+{
+  "name": "Empurre Pressione",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [],
+  "category": "levantamento de peso olímpico"
+}

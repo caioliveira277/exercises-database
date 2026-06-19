@@ -1,0 +1,24 @@
+{
+  "name": "Agachamento na caixa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "O agachamento caixa permite agachar até a profundidade desejada e desenvolver força explosiva no movimento de agachamento. Comece em um rack de energia com uma caixa na altura apropriada atrás de você. Normalmente, você buscaria uma altura de caixa que o levasse a um agachamento paralelo, mas você pode treinar mais alto ou mais baixo, se desejar.",
+    "Comece pisando sob a barra e colocando-a na parte de trás dos ombros. Aperte as omoplatas e gire os cotovelos para a frente, tentando dobrar a barra sobre os ombros. Remova a barra do rack, criando um arco firme na parte inferior das costas, e volte para a posição. Coloque os pés mais afastados para dar mais ênfase às costas, glúteos, adutores e isquiotibiais, ou mais próximos para maior desenvolvimento dos quadríceps. Mantenha a cabeça voltada para frente.",
+    "Com as costas, os ombros e o núcleo tensos, empurre os joelhos e o bumbum para fora e comece a descida. Sente-se com os quadris até sentar na caixa. Idealmente, suas canelas devem estar perpendiculares ao solo. Faça uma pausa quando chegar à caixa e relaxe os flexores do quadril. Nunca salte de uma caixa.",
+    "Mantendo o peso sobre os calcanhares e empurrando os pés e os joelhos para fora, suba da caixa enquanto conduz o movimento com a cabeça. Continue para cima, mantendo a tensão da cabeça aos pés."
+  ],
+  "category": "levantamento de peso básico"
+}

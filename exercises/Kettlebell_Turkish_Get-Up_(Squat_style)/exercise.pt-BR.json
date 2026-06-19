@@ -1,0 +1,23 @@
+{
+  "name": "Kettlebell Turco Get-Up (estilo agachamento)",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "posteriores de coxa",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se de costas no chão e pressione um kettlebell até a posição superior, estendendo o cotovelo. Dobre o joelho do mesmo lado do kettlebell.",
+    "Mantendo o kettlebell travado o tempo todo, gire para o lado oposto e use o braço que não funciona para ajudá-lo a avançar para a posição de estocada.",
+    "Usando a mão livre, sente-se e, em seguida, progrida para ficar de pé. Enquanto olha para o kettlebell, levante-se lentamente. Inverta o movimento de volta à posição inicial e repita."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Salto em distância em pé",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Esta broca é melhor executada em areia ou outra superfície de pouso macia. Certifique-se de que você consegue medir a distância. Fique em uma posição de agachamento parcial com os pés afastados na largura dos ombros.",
+    "Utilizando um grande balanço do braço e um contramovimento das pernas, salte para frente o máximo que puder.",
+    "Tente pousar com os pés à sua frente, alcançando o máximo possível com as pernas.",
+    "Meça a distância do seu ponto de pouso até o ponto de partida e acompanhe os resultados."
+  ],
+  "category": "pliometria"
+}

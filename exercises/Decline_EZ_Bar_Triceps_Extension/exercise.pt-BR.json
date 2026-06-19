@@ -1,0 +1,19 @@
+{
+  "name": "Recusar extensão de tríceps com barra EZ",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda as pernas no final do banco de declínio e deite-se lentamente no banco.",
+    "Usando uma pegada fechada (uma pegada um pouco menor que a largura dos ombros), levante a barra EZ do suporte e segure-a diretamente sobre você, com os braços travados e os cotovelos para dentro. Esta será sua posição inicial. Dica: Para proteger o manguito rotador, é melhor que um observador o ajude a levantar a barra do suporte.",
+    "Ao inspirar e manter os braços parados, abaixe a barra lentamente, movendo os antebraços em um movimento semicircular em sua direção até sentir a barra tocar levemente sua testa. Inspire enquanto executa esta parte do movimento.",
+    "Levante a barra de volta à posição inicial contraindo o tríceps e expirando.",
+    "Repita até que a quantidade recomendada de repetições seja realizada."
+  ],
+  "category": "força"
+}

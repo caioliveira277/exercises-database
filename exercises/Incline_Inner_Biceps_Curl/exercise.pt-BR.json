@@ -1,0 +1,19 @@
+{
+  "name": "Curva interna inclinada do bíceps",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure um haltere em cada mão e deite-se em um banco inclinado.",
+    "Os halteres devem estar pendurados ao lado do corpo e com os braços estendidos e as palmas das mãos voltadas para fora. Esta será sua posição inicial.",
+    "Agora, ao expirar, enrole o peso para fora e para cima, mantendo os antebraços alinhados com os deltóides laterais. Continue a rosca até que os halteres estejam na altura dos ombros e nas laterais dos deltóides. Dica: O final do movimento deve ser semelhante a uma postura de bíceps duplo.",
+    "Após uma segunda contração no início do movimento, comece a inspirar e abaixe lentamente os pesos de volta à posição inicial usando o mesmo caminho usado para levantá-los.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

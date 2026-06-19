@@ -1,0 +1,19 @@
+{
+  "name": "Ciclismo",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para começar, sente-se na bicicleta e ajuste o assento à sua altura."
+  ],
+  "category": "cardio"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Agachamento Jefferson",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "trapézios"
+  ],
+  "instructions": [
+    "Coloque uma barra no chão.",
+    "Fique no meio da barra no sentido do comprimento.",
+    "Abaixe-se dobrando os joelhos e mantendo as costas retas e segure a frente da barra com a mão direita. A palma da mão deve estar (aperto neutro) voltada para o lado esquerdo.",
+    "Segure a parte traseira da barra com a mão esquerda. A palma da sua mão deve estar em alinhamento neutro (palmas voltadas para o lado direito). Dica: certifique-se de que sua pegada esteja uniforme na barra. Seu tronco deve ficar posicionado bem no meio da barra e a distância entre seu tronco e sua mão direita (que deve ficar na frente) deve ser igual à distância entre seu tronco e sua mão esquerda (que deve ficar nas costas).",
+    "Agora fique em pé com o peso. Dica: os pés devem estar afastados na largura dos ombros e os dedos dos pés ligeiramente apontados.",
+    "Agache-se dobrando os joelhos e mantendo as costas retas até que a parte superior das coxas fique paralela ao chão. Dica: Mantenha as costas o mais verticais possível, com o chão e a cabeça erguida. Lembre-se também de não deixar os joelhos ultrapassarem os dedos dos pés. Inspire durante esta parte do movimento.",
+    "Agora volte à posição inicial empurrando com os pés. Dica: Mantenha a barra pendurada no comprimento do braço e os cotovelos travados com uma leve flexão. Os braços servem apenas como ganchos. Evite fazer qualquer levantamento com eles. Faça o levantamento com as coxas; não seus braços."
+  ],
+  "category": "força"
+}

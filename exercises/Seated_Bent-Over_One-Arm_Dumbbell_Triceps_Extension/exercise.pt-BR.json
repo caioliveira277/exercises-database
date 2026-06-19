@@ -1,0 +1,21 @@
+{
+  "name": "Extensão de tríceps com halteres com um braço curvado sentado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se na ponta de um banco plano com um haltere em um braço usando uma pegada neutra (palmas da mão voltadas para você).",
+    "Dobre ligeiramente os joelhos e leve o tronco para a frente, dobrando a cintura, mantendo as costas retas até ficarem quase paralelas ao chão. Certifique-se de manter a cabeça erguida.",
+    "O braço com o haltere deve estar próximo ao tronco e alinhado com ele (levantado até ficar paralelo ao chão enquanto os antebraços apontam para o chão enquanto as mãos seguram os pesos). Dica: Deve haver um ângulo de 90 graus entre os antebraços e o braço. Esta é a sua posição inicial.",
+    "Mantendo o braço parado, use o tríceps para levantar o peso enquanto expira até que o antebraço fique paralelo ao chão e todo o braço esteja estendido. Como muitos outros exercícios para os braços, apenas o antebraço se move.",
+    "Após uma segunda contração na parte superior, abaixe lentamente o haltere de volta à posição inicial enquanto inspira.",
+    "Repita o movimento pela quantidade prescrita de repetições.",
+    "Troque de braço e repita o exercício."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Arrebatar",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "ombros",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque os pés na largura dos ombros, com a barra apoiada logo acima da conexão entre os dedos dos pés e o resto do pé.",
+    "Com as palmas das mãos voltadas para baixo, dobre os joelhos e, mantendo as costas retas, agarre a barra usando uma pegada mais larga que a largura dos ombros. Abaixe os quadris e certifique-se de que seu corpo caia como se fosse sentar em uma cadeira. Esta será sua posição inicial.",
+    "Comece empurrando o chão como se fosse uma plataforma móvel com os pés e simultaneamente comece a levantar a barra mantendo-a próxima às pernas.",
+    "Quando a barra atingir o meio das coxas, empurre o chão com as pernas e levante o corpo até uma extensão completa em um movimento explosivo.",
+    "Levante os ombros para trás em um movimento de encolher de ombros enquanto levanta a barra enquanto levanta os cotovelos para o lado e os mantém acima da barra pelo maior tempo possível.",
+    "Agora, em um movimento muito rápido, mas poderoso, você deve colocar seu corpo sob a barra quando ele atingir um ponto alto o suficiente onde possa ser controlado e cair enquanto trava os braços e segura a barra acima da cabeça enquanto assume uma posição de agachamento.",
+    "Finalize o movimento levantando-se da posição de agachamento para finalizar o levantamento. No final do levantamento, ambos os pés devem estar alinhados e os braços totalmente estendidos segurando a barra acima da cabeça."
+  ],
+  "category": "levantamento de peso olímpico"
+}

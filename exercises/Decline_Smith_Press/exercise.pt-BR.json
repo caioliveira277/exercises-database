@@ -1,0 +1,22 @@
+{
+  "name": "Recusar Smith Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um banco de declínio embaixo da máquina Smith. Agora coloque a barra a uma altura que você possa alcançar quando estiver deitado e com os braços quase totalmente estendidos. Usando uma pegada pronada mais larga que a largura dos ombros, solte a barra do rack e segure-a diretamente sobre você com os braços estendidos. Esta será sua posição inicial.",
+    "Ao inspirar, abaixe a barra sob controle, permitindo que os cotovelos flexionem, tocando levemente o tronco.",
+    "Após uma breve pausa, traga a barra de volta à posição inicial estendendo os cotovelos e expirando ao fazer isso.",
+    "Repita o movimento pela quantidade prescrita de repetições.",
+    "Quando o conjunto estiver completo, trave a barra de volta no rack."
+  ],
+  "category": "força"
+}

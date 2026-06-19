@@ -1,0 +1,20 @@
+{
+  "name": "Elevação lateral inclinada com um braço",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de lado em um supino inclinado com um haltere na mão. Certifique-se de que o ombro esteja pressionado contra o banco inclinado e que o braço esteja cruzado sobre o corpo, com a palma da mão ao redor do umbigo.",
+    "Segure um haltere no braço enquanto o mantém estendido à sua frente, paralelo ao chão. Esta é a sua posição inicial.",
+    "Mantendo sempre o haltere paralelo ao chão, faça uma elevação lateral. Seu braço deve subir reto até apontar para o teto. Dica: expire ao realizar esse movimento. Segure o haltere nessa posição e sinta a contração nos ombros por um segundo.",
+    "Enquanto inspira, abaixe o peso do corpo de volta à posição inicial.",
+    "Repita o movimento pela quantidade prescrita de repetições.",
+    "Troque de braço e repita o movimento."
+  ],
+  "category": "força"
+}

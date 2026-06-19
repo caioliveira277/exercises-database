@@ -1,0 +1,18 @@
+{
+  "name": "Curvatura do cabo do bíceps em pé",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé com o tronco ereto enquanto segura uma barra enroladora de cabo presa a uma polia baixa. Segure a barra do cabo na largura dos ombros e mantenha os cotovelos próximos ao tronco. A palma das mãos deve estar voltada para cima (pegada supinada). Esta será sua posição inicial.",
+    "Enquanto mantém os braços parados, enrole os pesos enquanto contrai os bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que os bíceps estejam totalmente contraídos e a barra esteja na altura dos ombros. Mantenha a posição contraída por um segundo enquanto contrai o músculo.",
+    "Lentamente, comece a trazer a barra curl de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

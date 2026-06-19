@@ -1,0 +1,23 @@
+{
+  "name": "Recusar supino com halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Prenda as pernas no final do banco de declínio e deite-se com um haltere em cada mão na parte superior das coxas. As palmas da sua mão ficarão voltadas uma para a outra.",
+    "Quando estiver deitado, mova os halteres à sua frente, na largura dos ombros.",
+    "Uma vez na largura dos ombros, gire os pulsos para a frente de modo que as palmas das mãos fiquem voltadas para longe de você. Esta será sua posição inicial.",
+    "Abaixe os pesos lentamente para o lado enquanto expira. Mantenha sempre o controle total dos halteres. Dica: Durante todo o movimento, os antebraços devem estar sempre perpendiculares ao chão.",
+    "Ao expirar, empurre os halteres para cima usando os músculos peitorais. Trave os braços na posição contraída, aperte o peito, segure por um segundo e depois comece a descer lentamente. Dica: Deve demorar pelo menos o dobro do tempo para descer do que para subir.",
+    "Repita o movimento pela quantidade prescrita de repetições do seu programa de treinamento."
+  ],
+  "category": "força"
+}

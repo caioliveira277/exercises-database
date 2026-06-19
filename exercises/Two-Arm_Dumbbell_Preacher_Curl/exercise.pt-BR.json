@@ -1,0 +1,18 @@
+{
+  "name": "Curl Pregador com Haltere de Dois Braços",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pegue um haltere com cada braço e coloque os braços em cima do banco do pregador ou do banco inclinado. O haltere deve ser segurado na altura dos ombros. Esta será sua posição inicial.",
+    "Ao inspirar, abaixe lentamente os halteres até que o braço esteja estendido e o bíceps totalmente esticado.",
+    "Ao expirar, use o bíceps para enrolar os pesos até que o bíceps esteja totalmente contraído e os halteres estejam na altura dos ombros.",
+    "Aperte o bíceps com força por um segundo na posição contraída e repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Prensas de pinos",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "antebraços",
+    "dorsais",
+    "dorsal médio",
+    "ombros"
+  ],
+  "instructions": [
+    "As prensas de pinos removem a fase excêntrica do supino, desenvolvendo força inicial. Eles também permitem que você treine uma amplitude de movimento desejada.",
+    "A bancada deve ser montada em um power rack. Coloque os pinos no ponto desejado em sua amplitude de movimento, seja apenas travado ou a alguns centímetros de seu peito. A barra deve ser movida até os pinos e preparada para levantamento.",
+    "Comece deitado no banco, com a barra diretamente acima do ponto de contato durante o banco normal. Coloque os pés embaixo de você e arqueie as costas. Usando a barra para ajudar a suportar o peso, levante os ombros do banco e retraia-os, apertando as omoplatas. Use os pés para colocar as armadilhas no banco. Mantenha essa posição corporal firme durante todo o movimento.",
+    "Você pode usar uma pegada de banco padrão ou na largura dos ombros para focar no tríceps. A barra, o pulso e o cotovelo devem permanecer alinhados o tempo todo. Concentre-se em apertar a barra e tentar separá-la.",
+    "Levante a barra com o máximo de força possível. Os cotovelos devem ser dobrados até o bloqueio.",
+    "Retorne a barra aos pinos, fazendo uma pausa antes de iniciar a próxima repetição."
+  ],
+  "category": "levantamento de peso básico"
+}

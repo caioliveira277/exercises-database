@@ -1,0 +1,29 @@
+{
+  "name": "Carga de saco de areia",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "bíceps",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "dorsal médio",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Para carregar sacos de areia ou outros objetos, comece com os implementos colocados a uma distância da plataforma de carregamento, normalmente 15 metros.",
+    "Comece levantando o saco de areia. Os sacos de areia são extremamente estranhos e a maneira de levantá-los pode variar dependendo do saco de areia usado. Alcance o máximo possível, estendendo-se pelos quadris e joelhos para puxá-lo para o alto. Geralmente não é permitido carregar nos ombros.",
+    "Mova-se o mais rápido possível até a plataforma e carregue-a, estendendo-se pelos quadris, joelhos e tornozelos para que fique o mais alto possível. Coloque-o na plataforma, garantindo que não caia.",
+    "Retorne à posição inicial para recuperar o próximo saco de areia e repita até que o evento seja concluído."
+  ],
+  "category": "strongman"
+}

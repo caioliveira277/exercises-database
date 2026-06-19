@@ -1,0 +1,26 @@
+{
+  "name": "Jammer Linear de Minas Terrestres",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "peitoral",
+    "posteriores de coxa",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Posicione uma barra na mina terrestre ou, na falta dela, ancore-a com segurança em um canto. Carregue a barra com um peso apropriado e posicione o acessório da alça na barra.",
+    "Levante a barra do chão, levando as alças até os ombros. Esta será sua posição inicial.",
+    "Em uma postura atlética, agache-se flexionando os quadris e colocando-os para trás, mantendo os braços flexionados.",
+    "Inverta o movimento estendendo-se poderosamente pelos quadris, joelhos e tornozelos, ao mesmo tempo que estende os cotovelos para endireitar os braços. Este movimento deve ser feito de forma explosiva, saindo do agachamento em extensão total com a maior força possível.",
+    "Retorne à posição inicial."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Inclinação pélvica na ponte",
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se com os pés no chão e os calcanhares diretamente sob os joelhos.",
+    "Levante apenas o cóccix até o teto para alongar a região lombar. (Não levante toda a coluna ainda.) Contraia o estômago.",
+    "Para entrar em uma ponte, levante toda a coluna, exceto o pescoço."
+  ],
+  "category": "alongamento"
+}

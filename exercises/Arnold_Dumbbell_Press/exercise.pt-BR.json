@@ -1,0 +1,21 @@
+{
+  "name": "Arnold com halteres",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se em um banco de exercícios com apoio para as costas e segure dois halteres à sua frente, na altura do peito, com as palmas voltadas para o corpo e os cotovelos dobrados. Dica: seus braços devem estar próximos ao tronco. A posição inicial deve se parecer com a parte contraída de uma rosca direta com halteres.",
+    "Agora, para realizar o movimento, levante os halteres enquanto gira as palmas das mãos até que fiquem voltadas para frente.",
+    "Continue levantando os halteres até que seus braços estejam estendidos acima de você, na posição de braço esticado. Expire enquanto executa esta parte do movimento.",
+    "Após uma segunda pausa no topo, comece a abaixar os halteres para a posição original girando as palmas das mãos em sua direção. Dica: O braço esquerdo será girado no sentido anti-horário, enquanto o braço direito será girado no sentido horário. Inspire enquanto executa esta parte do movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

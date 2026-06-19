@@ -1,0 +1,20 @@
+{
+  "name": "Prensa de chão com halteres",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se no chão segurando halteres nas mãos. Seus joelhos podem ser dobrados. Comece com os pesos totalmente estendidos acima de você.",
+    "Abaixe os pesos até que o braço entre em contato com o chão. Você pode dobrar os cotovelos para enfatizar o tamanho e a força do tríceps ou, para focar no peito, inclinar os braços para o lado.",
+    "Faça uma pausa na parte inferior e junte o peso na parte superior, estendendo-o pelos cotovelos."
+  ],
+  "category": "levantamento de peso básico"
+}

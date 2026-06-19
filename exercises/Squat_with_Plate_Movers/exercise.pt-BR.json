@@ -1,0 +1,28 @@
+{
+  "name": "Agachamento com movimentadores de placas",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para começar, primeiro coloque a barra em um rack logo abaixo do nível dos ombros. Posicione uma placa de peso no chão, alguns metros atrás do rack. Assim que a barra estiver carregada, passe por baixo dela e coloque a parte de trás dos ombros sobre ela.",
+    "Segure a barra com as duas mãos e levante-a do rack empurrando primeiro com as pernas e ao mesmo tempo endireitando o tronco.",
+    "Afaste-se do rack e adote uma postura ampla com os dedos dos pés levemente apontados, com um pé apoiado na placa de peso. Mantenha a cabeça erguida o tempo todo. Esta será sua posição inicial.",
+    "Comece a abaixar lentamente a barra dobrando os joelhos e os quadris. Continue descendo até que o ângulo entre a coxa e as panturrilhas fique ligeiramente menor que 90 graus.",
+    "Levante a barra ao expirar, empurrando o chão com os calcanhares dos pés enquanto estende os quadris e os joelhos.",
+    "No topo do movimento, dê um passo lateral, juntando os pés no lado oposto da placa.",
+    "Usando o pé de dentro, empurre a placa de peso, deslizando-a pelo chão até onde você estava.",
+    "Coloque o pé de dentro na plataforma de peso, adotando uma postura ampla para a próxima repetição."
+  ],
+  "category": "força"
+}

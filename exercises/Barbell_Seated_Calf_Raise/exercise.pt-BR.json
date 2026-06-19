@@ -1,0 +1,20 @@
+{
+  "name": "Elevação de panturrilha sentada com barra",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque um bloco cerca de 30 centímetros na frente de uma bancada plana.",
+    "Sente-se no banco e coloque a planta dos pés no bloco.",
+    "Peça a alguém que coloque uma barra na parte superior das coxas, cerca de 7 centímetros acima dos joelhos, e segure-a ali. Esta será sua posição inicial.",
+    "Levante-se na ponta dos pés o mais alto possível enquanto aperta as panturrilhas e expira.",
+    "Após uma segunda contração, volte lentamente à posição inicial. Dica: Para obter o máximo benefício, alongue as panturrilhas o máximo que puder.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

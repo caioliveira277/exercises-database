@@ -1,0 +1,28 @@
+{
+  "name": "Agachamento aéreo",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece colocando uma barra à sua frente no chão. Seus pés devem ser mais largos que a largura dos ombros um do outro.",
+    "Dobre os joelhos e use uma pegada pronada (palmas voltadas para você) para agarrar a barra. Suas mãos devem estar mais afastadas que a largura dos ombros antes de levantar. Quando estiver posicionado, levante a barra até poder apoiá-la no peito.",
+    "Mova a barra ligeiramente atrás da cabeça e certifique-se de que os braços estejam totalmente estendidos. Mantenha a cabeça erguida o tempo todo e mantenha as costas retas. Retraia as omoplatas. Esta é a sua posição inicial.",
+    "Abaixe lentamente o peso dobrando os joelhos até que as coxas fiquem paralelas ao chão enquanto inspira. Dica: Mantenha as costas retas ao realizar este exercício para evitar lesões e os braços devem permanecer estendidos e acima da cabeça o tempo todo.",
+    "Agora use os pés e as pernas para ajudar a trazer o peso de volta à posição inicial enquanto expira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "levantamento de peso olímpico"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Extensão de tríceps com toalha em pé",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, fique em pé com os dois braços totalmente estendidos acima da cabeça, segurando uma ponta de uma toalha com as duas mãos. Os cotovelos devem estar para dentro e os braços perpendiculares ao chão, com as palmas voltadas uma para a outra, enquanto os pés devem estar separados na largura dos ombros. Esta é a posição inicial.",
+    "Agora comunique-se com seu parceiro para que ele segure o outro lado da toalha para aplicar resistência. Mantendo os braços próximos à cabeça (cotovelos para dentro) e perpendiculares ao chão, abaixe a resistência em um movimento semicircular atrás da cabeça até que os antebraços toquem o bíceps. Dica: Os braços devem permanecer parados e apenas os antebraços devem se mover. Inspire enquanto executa esta etapa.",
+    "Volte à posição inicial usando o tríceps para levantar a toalha. Expire enquanto executa esta etapa.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

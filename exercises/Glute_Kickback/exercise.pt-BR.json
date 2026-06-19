@@ -1,0 +1,20 @@
+{
+  "name": "Retrocesso de glúteos",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Ajoelhe-se no chão ou num colchonete e dobre a cintura com os braços estendidos à sua frente (perpendicularmente ao tronco) para ficar em posição de flexão ajoelhada, mas com os braços afastados na largura dos ombros. Sua cabeça deve estar voltada para frente e a flexão dos joelhos deve criar um ângulo de 90 graus entre os isquiotibiais e as panturrilhas. Esta será sua posição inicial.",
+    "Ao expirar, levante a perna direita até que os isquiotibiais fiquem alinhados com as costas, mantendo o ângulo de flexão de 90 graus. Contraia os glúteos ao longo deste movimento e mantenha a contração na parte superior por um segundo. Dica: Ao final do movimento a coxa deve ficar paralela ao chão enquanto a panturrilha deve ficar perpendicular a ele.",
+    "Volte à posição inicial enquanto inspira e repita agora com a perna esquerda.",
+    "Continue alternando as pernas até que todas as repetições recomendadas tenham sido realizadas."
+  ],
+  "category": "força"
+}

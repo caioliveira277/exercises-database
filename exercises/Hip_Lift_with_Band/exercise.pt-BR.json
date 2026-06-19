@@ -1,0 +1,21 @@
+{
+  "name": "Elevador de quadril com faixa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Depois de escolher uma faixa adequada, deite-se no meio do rack, depois de prender a faixa de cada lado de você. Se o seu rack não tiver pinos, a faixa pode ser fixada com halteres pesados ​​ou objetos semelhantes, apenas certifique-se de que eles não se movam.",
+    "Ajuste sua posição para que a faixa fique diretamente sobre seus quadris. Dobre os joelhos e coloque os pés apoiados no chão. Suas mãos podem estar no chão ou segurando a faixa na posição.",
+    "Mantendo os ombros no chão, passe pelos calcanhares para levantar os quadris, empurrando a faixa o mais alto que puder.",
+    "Faça uma pausa no início do movimento e retorne à posição inicial."
+  ],
+  "category": "levantamento de peso básico"
+}

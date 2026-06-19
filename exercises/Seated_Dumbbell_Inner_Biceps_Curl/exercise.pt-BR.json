@@ -1,0 +1,20 @@
+{
+  "name": "Curva interna do bíceps com halteres sentado",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se na extremidade de um banco plano com um haltere em cada mão com os braços estendidos. Os cotovelos devem estar próximos ao tronco.",
+    "Gire as palmas das mãos para que fiquem voltadas para dentro em uma posição neutra. Esta será sua posição inicial.",
+    "Enquanto mantém os braços parados, enrole os halteres para fora e para cima, virando as palmas para fora enquanto levanta e mantendo os antebraços alinhados com os deltóides externos. Pontas:",
+    "Apenas os antebraços devem se mover. Continue o movimento até que os bíceps estejam totalmente contraídos e os halteres estejam na altura dos ombros. Mantenha a posição contraída por um segundo enquanto aperta o bíceps.",
+    "Lentamente, comece a trazer os halteres de volta à posição inicial enquanto inspira. Lembre-se de girar os braços ao abaixar os halteres para poder voltar a uma pegada neutra.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

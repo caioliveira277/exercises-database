@@ -1,0 +1,21 @@
+{
+  "name": "Curvatura do pulso com halteres sentado com as palmas para baixo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece colocando dois halteres no chão em frente a um banco plano.",
+    "Sente-se na borda do banco plano com as pernas afastadas na largura dos ombros. Certifique-se de manter os pés no chão.",
+    "Use os braços para agarrar os dois halteres e levante-os de modo que os antebraços fiquem apoiados nas coxas, com as palmas das mãos voltadas para baixo. Seus pulsos devem estar pendurados na borda das coxas.",
+    "Comece enrolando o pulso para cima e expirando.",
+    "Abaixe lentamente os pulsos de volta à posição inicial enquanto inspira. Certifique-se de inspirar durante esta parte do exercício. Dica: Seus antebraços devem estar parados, pois o pulso é o único movimento necessário para realizar este exercício.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Quando terminar, basta abaixar os halteres até o chão."
+  ],
+  "category": "força"
+}

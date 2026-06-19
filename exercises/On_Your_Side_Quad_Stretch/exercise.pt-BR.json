@@ -1,0 +1,16 @@
+{
+  "name": "Alongamento quádruplo ao seu lado",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece deitado sobre o lado direito, com o joelho direito dobrado em um ângulo de 90 graus apoiado no chão à sua frente (isso estabiliza o tronco).",
+    "Dobre o joelho esquerdo atrás de você e segure o pé esquerdo com a mão esquerda. Para alongar o flexor do quadril, pressione o quadril esquerdo para a frente enquanto empurra o pé esquerdo de volta para a mão. Troque de lado."
+  ],
+  "category": "alongamento"
+}

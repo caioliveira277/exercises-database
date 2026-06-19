@@ -1,0 +1,25 @@
+{
+  "name": "Agachamento Box com Bandas",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece em um rack de energia com uma caixa na altura apropriada atrás de você. Coloque as faixas nas mangas, presas aos pinos das faixas, ao rack ou aos halteres, para que haja a tensão adequada. Se forem usados ​​halteres, prenda-os para que não se movam. Além disso, certifique-se de que os halteres que você está usando sejam pesados ​​o suficiente para as faixas que você está usando. Placas adicionais podem ser usadas para segurar os halteres. Se for necessária mais tensão, você pode alargar a base no chão ou sufocar as faixas. Normalmente, você buscaria uma altura de caixa que o levasse a um agachamento paralelo, mas você pode treinar mais alto ou mais baixo, se desejar.",
+    "Comece pisando sob a barra e colocando-a na parte de trás dos ombros. Aperte as omoplatas e gire os cotovelos para a frente, tentando dobrar a barra sobre os ombros. Remova a barra do rack, criando um arco firme na parte inferior das costas, e volte para a posição. Coloque os pés mais afastados para dar mais ênfase às costas, glúteos, adutores e isquiotibiais, ou mais próximos para maior desenvolvimento dos quadríceps. Mantenha a cabeça voltada para frente.",
+    "Com as costas, os ombros e o núcleo tensos, empurre os joelhos e o bumbum para fora e comece a descida. Sente-se com os quadris até sentar na caixa. Idealmente, suas canelas devem estar perpendiculares ao solo. Faça uma pausa quando chegar à caixa e relaxe os flexores do quadril. Nunca salte de uma caixa.",
+    "Mantendo o peso sobre os calcanhares e empurrando os pés e os joelhos para fora, suba da caixa enquanto conduz o movimento com a cabeça. Continue para cima, mantendo a tensão da cabeça aos pés. Tenha cuidado ao retornar a barra ao suporte."
+  ],
+  "category": "levantamento de peso básico"
+}

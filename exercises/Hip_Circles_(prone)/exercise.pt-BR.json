@@ -1,0 +1,19 @@
+{
+  "name": "Círculos do quadril (pronado)",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [
+    "adutores"
+  ],
+  "instructions": [
+    "Posicione-se com as mãos e os joelhos no chão. Mantendo uma boa postura, levante um joelho dobrado do chão. Esta será sua posição inicial.",
+    "Mantendo o joelho dobrado, gire o fêmur em um arco, tentando fazer um grande círculo com o joelho.",
+    "Faça isso lentamente por várias repetições e repita do outro lado."
+  ],
+  "category": "alongamento"
+}

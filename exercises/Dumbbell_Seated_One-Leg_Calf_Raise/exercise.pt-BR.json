@@ -1,0 +1,20 @@
+{
+  "name": "Elevação de panturrilha com uma perna sentada com halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque um bloco no chão a cerca de 30 centímetros de uma bancada plana.",
+    "Sente-se em um banco plano e coloque um haltere na parte superior da coxa esquerda, cerca de 7 centímetros acima do joelho.",
+    "Agora coloque a planta do pé esquerdo no bloco. Esta será sua posição inicial.",
+    "Levante os dedos dos pés o mais alto possível enquanto expira e contrai o músculo da panturrilha. Segure a contração por um segundo.",
+    "Retorne lentamente à posição inicial, alongando-se o máximo possível.",
+    "Repita o número prescrito de repetições e depois repita com a perna direita."
+  ],
+  "category": "força"
+}

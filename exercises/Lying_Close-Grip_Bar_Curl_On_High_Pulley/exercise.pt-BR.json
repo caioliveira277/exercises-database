@@ -1,0 +1,21 @@
+{
+  "name": "Curvatura da barra deitada na polia alta",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque uma bancada plana na frente de uma polia alta ou máquina de pulldown.",
+    "Segure a fixação da barra reta usando uma pegada por baixo (palmas para cima) na largura dos ombros.",
+    "Deite-se de costas com a cabeça apoiada na extremidade do banco.",
+    "Agora estenda os braços acima dos ombros. Seu tronco e seus braços devem formar um ângulo de 90 graus e os cotovelos devem estar posicionados. Esta será sua posição inicial.",
+    "Ao expirar, enrole a barra para baixo em um movimento semicircular até tocar seu queixo. Contraia o bíceps por um segundo na posição contraída superior. Dica: Ao executar esse movimento, apenas os antebraços devem se mover. Em nenhum momento os braços devem estar se movendo. Eles devem permanecer perpendiculares durante todo o movimento.",
+    "Retorne à posição inicial lentamente.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

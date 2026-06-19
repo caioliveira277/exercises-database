@@ -1,0 +1,19 @@
+{
+  "name": "Supino com halteres em pé",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Em pé, com os pés afastados na largura dos ombros, pegue um haltere em cada mão. Levante os halteres até a altura da cabeça, com os cotovelos para fora e cerca de 90 graus. Esta será sua posição inicial.",
+    "Mantendo uma técnica rígida, sem movimentação das pernas ou inclinando-se para trás, estenda o cotovelo para levantar os pesos diretamente acima da cabeça.",
+    "Faça uma pausa e retorne lentamente o peso à posição inicial."
+  ],
+  "category": "força"
+}

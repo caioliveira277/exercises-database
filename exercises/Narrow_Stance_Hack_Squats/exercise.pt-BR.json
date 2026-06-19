@@ -1,0 +1,25 @@
+{
+  "name": "Agachamento com postura estreita",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Coloque a parte de trás do tronco contra a almofada traseira da máquina e prenda os ombros sob as almofadas fornecidas.",
+    "Posicione as pernas na plataforma usando uma postura estreita menor que a largura dos ombros, com os dedos dos pés ligeiramente apontados. Seus pés devem estar separados por cerca de 7 centímetros ou menos. Dica: Mantenha a cabeça sempre erguida e também mantenha as costas apoiadas na almofada o tempo todo.",
+    "Coloque os braços nas alças laterais da máquina e desengate as barras de segurança (o que na maioria dos modelos é feito movendo as alças laterais de uma posição frontal para uma posição diagonal).",
+    "Agora estique as pernas sem travar os joelhos. Esta será sua posição inicial.",
+    "Comece a abaixar lentamente a unidade dobrando os joelhos enquanto mantém uma postura reta com a cabeça erguida (sempre apoiado na almofada). Continue descendo até que o ângulo entre a parte superior da perna e as panturrilhas fique ligeiramente menor que 90 graus (que é o ponto em que a parte superior das pernas fica paralela ao chão). Inspire ao realizar esta parte do movimento.",
+    "Comece a levantar a unidade enquanto expira, empurrando o chão principalmente com os calcanhares dos pés enquanto estica as pernas novamente e volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

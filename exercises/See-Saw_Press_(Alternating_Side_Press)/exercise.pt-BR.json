@@ -1,0 +1,22 @@
+{
+  "name": "Prensa gangorra (prensa lateral alternada)",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "tríceps"
+  ],
+  "instructions": [
+    "Pegue um haltere com cada mão e fique em pé.",
+    "Limpe (levante) os halteres até o nível do peito/ombro e, em seguida, gire os pulsos de modo que as palmas das mãos fiquem voltadas para você, como se você estivesse se preparando para realizar um Arnold Press. Esta será sua posição inicial.",
+    "Agora comece a estender o braço esquerdo acima da cabeça enquanto gira o pulso de modo que a palma da mão fique voltada para a frente enquanto você sobe. Seus cotovelos também devem sair enquanto você levanta o peso. Simultaneamente, você também dobrará o quadril para o lado oposto. Dica: Se você executar o exercício corretamente, parecerá que você está tentando alcançar algo acima da cabeça, no lado direito do corpo, mas com o braço esquerdo. Expire enquanto executa esse movimento.",
+    "Quando chegar à posição superior, inspire. Então, com o peso totalmente estendido acima da cabeça e curvado para o lado direito, comece o movimento para o lado esquerdo.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

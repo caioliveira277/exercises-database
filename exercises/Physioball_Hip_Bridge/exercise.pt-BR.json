@@ -1,0 +1,19 @@
+{
+  "name": "Ponte de quadril de fisioball",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Deite-se sobre uma bola de forma que a parte superior das costas fique apoiada na bola e os quadris sem apoio. Ambos os pés devem estar apoiados no chão, afastados na largura dos quadris ou mais largos. Esta será sua posição inicial.",
+    "Comece estendendo os quadris usando os glúteos e isquiotibiais, levantando os quadris enquanto faz a ponte.",
+    "Faça uma pausa no início do movimento e retorne à posição inicial."
+  ],
+  "category": "força"
+}

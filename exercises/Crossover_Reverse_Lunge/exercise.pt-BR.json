@@ -1,0 +1,23 @@
+{
+  "name": "Estocada reversa cruzada",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "abdutores",
+    "glúteos",
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Fique em pé com os pés afastados na largura dos ombros. Esta será sua posição inicial.",
+    "Execute uma estocada traseira recuando com um pé e flexionando os quadris e o joelho da frente. Ao fazer isso, gire o tronco sobre a perna da frente.",
+    "Após uma breve pausa, retorne à posição inicial e repita do outro lado, continuando de forma alternada."
+  ],
+  "category": "alongamento"
+}

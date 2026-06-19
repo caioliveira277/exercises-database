@@ -1,0 +1,21 @@
+{
+  "name": "Recusar flexão",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão de bruços e coloque as mãos a cerca de 36 centímetros de distância, enquanto mantém o tronco erguido com os braços estendidos. Mova os pés até uma caixa ou banco. Esta será sua posição inicial.",
+    "Em seguida, abaixe-se até que seu peito quase toque o chão enquanto inspira.",
+    "Agora expire e pressione a parte superior do corpo de volta à posição inicial enquanto aperta o peito.",
+    "Após uma breve pausa na posição contraída superior, você pode começar a abaixar-se novamente para quantas repetições forem necessárias."
+  ],
+  "category": "força"
+}

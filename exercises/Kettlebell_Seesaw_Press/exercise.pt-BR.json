@@ -1,0 +1,19 @@
+{
+  "name": "Prensa gangorra Kettlebell",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe dois kettlebells em seus ombros.",
+    "Pressione um kettlebell.",
+    "Abaixe o kettlebell e pressione imediatamente o outro kettlebell. Certifique-se de fazer a mesma quantidade de repetições em ambos os lados."
+  ],
+  "category": "força"
+}

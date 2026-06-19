@@ -1,0 +1,23 @@
+{
+  "name": "Arrebatamento Muscular",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece com uma barra carregada mantida na posição do meio da coxa com uma pegada ampla. Os pés devem ficar diretamente abaixo dos quadris, com os pés voltados para fora conforme necessário. Abaixe os quadris, com o peito para cima e a cabeça voltada para frente. Os ombros devem ficar bem na frente da barra. Esta será a posição inicial.",
+    "Comece a puxar passando pela frente dos calcanhares, levantando a barra. Faça a transição para a segunda puxada estendendo-se pelos quadris, joelhos e tornozelos, elevando a barra o mais rápido possível. A barra deve ficar próxima ao corpo.",
+    "Continue elevando a barra até a posição acima da cabeça, sem dobrar novamente os joelhos."
+  ],
+  "category": "levantamento de peso olímpico"
+}

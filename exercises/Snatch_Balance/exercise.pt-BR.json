@@ -1,0 +1,24 @@
+{
+  "name": "Arrebatar Saldo",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece com os pés na posição de puxar, a barra apoiada na parte de trás dos ombros e as mãos colocadas em uma pegada ampla.",
+    "Estale a barra com uma inclinação abrupta e movimentação dos joelhos, e dirija agressivamente por baixo da barra, fazendo a transição dos pés para a posição de recepção.",
+    "Trave a barra acima da cabeça, perto da parte inferior do agachamento. O tronco deve permanecer vertical, abaixando os quadris entre as pernas.",
+    "Continue a descer até a profundidade total e retorne à posição ereta. Abaixe o peso com cuidado."
+  ],
+  "category": "levantamento de peso olímpico"
+}

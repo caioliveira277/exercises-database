@@ -1,0 +1,19 @@
+{
+  "name": "Deltoide frontal sentado",
+  "force": "estática",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral"
+  ],
+  "instructions": [
+    "Sente-se ereto no chão, com as pernas dobradas e o parceiro em pé atrás de você. Estique os braços para os lados, com as palmas voltadas para o chão. Tente movê-los o mais para trás possível, enquanto seu assistente segura seus pulsos. Esta será sua posição inicial.",
+    "Mantendo os cotovelos retos, tente mover os braços para a frente, com seu parceiro segurando você suavemente para evitar qualquer movimento real por 10 a 20 segundos.",
+    "Agora, relaxe os músculos e permita que seu parceiro aumente suavemente o alongamento dos ombros e do peito. Segure por 10 a 20 segundos."
+  ],
+  "category": "alongamento"
+}

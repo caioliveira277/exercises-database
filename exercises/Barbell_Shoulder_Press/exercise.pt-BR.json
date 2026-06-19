@@ -1,0 +1,22 @@
+{
+  "name": "Pressão de ombro com barra",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se em um banco com apoio para as costas em um rack de agachamento. Posicione uma barra a uma altura logo acima de sua cabeça. Segure a barra com uma pegada pronada (palmas voltadas para frente).",
+    "Depois de pegar a barra com a largura correta de empunhadura, levante a barra acima da cabeça, travando os braços. Segure na altura dos ombros e ligeiramente à frente da cabeça. Esta é a sua posição inicial.",
+    "Abaixe a barra até os ombros lentamente enquanto inspira.",
+    "Levante a barra de volta à posição inicial enquanto expira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

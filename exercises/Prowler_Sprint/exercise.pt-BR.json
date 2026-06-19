@@ -1,0 +1,23 @@
+{
+  "name": "Corrida Predadora",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "peitoral",
+    "glúteos",
+    "quadríceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque seu trenó em uma superfície apropriada, carregado com um peso adequado. O trenó deve fornecer resistência suficiente para exigir esforço, mas não tão pesado a ponto de desacelerar significativamente.",
+    "Você pode usar as alças verticais ou baixas para este exercício. Coloque as mãos nas alças com os braços estendidos, apoiando-se no implemento.",
+    "Com boa postura, dirija pelo solo com passos curtos e alternados. Mova-se o mais rápido que puder por uma curta distância."
+  ],
+  "category": "cardio"
+}

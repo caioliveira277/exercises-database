@@ -1,0 +1,20 @@
+{
+  "name": "Alongamento de gato",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "dorsal médio",
+    "trapézios"
+  ],
+  "instructions": [
+    "Posicione-se no chão apoiado nas mãos e nos joelhos.",
+    "Contraia a barriga e contorne a coluna, a parte inferior das costas, os ombros e o pescoço, deixando a cabeça cair.",
+    "Segure por 15 segundos."
+  ],
+  "category": "alongamento"
+}

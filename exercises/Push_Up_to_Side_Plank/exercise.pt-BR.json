@@ -1,0 +1,23 @@
+{
+  "name": "Empurre para cima para a prancha lateral",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Fique na posição de flexão na ponta dos pés com as mãos fora da largura dos ombros.",
+    "Faça uma flexão permitindo que os cotovelos flexionem. Ao descer, mantenha o corpo reto.",
+    "Faça uma flexão e, ao subir, mude o peso para o lado esquerdo do corpo, gire para o lado enquanto leva o braço direito em direção ao teto em uma prancha lateral.",
+    "Abaixe o braço de volta ao chão para outra flexão e depois gire para o outro lado.",
+    "Repita a série, alternando cada lado, por 10 ou mais repetições."
+  ],
+  "category": "força"
+}

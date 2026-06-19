@@ -1,0 +1,17 @@
+{
+  "name": "Puxar rosto",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "dorsal médio"
+  ],
+  "instructions": [
+    "De frente para uma polia alta com uma corda ou alças duplas presas, puxe o peso diretamente em direção ao rosto, separando as mãos ao fazer isso. Mantenha os braços paralelos ao chão."
+  ],
+  "category": "força"
+}

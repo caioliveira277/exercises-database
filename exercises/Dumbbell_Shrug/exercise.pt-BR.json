@@ -1,0 +1,18 @@
+{
+  "name": "Encolher de ombros com halteres",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé com um haltere em cada mão (palmas voltadas para o tronco), braços estendidos para os lados.",
+    "Levante os halteres elevando os ombros o mais alto possível enquanto expira. Segure a contração na parte superior por um segundo. Dica: Os braços devem permanecer sempre estendidos. Evite usar o bíceps para ajudar a levantar os halteres. Apenas os ombros devem subir e descer.",
+    "Abaixe os halteres de volta à posição original.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Agachamento Olímpico",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece com uma barra apoiada no topo das armadilhas. O peito deve estar levantado e a cabeça voltada para frente. Adote uma postura na largura do quadril com os pés virados conforme necessário.",
+    "Desça flexionando os joelhos, evitando mover os quadris para trás tanto quanto possível. Isto requer que os joelhos se desloquem para a frente; certifique-se de que eles fiquem alinhados com os pés. O objetivo é manter o tronco o mais ereto possível. Continue descendo, mantendo o peso na frente do calcanhar.",
+    "No momento em que a parte superior das pernas entra em contato com a inferior, inverta o movimento, conduzindo o peso para cima."
+  ],
+  "category": "levantamento de peso olímpico"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Agachamento em caixa alta com uma perna",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Posicione uma caixa em um rack. Prenda uma faixa ou corda acima da caixa.",
+    "De pé na frente dele, suba na caixa e fique em pé, deixando a outra perna sem apoio. Segure a banda para manter o equilíbrio",
+    ". Continue subindo e descendo com a mesma perna antes de mudar para o lado oposto."
+  ],
+  "category": "força"
+}

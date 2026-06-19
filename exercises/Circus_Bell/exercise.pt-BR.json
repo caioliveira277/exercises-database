@@ -1,0 +1,25 @@
+{
+  "name": "Sino de circo",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "O sino do circo é um haltere grande com cabo grosso. Comece com o haltere entre os pés e segure a alça com as duas mãos.",
+    "Limpe o haltere estendendo-o pelos quadris e joelhos para entregar o implemento no ombro desejado, soltando com a mão extra.",
+    "Certifique-se de colocar uma das cabeças dos halteres atrás do ombro para não perder o equilíbrio. Para levantá-lo acima da cabeça, mergulhe flexionando os joelhos e suba enquanto estende o haltere acima da cabeça, inclinando-se ligeiramente para longe dele ao fazer isso.",
+    "Guie cuidadosamente o sino de volta ao chão, mantendo-o sob controle tanto quanto possível. É melhor realizar este evento sobre um tapete de borracha grosso para evitar danos ao chão."
+  ],
+  "category": "strongman"
+}

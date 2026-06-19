@@ -1,0 +1,24 @@
+{
+  "name": "Pulôver com halteres de braço reto",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "dorsais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um haltere em pé sobre um banco plano.",
+    "Garantindo que o haltere permaneça firmemente colocado no topo do banco, deite-se perpendicularmente ao banco (o tronco atravessado como se estivesse formando uma cruz) com apenas os ombros apoiados na superfície. Os quadris devem ficar abaixo do banco e as pernas dobradas com os pés firmemente apoiados no chão. A cabeça também estará fora do banco.",
+    "Segure o haltere com as duas mãos e segure-o diretamente sobre o peito, com os braços estendidos. Ambas as palmas devem pressionar a parte inferior de uma das laterais do haltere. Esta será sua posição inicial.\nCuidado: Certifique-se sempre de que o haltere utilizado para este exercício está seguro. Usar um haltere com placas soltas pode fazer com que o haltere se desfaça e caia no seu rosto.",
+    "Mantendo os braços retos, abaixe o peso lentamente em um arco atrás da cabeça enquanto inspira até sentir um alongamento no peito.",
+    "Nesse ponto, traga o haltere de volta à posição inicial usando o arco através do qual o peso foi abaixado e expire ao realizar esse movimento.",
+    "Mantenha o peso na posição inicial por um segundo e repita o movimento pelo número prescrito de repetições."
+  ],
+  "category": "força"
+}

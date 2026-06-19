@@ -1,0 +1,21 @@
+{
+  "name": "Empurrão no peito com liberação de corrida",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece em uma postura atlética com os joelhos dobrados, os quadris para trás e as costas retas. Segure a bola medicinal perto das pernas. Esta será sua posição inicial.",
+    "Ao dar o primeiro passo, coloque a bola medicinal em seu peito.",
+    "Ao dar o segundo passo, empurre a bola de forma explosiva para frente, correndo imediatamente por 10 metros após o lançamento. Se você for realmente rápido, poderá pegar seu próprio passe!"
+  ],
+  "category": "pliometria"
+}

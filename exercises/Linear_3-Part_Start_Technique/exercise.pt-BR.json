@@ -1,0 +1,21 @@
+{
+  "name": "Técnica de início linear de 3 partes",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Este exercício ajuda você a acelerar o mais rápido possível para um sprint a partir de uma parada total. Ajuda usar uma linha para começar. Comece com dois pés na linha. Coloque o pé esquerdo com o dedo próximo ao tornozelo direito. Coloque o pé direito 4-6 polegadas atrás do esquerdo.",
+    "Coloque a mão direita na linha e aproxime o nariz do joelho esquerdo.",
+    "Agache-se enquanto se inclina para a frente, com a cabeça mais baixa que os quadris e o peso colocado na perna esquerda. Esta será sua posição inicial.",
+    "Levante sua mão esquerda de modo que fique paralela ao chão, apontando para trás, e exploda quando estiver pronto."
+  ],
+  "category": "pliometria"
+}

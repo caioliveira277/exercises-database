@@ -1,0 +1,23 @@
+{
+  "name": "Gironda Esterno Queixos",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Segure a barra pull-up com uma pegada por baixo na largura dos ombros.",
+    "Agora pendure-se com os braços totalmente estendidos, estique o peito e incline-se para trás. Dica: você ficará recostado durante todo o movimento. Esta será sua posição inicial.",
+    "Comece a puxar-se em direção à barra com a coluna arqueada durante todo o movimento e a cabeça inclinada para trás o mais longe possível da barra. Expire ao realizar esta parte do movimento. Dica: Na extremidade superior do movimento, seus quadris e pernas formarão um ângulo de cerca de 45 graus em relação ao chão.",
+    "Continue puxando até que a clavícula passe pela barra e a parte inferior do tórax ou esterno a toque. Segure essa contração por um segundo. Dica: quando você concluir esta parte do movimento; sua cabeça ficará paralela ao chão.",
+    "Comece lentamente a voltar à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

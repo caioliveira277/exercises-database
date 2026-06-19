@@ -1,0 +1,22 @@
+{
+  "name": "Svend Imprensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece em pé.",
+    "Pressione duas placas leves juntas com as mãos. Segure as placas juntas perto do peito para criar uma contração isométrica nos músculos do peito. Seus dedos devem estar apontados para frente. Esta é a sua posição inicial.",
+    "Aperte as placas entre as palmas das mãos e estenda os braços diretamente à sua frente em um movimento controlado.",
+    "Faça uma pausa no início do movimento e retorne lentamente à posição inicial."
+  ],
+  "category": "força"
+}

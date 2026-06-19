@@ -1,0 +1,19 @@
+{
+  "name": "Deitado com barra fechada e tríceps pressionado até o queixo",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra EZ",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Enquanto segura uma barra ou barra EZ Curl com pegada pronada (palmas voltadas para a frente), deite-se de costas em um banco plano com a cabeça fora da extremidade do banco. Dica: Se você estiver segurando uma barra, segure-a com uma pegada na largura dos ombros e se estiver usando uma barra EZ, segure-a pelas alças internas.",
+    "Estenda os braços à sua frente enquanto segura a barra sobre o peito. Os braços devem estar perpendiculares ao tronco (ângulo de 90 graus). Esta será sua posição inicial.",
+    "Ao inspirar, abaixe a barra em um movimento semicircular, dobrando os cotovelos e mantendo o braço parado e os cotovelos para dentro. Continue abaixando a barra até que ela toque levemente seu queixo.",
+    "Ao expirar, traga a barra de volta à posição inicial, empurrando-a para cima em um movimento semicircular. Contraia o tríceps com força no topo do movimento por um segundo. Dica: Novamente, apenas os antebraços devem se mover. Os braços devem permanecer parados o tempo todo.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Suspensão da barra V",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio",
+    "ombros"
+  ],
+  "instructions": [
+    "Sente-se em uma máquina suspensa com uma barra em V presa à polia superior.",
+    "Ajuste a joelheira da máquina de acordo com sua altura. Essas almofadas evitarão que seu corpo seja elevado pela resistência fixada na barra.",
+    "Segure a barra em V com as palmas voltadas uma para a outra (uma pegada neutra). Estique o peito e incline-se ligeiramente para trás (cerca de 30 graus) para envolver melhor os dorsais. Esta será sua posição inicial.",
+    "Usando os dorsais, puxe a barra para baixo enquanto aperta as omoplatas. Continue até que seu peito quase toque a barra V. Expire ao executar este movimento. Dica: Mantenha o tronco parado durante todo o movimento.",
+    "Depois de manter a posição contraída por uma segunda vez, traga lentamente a barra de volta à posição inicial enquanto inspira.",
+    "Repita pelo número prescrito de repetições."
+  ],
+  "category": "força"
+}

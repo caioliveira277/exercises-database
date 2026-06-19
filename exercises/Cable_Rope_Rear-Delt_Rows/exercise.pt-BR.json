@@ -1,0 +1,23 @@
+{
+  "name": "Linhas de deltóide traseiro de corda de cabo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Sente-se na mesma posição em uma estação de remada com polia baixa, como faria se estivesse fazendo remada com cabos sentado para as costas.",
+    "Prenda uma corda na polia e segure-a com força. Seus braços devem estar estendidos e paralelos ao chão, com os cotovelos estendidos.",
+    "Mantenha a parte inferior das costas ereta e deslize os quadris para trás, de modo que os joelhos fiquem ligeiramente flexionados. Esta será sua posição inicial.",
+    "Puxe o acessório do cabo em direção à parte superior do tórax, logo abaixo do pescoço, enquanto mantém os cotovelos para cima e para os lados. Continue esse movimento enquanto expira até que os cotovelos fiquem ligeiramente atrás das costas. Dica: Mantenha os braços na horizontal, perpendiculares ao tronco e paralelos ao chão durante todo o movimento.",
+    "Volte à posição inicial onde os braços estão estendidos e os ombros esticados para a frente. Inspire ao realizar esta parte do movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

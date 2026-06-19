@@ -1,0 +1,19 @@
+{
+  "name": "Flexão de pulso com barra com as palmas para baixo sentada",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure uma barra com as duas mãos e as palmas voltadas para baixo; mãos espaçadas na largura dos ombros.",
+    "Coloque os pés apoiados no chão, a uma distância um pouco maior que a largura dos ombros.",
+    "Incline-se para a frente e coloque os antebraços na parte superior das coxas, com as palmas para baixo. Dica: certifique-se de que a parte de trás dos pulsos fique sobre os joelhos. Esta será sua posição inicial.",
+    "Abaixe a barra o máximo possível enquanto inspira e mantém uma pegada firme.",
+    "Agora enrole a barra o mais alto possível enquanto flexiona os antebraços e expira. Segure a contração na parte superior por um segundo e Dica: Somente o pulso deve se mover."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Halteres inclinados",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Segure um haltere em cada mão e deite-se em um banco inclinado com um ângulo de inclinação não superior a 30 graus.",
+    "Estenda os braços acima de você com uma ligeira flexão nos cotovelos.",
+    "Agora gire os pulsos de modo que as palmas das mãos fiquem voltadas para você. Dica: Os dedos mínimos devem ficar próximos um do outro. Esta será sua posição inicial.",
+    "Ao inspirar, comece a abaixar lentamente os braços para o lado, mantendo os braços estendidos e girando os pulsos até que as palmas das mãos fiquem voltadas uma para a outra. Dica: Ao final do movimento os braços estarão ao seu lado com as palmas voltadas para o teto.",
+    "Ao expirar, comece a trazer os halteres de volta à posição inicial, invertendo o movimento e girando as mãos para que os dedos mínimos fiquem próximos um do outro novamente. Dica: Lembre-se de que o movimento acontecerá apenas na articulação do ombro e no pulso. Não há movimento que aconteça na articulação do cotovelo.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

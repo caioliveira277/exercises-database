@@ -1,0 +1,20 @@
+{
+  "name": "Laterais laterais de um braço",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Escolha um haltere e coloque-o em uma das mãos. Sua mão que não levanta deve ser usada para agarrar algo estável, como um supino inclinado. Incline-se em direção ao braço que levanta e afaste-se da mão que segura o banco inclinado, pois isso permitirá que você mantenha o equilíbrio.",
+    "Fique em pé com o tronco reto e tenha o haltere ao seu lado, na altura dos braços, com a palma da mão voltada para você. Esta será sua posição inicial.",
+    "Mantendo o tronco parado (sem balançar), levante o haltere para o lado com uma ligeira flexão no cotovelo e a mão ligeiramente inclinada para a frente, como se estivesse derramando água em um copo. Continue subindo até que o braço fique paralelo ao chão. Expire ao executar esse movimento e faça uma pausa por um segundo no topo.",
+    "Abaixe o haltere lentamente até a posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Troque de braço e repita o exercício."
+  ],
+  "category": "força"
+}

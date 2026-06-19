@@ -1,0 +1,19 @@
+{
+  "name": "Remada Kettlebell de dois braços",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells na frente dos pés. Dobre ligeiramente os joelhos e, em seguida, empurre a bunda para fora o máximo possível enquanto se inclina para chegar à posição inicial.",
+    "Pegue os dois kettlebells e puxe-os até a barriga, retraindo as omoplatas e flexionando os cotovelos. Mantenha as costas retas. Abaixe e repita."
+  ],
+  "category": "força"
+}

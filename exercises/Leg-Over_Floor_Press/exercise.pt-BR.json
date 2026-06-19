@@ -1,0 +1,20 @@
+{
+  "name": "Prensa de perna sobre o chão",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão com um kettlebell colocado sobre o peito, segurando-o pela alça. Estenda a perna do lado ativo sobre a perna do lado não funcional. Seu braço livre pode ser estendido para o lado para obter apoio.",
+    "Pressione o kettlebll para uma posição travada.",
+    "Abaixe o peso até que o cotovelo toque o chão, mantendo o kettlebell acima do cotovelo. Repita pelo número desejado de repetições."
+  ],
+  "category": "força"
+}

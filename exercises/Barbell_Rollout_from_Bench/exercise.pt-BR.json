@@ -1,0 +1,22 @@
+{
+  "name": "Lançamento da barra a partir do banco",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque uma barra carregada no chão, perto do final de um banco. Ajoelhe-se com as duas pernas no banco e segure a barra de médio a estreito. Esta será sua posição inicial.",
+    "Para começar, estenda os quadris para rolar lentamente a barra para frente. Ao rolar, flexione o ombro para rolar a barra acima da cabeça. Certifique-se de que seus braços permaneçam estendidos durante todo o movimento.",
+    "Quando a barra for movida o mais para frente possível, retorne à posição inicial."
+  ],
+  "category": "força"
+}

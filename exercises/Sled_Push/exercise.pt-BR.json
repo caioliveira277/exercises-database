@@ -1,0 +1,22 @@
+{
+  "name": "Empurrão de trenó",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "peitoral",
+    "glúteos",
+    "posteriores de coxa",
+    "tríceps"
+  ],
+  "instructions": [
+    "Carregue seu trenó com o peso desejado.",
+    "Assuma uma postura atlética, apoiando-se no trenó com os braços totalmente estendidos, segurando as alças. Empurre o trenó o mais rápido possível, concentrando-se em estender os quadris e joelhos para fortalecer a cadeia posterior."
+  ],
+  "category": "strongman"
+}

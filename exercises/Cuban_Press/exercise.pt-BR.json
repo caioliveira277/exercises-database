@@ -1,0 +1,21 @@
+{
+  "name": "Imprensa Cubana",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézios"
+  ],
+  "instructions": [
+    "Pegue um haltere em cada mão com uma pegada pronada na posição em pé. Levante os braços para que fiquem paralelos ao chão, permitindo que os antebraços fiquem pendurados na posição de \"espantalho\". Esta será sua posição inicial.",
+    "Para iniciar o movimento, gire externamente os ombros para mover o braço em 180 graus. Mantenha os braços no lugar, girando-os até que os pulsos fiquem diretamente acima dos cotovelos e os antebraços perpendiculares ao chão.",
+    "Agora pressione os halteres estendendo os cotovelos, esticando os braços acima da cabeça.",
+    "Retorne à posição inicial enquanto inspira, invertendo os passos.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

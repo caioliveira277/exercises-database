@@ -1,0 +1,19 @@
+{
+  "name": "Flexão de perna em pé",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste a alavanca da máquina para se adequar à sua altura e deite-se com o tronco dobrado na cintura voltado para a frente em torno de 30-45 graus (já que uma posição angular é mais favorável para o recrutamento dos isquiotibiais) com a almofada da alavanca na parte de trás da perna direita (apenas alguns centímetros abaixo das panturrilhas) e a frente da perna direita em cima da almofada da máquina.",
+    "Mantendo o tronco dobrado para a frente, certifique-se de que a perna está totalmente esticada e segure as alças laterais da máquina. Posicione os dedos dos pés retos. Esta será sua posição inicial.",
+    "Ao expirar, levante a perna direita o máximo possível, sem levantar a parte superior da perna da almofada. Depois de atingir a posição totalmente contraída, segure-a por um segundo.",
+    "Ao inspirar, traga as pernas de volta à posição inicial. Repita pela quantidade recomendada de repetições.",
+    "Faça o mesmo exercício agora para a perna esquerda."
+  ],
+  "category": "força"
+}

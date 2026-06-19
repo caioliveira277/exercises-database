@@ -1,0 +1,21 @@
+{
+  "name": "Curvatura com barra em pé com pegada fechada",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Segure uma barra com as duas mãos, com as palmas para cima e a alguns centímetros de distância.",
+    "Fique em pé com o tronco reto e a cabeça erguida. Seus pés devem estar na largura dos ombros e os cotovelos próximos ao tronco. Esta será sua posição inicial. Dica: você manterá os braços e cotovelos parados durante todo o movimento.",
+    "Enrole a barra em movimentos semicirculares até que os antebraços toquem o bíceps. Expire ao realizar esta parte do movimento e contraia o bíceps com força por um segundo na parte superior. Dica: Evite dobrar as costas ou fazer movimentos de balanço ao levantar o peso. Apenas os antebraços devem se mover.",
+    "Volte lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

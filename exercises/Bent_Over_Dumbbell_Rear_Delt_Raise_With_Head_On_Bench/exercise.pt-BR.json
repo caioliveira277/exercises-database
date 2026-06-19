@@ -1,0 +1,19 @@
+{
+  "name": "Elevação traseira do deltóide curvado sobre o haltere com a cabeça no banco",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé, segurando um haltere em cada mão e com um banco inclinado à sua frente.",
+    "Mantendo as costas retas e o arco natural das costas, incline-se para a frente até que a testa toque o banco à sua frente. Deixe os braços pendurados à sua frente, perpendiculares ao chão. As palmas das mãos devem estar voltadas uma para a outra e o tronco deve estar paralelo ao chão. Esta será sua posição inicial.",
+    "Mantendo o tronco para a frente e parado e os braços esticados com uma ligeira flexão nos cotovelos, levante os halteres para o lado até que ambos os braços fiquem paralelos ao chão. Expire ao levantar os pesos. Cuidado: evite balançar o tronco ou trazer os braços para trás e não para os lados.",
+    "Após uma contração de um segundo na parte superior, abaixe lentamente os halteres de volta à posição inicial.",
+    "Repita a quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

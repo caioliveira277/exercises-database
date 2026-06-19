@@ -1,0 +1,18 @@
+{
+  "name": "Imprensa de tríceps sentado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco com apoio para as costas e segure um haltere com as duas mãos e segure-o acima da cabeça com os braços estendidos. Dica: a melhor maneira é pedir a alguém que o entregue, especialmente se for muito pesado. A resistência deve estar apoiada nas palmas das mãos, com os polegares ao redor. A palma da mão deve estar voltada para dentro. Esta será sua posição inicial.",
+    "Mantendo os braços próximos à cabeça (cotovelos para dentro) e perpendiculares ao chão, abaixe a resistência em um movimento semicircular atrás da cabeça até que os antebraços toquem o bíceps. Dica: Os braços devem permanecer parados e apenas os antebraços devem se mover. Inspire enquanto executa esta etapa.",
+    "Volte à posição inicial usando o tríceps para levantar o haltere. Expire enquanto executa esta etapa.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Arranco Kettlebell com um braço",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre os pés. Dobre os joelhos e empurre a bunda para trás para chegar à posição inicial adequada.",
+    "Olhe para frente e balance o kettlebell entre as pernas.",
+    "Imediatamente inverta a direção e dirija com os quadris e joelhos, acelerando o kettlebell para cima. À medida que o kettlebell sobe até o ombro, gire a mão e dê um soco para cima, usando o impulso para receber o peso travado acima da cabeça."
+  ],
+  "category": "força"
+}

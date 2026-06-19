@@ -1,0 +1,19 @@
+{
+  "name": "Pular corda",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Segure uma ponta da corda em cada mão. Posicione a corda atrás de você no chão. Levante os braços e passe a corda sobre a cabeça, baixando-a à sua frente. Quando chegar ao chão, pule sobre ele. Encontre um bom ritmo de viragem que possa ser mantido. Diferentes velocidades e técnicas podem ser usadas para introduzir variação.",
+    "Pular corda é emocionante, desafia sua coordenação e requer muita energia. Uma pessoa de 150 libras queimará cerca de 350 calorias pulando corda por 30 minutos, em comparação com mais de 450 calorias correndo."
+  ],
+  "category": "cardio"
+}

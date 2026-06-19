@@ -1,0 +1,24 @@
+{
+  "name": "Banco inclinado com halteres com as palmas voltadas para dentro",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco inclinado com um haltere em cada mão no topo das coxas. As palmas da sua mão ficarão voltadas uma para a outra.",
+    "Usando as coxas para ajudá-lo a levantar os halteres, limpe os halteres, um braço de cada vez, para poder segurá-los na largura dos ombros.",
+    "Uma vez na largura dos ombros, mantenha as palmas das mãos em uma pegada neutra (palmas voltadas uma para a outra). Mantenha os cotovelos abertos com os braços alinhados com os ombros (perpendicular ao tronco) e os cotovelos dobrados criando um ângulo de 90 graus entre o braço e o antebraço. Esta será sua posição inicial.",
+    "Agora abaixe os pesos lentamente para o lado enquanto inspira. Mantenha o controle total dos halteres em todos os momentos.",
+    "Ao expirar, empurre os halteres para cima usando os músculos peitorais. Trave os braços na posição contraída, segure por um segundo e depois comece a descer lentamente. Dica: Deve demorar pelo menos o dobro do tempo para descer do que para subir.",
+    "Repita o movimento pela quantidade prescrita de repetições.",
+    "Quando terminar, coloque os halteres de volta nas coxas e depois no chão. Esta é a maneira mais segura de descartar os halteres."
+  ],
+  "category": "força"
+}

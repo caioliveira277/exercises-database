@@ -1,0 +1,24 @@
+{
+  "name": "Recusar banco de aperto próximo para triturador de crânio",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Prenda as pernas no final do banco de declínio e deite-se lentamente no banco.",
+    "Usando uma pegada fechada (uma pegada um pouco menor que a largura dos ombros), levante a barra do suporte e segure-a diretamente sobre você, com os braços travados e os cotovelos para dentro. Esta será sua posição inicial. Dica: Para proteger o manguito rotador, é melhor que um observador o ajude a levantar a barra do suporte.",
+    "Agora abaixe a barra até a parte inferior do peito enquanto inspira. Mantenha os cotovelos para dentro enquanto executa esse movimento.",
+    "Usando o tríceps para empurrar a barra de volta para cima, pressione-a de volta à posição inicial enquanto expira.",
+    "Ao inspirar e manter os braços parados, abaixe a barra lentamente, movendo os antebraços em um movimento semicircular em sua direção até sentir a barra tocar levemente sua testa. Inspire enquanto executa esta parte do movimento.",
+    "Levante a barra de volta à posição inicial contraindo o tríceps e expirando.",
+    "Repita as etapas 3 a 6 até que a quantidade recomendada de repetições seja realizada."
+  ],
+  "category": "força"
+}

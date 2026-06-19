@@ -1,0 +1,17 @@
+{
+  "name": "Banda Crânio Triturador",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda uma faixa na base de um rack ou bancada. Deite-se no banco de forma que a faixa fique alinhada com sua cabeça.",
+    "Segure a faixa, levantando os cotovelos de forma que o braço fique perpendicular ao chão. Com o cotovelo flexionado, a faixa deve ficar acima da cabeça. Esta será sua posição inicial.",
+    "Estenda o cotovelo para esticar o braço, mantendo o braço no lugar. Faça uma pausa no início do movimento e retorne à posição inicial."
+  ],
+  "category": "força"
+}

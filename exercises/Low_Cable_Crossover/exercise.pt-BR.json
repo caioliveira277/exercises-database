@@ -1,0 +1,20 @@
+{
+  "name": "Crossover de cabo baixo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para passar para a posição inicial, coloque as polias na posição baixa, selecione a resistência a ser utilizada e segure uma alça em cada mão.",
+    "Dê um passo à frente, ganhando tensão nas polias. As palmas das mãos devem estar voltadas para a frente, as mãos abaixo da cintura e os braços esticados. Esta será sua posição inicial.",
+    "Com uma ligeira flexão dos braços, leve as mãos para cima e em direção à linha média do corpo. Suas mãos devem se unir na frente do peito, com as palmas voltadas para cima.",
+    "Retorne os braços à posição inicial após uma breve pausa."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Extensão de tríceps aérea de corda de cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda uma corda na polia inferior da máquina de polias.",
+    "Segurando a corda com as duas mãos, estenda os braços com as mãos diretamente acima da cabeça usando uma pegada neutra (palmas voltadas uma para a outra). Os cotovelos devem estar próximos à cabeça e os braços devem estar perpendiculares ao chão com os nós dos dedos voltados para o teto. Esta será sua posição inicial.",
+    "Abaixe lentamente a corda atrás da cabeça enquanto mantém os braços parados. Inspire ao realizar esse movimento e faça uma pausa quando o tríceps estiver totalmente alongado.",
+    "Retorne à posição inicial flexionando o tríceps enquanto expira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

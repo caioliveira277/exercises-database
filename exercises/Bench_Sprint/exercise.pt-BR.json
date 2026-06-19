@@ -1,0 +1,22 @@
+{
+  "name": "Corrida de banco",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique no chão com um pé apoiado em um banco ou caixa e o calcanhar próximo à borda.",
+    "Empurre com o pé em cima do banco, estendendo-se pelo quadril e joelho.",
+    "Aterrisse com o pé oposto em cima da caixa, retornando o outro pé à posição inicial.",
+    "Continue alternando de um pé para outro para completar o conjunto."
+  ],
+  "category": "pliometria"
+}

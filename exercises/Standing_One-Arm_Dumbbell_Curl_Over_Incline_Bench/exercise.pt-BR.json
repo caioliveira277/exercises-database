@@ -1,0 +1,20 @@
+{
+  "name": "Curvatura com halteres em pé sobre banco inclinado",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique na parte de trás de um banco inclinado, como se fosse observar alguém. Segure um haltere em uma das mãos e apoie-o no banco inclinado com uma pegada supinada (palmas para cima).",
+    "Posicione a mão que não levanta no canto ou na lateral do banco inclinado. O peito deve ser pressionado contra a parte superior da inclinação e os pés devem ser pressionados contra o chão em uma posição ampla. Esta é a posição inicial.",
+    "Enquanto mantém o braço parado, enrole o haltere para cima enquanto contrai o bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que os bíceps estejam totalmente contraídos e o haltere esteja na altura dos ombros. Mantenha a posição contraída por um segundo.",
+    "Lentamente, comece a trazer os halteres de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Troque de braço enquanto executa este exercício."
+  ],
+  "category": "força"
+}

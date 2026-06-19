@@ -1,0 +1,19 @@
+{
+  "name": "Alongamento lateral da virilha",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece deitando-se sobre o lado direito e dobre o joelho direito à sua frente para estabilizar o tronco.",
+    "Descanse a cabeça na mão ou ombro direito. Levante a perna esquerda e segure-a pela parte de trás do joelho (mais fácil) ou pelo pé (mais difícil).",
+    "Puxe o joelho esquerdo em direção ao ombro esquerdo e pressione simultaneamente o pé ou joelho no chão. Para intensificar esse alongamento, estique a perna esquerda. Troque de lado."
+  ],
+  "category": "alongamento"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Ponte de glúteos de perna única",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Deite-se no chão com os pés apoiados e os joelhos dobrados.",
+    "Levante uma perna do chão, puxando o joelho até o peito. Esta será sua posição inicial.",
+    "Execute o movimento passando pelo calcanhar, estendendo o quadril para cima e levantando os glúteos do chão.",
+    "Estenda o máximo possível, faça uma pausa e depois retorne à posição inicial."
+  ],
+  "category": "força"
+}

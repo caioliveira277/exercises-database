@@ -1,0 +1,20 @@
+{
+  "name": "Tocadores de dedo do pé",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, deite-se no chão ou em um colchonete com as costas apoiadas no chão. Seus braços devem estar estendidos ao lado do corpo, com as palmas voltadas para baixo.",
+    "Suas pernas devem estar se tocando. Eleve lentamente as pernas no ar até que fiquem quase perpendiculares ao chão, com uma ligeira flexão nos joelhos. Seus pés devem estar paralelos ao chão.",
+    "Mova os braços para que fiquem totalmente estendidos em um ângulo de 45 graus em relação ao chão. Esta é a posição inicial.",
+    "Mantendo a parte inferior das costas pressionada contra o chão, levante lentamente o tronco e use as mãos para tentar tocar os dedos dos pés. Lembre-se de expirar enquanto executa esta parte do exercício.",
+    "Lentamente, comece a abaixar o tronco e os braços de volta à posição inicial enquanto inspira. Lembre-se de manter os braços esticados apontando para os dedos dos pés.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "alongamento"
+}

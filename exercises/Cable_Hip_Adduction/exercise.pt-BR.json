@@ -1,0 +1,21 @@
+{
+  "name": "Adução de quadril por cabo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique na frente de uma polia baixa voltada para frente, com uma perna próxima à polia e a outra afastada.",
+    "Prenda a tornozeleira no cabo e também no tornozelo da perna que está próxima à polia.",
+    "Agora saia e afaste-se da pilha com uma postura ampla e segure a barra do sistema de polias.",
+    "Fique sobre o pé que não tem a braçadeira de tornozelo (o pé mais afastado) e deixe a perna com a braçadeira ser puxada em direção à polia baixa. Esta será sua posição inicial.",
+    "Agora execute o movimento movendo a perna com o tornozelo na frente da perna mais distante, usando a parte interna das coxas para abduzir o quadril. Expire durante esta parte do movimento.",
+    "Retorne lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições e depois repita o mesmo movimento com a perna oposta."
+  ],
+  "category": "força"
+}

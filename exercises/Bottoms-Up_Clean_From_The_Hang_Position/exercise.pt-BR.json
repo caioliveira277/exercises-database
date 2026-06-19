@@ -1,0 +1,19 @@
+{
+  "name": "Limpeza de baixo para cima na posição pendurada",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Inicie o exercício ficando em pé com um kettlebell em uma das mãos.",
+    "Balance o kettlebell para trás com força e depois inverta o movimento com força. Esmague a alça do kettlebell o mais forte possível e levante-o até o ombro."
+  ],
+  "category": "força"
+}

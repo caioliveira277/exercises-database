@@ -1,0 +1,21 @@
+{
+  "name": "Rosca interna do bíceps em pé",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé com um haltere em cada mão e segure-o com os braços estendidos. Os cotovelos devem estar próximos ao tronco. Suas pernas devem estar separadas uma da outra na largura dos ombros.",
+    "Gire as palmas das mãos para que fiquem voltadas para dentro em uma posição neutra. Esta será sua posição inicial.",
+    "Enquanto mantém os braços parados, enrole os pesos enquanto contrai os bíceps enquanto expira. Seu pulso deve girar de modo que, quando os pesos estiverem totalmente elevados, você tenha uma pegada supinada (palmas voltadas para cima).",
+    "Apenas os antebraços devem se mover. Continue o movimento até que os bíceps estejam totalmente contraídos e os halteres estejam na altura dos ombros. Dica: Mantenha os antebraços alinhados com os deltóides externos.",
+    "Mantenha a posição contraída por um segundo enquanto aperta o bíceps.",
+    "Lentamente, comece a trazer os halteres de volta à posição inicial enquanto inspira. Lembre-se de girar os pulsos ao abaixar o peso para voltar a uma pegada neutra.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

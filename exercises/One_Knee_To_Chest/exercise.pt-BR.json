@@ -1,0 +1,21 @@
+{
+  "name": "Um joelho no peito",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece deitado no chão.",
+    "Estenda uma perna esticada e puxe o outro joelho em direção ao peito. Segure sob a articulação do joelho para proteger a rótula.",
+    "Puxe suavemente o joelho em direção ao nariz.",
+    "Troque de lado. Isso alonga as nádegas e a parte inferior das costas da perna flexionada e o flexor do quadril da perna esticada."
+  ],
+  "category": "alongamento"
+}

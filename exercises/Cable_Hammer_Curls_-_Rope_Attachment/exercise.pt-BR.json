@@ -1,0 +1,20 @@
+{
+  "name": "Cachos de martelo de cabo - fixação de corda",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda um acessório de corda a uma polia baixa e fique de frente para a máquina, a cerca de 30 centímetros de distância dela.",
+    "Segure a corda com uma pegada neutra (palmas para dentro) e fique em pé, mantendo o arco natural das costas e o tronco parado.",
+    "Coloque os cotovelos ao lado do corpo e mantenha-os imóveis durante todo o movimento. Dica: Somente os antebraços devem se movimentar; não seus braços. Esta será sua posição inicial.",
+    "Usando o bíceps, puxe os braços para cima enquanto expira até que o bíceps toque os antebraços. Dica: lembre-se de manter os cotovelos para dentro e os braços parados.",
+    "Após uma contração de 1 segundo em que você contrai o bíceps, comece lentamente a trazer o peso de volta à posição original.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

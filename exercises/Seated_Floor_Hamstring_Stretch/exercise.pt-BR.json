@@ -1,0 +1,18 @@
+{
+  "name": "Alongamento dos isquiotibiais no chão sentado",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Sente-se em um tapete com a perna direita estendida à sua frente e a perna esquerda dobrada com o pé apoiado na parte interna da coxa direita.",
+    "Incline-se para a frente a partir dos quadris e alcance o tornozelo até sentir um alongamento no tendão da coxa. Segure por 15 segundos e repita para o outro lado."
+  ],
+  "category": "alongamento"
+}

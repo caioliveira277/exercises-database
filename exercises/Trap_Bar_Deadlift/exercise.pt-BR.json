@@ -1,0 +1,21 @@
+{
+  "name": "Levantamento terra com barra de armadilha",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para este exercício, carregue uma barra de armadilha, também conhecida como barra hexagonal, com um peso apropriado apoiado no chão. Fique no centro do aparelho e segure ambas as alças.",
+    "Abaixe os quadris, olhe para frente com a cabeça e mantenha o peito erguido.",
+    "Comece o movimento passando pelos calcanhares e estendendo os quadris e joelhos. Evite arredondar as costas o tempo todo.",
+    "Ao final do movimento, abaixe o peso de volta ao solo sob controle."
+  ],
+  "category": "força"
+}

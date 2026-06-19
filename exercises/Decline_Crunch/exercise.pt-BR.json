@@ -1,0 +1,20 @@
+{
+  "name": "Recusar crise",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda as pernas no final do banco declinado e deite-se.",
+    "Agora coloque as mãos levemente em cada lado da cabeça, mantendo os cotovelos para dentro. Dica: não cruze os dedos atrás da cabeça.",
+    "Enquanto empurra a parte inferior das costas para baixo no banco para isolar melhor os músculos abdominais, comece a rolar os ombros para fora dele.",
+    "Continue empurrando para baixo o máximo que puder com a parte inferior das costas enquanto contrai os abdominais e expira. Seus ombros devem sair do banco apenas cerca de dez centímetros e a parte inferior das costas deve permanecer no banco. No topo do movimento, contraia fortemente os abdominais e mantenha a contração por um segundo. Dica: Concentre-se em movimentos lentos e controlados – não se engane usando o impulso.",
+    "Após a contração de um segundo, comece a descer lentamente novamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

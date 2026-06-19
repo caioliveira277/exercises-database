@@ -1,0 +1,26 @@
+{
+  "name": "Músculo para cima",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "bíceps",
+    "antebraços",
+    "dorsal médio",
+    "ombros",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "Segure os anéis usando uma pegada falsa, com a base das palmas das mãos em cima dos anéis. Inicie uma flexão puxando os cotovelos para o lado, flexionando-os.",
+    "Ao atingir a posição superior da flexão, puxe os anéis até as axilas enquanto rola os ombros para a frente, permitindo que os cotovelos se movam para trás. Isso coloca você na posição adequada para continuar na parte de mergulho do movimento.",
+    "Mantendo o controle e a estabilidade, estenda o cotovelo para completar o movimento.",
+    "Tenha cuidado ao se abaixar até o chão."
+  ],
+  "category": "força"
+}

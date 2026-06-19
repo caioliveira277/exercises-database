@@ -1,0 +1,24 @@
+{
+  "name": "Imprensa Pallof",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Conecte uma alça padrão a uma torre e, se possível, posicione o cabo na altura dos ombros. Caso contrário, uma polia baixa será suficiente.",
+    "Com o lado voltado para o cabo, segure a alça com as duas mãos e afaste-se da torre. Você deve estar aproximadamente à distância de um braço da polia, com a tensão do peso no cabo.",
+    "Com os pés afastados na largura do quadril e os joelhos levemente flexionados, segure o cabo no meio do peito. Esta será sua posição inicial.",
+    "Afaste o cabo do peito, estendendo totalmente os dois braços. Seu núcleo deve estar firme e engajado.",
+    "Segure a repetição por alguns segundos antes de retornar à posição inicial.",
+    "No final da série, repita voltado para a outra direção."
+  ],
+  "category": "força"
+}

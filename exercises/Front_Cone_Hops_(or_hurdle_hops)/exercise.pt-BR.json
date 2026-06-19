@@ -1,0 +1,25 @@
+{
+  "name": "Front Cone Hops (ou hurdle hops)",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Monte uma fileira de cones ou outras pequenas barreiras, colocando-os a alguns metros de distância.",
+    "Fique na frente do primeiro cone com os pés afastados na largura dos ombros. Esta será sua posição inicial.",
+    "Comece saltando com os dois pés sobre o primeiro cone, balançando os dois braços enquanto salta.",
+    "Absorva o impacto da aterrissagem dobrando os joelhos, recuperando-se do primeiro salto saltando sobre o próximo cone.",
+    "Continue até pular todos os cones."
+  ],
+  "category": "pliometria"
+}

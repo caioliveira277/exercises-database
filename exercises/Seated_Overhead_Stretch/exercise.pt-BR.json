@@ -1,0 +1,18 @@
+{
+  "name": "Alongamento aéreo sentado",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se direito em um colchonete.",
+    "Toque as solas dos pés com os pés de 15 a 20 centímetros na frente dos quadris.",
+    "Coloque uma mão no chão ao seu lado e a outra atrás da cabeça.",
+    "Levante o cotovelo em direção ao teto enquanto inclina o tronco para o outro lado. Segure por 10 a 20 segundos e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

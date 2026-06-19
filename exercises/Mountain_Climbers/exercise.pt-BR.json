@@ -1,0 +1,20 @@
+{
+  "name": "Alpinistas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "posteriores de coxa",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece na posição de flexão, com o peso apoiado nas mãos e nos dedos dos pés. Flexionando o joelho e o quadril, traga uma perna até que o joelho fique aproximadamente abaixo do quadril. Esta será sua posição inicial.",
+    "Inverta explosivamente a posição das pernas, estendendo a perna dobrada até que ela fique reta e apoiada pelo dedo do pé, e levantando o outro pé com o quadril e o joelho flexionados. Repita de forma alternada por 20-30 segundos."
+  ],
+  "category": "pliometria"
+}

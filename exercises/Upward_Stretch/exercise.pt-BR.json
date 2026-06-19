@@ -1,0 +1,19 @@
+{
+  "name": "Alongamento para cima",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "dorsais"
+  ],
+  "instructions": [
+    "Estenda as duas mãos acima da cabeça, com as palmas se tocando.",
+    "Empurre lentamente as mãos para cima e para trás, mantendo as costas retas."
+  ],
+  "category": "alongamento"
+}

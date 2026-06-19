@@ -1,0 +1,23 @@
+{
+  "name": "Barra de perna rígida, bom dia",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Este exercício é melhor executado dentro de um rack de agachamento por motivos de segurança. Para começar, primeiro coloque a barra em um rack que melhor corresponda à sua altura. Depois que a altura correta for escolhida e a barra carregada, passe por baixo da barra e coloque a parte de trás dos ombros (um pouco abaixo do pescoço) sobre ela.",
+    "Segure-se na barra com os dois braços de cada lado e levante-a do rack empurrando primeiro com as pernas e ao mesmo tempo endireitando o tronco.",
+    "Afaste-se do rack e posicione as pernas usando uma postura média na largura dos ombros. Mantenha a cabeça erguida o tempo todo, pois olhar para baixo o desequilibrará e também manterá as costas retas. Esta será sua posição inicial.",
+    "Mantendo as pernas estacionárias, mova o tronco para a frente dobrando os quadris enquanto inspira. Abaixe o tronco até ficar paralelo ao chão.",
+    "Comece a levantar a barra ao expirar, elevando o tronco de volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Jammer Linear de Braço Único",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "tríceps"
+  ],
+  "instructions": [
+    "Posicione uma barra em uma mina terrestre ou ancore-a com segurança em um canto. Carregue a barra com um peso apropriado.",
+    "Levante a barra do chão, levando-a até os ombros com uma ou ambas as mãos. Adote uma postura ampla. Esta será sua posição inicial.",
+    "Execute o movimento estendendo o cotovelo, pressionando o peso para cima. Mova-se de forma explosiva, estendendo totalmente os quadris e joelhos para produzir força máxima.",
+    "Retorne à posição inicial."
+  ],
+  "category": "força"
+}

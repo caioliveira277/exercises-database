@@ -1,0 +1,18 @@
+{
+  "name": "Pirâmide",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Comece rolando o tronco para a frente sobre a bola, de modo que os quadris repousem sobre a bola e se tornem o ponto mais alto do corpo.",
+    "Descanse as mãos e os pés no chão. Seus braços e pernas podem estar ligeiramente flexionados ou retos, dependendo do tamanho da bola, da sua flexibilidade e do comprimento dos membros. Isso também ajuda a desenvolver força estabilizadora no tronco e nos ombros."
+  ],
+  "category": "alongamento"
+}

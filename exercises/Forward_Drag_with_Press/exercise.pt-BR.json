@@ -1,0 +1,23 @@
+{
+  "name": "Arrastar para frente com imprensa",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "quadríceps",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Prenda uma corrente com cabo duplo ou um acessório de corda ao trenó. Você deve estar de costas para o trenó, segurando uma alça em cada mão.",
+    "Comece o movimento avançando um passo. Inclinando-se para a frente, estenda as pernas e os quadris para se mover, parando a cada passo para estender os cotovelos, pressionando as mãos para a frente. Dê um passo à frente até retornar à posição inicial preparado para pressionar."
+  ],
+  "category": "strongman"
+}

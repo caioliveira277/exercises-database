@@ -1,0 +1,24 @@
+{
+  "name": "Levantando o equilíbrio do arrebatamento",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Este exercício ajuda você a aprender o snatch. Comece segurando um peso leve na parte de trás dos ombros. Seus pés devem estar um pouco mais largos que a largura do quadril e com os pés voltados para fora, a mesma posição em que você faria um agachamento.",
+    "Comece mergulhando levemente os joelhos e levantando-se para descarregar brevemente a barra. Dirija-se por baixo da barra, elevando-a acima da cabeça enquanto desce para um agachamento completo.",
+    "Retorne à posição em pé."
+  ],
+  "category": "levantamento de peso olímpico"
+}

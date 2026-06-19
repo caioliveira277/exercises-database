@@ -1,0 +1,22 @@
+{
+  "name": "Flye de cabo inclinado",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para chegar à posição inicial, coloque as polias no nível do chão (nível mais baixo possível na máquina que fica abaixo do tronco).",
+    "Coloque um banco inclinado (ajustado em 45 graus) entre as polias, selecione um peso em cada uma e segure uma polia em cada mão.",
+    "Com uma alça em cada mão, deite-se no banco inclinado e junte as mãos na frente do rosto, com os braços estendidos. Esta será sua posição inicial.",
+    "Com uma ligeira flexão dos cotovelos (para evitar tensão no tendão do bíceps), abaixe os braços em ambos os lados em um amplo arco até sentir um alongamento no peito. Inspire enquanto executa esta parte do movimento. Dica: Lembre-se de que durante todo o movimento os braços devem permanecer parados. O movimento deve ocorrer apenas na articulação do ombro.",
+    "Retorne os braços à posição inicial enquanto contrai os músculos do peito e expira. Mantenha a posição contraída por um segundo. Dica: Certifique-se de usar o mesmo arco de movimento usado para abaixar os pesos.",
+    "Repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

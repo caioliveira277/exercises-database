@@ -1,0 +1,23 @@
+{
+  "name": "Kettlebell totalmente limpo",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Coloque o kettlebell entre os pés. Para chegar à posição inicial, empurre a bunda para trás e olhe para frente.",
+    "Limpe o kettlebell no ombro. Limpe o kettlebell até os ombros, estendendo-o pelas pernas e quadris enquanto levanta o kettlebell em direção ao ombro. O pulso deve girar enquanto você faz isso.",
+    "Abaixe o kettlebell, mantendo os isquiotibiais carregados, mantendo as costas retas e a bunda para fora."
+  ],
+  "category": "força"
+}

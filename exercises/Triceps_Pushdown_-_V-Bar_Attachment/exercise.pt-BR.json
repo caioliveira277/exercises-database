@@ -1,0 +1,19 @@
+{
+  "name": "Pushdown de tríceps - fixação de barra V",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda uma barra em V a uma polia alta e agarre com uma pegada pronada (palmas voltadas para baixo) na largura dos ombros.",
+    "Em pé, com o tronco reto e uma inclinação muito pequena para a frente, aproxime os braços do corpo e perpendiculares ao chão. Os antebraços devem apontar para a polia enquanto seguram a barra. Os polegares devem estar mais altos que o dedo mínimo. Esta é a sua posição inicial.",
+    "Usando o tríceps, abaixe a barra até tocar a frente das coxas e os braços fiquem totalmente estendidos perpendicularmente ao chão. Os braços devem permanecer sempre parados próximos ao tronco e apenas os antebraços devem se mover. Expire ao realizar esse movimento.",
+    "Após uma segunda manutenção na posição contraída, traga a V-Bar lentamente até o ponto inicial. Inspire enquanto executa esta etapa.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

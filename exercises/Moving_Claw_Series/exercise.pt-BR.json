@@ -1,0 +1,20 @@
+{
+  "name": "Série de garras móveis",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Esse movimento ajuda a preparar sua forma de corrida para ajudá-lo a se destacar na corrida. Ao correr, certifique-se de flexionar o joelho, com o objetivo de chutar os glúteos enquanto o quadril se estende.",
+    "Recarregue o quadríceps enquanto a perna avança, atacando o solo no próximo passo.",
+    "Certifique-se de que, ao correr, você bloqueie com os braços, perfurando em um movimento rápido de 1-2."
+  ],
+  "category": "pliometria"
+}

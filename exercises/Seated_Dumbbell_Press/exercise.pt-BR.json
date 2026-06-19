@@ -1,0 +1,22 @@
+{
+  "name": "Supino com halteres sentado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Pegue alguns halteres e sente-se em um banco de supino militar ou em um banco utilitário que tenha apoio para as costas enquanto você coloca os halteres na vertical em cima das coxas.",
+    "Limpe os halteres, um de cada vez, usando as coxas para trazê-los até a altura dos ombros de cada lado.",
+    "Gire os pulsos de forma que as palmas das mãos fiquem voltadas para a frente. Esta é a sua posição inicial.",
+    "Ao expirar, empurre os halteres para cima até que se toquem no topo.",
+    "Após uma segunda pausa, volte lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

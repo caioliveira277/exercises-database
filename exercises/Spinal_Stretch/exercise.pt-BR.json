@@ -1,0 +1,23 @@
+{
+  "name": "Alongamento da coluna",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "dorsais",
+    "lombar",
+    "pescoço",
+    "trapézios"
+  ],
+  "instructions": [
+    "Sente-se em uma cadeira com as costas retas e os pés apoiados no chão.",
+    "Entrelace os dedos atrás da cabeça, cotovelos para fora e queixo para baixo.",
+    "Torça a parte superior do corpo para o lado cerca de 3 vezes, tanto quanto puder. Em seguida, incline-se para a frente e gire o tronco para alcançar o cotovelo no chão, na parte interna do joelho.",
+    "Volte à posição vertical e repita para o outro lado."
+  ],
+  "category": "alongamento"
+}

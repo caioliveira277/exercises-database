@@ -1,0 +1,19 @@
+{
+  "name": "Elevação do deltóide traseiro deitado",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segurando um haltere em cada mão, deite-se com o peito para baixo em um banco plano.",
+    "Posicione as palmas das mãos de forma neutra (palmas voltadas para o tronco), mantendo os braços estendidos com os cotovelos levemente flexionados. Esta será sua posição inicial.",
+    "Agora levante os braços para o lado até que os cotovelos estejam na altura dos ombros e os braços fiquem aproximadamente paralelos ao chão enquanto você expira. Dica: mantenha os braços perpendiculares ao tronco, mantendo-os estendidos durante todo o movimento. Além disso, mantenha a contração no topo por um segundo.",
+    "Abaixe lentamente os halteres até a posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições e depois mude para o outro braço."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Extensão de tríceps com halteres de dois braços curvados em pé",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Com um halter em cada mão e as palmas voltadas para o tronco, dobre ligeiramente os joelhos e leve o tronco para a frente, dobrando a cintura, mantendo as costas direitas até ficarem quase paralelas ao chão. Certifique-se de manter a cabeça erguida. Os braços devem estar próximos ao tronco e paralelos ao chão, enquanto os antebraços apontam para o chão enquanto as mãos seguram os pesos. Dica: Deve haver um ângulo de 90 graus entre os antebraços e o braço. Esta é a sua posição inicial.",
+    "Mantendo os braços estacionários, use o tríceps para levantar os pesos enquanto expira até que os antebraços fiquem paralelos ao chão e todos os braços estejam estendidos. Como muitos outros exercícios para os braços, apenas o antebraço se move.",
+    "Após uma segunda contração na parte superior, abaixe lentamente os halteres de volta à posição inicial enquanto inspira.",
+    "Repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

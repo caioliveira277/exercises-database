@@ -1,0 +1,22 @@
+{
+  "name": "Hiperextensão de bola ponderada",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Para começar, deite-se sobre uma bola de exercícios com o tronco pressionado contra a bola e paralelo ao chão. A planta dos pés deve ser pressionada contra o chão para ajudar a mantê-lo equilibrado. Coloque um prato com peso sob o queixo ou atrás do pescoço. Esta é a posição inicial.",
+    "Levante lentamente o tronco dobrando a cintura e a parte inferior das costas. Lembre-se de expirar durante esse movimento.",
+    "Mantenha a contração na parte inferior das costas por um segundo e abaixe o tronco de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições prescritas em seu programa."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Máquina Smith curvada sobre a fileira",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque a barra presa à máquina de ferreiro a uma altura de cerca de 5 centímetros abaixo dos joelhos.",
+    "Dobre ligeiramente os joelhos e leve o tronco para a frente, dobrando a cintura, mantendo as costas retas até ficarem quase paralelas ao chão. Dica: certifique-se de manter a cabeça erguida.",
+    "Agora segure a barra usando uma pegada pronada (pronada) e desbloqueie-a do suporte da ferreiro. Em seguida, deixe-o pendurado diretamente à sua frente, enquanto seus braços ficam estendidos perpendicularmente ao chão e ao tronco. Esta é a sua posição inicial.",
+    "Mantendo o tronco parado, levante a barra enquanto expira, mantendo os cotovelos próximos ao corpo e não fazendo nenhuma força com o antebraço além de segurar os pesos. Na posição contraída superior, contraia os músculos das costas e segure por um segundo.",
+    "Abaixe lentamente o peso novamente para a posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

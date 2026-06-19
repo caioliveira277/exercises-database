@@ -1,0 +1,20 @@
+{
+  "name": "Elevação reversa da panturrilha Smith Machine",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste a barra na máquina de ferreiro para se adequar à sua altura e alinhe uma plataforma elevada logo abaixo da barra.",
+    "Fique na plataforma com os calcanhares dos pés presos em cima dela e as pontas dos pés estendendo-se para fora dela. Posicione os dedos dos pés voltados para a frente com uma postura na largura dos ombros.",
+    "Agora, coloque os ombros sob a barra, mantendo o posicionamento dos pés descrito e empurre a barra para cima, estendendo os quadris e os joelhos até que o tronco fique ereto. Os joelhos devem ser mantidos ligeiramente flexionados; nunca trancado. Esta será sua posição inicial. Dica: A barra nas costas serve apenas para fins de equilíbrio.",
+    "Levante a planta dos pés enquanto expira, estendendo os dedos dos pés o mais alto possível e flexionando a panturrilha. Certifique-se de que o joelho esteja sempre parado. Não deve haver flexão em nenhum momento. Mantenha a posição contraída por um segundo antes de começar a descer.",
+    "Volte lentamente à posição inicial enquanto inspira, abaixando a planta dos pés e os dedos dos pés.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

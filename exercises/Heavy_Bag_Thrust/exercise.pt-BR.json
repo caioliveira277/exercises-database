@@ -1,0 +1,21 @@
+{
+  "name": "Impulso de saco pesado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Utilize um saco pesado para este exercício. Assuma uma postura ereta próxima à bolsa, com os pés escalonados e bastante afastados. Coloque a mão na bolsa na altura do peito. Esta será sua posição inicial.",
+    "Comece girando a cintura, empurrando a bolsa para frente o mais forte possível. Execute esse movimento rapidamente, afastando a bolsa do corpo.",
+    "Receba a bolsa enquanto ela balança para trás, invertendo essas etapas."
+  ],
+  "category": "pliometria"
+}

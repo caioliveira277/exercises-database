@@ -1,0 +1,22 @@
+{
+  "name": "Queixo com aderência mista",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Usando um espaçamento cerca de 2,5 cm mais largo que a largura dos ombros, segure uma barra pull-up com as palmas de uma mão voltadas para a frente e as palmas da outra voltadas para você. Esta será sua posição inicial.",
+    "Agora comece a se levantar enquanto expira. Dica: Com o braço que está com as palmas voltadas para cima concentre-se no uso dos músculos das costas para realizar o movimento. O cotovelo desse braço deve permanecer próximo ao tronco. Com o outro braço com as palmas voltadas para a frente, os cotovelos ficarão afastados, mas alinhados com o tronco. Você se concentrará em usar os dorsais para puxar o corpo para cima.",
+    "Após uma segunda contração na parte superior, comece a descer lentamente enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições.",
+    "No conjunto seguinte, troque as alças; então se você tinha a mão direita com as palmas voltadas para você e a esquerda com as palmas voltadas para frente, na próxima série você terá as palmas voltadas para frente para a mão direita e voltadas para você para a esquerda."
+  ],
+  "category": "força"
+}

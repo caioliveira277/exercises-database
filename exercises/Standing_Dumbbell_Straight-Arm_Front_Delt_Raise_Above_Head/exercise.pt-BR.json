@@ -1,0 +1,19 @@
+{
+  "name": "Haltere em pé com braço reto e deltóide frontal elevado acima da cabeça",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure os halteres na frente das coxas, com as palmas voltadas para as coxas.",
+    "Mantenha os braços retos com uma ligeira flexão nos cotovelos, mas mantenha-os travados. Esta será sua posição inicial.",
+    "Levante os halteres em um movimento semicircular até o comprimento do braço acima da cabeça enquanto expira.",
+    "Retorne lentamente à posição inicial usando o mesmo caminho ao inspirar.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

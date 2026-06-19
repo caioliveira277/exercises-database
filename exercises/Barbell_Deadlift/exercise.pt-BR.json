@@ -1,0 +1,28 @@
+{
+  "name": "Levantamento terra com barra",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "dorsais",
+    "dorsal médio",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Fique na frente de uma barra carregada.",
+    "Mantendo as costas o mais retas possível, dobre os joelhos, incline-se para a frente e segure a barra com uma pegada pronada média (na largura dos ombros). Esta será a posição inicial do exercício. Dica: Se for difícil segurar a barra com esta pegada, alterne a pegada ou use pulseiras.",
+    "Enquanto segura a barra, inicie o levantamento empurrando com as pernas e, ao mesmo tempo, colocando o tronco na posição vertical enquanto expira. Na posição vertical, estique o peito e contraia as costas trazendo as omoplatas para trás. Pense em como ficam os soldados militares quando estão em posição de sentido.",
+    "Volte à posição inicial dobrando os joelhos e, ao mesmo tempo, inclinando o tronco para a frente na cintura, mantendo as costas retas. Quando os pesos da barra tocam o chão você está de volta à posição inicial e pronto para realizar outra repetição.",
+    "Execute a quantidade de repetições prescritas no programa."
+  ],
+  "category": "força"
+}

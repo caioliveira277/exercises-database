@@ -1,0 +1,19 @@
+{
+  "name": "Pulldown de braço reto",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Você começará agarrando a barra larga da polia superior de uma máquina suspensa e usando uma pegada pronada mais larga que a largura dos ombros (palmas para baixo). Dê um passo para trás ou mais.",
+    "Dobre o tronco para a frente na cintura cerca de 30 graus, com os braços totalmente estendidos à sua frente e uma ligeira flexão nos cotovelos. Se seus braços não estiverem totalmente estendidos, você precisará dar um passo um pouco mais para trás até que estejam. Quando os braços estiverem totalmente estendidos e o tronco ligeiramente flexionado na cintura, aperte os dorsais e você estará pronto para começar.",
+    "Mantendo os braços retos, puxe a barra para baixo contraindo os dorsais até que as mãos fiquem próximas às laterais das coxas. Expire enquanto executa esta etapa.",
+    "Mantendo os braços retos, volte à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

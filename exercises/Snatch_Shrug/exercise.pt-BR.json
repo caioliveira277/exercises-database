@@ -1,0 +1,19 @@
+{
+  "name": "Encolher os ombros",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece com uma pegada ampla, com a barra pendurada no meio da coxa. Você pode usar um gancho ou uma pegada pronada. Suas costas devem estar retas e ligeiramente inclinadas para a frente.",
+    "Encolha os ombros em direção às orelhas. Embora este exercício geralmente possa ser carregado com peso maior do que um snatch, evite sobrecarregar a ponto de a execução ficar mais lenta."
+  ],
+  "category": "levantamento de peso olímpico"
+}

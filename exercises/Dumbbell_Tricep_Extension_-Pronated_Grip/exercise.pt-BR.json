@@ -1,0 +1,18 @@
+{
+  "name": "Extensão de tríceps com halteres - pega pronada",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano segurando dois halteres diretamente acima dos ombros. Seus braços devem estar totalmente estendidos e formar um ângulo de 90 graus entre o tronco e o chão.",
+    "As palmas das mãos devem estar voltadas para a frente e os cotovelos dobrados para dentro. Esta será a sua posição inicial.",
+    "Agora, inspire e abaixe lentamente os halteres até que fiquem perto das orelhas. Certifique-se de manter os braços parados e os cotovelos dobrados.",
+    "Em seguida, expire e use o tríceps para retornar o peso à posição inicial."
+  ],
+  "category": "força"
+}

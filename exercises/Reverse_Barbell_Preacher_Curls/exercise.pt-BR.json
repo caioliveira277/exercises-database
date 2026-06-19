@@ -1,0 +1,21 @@
+{
+  "name": "Cachos reversos do pregador com barra",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra EZ",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Segure uma barra EZ usando a largura dos ombros e as palmas para baixo (pronadas).",
+    "Agora coloque a parte superior de ambos os braços em cima do banco do pregador e estenda os braços. Esta será sua posição inicial.",
+    "Ao expirar, use o bíceps para enrolar o peso até que o bíceps esteja totalmente contraído e a barra esteja na altura dos ombros. Aperte o bíceps com força por um segundo na posição contraída.",
+    "Ao inspirar, abaixe lentamente a barra até que os braços estejam estendidos e os bíceps totalmente alongados.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

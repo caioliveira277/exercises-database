@@ -1,0 +1,19 @@
+{
+  "name": "Crunch sentado no cabo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco plano com as costas voltadas para uma polia alta.",
+    "Segure o fixador do cabo com ambas as mãos (com as palmas voltadas uma para a outra) e coloque-as firmemente sobre os ombros. Dica: permita que o peso hiperestenda ligeiramente a região lombar. Esta será sua posição inicial.",
+    "Com os quadris parados, flexione a cintura para que os cotovelos se desloquem em direção aos quadris. Expire enquanto executa esta etapa.",
+    "Ao inspirar, volte lentamente à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

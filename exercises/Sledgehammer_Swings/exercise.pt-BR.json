@@ -1,0 +1,24 @@
+{
+  "name": "Balanços de marreta",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "dorsais",
+    "dorsal médio",
+    "ombros"
+  ],
+  "instructions": [
+    "Você precisará de um pneu e uma marreta para este exercício. Fique na frente do pneu, a cerca de meio metro de distância, com uma postura cambaleante. Segure a marreta.",
+    "Se você for destro, sua mão esquerda deve estar na parte inferior do cabo e sua mão direita deve estar engasgada, mais perto da cabeça.",
+    "Ao levantar o trenó, sua mão direita desliza em direção à cabeça; conforme você balança para baixo, sua mão direita desliza para baixo para se juntar à mão esquerda. Bata o mais forte que puder contra o pneu. Controle o salto do martelo no pneu.",
+    "Repita do outro lado."
+  ],
+  "category": "pliometria"
+}

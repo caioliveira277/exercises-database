@@ -1,0 +1,23 @@
+{
+  "name": "Salto lateral de perna única",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique ao lado de um cone ou obstáculo. Para chegar à posição inicial, fique apoiado em uma perna e com o joelho ligeiramente flexionado.",
+    "Para começar, execute um contra-salto para pular de lado sobre o cone.",
+    "Aterrisse sobre a perna que salta e imediatamente se recupere saltando de volta à posição inicial.",
+    "Continue pulando para frente e para trás."
+  ],
+  "category": "pliometria"
+}

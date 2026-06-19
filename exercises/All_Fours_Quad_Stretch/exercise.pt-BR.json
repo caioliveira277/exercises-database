@@ -1,0 +1,19 @@
+{
+  "name": "Alongamento quádruplo de quatro quatro",
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "quadríceps"
+  ],
+  "instructions": [
+    "Comece apoiado nas mãos e nos joelhos, depois levante a perna do chão e segure o pé com a mão.",
+    "Use a mão para segurar o pé ou tornozelo, mantendo o joelho totalmente flexionado, alongando o quadríceps e os flexores do quadril.",
+    "Concentre-se em estender os quadris, empurrando-os em direção ao chão. Segure por 10-20 segundos e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

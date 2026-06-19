@@ -1,5 +1,8 @@
 {
   "name": "Latissimus Dorsi-SMR",
+  "aliases": [
+    "Latissimus Dorsi Self Myofascial Release"
+  ],
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",

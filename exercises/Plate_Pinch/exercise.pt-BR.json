@@ -1,0 +1,19 @@
+{
+  "name": "Pitada de placa",
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pegue dois pratos de borda larga e coloque-os juntos com os lados lisos voltados para fora",
+    "Use os dedos para segurar a parte externa da placa e o polegar para o outro lado, mantendo as duas placas juntas. Esta é a posição inicial.",
+    "Aperte o prato com os dedos e o polegar. Mantenha esta posição o máximo que puder.",
+    "Repita para a quantidade recomendada de séries prescritas em seu programa.",
+    "Troque de braço e repita os movimentos."
+  ],
+  "category": "força"
+}

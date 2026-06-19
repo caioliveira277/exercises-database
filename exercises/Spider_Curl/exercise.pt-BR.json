@@ -1,0 +1,21 @@
+{
+  "name": "Cacho de Aranha",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra EZ",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece colocando a barra na parte do banco do pregador onde você normalmente se sentaria. Certifique-se de alinhar a barra corretamente para que fique equilibrada e não caia.",
+    "Vá para a parte frontal do banco do pregador (a parte onde os braços normalmente ficam) e posicione-se em uma inclinação de 45 graus com o tronco e o estômago pressionados contra a parte frontal do banco do pregador.",
+    "Certifique-se de que seus pés (especialmente os dedos dos pés) estejam bem posicionados no chão e coloque os braços em cima da almofada localizada na parte interna do banco do pregador.",
+    "Use os braços para agarrar a barra com uma pegada supinada (palmas voltadas para cima) aproximadamente na largura dos ombros ou um pouco mais próximas uma da outra.",
+    "Lentamente, comece a levantar a barra e expire. Mantenha a posição contraída por um segundo enquanto aperta o bíceps.",
+    "Lentamente, comece a trazer a barra de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

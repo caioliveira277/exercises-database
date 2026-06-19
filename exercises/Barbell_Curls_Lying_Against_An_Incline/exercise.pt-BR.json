@@ -1,0 +1,18 @@
+{
+  "name": "Barbell Curls deitado contra uma inclinação",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se contra um banco inclinado, com os braços segurando uma barra e pendurados em uma linha horizontal. Esta será sua posição inicial.",
+    "Enquanto mantém os braços parados, enrole o peso o mais alto que puder enquanto aperta os bíceps. Expire enquanto executa esta parte do movimento. Dica: Apenas os antebraços devem se mover. Não balance os braços.",
+    "Após uma segunda contração, volte lentamente à posição inicial enquanto inspira. Dica: certifique-se de descer até o fim.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

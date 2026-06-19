@@ -1,0 +1,19 @@
+{
+  "name": "Lagarta",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé com os pés juntos. Mantendo as pernas retas, estique-se e coloque as mãos no chão bem à sua frente. Esta será sua posição inicial.",
+    "Comece caminhando lentamente com as mãos para frente, alternando a esquerda e a direita. Ao fazer isso, dobre apenas o quadril, mantendo as pernas retas.",
+    "Continue até que seu corpo fique paralelo ao chão em uma posição de flexão.",
+    "Agora, mantenha as mãos no lugar e dê passos curtos lentamente com os pés, movendo apenas alguns centímetros de cada vez.",
+    "Continue andando até que seus pés estejam no ponteiro das horas, mantendo as pernas retas ao fazer isso."
+  ],
+  "category": "alongamento"
+}

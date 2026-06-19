@@ -1,0 +1,23 @@
+{
+  "name": "Lateral lateral da polia baixa curvada",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "lombar",
+    "dorsal médio",
+    "trapézios"
+  ],
+  "instructions": [
+    "Selecione um peso e segure a alça da polia baixa com a mão direita.",
+    "Dobre a cintura até que o tronco fique quase paralelo ao chão. Suas pernas devem estar ligeiramente flexionadas com a mão esquerda colocada na parte inferior da coxa esquerda. Seu braço direito deve estar pendurado no ombro à sua frente e com uma ligeira flexão no cotovelo. Esta será sua posição inicial.",
+    "Levante o braço direito, com o cotovelo ligeiramente dobrado, para o lado até que o braço fique paralelo ao chão e alinhado com a orelha direita. Expire enquanto executa esta etapa.",
+    "Abaixe lentamente o peso de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições e repita o movimento com o outro braço."
+  ],
+  "category": "força"
+}

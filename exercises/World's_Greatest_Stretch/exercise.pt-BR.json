@@ -1,0 +1,21 @@
+{
+  "name": "O maior trecho do mundo",
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Este é um trecho de três partes. Comece avançando, com o pé da frente apoiado no chão e na ponta do pé de trás. Com os joelhos dobrados, agache-se até que o joelho quase toque o chão. Mantenha o tronco ereto e mantenha essa posição por 10 a 20 segundos.",
+    "Agora, coloque o braço do mesmo lado da perna da frente no chão, com o cotovelo próximo ao pé. A outra mão deve ser colocada no chão, paralela à perna dianteira, para ajudar a apoiá-lo durante esta parte do alongamento.",
+    "Após 10-20 segundos, coloque as mãos em cada lado do pé da frente. Levante os dedos do pé da frente do chão e estique a perna. Pode ser necessário reposicionar a perna traseira para fazer isso. Segure por 10 a 20 segundos e repita toda a sequência para o outro lado."
+  ],
+  "category": "alongamento"
+}

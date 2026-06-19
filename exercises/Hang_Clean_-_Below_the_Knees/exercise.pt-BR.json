@@ -1,0 +1,26 @@
+{
+  "name": "Pendure limpo - abaixo dos joelhos",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Comece com uma pegada na largura dos ombros, overhand duplo ou gancho, com a barra pendurada logo abaixo dos joelhos. Suas costas devem estar retas e ligeiramente inclinadas para a frente.",
+    "Comece estendendo-se agressivamente pelos quadris, joelhos e tornozelos, conduzindo o peso para cima. Ao fazer isso, encolha os ombros em direção às orelhas. Quando a extensão total for alcançada, faça a transição para a terceira puxada encolhendo agressivamente os ombros e flexionando os braços com os cotovelos para cima e para fora.",
+    "No pico da extensão, puxe-se agressivamente para baixo, girando os cotovelos sob a barra enquanto faz isso. Receba a barra na posição de agachamento frontal, cuja profundidade depende da altura da barra no final da terceira puxada. A barra deve ser apoiada nos ombros estendidos, tocando levemente a garganta com as mãos relaxadas. Continue descendo até a posição de agachamento inferior, o que ajudará na recuperação.",
+    "Recupere-se imediatamente dirigindo pelos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Continue até ficar em pé."
+  ],
+  "category": "levantamento de peso olímpico"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Cabo Judô Flip",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Conecte um acessório de corda a uma torre e mova o cabo para a posição mais baixa da polia. Fique de lado no cabo com uma postura ampla e segure a corda com as duas mãos.",
+    "Torça o corpo para longe da polia enquanto passa a corda por cima do ombro, como se estivesse dando uma cambalhota de judô.",
+    "Mude o peso entre os pés enquanto gira e avança, puxando o cabo para baixo.",
+    "Retorne à posição inicial e repita até falhar.",
+    "Depois, reposicione e repita a mesma série de movimentos no lado oposto."
+  ],
+  "category": "força"
+}

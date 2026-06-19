@@ -1,0 +1,21 @@
+{
+  "name": "Salto rápido",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Você precisará de uma caixa para este exercício.",
+    "Comece de frente para a caixa, a uma distância de 30 a 60 centímetros de sua borda.",
+    "Utilizando os quadris, pule na caixa, pousando com as duas pernas. Certifique-se de pousar com as pernas dobradas e os pés apoiados.",
+    "Imediatamente após pousar, estenda totalmente o corpo e balance os braços acima da cabeça para explodir para fora da caixa. Use as pernas para absorver o impacto da aterrissagem."
+  ],
+  "category": "pliometria"
+}

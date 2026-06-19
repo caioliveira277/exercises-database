@@ -1,0 +1,24 @@
+{
+  "name": "Corte de madeira com cabo em pé",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Conecte uma alça padrão a uma torre e mova o cabo para a posição mais alta da polia.",
+    "Com o lado voltado para o cabo, segure a alça com uma mão e afaste-se da torre. Você deve estar aproximadamente à distância de um braço da polia, com a tensão do peso no cabo. Seu braço estendido deve estar alinhado com o cabo.",
+    "Com os pés afastados na largura dos ombros, estenda a outra mão para cima e segure a alça com as duas mãos. Seus braços ainda devem estar totalmente estendidos.",
+    "Em um movimento, puxe a alça para baixo e através do corpo até o joelho da frente enquanto gira o tronco.",
+    "Mantenha as costas e os braços retos e o núcleo tenso enquanto gira o pé de trás e dobra os joelhos para obter uma amplitude completa de movimento.",
+    "Mantenha sua postura e braços esticados. Retorne à posição neutra de maneira lenta e controlada.",
+    "Repita até o fracasso.",
+    "Depois, reposicione e repita a mesma série de movimentos no lado oposto."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Agachamento – Com Bandas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Para começar, certifique-se de que a faixa de exercícios esteja dividida uniformemente entre os lados esquerdo e direito do corpo. Para fazer isso, use as mãos para agarrar os dois lados da faixa e coloque os dois pés no meio da faixa. Seus pés devem estar separados um do outro na largura dos ombros.",
+    "Ao segurar as faixas, elas devem ter a mesma altura de cada lado. Você deve usar uma pegada pronada (palmas voltadas para frente) e colocar as alças das faixas próximas ao rosto para este exercício. Esta é a posição inicial.",
+    "Lentamente, comece a dobrar os joelhos e abaixe as pernas de modo que as coxas fiquem paralelas ao chão enquanto expira.",
+    "Use o calcanhar dos pés para empurrar o corpo para a posição inicial enquanto expira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

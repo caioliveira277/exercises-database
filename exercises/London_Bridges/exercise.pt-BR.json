@@ -1,0 +1,22 @@
+{
+  "name": "Pontes de Londres",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Prenda uma corda de escalada a uma viga alta ou travessa. Abaixo dela, certifique-se de que a barra da ferreiro esteja travada no lugar com as seguranças e não possa se mover. Alternativamente, uma caixa segura também poderia ser utilizada.",
+    "Fique na barra, usando a corda para se equilibrar. Esta será sua posição inicial.",
+    "Mantendo o corpo reto, incline-se para trás e abaixe o corpo passando lentamente a corda, de mão em mão. Continue até ficar perpendicular ao solo.",
+    "Mantendo o corpo reto, inverta o movimento, voltando mão após mão à posição inicial."
+  ],
+  "category": "força"
+}

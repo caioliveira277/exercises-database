@@ -1,0 +1,19 @@
+{
+  "name": "Alongamento do peito e da frente do ombro",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Comece ficando em pé com as pernas juntas, segurando uma barra corporal ou um cabo de vassoura.",
+    "Segure o mastro um pouco mais largo que a largura dos ombros e segure-o à sua frente com as palmas voltadas para baixo.",
+    "Levante cuidadosamente o mastro e coloque-o atrás da cabeça."
+  ],
+  "category": "alongamento"
+}

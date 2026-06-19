@@ -1,0 +1,17 @@
+{
+  "name": "Círculos de Tornozelo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Use um objeto resistente, como um suporte de agachamento, para se segurar.",
+    "Levante a perna direita no ar (cerca de 5 centímetros do chão) e faça um movimento circular com o dedão do pé. Finja que você está desenhando um grande círculo com ele. Dica: Um círculo equivale a 1 repetição. Respire normalmente enquanto executa o movimento.",
+    "Quando terminar com o pé direito, repita com a perna esquerda."
+  ],
+  "category": "alongamento"
+}

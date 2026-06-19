@@ -1,0 +1,23 @@
+{
+  "name": "Supino com halteres em pé com a palma da mão e um braço",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece segurando um haltere em uma das mãos, com o braço totalmente estendido para o lado, usando uma pegada neutra. Use o outro braço para segurar um banco inclinado e manter o equilíbrio.",
+    "Seus pés devem estar separados um do outro na largura dos ombros. Agora levante lentamente o haltere até criar um ângulo de 90 graus com o braço. Nota: Seu antebraço deve estar perpendicular ao chão. Continue a manter uma pegada neutra durante todo o exercício.",
+    "Levante lentamente o haltere até que seu braço esteja totalmente estendido. Esta é a posição inicial.",
+    "Enquanto inspira, abaixe o peso até que seu braço esteja novamente em um ângulo de 90 graus.",
+    "Sinta a contração por um segundo e depois levante o peso de volta à posição inicial enquanto expira. Lembre-se de se segurar no banco inclinado e manter os pés posicionados para manter o equilíbrio durante o exercício.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Troque de braço e repita o exercício."
+  ],
+  "category": "força"
+}

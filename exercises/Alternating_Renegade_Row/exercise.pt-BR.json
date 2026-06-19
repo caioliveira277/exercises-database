@@ -1,0 +1,23 @@
+{
+  "name": "Linha Renegada Alternada",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "bíceps",
+    "peitoral",
+    "dorsais",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells no chão, separados na largura dos ombros. Posicione-se na ponta dos pés e nas mãos como se estivesse fazendo uma flexão, com o corpo reto e estendido. Use as alças dos kettlebells para apoiar a parte superior do corpo. Pode ser necessário posicionar os pés bem abertos para obter apoio.",
+    "Empurre um kettlebell no chão e reme o outro kettlebell, retraindo a omoplata do lado de trabalho enquanto flexiona o cotovelo, puxando-o para o lado.",
+    "Em seguida, abaixe o kettlebell até o chão e comece a usá-lo na mão oposta. Repita por várias repetições."
+  ],
+  "category": "força"
+}

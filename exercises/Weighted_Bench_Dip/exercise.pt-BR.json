@@ -1,0 +1,22 @@
+{
+  "name": "Mergulho de banco ponderado",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Para este exercício você precisará colocar um banco atrás das costas e outro à sua frente. Com os bancos perpendiculares ao corpo, segure-se em um banco pela borda com as mãos próximas ao corpo, separadas na largura dos ombros. Seus braços devem estar totalmente estendidos.",
+    "As pernas ficarão estendidas para a frente em cima do outro banco. Suas pernas devem estar paralelas ao chão, enquanto o tronco deve estar perpendicular ao chão. Peça ao seu parceiro que coloque o haltere no seu colo. Nota: Este exercício é melhor realizado com um parceiro, pois colocar o peso no colo pode ser desafiador e causar lesões sem ajuda. Esta será sua posição inicial.",
+    "Abaixe lentamente o corpo enquanto inspira, dobrando os cotovelos até se abaixar o suficiente para que haja um ângulo ligeiramente menor que 90 graus entre o braço e o antebraço. Dica: Mantenha os cotovelos o mais próximos possível durante todo o movimento. Os antebraços devem estar sempre apontando para baixo.",
+    "Usando o tríceps para levantar o tronco novamente, levante-se de volta à posição inicial enquanto expira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

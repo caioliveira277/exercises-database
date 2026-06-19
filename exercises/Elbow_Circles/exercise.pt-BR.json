@@ -1,0 +1,19 @@
+{
+  "name": "Círculos de cotovelo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézios"
+  ],
+  "instructions": [
+    "Sente-se ou fique em pé com os pés ligeiramente afastados.",
+    "Coloque as mãos nos ombros com os cotovelos na altura dos ombros e apontando para fora.",
+    "Faça lentamente um círculo com os cotovelos. Expire ao iniciar o círculo e inspire ao completar o círculo."
+  ],
+  "category": "alongamento"
+}

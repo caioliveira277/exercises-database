@@ -1,0 +1,19 @@
+{
+  "name": "Recusar crise reversa",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas em um banco inclinado e segure-se no topo do banco com as duas mãos. Não deixe seu corpo escorregar desta posição.",
+    "Mantenha as pernas paralelas ao chão usando os abdominais para mantê-las ali, enquanto mantém os joelhos e os pés juntos. Dica: Suas pernas devem estar totalmente estendidas com uma leve flexão do joelho. Esta será sua posição inicial.",
+    "Ao expirar, mova as pernas em direção ao tronco enquanto rola a pélvis para trás e levanta os quadris do banco. Ao final deste movimento seus joelhos estarão tocando seu peito.",
+    "Segure a contração por um segundo e mova as pernas de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

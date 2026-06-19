@@ -1,0 +1,18 @@
+{
+  "name": "Flexão de perna",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um colchonete com as pernas estendidas e as palmas das mãos voltadas para baixo, próximas a você ou sob os glúteos. Dica: Minha preferência é com as mãos próximas a mim. Esta será sua posição inicial.",
+    "Dobre os joelhos e puxe a parte superior das coxas em direção ao meio enquanto expira. Continue o movimento até que os joelhos estejam na altura do peito. Contraia o abdômen ao executar esse movimento e segure por um segundo no topo. Dica: Ao realizar o movimento, a parte inferior das pernas (panturrilhas) deve permanecer sempre paralela ao chão.",
+    "Retorne à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

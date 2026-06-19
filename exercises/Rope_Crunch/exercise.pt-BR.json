@@ -1,0 +1,19 @@
+{
+  "name": "Trituração de corda",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajoelhe-se 30 a 60 centímetros na frente de um sistema de cabos com uma corda presa.",
+    "Depois de selecionar um peso apropriado, segure a corda com as duas mãos acima da cabeça. Seu tronco deve estar ereto na posição inicial.",
+    "Para começar, flexione a coluna, tentando levar a caixa torácica até as pernas enquanto puxa o cabo para baixo.",
+    "Faça uma pausa na parte inferior do movimento e retorne lentamente à posição inicial.",
+    "Isso pode ser feito com torções ou para o lado para acertar os oblíquos."
+  ],
+  "category": "força"
+}

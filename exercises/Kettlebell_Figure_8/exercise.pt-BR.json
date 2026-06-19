@@ -1,0 +1,19 @@
+{
+  "name": "Kettlebell Figura 8",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre as pernas e adote uma postura mais larga que a largura dos ombros. Curve-se empurrando a bunda para fora e mantendo as costas retas.",
+    "Pegue um kettlebell e passe-o para a outra mão entre as pernas. A mão receptora deve alcançar por trás das pernas. Vá e volte por várias repetições."
+  ],
+  "category": "força"
+}

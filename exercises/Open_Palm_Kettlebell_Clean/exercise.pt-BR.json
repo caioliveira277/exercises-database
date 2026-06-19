@@ -1,0 +1,22 @@
+{
+  "name": "Kettlebell de palma aberta limpo",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre os pés. Limpe o kettlebell estendendo-o pelas pernas e quadris enquanto levanta o kettlebell em direção aos ombros.",
+    "Solte o kettlebell quando ele subir e deixe-o virar para que a bola do kettlebell caia nas palmas das suas mãos.",
+    "Solte o kettlebell à sua frente e segure a alça com as duas mãos. Abaixe o kettlebell para a posição inicial e repita."
+  ],
+  "category": "força"
+}

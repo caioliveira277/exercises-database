@@ -1,0 +1,22 @@
+{
+  "name": "Aumento Natural de Presunto com Glúteo",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Usando a almofada de perna de uma máquina de pulldown ou de um banco de pregador, posicione-se de forma que seus tornozelos fiquem sob as almofadas, os joelhos no assento e você fique de costas para a máquina. Você deve estar em pé e manter uma boa postura.",
+    "Esta será sua posição inicial. Abaixe-se sob controle até que os joelhos estejam quase completamente retos.",
+    "Permanecendo no controle, levante-se de volta à posição inicial.",
+    "Se você não conseguir completar uma repetição, use uma faixa, um parceiro ou empurre uma caixa para ajudar a completar uma repetição."
+  ],
+  "category": "força"
+}

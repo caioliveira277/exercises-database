@@ -1,0 +1,20 @@
+{
+  "name": "Supinação deitada com halteres",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de lado em um banco plano com um braço segurando um haltere e a outra mão em cima do banco dobrado para que você possa apoiar a cabeça nele.",
+    "Dobre os cotovelos do braço que segura o haltere de modo que ele crie um ângulo de 90 graus entre o braço e o antebraço.",
+    "Agora levante o braço de forma que o antebraço fique paralelo ao chão e perpendicular ao tronco (Dica: assim o antebraço ficará diretamente à sua frente). O braço ficará parado perto do tronco e deve estar paralelo ao chão (sempre alinhado com o tronco). Esta será sua posição inicial.",
+    "Ao expirar, gire externamente o antebraço para que o haltere seja levantado em um movimento de semicírculo enquanto você mantém o ângulo de flexão de 90 graus entre os braços e o antebraço. Você continuará essa rotação externa até que o antebraço fique perpendicular ao chão e o tronco apontado para o teto. Neste ponto você manterá a contração por um segundo.",
+    "Ao inspirar, volte lentamente à posição inicial.",
+    "Repita pela quantidade recomendada de repetições e depois mude para o outro braço."
+  ],
+  "category": "força"
+}

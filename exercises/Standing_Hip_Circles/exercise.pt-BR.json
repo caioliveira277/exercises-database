@@ -1,0 +1,20 @@
+{
+  "name": "Círculos de quadril em pé",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [
+    "adutores"
+  ],
+  "instructions": [
+    "Comece apoiado em uma perna só, segurando um suporte vertical.",
+    "Levante o joelho sem apoio a 90 graus. Esta será sua posição inicial.",
+    "Abra o quadril o máximo possível, tentando fazer um grande círculo com o joelho.",
+    "Execute esse movimento lentamente por várias repetições e repita do outro lado."
+  ],
+  "category": "alongamento"
+}

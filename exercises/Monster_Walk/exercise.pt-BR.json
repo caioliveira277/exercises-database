@@ -1,0 +1,17 @@
+{
+  "name": "Caminhada Monstruosa",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque uma faixa em volta dos tornozelos e outra em volta dos joelhos. Deve haver tensão suficiente para que eles fiquem tensos quando os pés estiverem na largura dos ombros.",
+    "Para começar, dê passos curtos para frente, alternando os pés esquerdo e direito.",
+    "Depois de vários passos, faça exatamente o oposto e volte para onde começou."
+  ],
+  "category": "força"
+}

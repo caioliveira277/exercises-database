@@ -1,0 +1,22 @@
+{
+  "name": "Remada com barra longa com um braço",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Posicione uma barra em uma mina terrestre ou em um canto para evitar que ela se mova. Coloque um peso apropriado em sua extremidade.",
+    "Fique próximo à barra e segure com uma das mãos perto da gola. Usando os quadris e as pernas, fique em pé.",
+    "Assuma uma postura com os joelhos dobrados, os quadris para trás e o peito para cima. Seu braço deve estar estendido. Esta será sua posição inicial.",
+    "Puxe o peso para o lado retraindo o ombro e flexionando o cotovelo. Não sacuda o peso nem trapaceie durante o movimento.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "força"
+}

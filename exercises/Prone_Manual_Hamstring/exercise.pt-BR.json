@@ -1,0 +1,17 @@
+{
+  "name": "Isquiotibiais manuais em decúbito",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Você precisará de um parceiro para este exercício. Deite-se de bruços com as pernas esticadas. Seu assistente colocará a mão em seu calcanhar.",
+    "Para começar, flexione o joelho para enrolar a perna. Seu parceiro deve fornecer resistência, começando leve e aumentando a pressão à medida que o movimento é concluído. Comunique-se com seu parceiro para monitorar os níveis de resistência apropriados.",
+    "Faça uma pausa no topo, retornando a perna à posição inicial enquanto seu parceiro oferece resistência na outra direção."
+  ],
+  "category": "força"
+}

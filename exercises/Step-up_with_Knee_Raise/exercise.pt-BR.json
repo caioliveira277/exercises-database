@@ -1,0 +1,20 @@
+{
+  "name": "Step-up com elevação do joelho",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Fique de frente para uma caixa ou banco de altura apropriada com os pés juntos. Esta será sua posição inicial.",
+    "Comece o movimento subindo um passo, colocando o pé esquerdo no topo do banco. Estenda o quadril e o joelho da perna da frente para ficar de pé na caixa. Ao ficar de pé na caixa com a perna esquerda, flexione o joelho e o quadril direitos, elevando o joelho o mais alto que puder.",
+    "Inverta esse movimento para descer da caixa e repita a sequência na perna oposta."
+  ],
+  "category": "força"
+}

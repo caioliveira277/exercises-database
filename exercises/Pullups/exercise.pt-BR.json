@@ -1,0 +1,22 @@
+{
+  "name": "Flexões",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Agarre a barra pull-up com as palmas voltadas para a frente usando a pegada prescrita. Nota sobre empunhaduras: para uma empunhadura ampla, suas mãos precisam estar espaçadas a uma distância maior que a largura dos ombros. Para uma pegada média, suas mãos precisam estar espaçadas a uma distância igual à largura dos ombros e para uma pegada fechada a uma distância menor que a largura dos ombros.",
+    "Como você tem os dois braços estendidos à sua frente segurando a barra na largura de pegada escolhida, traga o tronco para trás cerca de 30 graus ou mais enquanto cria uma curvatura na parte inferior das costas e estica o peito. Esta é a sua posição inicial.",
+    "Puxe o tronco para cima até que a barra toque a parte superior do tórax, puxando os ombros e os braços para baixo e para trás. Expire ao realizar esta parte do movimento. Dica: concentre-se em contrair os músculos das costas quando atingir a posição totalmente contraída. A parte superior do tronco deve permanecer estacionária enquanto se move pelo espaço e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho além de segurar a barra.",
+    "Depois de um segundo na posição contraída, comece a inspirar e abaixe lentamente o tronco de volta à posição inicial quando os braços estiverem totalmente estendidos e os dorsais totalmente esticados.",
+    "Repita este movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

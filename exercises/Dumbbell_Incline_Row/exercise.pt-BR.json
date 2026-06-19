@@ -1,0 +1,23 @@
+{
+  "name": "Linha inclinada com halteres",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Usando uma pegada neutra, incline-se em um banco inclinado.",
+    "Pegue um haltere em cada mão com pegada neutra, começando com os braços esticados. Esta será sua posição inicial.",
+    "Retraia as omoplatas e flexione os cotovelos para remar os halteres para o lado.",
+    "Faça uma pausa no início do movimento e depois retorne à posição inicial."
+  ],
+  "category": "força"
+}

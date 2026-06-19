@@ -1,0 +1,25 @@
+{
+  "name": "Kettlebell duplo alternado pendurado limpo",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells entre os pés. Para chegar à posição inicial, empurre a bunda para trás e olhe para frente.",
+    "Coloque um kettlebell no ombro e segure o outro kettlebell.",
+    "Com um movimento fluido, abaixe o kettlebell superior enquanto levanta o kettlebell inferior."
+  ],
+  "category": "força"
+}

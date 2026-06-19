@@ -1,0 +1,19 @@
+{
+  "name": "Escapamento com halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézios"
+  ],
+  "instructions": [
+    "Este exercício corretivo fortalece os músculos que estabilizam a omoplata. Segure um peso leve em cada mão, pendurado ao lado do corpo. Seus polegares devem apontar para cima.",
+    "Comece o movimento levantando os braços à sua frente, cerca de 30 graus fora do centro. Seus braços devem estar totalmente estendidos enquanto você executa o movimento.",
+    "Continue até que seus braços fiquem paralelos ao chão e depois retorne à posição inicial."
+  ],
+  "category": "força"
+}

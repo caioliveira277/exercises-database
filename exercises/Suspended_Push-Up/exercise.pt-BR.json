@@ -1,0 +1,21 @@
+{
+  "name": "Flexão Suspensa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Fixe as tiras de suspensão com segurança no topo de um rack ou outro objeto.",
+    "Apoiando-se nas alças, segure uma alça em cada mão e passe para a posição de prancha push-up. Você deve estar o mais próximo possível do solo, com os braços totalmente estendidos, mantendo uma boa postura.",
+    "Mantendo o tronco reto e rígido, desça lentamente, permitindo que os cotovelos flexionem.",
+    "Continue até que os cotovelos quebrem 90 graus, parando antes de estender para retornar à posição inicial."
+  ],
+  "category": "força"
+}

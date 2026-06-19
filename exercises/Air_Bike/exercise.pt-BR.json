@@ -1,0 +1,20 @@
+{
+  "name": "Bicicleta aérea",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão com a parte inferior das costas pressionada contra o chão. Para este exercício, você precisará colocar as mãos ao lado da cabeça. No entanto, tenha cuidado para não forçar o pescoço ao executá-lo. Agora levante os ombros para a posição crunch.",
+    "Traga os joelhos até ficarem perpendiculares ao chão, com a parte inferior das pernas paralela ao chão. Esta será sua posição inicial.",
+    "Agora, simultaneamente, faça lentamente um movimento de pedal de bicicleta, chutando para frente com a perna direita e trazendo o joelho da perna esquerda. Aproxime o cotovelo direito do joelho esquerdo, flexionando-o para o lado enquanto expira.",
+    "Volte à posição inicial enquanto inspira.",
+    "Crunch para o lado oposto enquanto você pedala as pernas e aproxima o cotovelo esquerdo do joelho direito e expira.",
+    "Continue alternando desta maneira até que todas as repetições recomendadas para cada lado tenham sido concluídas."
+  ],
+  "category": "força"
+}

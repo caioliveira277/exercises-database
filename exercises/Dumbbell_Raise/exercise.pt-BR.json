@@ -1,0 +1,20 @@
+{
+  "name": "Levantamento de halteres",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps"
+  ],
+  "instructions": [
+    "Pegue um haltere em cada braço e fique em pé, com os braços estendidos ao lado do corpo, com uma ligeira flexão nos cotovelos e as costas retas. Esta será sua posição inicial. Dica: O haltere deve ficar próximo às coxas com a palma das mãos voltada para trás.",
+    "Use os ombros laterais para levantar os halteres enquanto expira. Os halteres devem ficar ao lado do corpo enquanto você os move para cima. Continue a levantá-lo até que os halteres estejam quase alinhados com seu queixo. Dica: Seus cotovelos devem conduzir o movimento. Ao levantar o haltere, o cotovelo deve estar sempre mais alto que o antebraço. Além disso, mantenha o tronco parado e faça uma pausa por um segundo no início do movimento.",
+    "Abaixe os halteres lentamente até a posição inicial. Inspire ao realizar esta parte do movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

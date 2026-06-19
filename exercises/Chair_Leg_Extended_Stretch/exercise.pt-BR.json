@@ -1,0 +1,20 @@
+{
+  "name": "Alongamento estendido da perna da cadeira",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "adutores"
+  ],
+  "instructions": [
+    "Sente-se ereto em uma cadeira e segure o assento pelas laterais.",
+    "Levante uma perna, estendendo o joelho e flexionando o tornozelo ao fazer isso.",
+    "Mova lentamente a perna para fora o máximo que puder e depois volte para o centro e para baixo.",
+    "Repita para a outra perna."
+  ],
+  "category": "alongamento"
+}

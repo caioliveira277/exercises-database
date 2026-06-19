@@ -1,0 +1,21 @@
+{
+  "name": "Lançamento de bola medicinal",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Assuma uma postura de semi-agachamento com uma bola medicinal nas mãos. Seus braços devem ficar pendurados para que a bola fique perto de seus pés.",
+    "Comece empurrando os quadris para a frente enquanto estende as pernas, saltando para cima.",
+    "Ao fazer isso, balance os braços para cima e sobre a cabeça, mantendo-os estendidos, liberando a bola no auge do movimento. O objetivo é lançar a bola a maior distância atrás de você."
+  ],
+  "category": "pliometria"
+}

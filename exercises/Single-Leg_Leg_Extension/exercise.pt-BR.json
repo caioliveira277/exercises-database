@@ -1,0 +1,18 @@
+{
+  "name": "Extensão de perna única",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se na máquina e ajuste-a para que fique posicionado corretamente. A almofada deve ficar encostada na parte inferior da canela, mas não em contato com o tornozelo. Ajuste o assento de modo que o ponto de articulação fique alinhado com o joelho. Selecione um peso apropriado para suas habilidades.",
+    "Mantendo uma boa postura, estenda totalmente uma perna, parando no início do movimento.",
+    "Volte à posição inicial sem deixar o peso parar, mantendo a tensão no músculo.",
+    "Repita pelo número desejado de repetições."
+  ],
+  "category": "força"
+}

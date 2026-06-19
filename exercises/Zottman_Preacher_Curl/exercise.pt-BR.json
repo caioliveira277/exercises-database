@@ -1,0 +1,22 @@
+{
+  "name": "Zottman Pregador Curl",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Pegue um haltere em cada mão e coloque os braços em cima do banco do pregador ou do banco inclinado. Os halteres devem ser mantidos na altura dos ombros e os cotovelos flexionados. Segure os halteres com as palmas das mãos voltadas para baixo. Esta será sua posição inicial.",
+    "Ao inspirar, abaixe lentamente os halteres, mantendo as palmas das mãos para baixo, até que o braço esteja estendido e os bíceps totalmente alongados.",
+    "Agora gire os pulsos quando estiver no final do movimento, de modo que as palmas das mãos fiquem voltadas para cima.",
+    "Ao expirar, use os bíceps para enrolar os pesos até que estejam totalmente contraídos e os halteres estejam na altura dos ombros. Novamente, lembre-se de que, para garantir a contração total, você precisa colocar o dedo mínimo acima do polegar.",
+    "Aperte os bíceps com força por um segundo na posição contraída e gire os pulsos para que as palmas fiquem voltadas para baixo novamente.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Curvatura dos isquiotibiais com banda sentada",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda uma faixa perto do chão e coloque um banco a alguns metros de distância dela.",
+    "Sente-se no banco e prenda a faixa atrás dos tornozelos, começando com as pernas esticadas. Esta será sua posição inicial.",
+    "Flexione os joelhos, aproximando os pés do banco. Pode ser necessário inclinar-se ligeiramente para trás para evitar que os pés batam no chão.",
+    "Faça uma pausa na conclusão do movimento e retorne lentamente à posição inicial."
+  ],
+  "category": "força"
+}

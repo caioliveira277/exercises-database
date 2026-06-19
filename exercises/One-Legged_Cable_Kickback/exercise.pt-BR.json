@@ -1,0 +1,22 @@
+{
+  "name": "Retrocesso de cabo de uma perna",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Prenda uma braçadeira de couro no tornozelo em uma polia baixa e prenda a braçadeira no tornozelo.",
+    "Fique de frente para a pilha de pesos a uma distância de cerca de 60 centímetros, segurando a estrutura de aço para se apoiar.",
+    "Enquanto mantém os joelhos e quadris ligeiramente flexionados e os abdominais contraídos, contraia os glúteos para \"chutar\" lentamente a perna ativa para trás em um arco semicircular, o mais alto que for confortável enquanto você expira. Dica: Na extensão total, contraia os glúteos por um segundo para atingir o pico de contração.",
+    "Agora traga lentamente a perna ativa para a frente, resistindo à tração do cabo até chegar à posição inicial.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Troque as pernas e repita o movimento para o outro lado."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Linhas dobradas com aderência reversa",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Fique em pé enquanto segura uma barra com uma pegada supinada (palmas voltadas para cima).",
+    "Dobre ligeiramente os joelhos e leve o tronco para a frente, dobrando a cintura, mantendo as costas retas até ficarem quase paralelas ao chão. Dica: certifique-se de manter a cabeça erguida. A barra deve ficar pendurada diretamente à sua frente, enquanto seus braços ficam pendurados perpendicularmente ao chão e ao tronco. Esta é a sua posição inicial.",
+    "Mantendo o tronco parado, levante a barra enquanto expira, mantendo os cotovelos próximos ao corpo e não fazendo nenhuma força com o antebraço além de segurar os pesos. Na posição contraída superior, contraia os músculos das costas e segure por um segundo.",
+    "Abaixe lentamente o peso novamente para a posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

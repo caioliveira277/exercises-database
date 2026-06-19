@@ -1,0 +1,23 @@
+{
+  "name": "3/4 abdominais",
+  "aliases": [
+    "Sentar-se três quartos",
+    "Abdominais (três quartos)"
+  ],
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão e segure os pés. Suas pernas devem estar dobradas na altura dos joelhos.",
+    "Coloque as mãos atrás ou ao lado da cabeça. Você começará com as costas no chão. Esta será sua posição inicial.",
+    "Flexione os quadris e a coluna para levantar o tronco em direção aos joelhos.",
+    "No topo da contração, seu tronco deve estar perpendicular ao solo. Inverta o movimento, descendo apenas ¾ do caminho.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

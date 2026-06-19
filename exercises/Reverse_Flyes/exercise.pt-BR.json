@@ -1,0 +1,20 @@
+{
+  "name": "Moscas reversas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, deite-se em um banco inclinado com o peito e o estômago pressionados contra a inclinação. Coloque os halteres em cada mão com as palmas voltadas uma para a outra (pega neutra).",
+    "Estenda os braços à sua frente para que fiquem perpendiculares ao ângulo do banco. As pernas devem estar estacionárias enquanto aplica pressão com a ponta dos pés. Esta é a posição inicial.",
+    "Mantendo a ligeira flexão dos cotovelos, mova os pesos para fora e para longe um do outro (para o lado) em um movimento de arco enquanto expira. Dica: Tente apertar as omoplatas para obter os melhores resultados deste exercício.",
+    "Os braços devem ser elevados até ficarem paralelos ao chão.",
+    "Sinta a contração e abaixe lentamente os pesos de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

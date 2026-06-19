@@ -1,0 +1,20 @@
+{
+  "name": "Pulldown de amplitude total de movimento",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio",
+    "ombros"
+  ],
+  "instructions": [
+    "De pé ou sentado em um banco alto, segure dois cabos de estribo que estão presos às roldanas altas. Agarre com a mão oposta de forma que seus braços fiquem cruzados ao seu redor e as palmas voltadas para a frente.",
+    "Mantendo o peito para cima e um leve arco na parte inferior das costas, puxe as alças para baixo como se estivesse fazendo um pulldown normal. A amplitude de movimento será mais como um arco. Durante o movimento, gire as mãos de modo que, na posição inferior, as palmas fiquem voltadas uma para a outra, e não para a frente. Volte lentamente à posição inicial e repita."
+  ],
+  "category": "força"
+}

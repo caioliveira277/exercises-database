@@ -1,0 +1,22 @@
+{
+  "name": "Gorila Chin/Crunch",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Pendure-se em uma barra de apoio usando uma pegada por baixo (palmas voltadas para você) que seja um pouco mais larga que a largura dos ombros.",
+    "Agora dobre os joelhos em um ângulo de 90 graus para que as panturrilhas fiquem paralelas ao chão, enquanto as coxas permanecem perpendiculares a ele. Esta será sua posição inicial.",
+    "Ao expirar, levante-se enquanto flexiona os joelhos ao mesmo tempo, até que fiquem na altura do peito. Você irá parar de subir assim que seu nariz estiver no mesmo nível da barra. Dica: Quando chegar a este ponto, você também deverá terminar a crise ao mesmo tempo.",
+    "Comece a inspirar lentamente ao retornar à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Arrebatamento dividido com Kettlebell com um braço",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Segure um kettlebell com uma das mãos pela alça.",
+    "Agache-se em direção ao chão e depois inverta o movimento, estendendo os quadris, os joelhos e, finalmente, os tornozelos, para levantar o kettlebell acima da cabeça.",
+    "Depois de estender totalmente o corpo, desça para uma posição de estocada para receber os pesos acima da cabeça, uma perna para frente e outra para trás. Certifique-se de dirigir com os quadris e travar os kettlebells acima da cabeça em um movimento ininterrupto.",
+    "Volte à posição ereta, segurando o peso acima da cabeça e junte os pés. Abaixe o peso para retornar à posição inicial."
+  ],
+  "category": "força"
+}

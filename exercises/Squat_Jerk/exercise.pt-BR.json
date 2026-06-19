@@ -1,0 +1,23 @@
+{
+  "name": "Agachamento idiota",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "De pé com o peso apoiado na frente dos ombros, comece com o mergulho. Com os pés diretamente sob os quadris, flexione os joelhos sem mover os quadris para trás. Desça apenas ligeiramente e inverta a direção com a maior força possível. Dirija pelos calcanhares, crie o máximo de velocidade e força possível e certifique-se de mover a cabeça para fora do caminho quando a barra sair dos ombros.",
+    "Neste momento em que os pés saem do chão, os pés devem ser colocados na posição de recepção o mais rápido possível. No breve momento em que os pés não estiverem se movimentando ativamente contra a plataforma, o esforço do atleta para empurrar a barra para cima irá empurrá-los para baixo. Os pés devem mover-se com força para fora dos quadris, virados conforme necessário. Receba a barra com o corpo agachado e os braços totalmente estendidos acima da cabeça.",
+    "Mantendo a barra alinhada na frente dos calcanhares, com a cabeça e o peito para cima, passe pelos calcanhares dos pés para ficar em pé. Retorne cuidadosamente o peso ao chão."
+  ],
+  "category": "força"
+}

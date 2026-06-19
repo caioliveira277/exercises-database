@@ -1,0 +1,13 @@
+{
+  "name": "Canivete lateral",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [],
+  "category": "força"
+}

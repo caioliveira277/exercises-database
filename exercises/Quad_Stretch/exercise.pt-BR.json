@@ -1,0 +1,16 @@
+{
+  "name": "Alongamento quádruplo",
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de lado. Passe um cinto, corda ou faixa em volta do pé de cima. Flexione o joelho e estenda o quadril, tentando tocar os glúteos com o pé e segurando o cinto com as mãos. Esta será sua posição inicial.",
+    "Com o cinto colocado sobre o ombro ou acima da cabeça, puxe suavemente para aumentar o alongamento do quadríceps. Segure por 10-20 segundos e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

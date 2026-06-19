@@ -1,0 +1,20 @@
+{
+  "name": "Prensa de ombro com cabo sentado",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Ajuste o peso para uma quantidade adequada e sente-se, segurando as alças. Os braços devem estar a cerca de 90 graus do corpo, com a cabeça e o peito para cima. Os cotovelos também devem estar dobrados em cerca de 90 graus. Esta será sua posição inicial.",
+    "Comece estendendo-o pelo cotovelo, pressionando as alças acima da cabeça.",
+    "Após uma pausa na parte superior, retorne as alças à posição inicial. Certifique-se de manter a tensão nos cabos.",
+    "Você também pode executar esse movimento com as costas afastadas do bloco e alternando as mãos."
+  ],
+  "category": "força"
+}

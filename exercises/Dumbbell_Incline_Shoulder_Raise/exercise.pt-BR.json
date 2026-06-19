@@ -1,0 +1,21 @@
+{
+  "name": "Levantamento de ombro inclinado com halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se em um banco inclinado enquanto segura um haltere em cada mão na parte superior das coxas.",
+    "Levante as pernas para chutar os pesos para os ombros e incline-se para trás. Posicione os halteres acima dos ombros com os braços estendidos. Os braços devem estar perpendiculares ao chão, com as palmas voltadas para a frente e os nós dos dedos apontando para o teto. Esta será sua posição inicial.",
+    "Mantendo os braços retos e travados, levante os halteres levantando os ombros do banco enquanto expira.",
+    "Traga os halteres de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Subida de corda",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "dorsal médio",
+    "ombros"
+  ],
+  "instructions": [
+    "Segure a corda com as duas mãos acima da cabeça. Puxe a corda para baixo enquanto dá um pequeno salto.",
+    "Enrole a corda em volta de uma perna, usando os pés para prendê-la. Alcance o mais alto possível com os braços, segurando a corda com força.",
+    "Solte a corda dos pés enquanto se levanta com os braços, trazendo os joelhos em direção ao peito.",
+    "Prenda novamente os pés na corda e, em seguida, levante-se para segurar novamente a corda. Continue até chegar ao topo da corda.",
+    "Para abaixar-se, afrouxe o aperto dos pés na corda enquanto desliza para baixo usando um movimento de mão sobre mão."
+  ],
+  "category": "força"
+}

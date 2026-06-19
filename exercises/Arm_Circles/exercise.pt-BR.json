@@ -1,0 +1,19 @@
+{
+  "name": "Círculos de braço",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézios"
+  ],
+  "instructions": [
+    "Levante-se e estenda os braços para os lados. Os braços devem estar paralelos ao chão e perpendiculares (ângulo de 90 graus) ao tronco. Esta será sua posição inicial.",
+    "Lentamente, comece a fazer círculos de cerca de 30 centímetros de diâmetro com cada braço estendido. Respire normalmente enquanto executa o movimento.",
+    "Continue o movimento circular com os braços estendidos por cerca de dez segundos. Em seguida, inverta o movimento, indo na direção oposta."
+  ],
+  "category": "alongamento"
+}

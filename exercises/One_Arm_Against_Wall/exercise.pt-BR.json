@@ -1,0 +1,16 @@
+{
+  "name": "Um braço contra a parede",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Em pé, coloque um braço dobrado contra uma parede ou porta.",
+    "Incline-se lentamente em direção ao braço até sentir um alongamento no dorso."
+  ],
+  "category": "alongamento"
+}

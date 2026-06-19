@@ -1,0 +1,21 @@
+{
+  "name": "Moinhos de vento",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Deite-se de costas com os braços estendidos para os lados e as pernas esticadas. Esta será sua posição inicial.",
+    "Levante uma perna e cruze-a rapidamente sobre o corpo, tentando tocar o chão próximo à mão oposta.",
+    "Volte à posição inicial e repita com a perna oposta. Continue alternando por 10-20 repetições."
+  ],
+  "category": "alongamento"
+}

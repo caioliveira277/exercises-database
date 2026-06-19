@@ -1,0 +1,16 @@
+{
+  "name": "Banda IT e alongamento de glúteos",
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Passe um cinto, corda ou faixa em volta de um dos pés e balance a perna sobre o corpo para o lado oposto, mantendo a perna estendida enquanto você se deita no chão. Esta será sua posição inicial.",
+    "Mantendo o pé fora do chão, puxe o cinto, usando a tensão para puxar os dedos para cima. Segure por 10 a 20 segundos e repita do outro lado."
+  ],
+  "category": "alongamento"
+}

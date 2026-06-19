@@ -1,0 +1,20 @@
+{
+  "name": "Slides de plataforma para isquiotibiais",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos"
+  ],
+  "instructions": [
+    "Para este movimento é necessário um piso de madeira ou similar. Deite-se de costas com as pernas estendidas. Coloque uma toalha de ginástica ou um peso leve sob o calcanhar. Esta será sua posição inicial.",
+    "Comece o movimento flexionando o joelho, mantendo a outra perna esticada.",
+    "Continue aproximando o calcanhar de você, deslizando-o no chão.",
+    "Na flexão total do joelho, inverta o movimento para retornar à posição inicial."
+  ],
+  "category": "força"
+}

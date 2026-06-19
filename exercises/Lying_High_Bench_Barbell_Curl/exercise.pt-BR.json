@@ -1,0 +1,18 @@
+{
+  "name": "Curvatura com barra deitada no banco alto",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de bruços em um banco alto e plano enquanto segura uma barra com uma pegada supinada (palmas voltadas para cima). Dica: Se você estiver segurando uma barra, segure-a com uma pegada na largura dos ombros e se estiver usando uma barra EZ, segure-a pelas alças internas. A parte superior do corpo deve ser posicionada de forma que a parte superior do tórax fique sobre a extremidade do banco e a barra fique pendurada à sua frente com os braços estendidos e perpendiculares ao chão. Esta será sua posição inicial.",
+    "Mantendo os cotovelos para dentro e os braços parados, enrole o peso em um movimento semicircular enquanto contrai os bíceps e expira. Segure no topo do movimento por um segundo.",
+    "Ao inspirar, volte lentamente à posição inicial. Dica: Mantenha sempre o controle total do peso e evite qualquer balanço. Lembre-se, apenas os antebraços devem se mover durante todo o movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

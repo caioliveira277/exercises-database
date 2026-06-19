@@ -1,0 +1,21 @@
+{
+  "name": "Chute de bunda com uma perna",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece apoiando-se em uma perna só, com o joelho dobrado levantado. Esta será sua posição inicial.",
+    "Usando um salto com contramovimento, decole para cima estendendo o quadril, o joelho e o tornozelo da perna no chão.",
+    "Flexione imediatamente o joelho e tente tocar sua bunda com o calcanhar da perna que salta.",
+    "Retorne a perna para uma posição parcialmente flexionada abaixo dos quadris e pouse. A perna oposta deve permanecer relativamente na mesma posição durante todo o exercício."
+  ],
+  "category": "pliometria"
+}

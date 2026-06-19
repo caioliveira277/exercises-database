@@ -1,0 +1,22 @@
+{
+  "name": "Moinho de vento Kettlebell avançado",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa",
+    "ombros"
+  ],
+  "instructions": [
+    "Limpe e pressione um kettlebell acima da cabeça com um braço.",
+    "Mantendo o kettlebell travado o tempo todo, empurre sua bunda na direção do kettlebell travado. Mantenha o braço que não funciona atrás das costas e vire os pés em um ângulo de quarenta e cinco graus em relação ao braço com o kettlebell.",
+    "Abaixe-se o máximo possível.",
+    "Faça uma pausa por um segundo e inverta o movimento de volta à posição inicial."
+  ],
+  "category": "força"
+}

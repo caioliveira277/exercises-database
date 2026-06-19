@@ -1,0 +1,20 @@
+{
+  "name": "Abdutor de coxa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "abdutores"
+  ],
+  "secondaryMuscles": [
+    "glúteos"
+  ],
+  "instructions": [
+    "Para começar, sente-se na máquina abdutora e selecione um peso com o qual se sinta confortável. Quando suas pernas estiverem posicionadas corretamente, segure as alças de cada lado. Toda a parte superior do corpo (da cintura para cima) deve estar parada. Esta é a posição inicial.",
+    "Pressione lentamente contra a máquina com as pernas para afastá-las uma da outra enquanto expira.",
+    "Sinta a contração por um segundo e comece a mover as pernas de volta à posição inicial enquanto inspira. Observação: lembre-se de manter a parte superior do corpo parada para evitar a ocorrência de lesões.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

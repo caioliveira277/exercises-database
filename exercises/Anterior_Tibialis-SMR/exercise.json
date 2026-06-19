@@ -1,5 +1,8 @@
 {
   "name": "Anterior Tibialis-SMR",
+  "aliases": [
+    "Anterior Tibialis Self Myofascial Release"
+  ],
   "force": "static",
   "level": "intermediate",
   "mechanic": null,

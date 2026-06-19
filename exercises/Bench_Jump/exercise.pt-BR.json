@@ -1,0 +1,23 @@
+{
+  "name": "Salto de banco",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece com uma caixa ou banco de 30 a 60 centímetros à sua frente. Fique em pé com os pés afastados na largura dos ombros. Esta será sua posição inicial.",
+    "Faça um pequeno agachamento em preparação para o salto; balance os braços atrás de você.",
+    "Saia dessa posição, estendendo-se pelos quadris, joelhos e tornozelos para pular o mais alto possível. Balance os braços para frente e para cima.",
+    "Salte sobre o banco, pousando com os joelhos dobrados, absorvendo o impacto pelas pernas.",
+    "Vire-se e fique de frente para a direção oposta, depois pule de volta no banco."
+  ],
+  "category": "pliometria"
+}

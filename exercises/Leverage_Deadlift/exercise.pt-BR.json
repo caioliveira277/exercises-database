@@ -1,0 +1,19 @@
+{
+  "name": "Aproveite o levantamento terra",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Carregue os pinos com um peso apropriado. Posicione-se diretamente entre as alças. Segure as alças inferiores com uma pegada confortável e abaixe os quadris enquanto respira. Olhe para frente com a cabeça e mantenha o peito erguido. Esta será sua posição inicial.",
+    "Retorne o peso à posição inicial."
+  ],
+  "category": "força"
+}

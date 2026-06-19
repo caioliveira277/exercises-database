@@ -1,0 +1,18 @@
+{
+  "name": "Elevação frontal com dois halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Escolha alguns halteres e fique em pé com o tronco reto e os halteres na frente das coxas, na altura dos braços, com as palmas das mãos voltadas para as coxas. Esta será sua posição inicial.",
+    "Mantendo o tronco parado (sem balançar), levante os halteres para a frente com uma ligeira flexão do cotovelo e as palmas das mãos sempre voltadas para baixo. Continue subindo até que os braços fiquem ligeiramente acima, paralelos ao chão. Expire ao executar esta parte do movimento e faça uma pausa por um segundo no topo.",
+    "Ao inspirar, abaixe os halteres lentamente até a posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

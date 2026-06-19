@@ -1,0 +1,18 @@
+{
+  "name": "Elevação de perna deitada em banco plano",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se com as costas retas em um banco e as pernas estendidas à sua frente.",
+    "Coloque as mãos sob os glúteos, com as palmas voltadas para baixo, ou pelas laterais, segurando-as no banco. Esta será sua posição inicial.",
+    "Enquanto mantém as pernas estendidas, o mais reto possível com os joelhos ligeiramente dobrados, mas travados, levante as pernas até que formem um ângulo de 90 graus com o chão. Expire ao realizar esta parte do movimento e mantenha a contração na parte superior por um segundo.",
+    "Agora, ao inspirar, abaixe lentamente as pernas de volta à posição inicial."
+  ],
+  "category": "força"
+}

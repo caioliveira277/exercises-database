@@ -1,0 +1,25 @@
+{
+  "name": "Deadlift com Correntes",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "dorsal médio",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Você pode prender as correntes nas mangas da barra ou simplesmente pendurar o meio sobre a barra para que haja um aumento maior de peso à medida que você levanta.",
+    "Aproxime-se da barra de forma que ela fique centralizada sobre seus pés. Seus pés devem estar separados na largura do quadril. Dobre o quadril para segurar a barra na largura dos ombros, permitindo que as omoplatas se projetem. Normalmente, você usaria uma pegada overhand ou uma pegada over/under em séries mais pesadas. Com os pés e a pegada firme, respire fundo, abaixe os quadris e dobre os joelhos até que as canelas entrem em contato com a barra.",
+    "Olhe para frente com a cabeça, mantenha o peito erguido e as costas arqueadas e comece a dirigir pelos calcanhares para mover o peso para cima. Depois que a barra passar pelos joelhos, puxe-a agressivamente para trás, unindo as omoplatas enquanto empurra os quadris para frente na barra.",
+    "Abaixe a barra dobrando os quadris e guiando-a até o chão."
+  ],
+  "category": "levantamento de peso básico"
+}

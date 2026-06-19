@@ -1,0 +1,19 @@
+{
+  "name": "Crunch reverso",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão com as pernas totalmente estendidas e os braços ao lado do tronco com as palmas das mãos no chão. Seus braços devem ficar parados durante todo o exercício.",
+    "Mova as pernas para cima de modo que as coxas fiquem perpendiculares ao chão e os pés fiquem juntos e paralelos ao chão. Esta é a posição inicial.",
+    "Ao inspirar, mova as pernas em direção ao tronco enquanto rola a pélvis para trás e levanta os quadris do chão. Ao final deste movimento seus joelhos estarão tocando seu peito.",
+    "Segure a contração por um segundo e mova as pernas de volta à posição inicial enquanto expira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

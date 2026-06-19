@@ -1,0 +1,20 @@
+{
+  "name": "Banda Bom Dia",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Usando uma faixa de 41 polegadas, fique em uma das extremidades, afastando um pouco os pés. Dobre os quadris para passar a ponta da faixa atrás do pescoço. Esta será sua posição inicial.",
+    "Mantendo as pernas retas, estenda os quadris para chegar a uma posição quase vertical.",
+    "Certifique-se de não curvar as costas ao voltar à posição inicial."
+  ],
+  "category": "levantamento de peso básico"
+}

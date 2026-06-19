@@ -1,0 +1,18 @@
+{
+  "name": "Lançamento de bola medicinal para trás",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Este exercício é melhor realizado com um parceiro. Se não tiver um parceiro, a bola pode ser lançada e recuperada ou jogada contra a parede.",
+    "Comece ficando alguns metros à frente de seu parceiro, ambos voltados para a mesma direção. Comece segurando a bola entre as pernas.",
+    "Agache-se e inverta a direção com força, alcançando a extensão total e jogando a bola por cima da cabeça para o seu parceiro.",
+    "Seu parceiro pode então rolar a bola de volta para você. Repita pelo número desejado de repetições."
+  ],
+  "category": "pliometria"
+}

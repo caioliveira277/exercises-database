@@ -1,0 +1,19 @@
+{
+  "name": "Imprensa sentada com kettlebell",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se no chão e abra as pernas confortavelmente.",
+    "Limpe um kettlebell no ombro.",
+    "Pressione o kettlebell para cima e para fora até que ele fique travado acima da cabeça. Retorne à posição inicial."
+  ],
+  "category": "força"
+}

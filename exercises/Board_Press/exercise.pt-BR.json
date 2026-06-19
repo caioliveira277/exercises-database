@@ -1,0 +1,23 @@
+{
+  "name": "Imprensa do quadro",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "antebraços",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece deitando-se no banco, colocando a cabeça além da barra, se possível. De uma a cinco pranchas, feitas de 2x6, podem ser aparafusadas e fixadas por um parceiro de treino, faixas ou simplesmente enfiadas por baixo da camisa.",
+    "Coloque os pés embaixo de você e arqueie as costas. Usando a barra para ajudar a suportar o peso, levante os ombros do banco e retraia-os, apertando as omoplatas. Use os pés para colocar as armadilhas no banco. Mantenha essa posição corporal firme durante todo o movimento.",
+    "Você pode usar uma pegada de banco padrão ou na largura dos ombros para focar no tríceps. Puxe a barra para fora do suporte sem esticar os ombros. A barra, o pulso e o cotovelo devem permanecer alinhados o tempo todo. Concentre-se em apertar a barra e tentar separá-la.",
+    "Abaixe a barra até as tábuas e, em seguida, empurre-a para cima com o máximo de força possível. Os cotovelos devem ser dobrados até o bloqueio."
+  ],
+  "category": "levantamento de peso básico"
+}

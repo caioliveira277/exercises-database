@@ -1,0 +1,22 @@
+{
+  "name": "Imprensa de declínio da máquina Smith",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Posicione um banco declinado no rack de forma que a barra fique acima do seu peito. Carregue um peso adequado e sente-se no banco.",
+    "Gire a barra para soltá-la do suporte e estenda totalmente os braços. Suas costas devem estar ligeiramente arqueadas e as omoplatas retraídas. Esta será sua posição inicial.",
+    "Comece o movimento flexionando os braços, abaixando a barra até o peito.",
+    "Faça uma breve pausa e estenda os braços para empurrar o peso de volta à posição inicial.",
+    "Depois de completar o número desejado de repetições, gire a barra para suportar o peso."
+  ],
+  "category": "força"
+}

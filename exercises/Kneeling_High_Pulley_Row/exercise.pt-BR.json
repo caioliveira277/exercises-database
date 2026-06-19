@@ -1,0 +1,20 @@
+{
+  "name": "Remada de polia alta ajoelhada",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Selecione o peso apropriado usando uma polia acima de sua cabeça. Prenda uma corda ao cabo e ajoelhe-se a alguns metros de distância, segurando a corda à sua frente com os dois braços estendidos. Esta será sua posição inicial.",
+    "Inicie o movimento flexionando os cotovelos e retraindo totalmente os ombros, puxando a corda em direção à parte superior do peito com os cotovelos para fora.",
+    "Após uma breve pausa, retorne lentamente à posição inicial."
+  ],
+  "category": "força"
+}

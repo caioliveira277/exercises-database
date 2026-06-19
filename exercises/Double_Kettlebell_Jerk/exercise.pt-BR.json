@@ -1,0 +1,25 @@
+{
+  "name": "Duplo Kettlebell Idiota",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Segure um kettlebell pela alça em cada mão.",
+    "Limpe os kettlebells até os ombros, estendendo-os pelas pernas e quadris enquanto puxa os kettlebells em direção aos ombros. Gire os pulsos ao fazer isso, de modo que as palmas fiquem voltadas para a frente. Esta será sua posição inicial.",
+    "Mergulhe o corpo dobrando os joelhos, mantendo o tronco ereto.",
+    "Inverta imediatamente a direção, passando pelos calcanhares, basicamente saltando para criar impulso.",
+    "Ao fazer isso, pressione os kettlebells acima da cabeça para travar, estendendo os braços, usando o impulso do corpo para mover os pesos.",
+    "Retorne os pés ao chão de forma dividida, com um pé à frente e outro atrás.",
+    "Mantendo os pesos acima da cabeça, volte à posição ereta, juntando os pés. Abaixe os pesos para realizar a próxima repetição."
+  ],
+  "category": "força"
+}

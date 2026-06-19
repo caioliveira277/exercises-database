@@ -1,0 +1,25 @@
+{
+  "name": "Limite lateral",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Assuma uma posição de meio agachamento voltada para 90 graus em relação à direção de deslocamento. Esta será sua posição inicial.",
+    "Permita que a perna dianteira faça um contramovimento para dentro enquanto você transfere o peso para a perna externa.",
+    "Empurre e estenda imediatamente, tentando saltar para o lado o máximo possível.",
+    "Ao pousar, empurre imediatamente na direção oposta, retornando à posição inicial original.",
+    "Continue para frente e para trás por várias repetições."
+  ],
+  "category": "pliometria"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Tríceps aéreos",
+  "force": "estática",
+  "level": "avançado",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "dorsais"
+  ],
+  "instructions": [
+    "Sente-se ereto no chão com seu parceiro atrás de você. Levante um braço e flexione o cotovelo, tentando tocar as costas com a mão. Seu parceiro deve segurar seu cotovelo e pulso. Esta será sua posição inicial.",
+    "Tente estender o braço direto para o ar, pois seu parceiro o impede de fazê-lo.",
+    "Após 10-20 segundos, relaxe o braço e permita que seu parceiro alongue ainda mais o tríceps aplicando uma leve pressão no pulso. Segure por 10-20 segundos e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Puxar",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece ficando alguns metros na frente de uma polia baixa com uma corda ou alça presa. Fique de costas para a máquina, segurando o cabo e com os pés bem afastados.",
+    "Comece o movimento alcançando as pernas o máximo possível, dobrando os quadris. Mantenha os joelhos ligeiramente flexionados. Mantendo os braços retos, estenda o quadril para ficar em pé. Evite puxar para cima pelos ombros; todo o movimento deve originar-se nos quadris."
+  ],
+  "category": "força"
+}

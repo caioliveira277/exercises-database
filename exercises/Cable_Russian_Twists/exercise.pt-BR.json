@@ -1,0 +1,21 @@
+{
+  "name": "Torções russas de cabo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Conecte uma alça padrão e posicione o cabo em uma posição intermediária da polia.",
+    "Deite-se sobre uma bola de estabilidade perpendicular ao cabo e segure a alça com uma das mãos. Você deve estar aproximadamente à distância de um braço da polia, com a tensão do peso no cabo.",
+    "Segure a alça com as duas mãos e estenda totalmente os braços acima do peito. Suas mãos devem estar diretamente alinhadas com a polia. Caso contrário, ajuste a polia para cima ou para baixo até que estejam.",
+    "Mantenha os quadris elevados e os abdominais contraídos. Gire o tronco para longe da polia para um quarto de rotação completo. Seu corpo deve estar plano da cabeça aos joelhos.",
+    "Faça uma pausa por um momento e, de forma lenta e controlada, retorne à posição inicial. Você ainda deve ter tensão lateral no cabo na posição de repouso.",
+    "Repita o mesmo movimento até o fracasso.",
+    "Depois, reposicione e repita a mesma série de movimentos no lado oposto."
+  ],
+  "category": "força"
+}

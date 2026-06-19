@@ -1,0 +1,24 @@
+{
+  "name": "Caminhada do Fazendeiro",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Existem vários implementos que podem ser utilizados na caminhada dos agricultores. Também podem ser realizados com halteres pesados ​​​​ou barras curtas se esses implementos não estiverem disponíveis. Comece ficando entre os implementos.",
+    "Depois de segurar as alças, levante-as passando pelos calcanhares, mantendo as costas retas e a cabeça erguida.",
+    "Caminhe com passos curtos e rápidos e não se esqueça de respirar. Mova-se por uma determinada distância, normalmente de 15 a 30 metros, o mais rápido possível."
+  ],
+  "category": "strongman"
+}

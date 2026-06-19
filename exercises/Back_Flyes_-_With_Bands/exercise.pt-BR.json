@@ -1,0 +1,23 @@
+{
+  "name": "Back Flyes - Com Bandas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "dorsal médio",
+    "tríceps"
+  ],
+  "instructions": [
+    "Passe uma faixa em torno de um poste fixo, como um rack de agachamento.",
+    "Segure a faixa pelas alças e afaste-se para que a tensão na faixa aumente.",
+    "Estenda e levante os braços esticados à sua frente. Dica: Seus braços devem estar retos e paralelos ao chão, enquanto perpendiculares ao tronco. Seus pés devem estar firmemente plantados no chão, na largura dos ombros. Esta será sua posição inicial.",
+    "Ao expirar, mova os braços para os lados e para trás. Mantenha os braços estendidos e paralelos ao chão. Continue o movimento até que os braços estejam estendidos ao lado do corpo.",
+    "Após uma pausa, volte à posição original enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

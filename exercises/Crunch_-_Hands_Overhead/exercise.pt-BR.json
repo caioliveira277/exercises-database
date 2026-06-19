@@ -1,0 +1,19 @@
+{
+  "name": "Crunch - mãos acima da cabeça",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão com as costas retas e os joelhos dobrados em um ângulo de cerca de 60 graus entre os isquiotibiais e as panturrilhas.",
+    "Mantenha os pés apoiados no chão e estique os braços acima da cabeça com as palmas cruzadas. Esta será sua posição inicial.",
+    "Curve a parte superior do corpo para a frente e retire as omoplatas do chão. Mantenha sempre os braços alinhados com a cabeça, pescoço e ombros. Não os mova para frente a partir dessa posição. Expire ao realizar esta parte do movimento e mantenha a contração por um segundo.",
+    "Abaixe lentamente até a posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

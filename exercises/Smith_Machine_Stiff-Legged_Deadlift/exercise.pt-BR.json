@@ -1,0 +1,22 @@
+{
+  "name": "Deadlift com pernas rígidas da Smith Machine",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Para começar, coloque a barra da máquina de ferreiro em uma altura próxima ao meio das coxas. Depois que a altura correta for escolhida e a barra carregada, segure a barra usando uma pegada pronada (palmas para frente) na largura dos ombros. Você pode precisar de algumas bandagens nos pulsos se usar uma quantidade significativa de peso.",
+    "Levante a barra estendendo totalmente os braços enquanto mantém as costas retas. Fique em pé com o tronco reto e as pernas espaçadas na largura dos ombros ou em uma postura mais estreita. Os joelhos devem estar ligeiramente flexionados. Esta é a sua posição inicial.",
+    "Mantendo os joelhos estacionários, abaixe a barra até a parte superior dos pés, dobrando a cintura e mantendo as costas retas. Continue avançando como se fosse pegar algo do chão até sentir um alongamento nos isquiotibiais. Expire enquanto executa este movimento",
+    "Comece a levantar o tronco novamente assim que sentir os isquiotibiais se alongarem, estendendo os quadris e a cintura até voltar à posição inicial. Inspire enquanto executa esse movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

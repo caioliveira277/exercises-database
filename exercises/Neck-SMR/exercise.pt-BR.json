@@ -1,0 +1,19 @@
+{
+  "name": "Pescoço-SMR",
+  "aliases": [
+    "Liberação Miofascial Automática do Pescoço"
+  ],
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Usando um rolo muscular ou rolo, coloque o rolo atrás da cabeça e contra o pescoço. Certifique-se de não colocar o rolo diretamente contra a coluna, mas girá-lo levemente para que o rolo seja pressionado contra os músculos de cada lado da coluna. Esta será sua posição inicial.",
+    "Começando na parte superior do pescoço, role lentamente os músculos do pescoço, parando nos pontos de tensão por 10 a 30 segundos."
+  ],
+  "category": "alongamento"
+}

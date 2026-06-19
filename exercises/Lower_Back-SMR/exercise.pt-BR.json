@@ -1,0 +1,19 @@
+{
+  "name": "Parte inferior das costas-SMR",
+  "aliases": [
+    "Liberação auto miofascial da parte inferior das costas"
+  ],
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Na posição sentada, coloque um rolo de espuma sob a parte inferior das costas. Cruze os braços à sua frente e prolongue os ombros. Esta será sua posição inicial.",
+    "Levante os quadris do chão e incline-se para trás, mantendo o peso na parte inferior das costas. Agora desloque seu peso ligeiramente para um lado, mantendo-o fora da coluna e sobre os músculos ao lado dela. Role sobre a parte inferior das costas, mantendo os pontos de tensão por 10 a 30 segundos. Repita do outro lado."
+  ],
+  "category": "alongamento"
+}

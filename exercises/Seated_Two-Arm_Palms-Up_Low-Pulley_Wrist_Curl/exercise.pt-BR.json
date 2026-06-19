@@ -1,0 +1,23 @@
+{
+  "name": "Curvatura de pulso com polia baixa e dois braços sentados com as palmas para cima",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque um banco na frente de uma máquina de polia baixa que tenha uma barra ou acessório EZ Curl.",
+    "Afaste o banco o suficiente para que, quando você levar a alça até o topo das coxas, seja criada tensão no cabo devido ao movimento da pilha de pesos para cima.",
+    "Agora segure a alça com as duas mãos, com as palmas para cima, usando uma pegada na largura dos ombros.",
+    "Dê um passo para trás e sente-se no banco com os pés afastados na largura dos ombros, firmemente no chão.",
+    "Incline-se para a frente e coloque os antebraços nas coxas, com a parte de trás dos pulsos sobre os joelhos. Esta será sua posição inicial.",
+    "Abaixe a barra o máximo possível, enquanto inspira e segura com firmeza.",
+    "Agora enrole a barra o mais alto possível enquanto contrai os antebraços. Dica: Somente o pulso deve se movimentar; não os antebraços.",
+    "Após uma segunda contração na parte superior, volte à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

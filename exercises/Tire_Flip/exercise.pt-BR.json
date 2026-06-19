@@ -1,0 +1,27 @@
+{
+  "name": "Virar pneu",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "peitoral",
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "ombros",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece segurando a parte inferior do pneu na banda de rodagem e posicione os pés um pouco para trás. Seu peito deve estar batendo no pneu.",
+    "Para levantar o pneu, estenda-o pelos quadris, joelhos e tornozelos, entrando no pneu e subindo.",
+    "Quando o pneu atingir um ângulo de 45 graus, dê um passo à frente e coloque um joelho no pneu. Ao fazer isso, ajuste sua aderência à parte superior do pneu e empurre-o para frente o mais forte possível para completar a curva. Repita conforme necessário."
+  ],
+  "category": "strongman"
+}

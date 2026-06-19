@@ -1,0 +1,23 @@
+{
+  "name": "Agachamento ponderado",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece posicionando dois bancos planos separados um do outro na largura dos ombros. Fique em cima deles e enrole o cinto com peso em volta da cintura com a quantidade de peso com a qual você se sente confortável. Certifique-se de que os dedos dos pés estejam voltados para fora.",
+    "Quando estiver em pé com o peso pendurado entre as pernas, posicione os braços de forma que fiquem totalmente estendidos ao lado do corpo. Esta é a posição inicial.",
+    "Comece dobrando os joelhos enquanto mantém uma postura reta com a cabeça erguida. Continue descendo até que o ângulo entre a parte superior da perna e as panturrilhas fique ligeiramente menor que 90 graus (que é o ponto em que a parte superior das pernas fica paralela ao chão). Inspire ao realizar esta parte do movimento. Dica: Se você executou o exercício corretamente, a frente dos joelhos deve formar uma linha reta imaginária com os dedos dos pés perpendiculares à frente. Se seus joelhos ultrapassarem essa linha imaginária (se ultrapassarem os dedos dos pés), você estará colocando uma pressão indevida no joelho e o exercício foi executado incorretamente.",
+    "Comece a mover o corpo de volta para cima, empurrando o chão do banco plano com a planta do pé, principalmente enquanto estica as pernas novamente e volta à posição inicial. Expire ao realizar esta parte do exercício.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Hang Snatch – abaixo dos joelhos",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Comece com uma pegada ampla na barra, com uma pegada overhand ou gancho. Os pés devem estar diretamente abaixo dos quadris, com os pés virados para fora. Os joelhos devem estar ligeiramente flexionados e o tronco inclinado para a frente. A coluna deve estar totalmente estendida e a cabeça voltada para frente. A barra deve ficar logo abaixo dos joelhos. Esta será sua posição inicial.",
+    "Estenda agressivamente pelas pernas e quadris. No pico da extensão, encolha os ombros e deixe os cotovelos flexionarem para o lado.",
+    "Ao mover os pés para a posição de recepção, puxe-se com força para baixo da barra enquanto a eleva acima da cabeça. Receba a barra com o corpo o mais baixo possível e os braços totalmente estendidos acima da cabeça.",
+    "Retorne à posição ereta com o peso acima da cabeça e, em seguida, retorne o peso ao chão sob controle."
+  ],
+  "category": "levantamento de peso olímpico"
+}

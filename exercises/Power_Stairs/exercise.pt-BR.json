@@ -1,0 +1,26 @@
+{
+  "name": "Escadas elétricas",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Nas escadas elétricas, os implementos são movidos escada acima. Para fins de treinamento, podem ser realizados com pneu ou caixa.",
+    "Comece pegando o implemento com as duas mãos. Afaste os pés, com a cabeça e o peito para cima. Dirija pelo chão com os calcanhares, estendendo os joelhos e quadris para levantar o peso do chão.",
+    "Ao se inclinar para trás, tente balançar o peso nas escadas, que geralmente têm cerca de 16-18 \"de altura. Você pode usar as pernas para ajudar a empurrar o peso para a escada.",
+    "Repita por 3-5 repetições e continue com um peso maior, movendo-se o mais rápido possível."
+  ],
+  "category": "strongman"
+}

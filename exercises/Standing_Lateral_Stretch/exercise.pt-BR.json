@@ -1,0 +1,18 @@
+{
+  "name": "Alongamento lateral em pé",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Assuma uma postura um pouco mais afastada do que a distância do quadril, com os joelhos ligeiramente flexionados.",
+    "Coloque a mão direita no quadril direito para apoiar a coluna.",
+    "Levante o braço esquerdo em uma linha vertical e coloque a mão esquerda atrás da cabeça. Mantenha-o assim enquanto inclina o tronco para a direita.",
+    "Mantenha o peso distribuído uniformemente entre as duas pernas (não se apoie no quadril esquerdo). Troque de lado."
+  ],
+  "category": "alongamento"
+}

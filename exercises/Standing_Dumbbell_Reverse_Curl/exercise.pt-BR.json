@@ -1,0 +1,20 @@
+{
+  "name": "Curvatura reversa com halteres em pé",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Para começar, fique em pé com um haltere em cada mão usando uma pegada pronada (palmas voltadas para baixo). Seus braços devem estar totalmente estendidos enquanto os pés estão separados um do outro na largura dos ombros. Esta é a posição inicial.",
+    "Enquanto mantém os braços parados, enrole os pesos enquanto contrai os bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que os bíceps estejam totalmente contraídos e os halteres estejam na altura dos ombros. Mantenha a posição contraída por um segundo enquanto contrai o músculo.",
+    "Lentamente, comece a trazer os halteres de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

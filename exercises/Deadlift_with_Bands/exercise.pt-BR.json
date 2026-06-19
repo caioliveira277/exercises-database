@@ -1,0 +1,24 @@
+{
+  "name": "Deadlift com bandas",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "dorsal médio",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Para levantamento terra com faixas curtas, simplesmente passe-as sobre a barra antes de começar e entre nelas para prepará-las. Para bandas longas, elas precisarão ser fixadas em uma base segura, como halteres pesados ​​ou um rack.",
+    "Com os pés e a pegada firme, respire fundo, abaixe os quadris e dobre os joelhos até que as canelas entrem em contato com a barra. Olhe para frente com a cabeça, mantenha o peito erguido e as costas arqueadas e comece a dirigir pelos calcanhares para mover o peso para cima. Depois que a barra passar pelos joelhos, puxe-a agressivamente para trás, unindo as omoplatas enquanto empurra os quadris para frente na barra.",
+    "Abaixe a barra dobrando os quadris e guiando-a até o chão."
+  ],
+  "category": "levantamento de peso básico"
+}

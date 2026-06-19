@@ -1,0 +1,25 @@
+{
+  "name": "Remo de barra longa curvado sobre um braço",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "lombar",
+    "trapézios"
+  ],
+  "instructions": [
+    "Coloque peso em uma das pontas de uma barra olímpica. Certifique-se de colocar a outra extremidade da barra no canto de duas paredes; ou coloque um objeto pesado no chão para que a barra não deslize para trás.",
+    "Incline-se para a frente até que o tronco fique o mais paralelo possível ao chão e mantenha os joelhos ligeiramente flexionados.",
+    "Agora segure a barra com um braço logo atrás das placas do lado onde o peso foi colocado e coloque a outra mão no joelho. Esta será sua posição inicial.",
+    "Puxe a barra para cima com o cotovelo (para maximizar a estimulação das costas) até que as placas toquem a parte inferior do tórax. Contraia os músculos das costas enquanto levanta o peso e segure por um segundo no topo do movimento. Expire enquanto levanta o peso. Dica: Não permita oscilações do tronco. Apenas o braço deve se mover.",
+    "Abaixe lentamente a barra até a posição inicial, obtendo um bom alongamento dos dorsais. Dica: Não deixe as placas tocarem no chão. Para garantir a melhor amplitude de movimento, recomendo o uso de placas pequenas (de 25 lb) em vez de placas maiores (como as de 35-45 lb).",
+    "Repita pela quantidade recomendada de repetições e troque de braço."
+  ],
+  "category": "força"
+}

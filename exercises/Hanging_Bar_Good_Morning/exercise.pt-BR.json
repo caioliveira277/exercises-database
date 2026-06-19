@@ -1,0 +1,22 @@
+{
+  "name": "Barra suspensa bom dia",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece com uma barra em uma prateleira aproximadamente na mesma altura do seu estômago. Suspenda a barra com correntes ou tiras de suspensão.",
+    "Curve-se por baixo da barra e coloque-a na parte de trás dos ombros, como faria em um agachamento poderoso, não em cima das armadilhas. Na altura adequada, você deve ficar quase paralelo ao chão quando curvado. Mantenha as costas firmes, as omoplatas unidas e os joelhos ligeiramente flexionados. Mantenha as costas arqueadas e a coluna cervical alinhada corretamente.",
+    "Comece o movimento estendendo-se pelos quadris com os glúteos e isquiotibiais, e você ficará de pé com o peso.",
+    "Abaixe lentamente o peso de volta à posição inicial, onde é sustentado pelas correntes."
+  ],
+  "category": "levantamento de peso básico"
+}

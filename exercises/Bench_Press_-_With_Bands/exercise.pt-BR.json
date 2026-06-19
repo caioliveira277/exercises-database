@@ -1,0 +1,24 @@
+{
+  "name": "Supino - Com Bandas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Usando um banco plano, prenda uma faixa sob a perna do banco mais próxima de sua cabeça.",
+    "Assim que a faixa estiver segura, segure-a pelas duas alças e deite-se no banco.",
+    "Estenda os braços de modo que segure as alças da faixa à sua frente, na largura dos ombros.",
+    "Uma vez na largura dos ombros, gire os pulsos para a frente de modo que as palmas das mãos fiquem voltadas para longe de você. Esta será sua posição inicial.",
+    "Abaixe as alças lentamente até que o cotovelo forme um ângulo de 90 graus. Mantenha o controle total em todos os momentos.",
+    "Ao expirar, levante as alças usando os músculos peitorais. Trave os braços na posição contraída, aperte o peito, segure por um segundo e depois comece a descer lentamente. Dica: Deve demorar pelo menos o dobro do tempo para descer do que para subir.",
+    "Repita o movimento pela quantidade prescrita de repetições do seu programa de treinamento."
+  ],
+  "category": "força"
+}

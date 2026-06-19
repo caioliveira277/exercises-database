@@ -1,0 +1,21 @@
+{
+  "name": "Rastreamento de aranha",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece deitado no chão. Apoie o peso nas mãos e nos dedos dos pés, com os pés juntos e o corpo reto. Seus braços devem estar dobrados a 90 graus. Esta será sua posição inicial.",
+    "Inicie o movimento levantando um pé do chão. Gire externamente a perna e traga o joelho em direção ao cotovelo, o mais para frente possível.",
+    "Retorne esta perna à posição inicial e repita no lado oposto."
+  ],
+  "category": "força"
+}

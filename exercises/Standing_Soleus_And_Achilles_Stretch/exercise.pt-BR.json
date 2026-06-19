@@ -1,0 +1,16 @@
+{
+  "name": "Alongamento de sóleo e aquiles em pé",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé com os pés afastados na distância do quadril, um pé ligeiramente à frente do outro.",
+    "Dobre os dois joelhos, mantendo o calcanhar traseiro no chão. Troque de lado."
+  ],
+  "category": "alongamento"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Batida aérea",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure uma bola medicinal com as duas mãos e fique com os pés na largura dos ombros. Esta será sua posição inicial.",
+    "Inicie o contramovimento levantando a bola acima da cabeça e estendendo totalmente o corpo.",
+    "Inverta o movimento, batendo a bola no chão bem à sua frente o mais forte que puder.",
+    "Receba a bola com as duas mãos no quique e repita o movimento."
+  ],
+  "category": "pliometria"
+}

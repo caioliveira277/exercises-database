@@ -1,0 +1,24 @@
+{
+  "name": "Limpar de blocos",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Com uma barra em caixas ou suportes da altura desejada, segure com a mão ou em gancho do lado de fora das pernas. Abaixe os quadris com o peso concentrado nos calcanhares, costas retas, cabeça voltada para frente, peito para cima, com os ombros bem na frente da barra. Esta será sua posição inicial.",
+    "Comece a primeira puxada passando pelos calcanhares, estendendo os joelhos. O ângulo das costas deve permanecer o mesmo e os braços devem permanecer retos com os cotovelos apontados.",
+    "À medida que a extensão total é alcançada, faça a transição para a posição de recepção encolhendo agressivamente os ombros e flexionando os braços com os cotovelos para cima e para fora. Abaixe-se agressivamente, girando os cotovelos sob a barra ao fazer isso. Receba a barra na posição de agachamento frontal, cuja profundidade depende da altura da barra no final da terceira puxada. A barra deve ser apoiada nos ombros estendidos, tocando levemente a garganta com as mãos relaxadas. Continue descendo até a posição de agachamento inferior, o que ajudará na recuperação.",
+    "Recupere-se imediatamente dirigindo pelos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Continue até ficar em pé. Devolva o peso às caixas para a próxima repetição."
+  ],
+  "category": "levantamento de peso olímpico"
+}

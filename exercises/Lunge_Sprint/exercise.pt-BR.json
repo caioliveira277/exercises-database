@@ -1,0 +1,22 @@
+{
+  "name": "Corrida de estocada",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Ajuste uma barra em uma máquina Smith para uma altura apropriada. Posicione-se sob a barra, apoiando-a na parte de trás dos ombros. Desenrole a barra e separe os pés, movendo um pé para frente e outro para trás. Esta será sua posição inicial.",
+    "Abaixe o joelho de trás quase até o chão, flexionando os joelhos e abaixando os quadris ao fazer isso.",
+    "No final da descida, inverta imediatamente a direção. Passe de forma explosiva pelo calcanhar do pé da frente com uma leve pressão do pé de trás. Salte e inverta a posição das pernas.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

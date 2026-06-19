@@ -1,0 +1,19 @@
+{
+  "name": "Elevação lateral deitada com um braço",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Enquanto segura um haltere em uma das mãos, deite-se com o peito para baixo em um banco plano. A outra mão pode ser usada para segurar a perna do banco para estabilidade.",
+    "Posicione a palma da mão que segura o haltere de forma neutra (palmas voltadas para o tronco) enquanto mantém o braço estendido com o cotovelo levemente flexionado. Esta será sua posição inicial.",
+    "Agora levante o braço com o haltere para o lado até que o cotovelo esteja na altura dos ombros e o braço fique aproximadamente paralelo ao chão enquanto você expira. Dica: Mantenha o braço perpendicular ao tronco enquanto mantém o braço estendido durante todo o movimento. Além disso, mantenha a contração no topo por um segundo.",
+    "Abaixe lentamente o haltere até a posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

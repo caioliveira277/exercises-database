@@ -1,0 +1,17 @@
+{
+  "name": "Alongamento dos isquiotibiais",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com uma perna estendida acima de você, com o quadril a noventa graus. Mantenha a outra perna apoiada no chão.",
+    "Passe um cinto, faixa ou corda na planta do pé. Esta será sua posição inicial.",
+    "Puxe o cinto para criar tensão nas panturrilhas e isquiotibiais. Mantenha esse alongamento por 10 a 30 segundos e repita com a outra perna."
+  ],
+  "category": "alongamento"
+}

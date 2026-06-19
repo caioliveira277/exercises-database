@@ -1,0 +1,20 @@
+{
+  "name": "Lúpulo de Sapo",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique em pé com as mãos atrás da cabeça e agache-se, mantendo o tronco ereto e a cabeça erguida. Esta será sua posição inicial.",
+    "Salte vários metros para a frente, evitando saltar desnecessariamente alto. À medida que seus pés tocam o chão, absorva o impacto pelas pernas e pule novamente. Repita esta ação 5 a 10 vezes."
+  ],
+  "category": "alongamento"
+}

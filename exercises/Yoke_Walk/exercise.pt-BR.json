@@ -1,0 +1,25 @@
+{
+  "name": "Caminhada do Jugo",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "O jugo geralmente é feito com um aparelho de jugo, mas às vezes é visto com geladeiras ou outros objetos pesados.",
+    "Comece colocando o aparelho na parte de trás dos ombros. Com a cabeça voltada para frente e as costas arqueadas, levante a canga passando pelos calcanhares.",
+    "Comece a caminhar o mais rápido possível, com passos curtos e rápidos. Você pode segurar as colunas laterais do jugo para ajudar a estabilizá-lo e mantê-lo na posição. Continue pela distância indicada o mais rápido possível, geralmente de 75 a 100 pés."
+  ],
+  "category": "strongman"
+}

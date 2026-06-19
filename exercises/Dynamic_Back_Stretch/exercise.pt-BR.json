@@ -1,0 +1,16 @@
+{
+  "name": "Alongamento dinâmico das costas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé com os pés afastados na largura dos ombros. Esta será sua posição inicial.",
+    "Mantendo os braços retos, balance-os à sua frente de 5 a 10 vezes, aumentando a amplitude de movimento a cada vez até que os braços fiquem acima da cabeça."
+  ],
+  "category": "alongamento"
+}

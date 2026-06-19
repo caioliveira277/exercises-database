@@ -1,0 +1,20 @@
+{
+  "name": "Ondulação de martelo de corpo cruzado",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Fique em pé com um haltere em cada mão. Suas mãos devem estar ao seu lado, com as palmas voltadas para dentro.",
+    "Mantendo as palmas das mãos voltadas para dentro e sem torcer o braço, enrole o haltere do braço direito em direção ao ombro esquerdo enquanto expira. Toque a parte superior do haltere em seu ombro e mantenha a contração por um segundo.",
+    "Abaixe lentamente o haltere no mesmo caminho enquanto inspira e repita o mesmo movimento para o braço esquerdo.",
+    "Continue alternando desta forma até que a quantidade recomendada de repetições seja realizada para cada braço."
+  ],
+  "category": "força"
+}

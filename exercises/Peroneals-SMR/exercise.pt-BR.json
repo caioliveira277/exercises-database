@@ -1,0 +1,19 @@
+{
+  "name": "Peroneais-SMR",
+  "aliases": [
+    "Liberação Miofascial Auto Peroneal"
+  ],
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de lado, apoiando o peso no antebraço e em um rolo de espuma colocado na parte externa da perna. A parte superior da perna pode estar em cima da perna ou você pode cruzá-la na sua frente. Esta será sua posição inicial.",
+    "Levante os quadris do chão e comece a rolar abaixo do joelho até acima do tornozelo na lateral da perna, parando em pontos de tensão por 10 a 30 segundos. Repita na outra perna."
+  ],
+  "category": "alongamento"
+}

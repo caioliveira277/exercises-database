@@ -1,0 +1,20 @@
+{
+  "name": "Barra com as palmas para cima atrás da curvatura do pulso para trás",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece ficando em pé e segurando uma barra atrás dos glúteos com o braço estendido enquanto usa uma pegada pronada (as palmas das mãos estarão voltadas para trás, longe dos glúteos) e com as mãos na largura dos ombros uma da outra.",
+    "Você deve olhar para frente enquanto seus pés estão separados um do outro na largura dos ombros. Esta é a posição inicial.",
+    "Ao expirar, eleve lentamente a barra enrolando o pulso em um movimento semicircular em direção ao teto. Nota: Seu pulso deve ser a única parte do corpo em movimento neste exercício.",
+    "Segure a contração por um segundo e abaixe a barra de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Quando terminar, abaixe a barra até o suporte de agachamento ou o chão dobrando os joelhos. Dica: É mais fácil pegá-lo em uma prateleira de agachamento ou pedir a um parceiro que o entregue a você."
+  ],
+  "category": "força"
+}

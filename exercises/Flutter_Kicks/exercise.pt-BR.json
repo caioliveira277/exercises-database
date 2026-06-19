@@ -1,0 +1,21 @@
+{
+  "name": "Chutes vibrantes",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Em um banco plano, deite-se de bruços com os quadris na borda do banco, as pernas esticadas com os dedos dos pés elevados do chão e com os braços em cima do banco segurando a borda frontal.",
+    "Contraia os glúteos e isquiotibiais e estique as pernas até que fiquem no nível dos quadris. Esta será sua posição inicial.",
+    "Comece o movimento levantando a perna esquerda mais alto que a direita.",
+    "Em seguida, abaixe a perna esquerda enquanto levanta a perna direita.",
+    "Continue alternando dessa maneira (como se estivesse dando uma batida de perna na água) até ter feito a quantidade recomendada de repetições para cada perna. Certifique-se de manter um movimento controlado em todos os momentos. Dica: você respirará normalmente ao realizar esse movimento."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Alongamento de bíceps em pé",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Junte as mãos atrás das costas com as palmas juntas, estique os braços e gire-os de forma que as palmas fiquem voltadas para baixo.",
+    "Levante os braços e segure até sentir um alongamento no bíceps."
+  ],
+  "category": "alongamento"
+}

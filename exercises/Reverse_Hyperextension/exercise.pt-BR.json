@@ -1,0 +1,22 @@
+{
+  "name": "Hiperextensão reversa",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos"
+  ],
+  "instructions": [
+    "Coloque os pés entre as almofadas depois de carregar um peso adequado. Deite-se na almofada superior, permitindo que seus quadris fiquem pendurados nas costas, enquanto segura as alças para manter sua posição.",
+    "Para iniciar o movimento, flexione os quadris, puxando as pernas para frente.",
+    "Inverta o movimento estendendo os quadris, chutando a perna para trás. É muito importante não estender demais o quadril nesse movimento, parando antes de atingir toda a amplitude de movimento.",
+    "Retorne flexionando novamente o quadril, puxando o carrinho para frente o máximo que puder.",
+    "Repita pelo número desejado de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Linha vertical com halteres em pé",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Segure um haltere em cada mão com uma pegada pronada (palmas para frente) um pouco menor que a largura dos ombros. Os halteres devem estar apoiados em cima das coxas. Seus braços devem estar estendidos com uma ligeira flexão nos cotovelos e as costas devem estar retas. Esta será sua posição inicial.",
+    "Use os ombros laterais para levantar os halteres enquanto expira. Os halteres devem estar próximos ao corpo conforme você os move para cima e os cotovelos devem conduzir o movimento. Continue a levantá-los até quase tocarem seu queixo. Dica: Seus cotovelos devem conduzir o movimento. Ao levantar os halteres, os cotovelos devem estar sempre mais altos que os antebraços. Além disso, mantenha o tronco parado e faça uma pausa por um segundo no início do movimento.",
+    "Abaixe os halteres lentamente até a posição inicial. Inspire ao realizar esta parte do movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

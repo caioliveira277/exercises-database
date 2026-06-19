@@ -1,0 +1,22 @@
+{
+  "name": "Linha vertical de um braço da máquina Smith",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Com a barra na altura da coxa, carregue um peso adequado.",
+    "Segure bem a barra e solte o peso, removendo a mão inábil da barra. Seu braço deve estar estendido enquanto você fica em pé, com a cabeça e o peito erguidos. Esta será sua posição inicial.",
+    "Comece o movimento flexionando o cotovelo, levantando o braço com o cotovelo apontado. Continue até que seu braço fique paralelo ao chão.",
+    "Após uma breve pausa, retorne o peso à posição inicial.",
+    "Repita pelo número desejado de repetições antes de engatar os ganchos para suportar o peso."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Mergulhos - Versão Peito",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Para este exercício você precisará de acesso às barras paralelas. Para chegar à posição inicial, mantenha o corpo com os braços estendidos (braços travados) acima das barras.",
+    "Enquanto inspira, abaixe-se lentamente com o tronco inclinado para a frente cerca de 30 graus ou mais e os cotovelos levemente abertos até sentir um leve alongamento no peito.",
+    "Depois de sentir o alongamento, use o peito para trazer o corpo de volta à posição inicial enquanto expira. Dica: Lembre-se de apertar o peito no topo do movimento por um segundo.",
+    "Repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Prensa de corrente",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece conectando as correntes aos acessórios da alça do cabo. Posicione-se no banco plano na mesma posição do supino com halteres. Seus pulsos devem estar em pronação e os braços perpendiculares ao chão. Esta será sua posição inicial.",
+    "Abaixe as correntes flexionando os cotovelos, descarregando parte da corrente no chão.",
+    "Continue até que o cotovelo forme um ângulo de 90 graus e, em seguida, inverta o movimento estendendo-o através do cotovelo para travar."
+  ],
+  "category": "levantamento de peso básico"
+}

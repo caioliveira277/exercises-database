@@ -1,0 +1,20 @@
+{
+  "name": "Entrega de rack",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "trapézios"
+  ],
+  "instructions": [
+    "Este exercício ensina a entrega da barra na posição de suporte sobre os ombros. Comece segurando uma barra na posição de espantalho, com os braços paralelos ao chão e os antebraços pendurados. Use uma pegada de gancho, com os dedos enrolados nos polegares.",
+    "Comece girando os cotovelos ao redor da barra, entregando-a até os ombros. À medida que os cotovelos avançam, relaxe a pegada. Os ombros devem ser estendidos, proporcionando uma prateleira para a barra, que deve tocar levemente a garganta.",
+    "É importante que a barra fique sempre próxima ao corpo, pois com uma carga mais pesada qualquer distância resultará em uma colisão indesejada. À medida que o movimento se torna mais suave, a velocidade e a carga podem ser aumentadas antes de prosseguir."
+  ],
+  "category": "levantamento de peso olímpico"
+}

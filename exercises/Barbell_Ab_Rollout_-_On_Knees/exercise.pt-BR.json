@@ -1,0 +1,21 @@
+{
+  "name": "Barbell Ab Rollout - De Joelhos",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "lombar",
+    "ombros"
+  ],
+  "instructions": [
+    "Segure uma barra olímpica carregada com 5 a 10 libras de cada lado e ajoelhe-se no chão.",
+    "Agora coloque a barra no chão à sua frente, de modo que você fique apoiado em todas as mãos e joelhos (como em uma posição de flexão ajoelhada). Esta será sua posição inicial.",
+    "Role lentamente a barra para a frente, esticando o corpo até ficar em uma posição reta. Dica: Desça o máximo que puder sem tocar o chão com o corpo. Inspire durante esta parte do movimento.",
+    "Após uma segunda pausa na posição alongada, comece a voltar à posição inicial enquanto expira. Dica: vá devagar e mantenha os abdominais contraídos o tempo todo."
+  ],
+  "category": "força"
+}

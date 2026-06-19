@@ -1,0 +1,21 @@
+{
+  "name": "Broca Sprint de Cone Único",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Este exercício ensina ação rápida com os pés. Você precisa de um único cone. Comece ficando próximo ao cone com um braço para trás e outro para a frente.",
+    "Pique os pés o mais rápido possível, bloqueando com os braços. Circule o cone, mantenha os joelhos levantados, com movimentos violentos dos pés.",
+    "Descanse após três voltas ao redor do cone."
+  ],
+  "category": "pliometria"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Pulldown de braço reto com corda",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda uma corda a uma polia alta e selecione o peso. Fique alguns metros atrás da polia com os pés escalonados e segure a corda com as duas mãos. Incline-se para a frente a partir do quadril, mantendo as costas retas, com os braços estendidos à sua frente. Esta será sua posição inicial.",
+    "Mantendo os braços retos, estenda o ombro para puxar a corda até as coxas.",
+    "Faça uma pausa na parte inferior do movimento, apertando o dorso.",
+    "Retorne à posição inicial sem permitir que o peso repouse totalmente na pilha."
+  ],
+  "category": "força"
+}

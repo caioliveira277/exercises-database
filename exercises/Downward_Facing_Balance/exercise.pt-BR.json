@@ -1,0 +1,19 @@
+{
+  "name": "Equilíbrio voltado para baixo",
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Deite-se de bruços em cima de uma bola de exercícios.",
+    "Enquanto descansa de bruços na bola, caminhe com as mãos para a frente no chão e levante as pernas, estendendo os cotovelos e joelhos."
+  ],
+  "category": "força"
+}

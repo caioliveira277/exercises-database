@@ -1,0 +1,20 @@
+{
+  "name": "Onda de concentração em pé",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Pegando um haltere na mão ativa, incline-se para a frente. Deixe seu braço ativo ficar pendurado perpendicularmente ao chão com o cotovelo apontando para fora. Esta será sua posição inicial.",
+    "Flexione o cotovelo para enrolar o peso, mantendo o braço parado. No topo da repetição, flexione os bíceps e faça uma pausa.",
+    "Abaixe o haltere de volta à posição inicial.",
+    "Repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

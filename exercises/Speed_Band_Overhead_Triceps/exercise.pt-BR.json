@@ -1,0 +1,18 @@
+{
+  "name": "Tríceps suspensos com banda de velocidade",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para este exercício ancore uma faixa no chão. Utilizamos um banco inclinado e fixamos a faixa na base, ficando por cima do banco. Alternativamente, isso pode ser executado em pé na banda.",
+    "Para começar, puxe a faixa atrás da cabeça, segurando-a com uma pegada pronada e com os cotovelos para cima. Esta será sua posição inicial.",
+    "Para realizar o movimento, estenda o cotovelo para esticar os braços, mantendo o braço no lugar.",
+    "Faça uma pausa e retorne à posição inicial."
+  ],
+  "category": "força"
+}

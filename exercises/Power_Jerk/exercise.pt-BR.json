@@ -1,0 +1,26 @@
+{
+  "name": "Poder Idiota",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "De pé com o peso apoiado na frente dos ombros, comece com o mergulho. Com os pés diretamente sob os quadris, flexione os joelhos sem mover os quadris para trás. Desça apenas ligeiramente e inverta a direção com a maior força possível.",
+    "Dirija pelos calcanhares, crie o máximo de velocidade e força possível e certifique-se de mover a cabeça para fora do caminho quando a barra sair dos ombros.",
+    "Neste momento em que os pés saem do chão, os pés devem ser colocados na posição de recepção o mais rápido possível. No breve momento em que os pés não estiverem se movimentando ativamente contra a plataforma, o esforço do atleta para empurrar a barra para cima irá empurrá-los para baixo. Os pés devem ser movidos para uma postura um pouco mais afastada, com os joelhos parcialmente flexionados.",
+    "Receba a barra com os braços travados acima da cabeça.",
+    "Retorne à posição em pé."
+  ],
+  "category": "levantamento de peso olímpico"
+}

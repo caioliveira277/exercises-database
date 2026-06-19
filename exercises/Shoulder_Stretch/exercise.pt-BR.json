@@ -1,0 +1,15 @@
+{
+  "name": "Alongamento de ombro",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Estenda o braço esquerdo sobre o corpo e mantenha-o reto."
+  ],
+  "category": "alongamento"
+}

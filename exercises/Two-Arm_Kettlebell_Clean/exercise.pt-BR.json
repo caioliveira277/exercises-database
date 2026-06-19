@@ -1,0 +1,23 @@
+{
+  "name": "Kettlebell limpo de dois braços",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "trapézios"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells entre os pés. Para chegar à posição inicial, empurre a bunda para trás e olhe para frente.",
+    "Limpe os kettlebells até os ombros, estendendo-os pelas pernas e quadris enquanto levanta os kettlebells em direção aos ombros. Gire os pulsos enquanto faz isso.",
+    "Abaixe os kettlebells de volta à posição inicial e repita."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Fileira de cabos verticais",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Segure um cabo de barra reta preso a uma polia baixa com uma pegada pronada (palmas voltadas para as coxas) um pouco menor que a largura dos ombros. A barra deve estar apoiada em cima das coxas. Seus braços devem estar estendidos com uma ligeira flexão nos cotovelos e as costas devem estar retas. Esta será sua posição inicial.",
+    "Use os ombros laterais para levantar a barra do cabo enquanto expira. A barra deve ficar próxima ao corpo conforme você a move para cima. Continue a levantá-lo até quase tocar seu queixo. Dica: Seus cotovelos devem conduzir o movimento. Ao levantar a barra, os cotovelos devem estar sempre mais altos que os antebraços. Além disso, mantenha o tronco parado e faça uma pausa por um segundo no início do movimento.",
+    "Abaixe a barra lentamente até a posição inicial. Inspire ao realizar esta parte do movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

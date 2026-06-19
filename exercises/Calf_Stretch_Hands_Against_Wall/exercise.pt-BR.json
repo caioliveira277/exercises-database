@@ -1,0 +1,17 @@
+{
+  "name": "Panturrilha esticada com as mãos contra a parede",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique de frente para uma parede a vários metros de distância. Cambaleie sua postura, colocando um pé à frente.",
+    "Incline-se para a frente e apoie as mãos na parede, mantendo o calcanhar, o quadril e a cabeça em linha reta.",
+    "Tente manter o calcanhar no chão. Segure por 10-20 segundos e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

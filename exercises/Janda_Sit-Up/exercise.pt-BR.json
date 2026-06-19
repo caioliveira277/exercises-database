@@ -1,0 +1,18 @@
+{
+  "name": "Janda Sit-Up",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posicione o corpo no chão na posição básica sentada; joelhos em um ângulo de noventa graus com os pés apoiados no chão e os braços cruzados sobre o peito ou para os lados. Esta será sua posição inicial.",
+    "À medida que você contrai fortemente os glúteos e isquiotibiais, encha os pulmões de ar e, em uma subida lenta (contagem de três a seis segundos), expire lentamente. Dica: É importante contrair os glúteos e isquiotibiais, pois isso fará com que os flexores do quadril sejam inativados em um processo chamado inibição recíproca, que basicamente significa que os músculos opostos aos contraídos irão relaxar.",
+    "Ao inspirar, volte lentamente e de maneira controlada à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

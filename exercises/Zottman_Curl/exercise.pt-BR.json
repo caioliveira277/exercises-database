@@ -1,0 +1,24 @@
+{
+  "name": "Curl Zottman",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Fique em pé com o tronco ereto e um haltere em cada mão segurado com os braços estendidos. Os cotovelos devem estar próximos ao tronco.",
+    "Certifique-se de que as palmas das mãos estejam voltadas uma para a outra. Esta será sua posição inicial.",
+    "Enquanto mantém o braço parado, enrole os pesos enquanto contrai o bíceps enquanto expira. Apenas os antebraços devem se mover. Seu pulso deve girar para que você tenha uma pegada supinada (palmas para cima). Continue o movimento até que os bíceps estejam totalmente contraídos e os halteres estejam na altura dos ombros.",
+    "Mantenha a posição contraída por um segundo enquanto aperta o bíceps.",
+    "Agora, durante a posição contraída, gire o pulso até obter uma pegada pronada (palmas voltadas para baixo) com o polegar em uma posição mais alta que o dedo mínimo.",
+    "Lentamente, comece a abaixar os halteres usando a pegada pronada.",
+    "À medida que os halteres fecham as coxas, comece a girar o pulso para voltar a uma pegada neutra (palmas voltadas para o corpo).",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

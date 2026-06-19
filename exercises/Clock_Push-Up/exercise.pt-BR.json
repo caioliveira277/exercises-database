@@ -1,0 +1,23 @@
+{
+  "name": "Flexão do relógio",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Fique de bruços no chão, apoiando o peso nas mãos e nos dedos dos pés.",
+    "Seus braços devem estar totalmente estendidos com as mãos na largura dos ombros. Mantenha o corpo reto durante todo o movimento. Esta será sua posição inicial.",
+    "Desça flexionando o cotovelo, abaixando o peito em direção ao chão.",
+    "Na parte inferior, inverta o movimento empurrando-se para cima através da extensão do cotovelo o mais rápido possível até que você esteja no ar. Procure \"pular\" 12-18 polegadas para um lado.",
+    "Ao acelerar, afaste o pé externo da direção de deslocamento. Saindo do chão, mova o corpo cerca de 30 graus para a próxima repetição.",
+    "Retorne à posição inicial e repita o exercício, trabalhando em toda a volta até voltar ao ponto inicial."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Alongamento quádruplo elevado em pé",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece ficando de costas a cerca de meio a um metro de distância de um banco ou degrau.",
+    "Levante uma perna atrás de você e apoie o pé no degrau, no peito do pé ou na planta do pé, o que achar mais confortável.",
+    "Mantenha o joelho de apoio ligeiramente flexionado e evite deixá-lo estender-se além dos dedos dos pés. Troque de lado."
+  ],
+  "category": "alongamento"
+}

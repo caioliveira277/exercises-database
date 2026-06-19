@@ -1,0 +1,17 @@
+{
+  "name": "Elevação de ombro",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "dorsais"
+  ],
+  "instructions": [
+    "Relaxe os braços ao lado do corpo e levante os ombros em direção às orelhas e depois abaixe-os."
+  ],
+  "category": "alongamento"
+}

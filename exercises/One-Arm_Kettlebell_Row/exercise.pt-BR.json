@@ -1,0 +1,18 @@
+{
+  "name": "Remada Kettlebell com um braço",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Coloque um kettlebell na frente dos pés. Dobre ligeiramente os joelhos e, em seguida, empurre a bunda para fora o máximo possível enquanto se inclina para chegar à posição inicial. Pegue o kettlebell e puxe-o até a barriga, retraindo a omoplata e flexionando o cotovelo. Mantenha as costas retas. Abaixe e repita."
+  ],
+  "category": "força"
+}

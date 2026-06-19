@@ -1,0 +1,20 @@
+{
+  "name": "Cruz de Ferro",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [],
+  "category": "força"
+}

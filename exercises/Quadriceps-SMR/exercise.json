@@ -1,5 +1,8 @@
 {
   "name": "Quadriceps-SMR",
+  "aliases": [
+    "Quadriceps Self Myofascial Release"
+  ],
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",

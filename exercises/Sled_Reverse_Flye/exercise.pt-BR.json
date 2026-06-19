@@ -1,0 +1,18 @@
+{
+  "name": "Flye reverso de trenó",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda alças duplas a um trenó conectado por uma corda ou corrente. Carregue o trenó com um peso leve.",
+    "Fique de frente para o trenó, recuando até que haja alguma tensão na linha. Segure as duas alças na altura dos braços, na altura da cintura. Dobre ligeiramente os joelhos e mantenha o peito e a cabeça erguidos. Esta será sua posição inicial.",
+    "Sem flexionar o cotovelo, puxe as alças para cima e separe-as, realizando um voo reverso com alguma rotação externa. As palmas das mãos devem estar voltadas para a frente enquanto você faz isso.",
+    "Retorne à posição inicial, dando alguns passos para trás para eliminar a folga da linha."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Elevação da placa frontal",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Enquanto estiver em pé, segure uma barra com as duas mãos nas posições 3 e 9 horas. As palmas das mãos devem estar voltadas uma para a outra e os braços devem estar estendidos e travados com uma ligeira flexão nos cotovelos e a placa deve ficar perto da cintura, na sua frente, o máximo que você puder. Dica: Os braços permanecerão nesta posição durante todo o exercício. Esta será sua posição inicial.",
+    "Levante lentamente a placa enquanto expira até que fique um pouco acima do nível dos ombros. Segure a contração por um segundo. Dica: certifique-se de não balançar o peso nem dobrar os cotovelos. Seu torso também deve permanecer parado durante todo o movimento.",
+    "Ao inspirar, abaixe lentamente a placa de volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

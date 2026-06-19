@@ -1,0 +1,19 @@
+{
+  "name": "Elevação de joelho/quadril em barras paralelas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posicione o corpo no banco vertical para elevação das pernas, de modo que os antebraços repousem nas almofadas próximas ao tronco e segurem-se nas alças. Seus braços ficarão dobrados em um ângulo de 90 graus.",
+    "O tronco deve estar reto com a região lombar pressionada contra a almofada da máquina e as pernas estendidas apontando para o chão. Esta será sua posição inicial.",
+    "Agora, ao expirar, levante as pernas enquanto as mantém estendidas. Continue esse movimento até que suas pernas fiquem aproximadamente paralelas ao chão e mantenha a contração por um segundo. Dica: Não use nenhum impulso ou balanço ao realizar este exercício.",
+    "Volte lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

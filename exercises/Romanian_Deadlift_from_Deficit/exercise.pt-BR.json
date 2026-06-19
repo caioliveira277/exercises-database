@@ -1,0 +1,22 @@
+{
+  "name": "Deadlift Romeno do Déficit",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "trapézios"
+  ],
+  "instructions": [
+    "Comece em pé enquanto segura uma barra com o braço estendido à sua frente. Você pode ficar em uma plataforma elevada para aumentar a amplitude de movimento.",
+    "Comece flexionando levemente os joelhos e depois flexione o quadril, movendo o bumbum para trás o máximo possível, abaixando o tronco até onde a flexibilidade permitir. As costas devem permanecer sempre em extensão absoluta e a barra deve permanecer em contato com as pernas. Se feito corretamente, deverá haver forte tensão nos isquiotibiais.",
+    "Inverta o movimento para retornar à posição inicial."
+  ],
+  "category": "levantamento de peso olímpico"
+}

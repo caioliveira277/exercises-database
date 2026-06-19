@@ -1,0 +1,18 @@
+{
+  "name": "Trituração de corda em pé",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda uma corda a uma polia alta e selecione um peso apropriado.",
+    "Fique de costas para a torre de cabos. Pegue a corda com as duas mãos sobre os ombros, segurando-a na parte superior do peito. Esta será sua posição inicial.",
+    "Execute o movimento flexionando a coluna, reduzindo o peso o máximo que puder.",
+    "Mantenha o pico de contração por um momento antes de retornar à posição inicial."
+  ],
+  "category": "força"
+}

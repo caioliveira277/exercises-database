@@ -1,0 +1,22 @@
+{
+  "name": "Agachamento Sissy Ponderado",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Em pé, com os pés na largura dos ombros e os dedos dos pés levantados, use uma das mãos para segurar as vigas de um rack de agachamento e o braço oposto para segurar uma placa em cima do peito. Esta é a sua posição inicial.",
+    "Ao usar um braço para se segurar, dobre os joelhos e abaixe lentamente o tronco em direção ao chão, trazendo a pélvis e os joelhos para a frente. Inspire ao descer e pare quando a parte superior e inferior das pernas quase criarem um ângulo de 90 graus. Mantenha a posição de alongamento por um segundo.",
+    "Após segurar um segundo, use os músculos da coxa para trazer o tronco de volta à posição inicial. Expire enquanto sobe.",
+    "Repita pela quantidade recomendada de vezes."
+  ],
+  "category": "força"
+}

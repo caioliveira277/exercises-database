@@ -1,0 +1,19 @@
+{
+  "name": "Tibial Anterior-SMR",
+  "aliases": [
+    "Liberação auto miofascial do tibial anterior"
+  ],
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece sentado no chão com as pernas dobradas e os pés no chão.",
+    "Usando um rolo muscular ou rolo, aplique pressão nos músculos na parte externa das canelas. Trabalhe logo abaixo do joelho até acima do tornozelo, parando nos pontos de tensão por 10 a 30 segundos. Repita na outra perna."
+  ],
+  "category": "alongamento"
+}

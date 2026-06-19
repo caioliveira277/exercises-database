@@ -1,0 +1,18 @@
+{
+  "name": "Aumento do quadril da máquina Smith",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posicione um banco no rack e carregue a barra com um peso adequado. Deite-se no banco, apoiando a planta dos pés na barra. Destrave a barra e estenda as pernas. Pode ser necessário usar as mãos para ajudá-lo. Para maior estabilidade, segure as laterais da Smith Machine. Esta será sua posição inicial.",
+    "Inicie o movimento girando a pélvis, flexionando a coluna para levantar os quadris do banco. Mantenha uma ligeira flexão dos joelhos durante todo o movimento.",
+    "Após uma breve pausa, retorne os quadris ao banco.",
+    "Repita pelo número desejado de repetições."
+  ],
+  "category": "força"
+}

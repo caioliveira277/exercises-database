@@ -1,0 +1,24 @@
+{
+  "name": "Agachamento com correntes",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Para montar as correntes, comece enrolando a corrente líder nas mangas da barra. A corrente pesada deve ser presa com um mosquetão. Ajuste o comprimento da corrente de chumbo de modo que alguns elos ainda fiquem no chão no início do movimento.",
+    "Comece pisando sob a barra e colocando-a na parte de trás dos ombros. Aperte as omoplatas e gire os cotovelos para a frente, tentando dobrar a barra sobre os ombros. Remova a barra do rack, criando um arco firme na parte inferior das costas, e volte para a posição. Coloque os pés bem abertos para dar mais ênfase às costas, glúteos, adutores e isquiotibiais. Mantenha a cabeça voltada para frente.",
+    "Com as costas, os ombros e o núcleo tensos, empurre os joelhos e o bumbum para fora e comece a descida. Sente-se com os quadris o máximo possível. Idealmente, suas canelas devem estar perpendiculares ao solo. A posição inferior da barra exige uma maior inclinação do tronco para manter a barra sobre os calcanhares. Continue até quebrar a paralela, o que é definido como a dobra do quadril alinhada com a parte superior do joelho.",
+    "Mantendo o peso sobre os calcanhares e empurrando os pés e os joelhos para fora, suba enquanto conduz o movimento com a cabeça. Continue subindo, mantendo a tensão da cabeça aos pés, até retornar à posição inicial."
+  ],
+  "category": "levantamento de peso básico"
+}

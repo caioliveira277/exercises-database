@@ -1,0 +1,17 @@
+{
+  "name": "Alongamento de tríceps",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "dorsais"
+  ],
+  "instructions": [
+    "Coloque a mão atrás da cabeça, segure o cotovelo e puxe suavemente. Segure por 10 a 20 segundos e depois troque de lado."
+  ],
+  "category": "alongamento"
+}

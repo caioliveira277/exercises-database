@@ -1,0 +1,20 @@
+{
+  "name": "Deadlift com uma perna Kettlebell",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Segure um kettlebell pela alça com uma das mãos. Fique em uma perna, do mesmo lado em que segura o kettlebell.",
+    "Mantendo o joelho ligeiramente flexionado, execute um levantamento terra com as pernas rígidas dobrando o quadril e estendendo a perna livre atrás de você para manter o equilíbrio.",
+    "Continue abaixando o kettlebell até ficar paralelo ao chão e depois retorne à posição vertical."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Agachamento na caixa de velocidade",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Prenda faixas à barra que estejam firmemente ancoradas perto do solo. Pode ser necessário sufocar as faixas para obter a tensão adequada.",
+    "Use uma caixa de altura apropriada para este exercício. Carregue a barra com um peso que ainda exija esforço, mas não tão pesado a ponto de comprometer a velocidade. Normalmente, isso será entre 50-70% do seu máximo de uma repetição.",
+    "Posicione a barra na parte superior das costas, omoplatas retraídas, costas arqueadas e tudo bem apertado da cabeça aos pés. Esta será a posição inicial.",
+    "Desembale a barra e posicione-se na frente da caixa. Sente-se com os quadris até sentar na caixa, garantindo que você desça sob controle e não caia na superfície.",
+    "Faça uma breve pausa e exploda para fora da caixa, estendendo-se pelos quadris e joelhos."
+  ],
+  "category": "levantamento de peso básico"
+}

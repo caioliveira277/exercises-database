@@ -1,0 +1,24 @@
+{
+  "name": "Kettlebell com palma aberta com um braço limpo",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre os pés.",
+    "Segure a alça com uma mão e levante o kettlebell rapidamente, deixe-o girar para que a bola do kettlebell caia na palma da sua mão.",
+    "Jogue o kettlebell na sua frente e segure a alça com uma das mãos.",
+    "Leve o kettlebell ao chão e repita. Certifique-se de trabalhar os dois braços."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Imprensa corporal de tríceps",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posicione uma barra em um rack na altura do peito.",
+    "Em pé, segure a barra na largura dos ombros e dê um ou dois metros para trás, com os pés juntos e os braços estendidos para que você fique apoiado na barra. Esta será sua posição inicial.",
+    "Comece flexionando o cotovelo, abaixando-se em direção à barra.",
+    "Faça uma pausa e inverta o movimento estendendo os cotovelos.",
+    "Progrida a partir do peso corporal adicionando correntes sobre os ombros."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Levantamento de perna",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Enquanto estiver em pé, com os dois pés próximos um do outro, na largura dos ombros, agarre-se a uma superfície resistente, como as laterais de um suporte de agachamento ou o topo de uma cadeira, para se apoiar e manter o equilíbrio.",
+    "Com ou sem peso no tornozelo, levante uma perna atrás de você como se estivesse realizando uma flexão de perna, mas em pé enquanto mantém a outra perna reta. Expire enquanto executa esse movimento.",
+    "Lentamente, traga a perna levantada de volta ao chão enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Repita o movimento com a perna oposta."
+  ],
+  "category": "força"
+}

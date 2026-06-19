@@ -1,0 +1,17 @@
+{
+  "name": "Cachos de martelo inclinados",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco inclinado com um haltere em cada mão. Você deve pressionar firmemente contra as costas com os pés juntos. Deixe os halteres pendurados ao seu lado, segurando-os com uma pegada neutra. Esta será sua posição inicial.",
+    "Inicie o movimento flexionando o cotovelo, tentando manter o braço parado.",
+    "Continue até o início do movimento e faça uma pausa, depois retorne lentamente à posição inicial."
+  ],
+  "category": "força"
+}

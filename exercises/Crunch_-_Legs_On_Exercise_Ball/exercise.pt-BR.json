@@ -1,0 +1,21 @@
+{
+  "name": "Crunch - Pernas na bola de exercícios",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas com os pés apoiados em uma bola de exercícios e os joelhos dobrados em um ângulo de 90 graus.",
+    "Coloque os pés separados por sete a dezoito centímetros e aponte os dedos dos pés para dentro para que se toquem.",
+    "Coloque as mãos levemente em cada lado da cabeça, mantendo os cotovelos para dentro. Dica: não cruze os dedos atrás da cabeça.",
+    "Empurre a região lombar contra o chão para isolar melhor os músculos abdominais. Esta será sua posição inicial.",
+    "Comece a rolar os ombros do chão e continue a empurrar para baixo o mais forte que puder com a parte inferior das costas. Seus ombros devem levantar-se do chão apenas cerca de dez centímetros e a parte inferior das costas deve permanecer no chão. Expire ao executar esta parte do movimento. Contraia os abdominais com força no início da contração e segure por um segundo. Dica: concentre-se em um movimento lento e controlado. Evite usar impulso a qualquer momento.",
+    "Volte lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

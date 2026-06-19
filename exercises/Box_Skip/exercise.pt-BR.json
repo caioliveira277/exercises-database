@@ -1,0 +1,25 @@
+{
+  "name": "Pular caixa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Você precisará de várias caixas alinhadas com cerca de 2,5 metros de distância.",
+    "Comece de frente para a primeira caixa com uma perna ligeiramente atrás da outra.",
+    "Afaste-se da perna de trás, tentando ganhar o máximo de altura possível com os quadris.",
+    "Imediatamente após pousar na caixa, leve a outra perna para frente e para cima para ganhar altura e distância, saltando da caixa. Pouse entre as duas primeiras caixas com a mesma perna que pousou na primeira caixa.",
+    "Em seguida, vá para a próxima caixa e repita."
+  ],
+  "category": "pliometria"
+}

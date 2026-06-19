@@ -1,0 +1,21 @@
+{
+  "name": "Supino com barra com declínio de aderência ampla",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco inclinado com os pés firmemente travados na frente do banco. Usando uma pegada larga e pronada (palmas para frente) a cerca de 7 centímetros de distância da largura dos ombros (para cada mão), levante a barra do suporte e segure-a diretamente sobre você com os braços travados. A barra ficará perpendicular ao tronco e ao chão. Esta será sua posição inicial.",
+    "Ao inspirar, desça lentamente até sentir a barra na parte inferior do peito.",
+    "Após uma segunda pausa, traga a barra de volta à posição inicial enquanto expira e empurre a barra usando os músculos do peito. Trave os braços e aperte o peito na posição contraída, segure por um segundo e depois comece a descer lentamente novamente. Dica: Deve demorar pelo menos o dobro do tempo para descer do que para subir.",
+    "Repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Flexão lateral com barra",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "lombar"
+  ],
+  "instructions": [
+    "Fique em pé enquanto segura uma barra colocada na parte de trás dos ombros (um pouco abaixo do pescoço). Seus pés devem estar separados na largura dos ombros. Esta será sua posição inicial.",
+    "Mantendo as costas retas e a cabeça erguida, dobre apenas a cintura para a direita, tanto quanto possível. Inspire enquanto se inclina para o lado. Em seguida, segure por um segundo e volte à posição inicial enquanto expira. Dica: Mantenha o resto do corpo parado.",
+    "Agora repita o movimento, mas inclinando-se para a esquerda. Segure por um segundo e volte à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

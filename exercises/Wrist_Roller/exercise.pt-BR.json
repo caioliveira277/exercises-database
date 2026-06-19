@@ -1,0 +1,21 @@
+{
+  "name": "Rolo de pulso",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para começar, fique em pé segurando um rolo de pulso usando uma pegada pronada (palmas voltadas para baixo). Seus pés devem estar separados na largura dos ombros.",
+    "Levante lentamente ambos os braços até que estejam totalmente estendidos e paralelos ao chão à sua frente. Nota: Certifique-se de que a corda não esteja enrolada no rolo. Todo o seu corpo deve estar parado, exceto os antebraços. Esta é a posição inicial.",
+    "Gire um pulso de cada vez em um movimento ascendente para trazer o peso até a barra, enrolando a corda em volta do rolo.",
+    "Assim que o peso atingir a barra, comece lentamente a abaixá-lo girando o pulso para baixo até que o peso atinja a posição inicial.",
+    "Repita pela quantidade prescrita de repetições em seu programa."
+  ],
+  "category": "força"
+}

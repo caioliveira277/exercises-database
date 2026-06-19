@@ -1,0 +1,22 @@
+{
+  "name": "Supino guilhotina com barra",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Usando uma pegada de largura média (uma pegada que cria um ângulo de 90 graus no meio do movimento entre os antebraços e os braços), levante a barra do suporte e segure-a diretamente sobre o pescoço com os braços travados. Esta será sua posição inicial.",
+    "Ao inspirar, abaixe a barra lentamente até que fique a cerca de 2,5 cm do pescoço.",
+    "Após uma segunda pausa, traga a barra de volta à posição inicial enquanto expira e empurre a barra usando os músculos do peito. Trave os braços e aperte o peito na posição contraída, segure por um segundo e depois comece a descer lentamente novamente. Deve demorar pelo menos o dobro do tempo para descer do que para subir.",
+    "Repita o movimento pela quantidade prescrita de repetições.",
+    "Quando terminar, coloque a barra de volta no rack."
+  ],
+  "category": "força"
+}

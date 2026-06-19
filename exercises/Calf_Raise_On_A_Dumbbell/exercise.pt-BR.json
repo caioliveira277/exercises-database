@@ -1,0 +1,19 @@
+{
+  "name": "Elevação da panturrilha com halteres",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure-se em um objeto resistente para se equilibrar e apoie-se no cabo do haltere, de preferência com placas redondas, para que ele role, pois assim você terá que trabalhar mais para se estabilizar; aumentando assim a eficácia do exercício.",
+    "Agora role o pé ligeiramente para a frente para conseguir um bom alongamento da panturrilha. Esta será sua posição inicial.",
+    "Levante a panturrilha enquanto rola o pé por cima da alça para obter uma extensão completa. Expire durante a execução deste movimento. Contraia a panturrilha com força na parte superior e segure por um segundo. Dica: Ao subir, role o haltere ligeiramente para trás.",
+    "Agora inspire enquanto rola o haltere ligeiramente para a frente enquanto desce para obter um alongamento melhor.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Hiperextensões sem banco de hiperextensão",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Com alguém segurando suas pernas, deslize até a borda de um banco plano até que seus quadris fiquem pendurados na extremidade do banco. Dica: toda a parte superior do corpo deve ficar pendurada em direção ao chão. Além disso, você estará na mesma posição como se estivesse em um banco de hiperextensão, mas a amplitude de movimento será menor devido à altura do banco plano em comparação com a do banco de hiperextensão.",
+    "Com o corpo reto, cruze os braços à sua frente (minha preferência) ou atrás da cabeça. Esta será sua posição inicial. Dica: você também pode segurar uma placa de peso à sua frente para obter resistência extra, sob os braços cruzados.",
+    "Comece a inclinar-se lentamente para a frente na cintura, o máximo que puder, mantendo as costas retas. Inspire enquanto executa esse movimento. Continue avançando até quase tocar o chão ou sentir um bom alongamento nos isquiotibiais (o que ocorrer primeiro). Dica: Nunca arredonde as costas ao realizar este exercício.",
+    "Levante lentamente o tronco de volta à posição inicial enquanto expira. Dica: Evite a tentação de arquear as costas além de uma linha reta. Além disso, não balance o tronco em nenhum momento para proteger as costas de lesões.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pull-up da barra V",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece colocando o meio da barra em V no meio da barra de pull-up (assumindo que a estação de pull-up que você está usando não possui alças neutras). As alças da barra V ficarão voltadas para baixo para que você possa pendurar na barra pull-up usando as alças.",
+    "Depois de colocar a barra em V com segurança, segure a barra de cada lado e pendure-a nela. Estique o peito e incline-se ligeiramente para trás para envolver melhor os dorsais. Esta será sua posição inicial.",
+    "Usando o grande dorsal, puxe o tronco para cima enquanto inclina ligeiramente a cabeça para trás, para não bater em si mesmo com a barra de apoio. Continue até que seu peito quase toque a barra V. Expire ao executar este movimento.",
+    "Depois de manter a posição contraída por uma segunda vez, abaixe lentamente o corpo de volta à posição inicial enquanto inspira.",
+    "Repita pelo número prescrito de repetições."
+  ],
+  "category": "força"
+}

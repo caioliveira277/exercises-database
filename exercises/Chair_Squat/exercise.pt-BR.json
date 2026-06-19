@@ -1,0 +1,24 @@
+{
+  "name": "Agachamento na cadeira",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para começar, primeiro coloque a barra na posição que melhor corresponda à sua altura. Assim que a barra estiver carregada, passe por baixo dela e posicione-a na parte de trás dos ombros.",
+    "Pegue a barra com as mãos voltadas para frente, destrave-a e levante-a do rack estendendo as pernas.",
+    "Mova os pés para frente cerca de 18 polegadas na frente da barra. Posicione as pernas na largura dos ombros, com os dedos dos pés ligeiramente apontados. Olhe para frente o tempo todo e mantenha a coluna neutra ou ligeiramente arqueada. Esta será sua posição inicial.",
+    "Abaixe lentamente a barra dobrando os joelhos enquanto mantém uma postura reta com a cabeça erguida. Continue descendo até que o ângulo entre a parte superior e inferior da perna quebre 90 graus.",
+    "Comece a levantar a barra ao expirar, empurrando o chão com os calcanhares, estendendo os joelhos e voltando à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

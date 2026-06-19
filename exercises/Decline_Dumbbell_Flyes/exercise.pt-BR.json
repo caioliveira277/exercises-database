@@ -1,0 +1,19 @@
+{
+  "name": "Recusar moscas com halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prenda as pernas no final do banco de declínio e deite-se com um haltere em cada mão na parte superior das coxas. As palmas da sua mão ficarão voltadas uma para a outra.",
+    "Quando estiver deitado, mova os halteres à sua frente, na largura dos ombros. As palmas das mãos devem estar voltadas uma para a outra e os braços devem estar perpendiculares ao chão e totalmente estendidos. Esta será sua posição inicial.",
+    "Com uma ligeira flexão dos cotovelos para evitar tensão no tendão do bíceps, abaixe os braços em ambos os lados em um amplo arco até sentir um alongamento no peito. Inspire enquanto executa esta parte do movimento. Dica: Lembre-se que durante todo o movimento os braços devem permanecer parados; o movimento deve ocorrer apenas na articulação do ombro.",
+    "Retorne os braços à posição inicial enquanto contrai os músculos do peito e expira. Dica: Certifique-se de usar o mesmo arco de movimento usado para abaixar os pesos.",
+    "Segure por um segundo na posição contraída e repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

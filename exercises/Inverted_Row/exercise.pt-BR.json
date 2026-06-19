@@ -1,0 +1,21 @@
+{
+  "name": "Linha invertida",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "dorsais"
+  ],
+  "instructions": [
+    "Posicione uma barra em um rack na altura da cintura. Você também pode usar uma máquina de ferreiro.",
+    "Segure a barra com uma pegada mais larga que a largura dos ombros e posicione-se pendurado por baixo da barra. Seu corpo deve estar reto, com os calcanhares apoiados no chão e os braços totalmente estendidos. Esta será sua posição inicial.",
+    "Comece flexionando o cotovelo, puxando o peito em direção à barra. Retraia as omoplatas enquanto executa o movimento.",
+    "Faça uma pausa no início do movimento e retorne à posição inicial.",
+    "Repita pelo número desejado de repetições."
+  ],
+  "category": "força"
+}

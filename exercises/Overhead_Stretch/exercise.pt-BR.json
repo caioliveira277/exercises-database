@@ -1,0 +1,21 @@
+{
+  "name": "Alongamento aéreo",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "antebraços",
+    "dorsais",
+    "tríceps"
+  ],
+  "instructions": [
+    "De pé, entrelace os dedos e abra as palmas das mãos para o teto. Mantenha os ombros abaixados enquanto estende os braços para cima.",
+    "Para criar um alongamento completo do tronco, puxe o cóccix para baixo e estabilize o tronco enquanto faz isso. Alongue os músculos da frente e de trás do tronco."
+  ],
+  "category": "alongamento"
+}

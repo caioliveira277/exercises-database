@@ -1,0 +1,16 @@
+{
+  "name": "Alongamento lateral do pescoço",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece com os ombros relaxados e incline suavemente a cabeça em direção ao ombro.",
+    "Ajude o alongamento com um puxão suave na lateral da cabeça."
+  ],
+  "category": "alongamento"
+}

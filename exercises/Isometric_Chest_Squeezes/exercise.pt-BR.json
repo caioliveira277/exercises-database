@@ -1,0 +1,22 @@
+{
+  "name": "Apertos Isométricos no Peito",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Enquanto estiver sentado ou em pé, dobre os braços em um ângulo de 90 graus e coloque as palmas das mãos juntas na frente do peito. Dica: Suas mãos devem estar abertas com as palmas juntas e os dedos voltados para frente (perpendiculares ao tronco).",
+    "Empurre as duas mãos uma contra a outra enquanto contrai o peito. Comece com tensão lenta e aumente lentamente. Continue respirando normalmente enquanto executa esta contração.",
+    "Segure pelo número recomendado de segundos.",
+    "Agora libere a tensão lentamente.",
+    "Descanse pelo tempo recomendado e repita."
+  ],
+  "category": "pliometria"
+}

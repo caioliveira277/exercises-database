@@ -1,0 +1,20 @@
+{
+  "name": "Esmagador de Crânios EZ-Bar",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra EZ",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Usando uma pegada firme, levante a barra EZ e segure-a com os cotovelos enquanto se deita no banco. Seus braços devem estar perpendiculares ao chão. Esta será sua posição inicial.",
+    "Mantendo os braços parados, abaixe a barra permitindo que os cotovelos flexionem. Inspire ao realizar esta parte do movimento. Faça uma pausa quando a barra estiver diretamente acima da testa.",
+    "Levante a barra de volta à posição inicial estendendo o cotovelo e expirando.",
+    "Repita."
+  ],
+  "category": "força"
+}

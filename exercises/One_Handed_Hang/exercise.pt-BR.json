@@ -1,0 +1,17 @@
+{
+  "name": "Pendurar com uma mão",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps"
+  ],
+  "instructions": [
+    "Segure uma barra fixa com uma mão, usando uma pegada pronada. Mantenha os pés no chão ou em um degrau. Permita que a maior parte do seu peso fique pendurada nessa mão, enquanto mantém os pés no chão. Segure por 10-20 segundos e troque de lado."
+  ],
+  "category": "alongamento"
+}

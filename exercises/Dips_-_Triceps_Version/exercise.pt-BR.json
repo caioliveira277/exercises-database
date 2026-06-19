@@ -1,0 +1,21 @@
+{
+  "name": "Mergulhos - Versão Tríceps",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Para chegar à posição inicial, mantenha o corpo afastado dos braços estendidos, com os braços quase travados acima das barras.",
+    "Agora, inspire e abaixe-se lentamente. Seu tronco deve permanecer ereto e os cotovelos próximos ao corpo. Isso ajuda a focar melhor no envolvimento do tríceps. Abaixe-se até formar um ângulo de 90 graus entre o braço e o antebraço.",
+    "Em seguida, expire e empurre o tronco para cima usando o tríceps para trazer o corpo de volta à posição inicial.",
+    "Repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

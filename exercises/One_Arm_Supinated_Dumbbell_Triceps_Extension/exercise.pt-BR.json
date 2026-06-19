@@ -1,0 +1,21 @@
+{
+  "name": "Extensão de tríceps com halteres supinados com um braço",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco enquanto segura um haltere com os braços estendidos. Seu braço deve estar perpendicular ao corpo. A palma da mão deve estar voltada para o rosto, pois é necessária uma pegada supinada para realizar este exercício.",
+    "Coloque a mão que não levanta no bíceps para obter apoio.",
+    "Lentamente, comece a abaixar o haltere enquanto inspira.",
+    "Em seguida, comece a levantar o haltere enquanto contrai o tríceps. Lembre-se de expirar durante o concêntrico (parte de elevação do exercício).",
+    "Repita até ter realizado as repetições definidas.",
+    "Troque de braço e repita o movimento.",
+    "Troque os braços novamente e repita o movimento."
+  ],
+  "category": "força"
+}

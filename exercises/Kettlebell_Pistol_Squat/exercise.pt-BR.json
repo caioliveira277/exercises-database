@@ -1,0 +1,23 @@
+{
+  "name": "Agachamento com pistola Kettlebell",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "ombros"
+  ],
+  "instructions": [
+    "Pegue um kettlebell com as duas mãos e segure-o pelos chifres. Segure uma perna do chão e agache-se sobre a outra.",
+    "Agache-se flexionando o joelho e recostando-se com os quadris, segurando o kettlebell à sua frente.",
+    "Mantenha a posição inferior por um segundo e depois inverta o movimento, passando pelo calcanhar e mantendo a cabeça e o peito erguidos.",
+    "Abaixe-se novamente e repita."
+  ],
+  "category": "força"
+}

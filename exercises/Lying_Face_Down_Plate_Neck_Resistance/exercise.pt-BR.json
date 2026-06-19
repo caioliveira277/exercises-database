@@ -1,0 +1,18 @@
+{
+  "name": "Resistência do pescoço da placa deitada de bruços",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "pescoço"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de bruços com todo o corpo reto em um banco plano, enquanto segura uma placa de peso atrás da cabeça. Dica: Você precisará se posicionar de forma que seus ombros fiquem um pouco acima da extremidade de um banco plano para que a parte superior do tórax, o pescoço e o rosto fiquem fora do banco. Esta será sua posição inicial.",
+    "Enquanto mantém a placa segura na parte de trás da cabeça, abaixe lentamente a cabeça (como se dissesse \"sim\") enquanto inspira.",
+    "Levante a cabeça de volta à posição inicial em um movimento semicircular enquanto expira. Segure a contração por um segundo.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

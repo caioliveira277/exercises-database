@@ -1,0 +1,19 @@
+{
+  "name": "Elevação de panturrilha com máquina Smith",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque um bloco ou placa de peso abaixo da barra da máquina Smith. Coloque a barra na posição que melhor corresponda à sua altura. Depois de escolhida a altura correta e a barra carregada, pise nas placas com a planta dos pés e coloque a barra na parte de trás dos ombros.",
+    "Pegue a barra com as duas mãos voltadas para frente. Gire a barra para desencaixá-la. Esta será sua posição inicial.",
+    "Levante os calcanhares o mais alto possível, empurrando a planta dos pés, flexionando a panturrilha no topo da contração. Seus joelhos devem permanecer estendidos. Mantenha a posição contraída por um segundo antes de começar a descer.",
+    "Retorne lentamente à posição inicial enquanto inspira enquanto abaixa os calcanhares.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Agachamento com Salto Ajoelhado",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Comece ajoelhado no chão com uma barra apoiada na parte de trás dos ombros ou você pode usar o peso do corpo para este exercício. Isso pode ser feito dentro de um rack de energia para facilitar a desmontagem.",
+    "Sente-se com os quadris até que os glúteos toquem os pés, mantendo a cabeça e o peito erguidos.",
+    "Exploda com os quadris, gerando força suficiente para pousar com os pés apoiados no chão.",
+    "Continue com o agachamento passando pelos calcanhares e estendendo os joelhos para ficar em pé."
+  ],
+  "category": "levantamento de peso olímpico"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Cruzamento de cabos",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Para chegar à posição inicial, coloque as roldanas em uma posição alta (acima da cabeça), selecione a resistência a ser utilizada e segure as roldanas com cada mão.",
+    "Dê um passo à frente na frente de uma linha reta imaginária entre as duas polias enquanto junta os braços à sua frente. Seu tronco deve ter uma pequena curvatura para frente a partir da cintura. Esta será sua posição inicial.",
+    "Com uma ligeira flexão dos cotovelos para evitar tensão no tendão do bíceps, estenda os braços para o lado (diretos em ambos os lados) em um amplo arco até sentir um alongamento no peito. Inspire enquanto executa esta parte do movimento. Dica: Lembre-se de que durante todo o movimento os braços e o tronco devem permanecer parados; o movimento deve ocorrer apenas na articulação do ombro.",
+    "Retorne os braços à posição inicial enquanto expira. Certifique-se de usar o mesmo arco de movimento usado para abaixar os pesos.",
+    "Mantenha-se na posição inicial por um segundo e repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

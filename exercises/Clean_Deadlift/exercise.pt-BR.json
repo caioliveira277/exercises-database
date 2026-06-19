@@ -1,0 +1,24 @@
+{
+  "name": "Levantamento terra limpo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "dorsal médio",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Comece em pé com uma barra perto das canelas. Seus pés devem estar diretamente sob os quadris, com os pés ligeiramente voltados para fora. Segure a barra com uma pegada dupla overhand ou gancho, afastada na largura dos ombros. Agache-se na barra. Sua coluna deve estar em extensão total, com um ângulo de costas que coloque os ombros na frente da barra e as costas o mais verticais possível.",
+    "Comece dirigindo pelo chão pela frente dos calcanhares. À medida que a barra sobe, mantenha um ângulo constante para trás. Abra os joelhos para o lado para ajudar a mantê-los fora do caminho da barra.",
+    "Depois que a barra cruzar os joelhos, complete o levantamento conduzindo os quadris contra a barra até que os quadris e os joelhos estejam estendidos."
+  ],
+  "category": "levantamento de peso olímpico"
+}

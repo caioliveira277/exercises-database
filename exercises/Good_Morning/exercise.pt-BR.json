@@ -1,0 +1,21 @@
+{
+  "name": "Bom dia",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Comece com uma barra em um rack na altura dos ombros. Coloque a barra na parte de trás dos ombros como faria em um agachamento poderoso, não em cima dos ombros. Mantenha as costas firmes, as omoplatas unidas e os joelhos ligeiramente flexionados. Afaste-se do rack.",
+    "Comece dobrando os quadris, movendo-os para trás enquanto se inclina quase em paralelo. Mantenha as costas arqueadas e a coluna cervical alinhada corretamente.",
+    "Inverta o movimento estendendo-se pelos quadris com os glúteos e isquiotibiais. Continue até retornar à posição inicial."
+  ],
+  "category": "levantamento de peso básico"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Cachos de placa reversa",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Comece ficando em pé com uma placa de peso segurada por ambas as mãos e braços totalmente estendidos. Use uma pegada pronada (palmas voltadas para baixo) e certifique-se de que seus dedos agarrem o lado áspero da placa enquanto o polegar agarra o lado liso. Nota: Para obter os melhores resultados, segure a placa de peso nas posições 11h e 1h.",
+    "Seus pés devem estar separados um do outro na largura dos ombros e a placa de peso deve estar perto da região da virilha. Esta é a posição inicial.",
+    "Levante lentamente a placa enquanto mantém os cotovelos para dentro e os braços parados até que os bíceps e os antebraços se toquem durante a expiração. A placa deve estar alinhada uniformemente com o seu tronco neste ponto.",
+    "Sinta a contração por um segundo e comece a abaixar o peso de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

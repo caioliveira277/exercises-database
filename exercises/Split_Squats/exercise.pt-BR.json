@@ -1,0 +1,20 @@
+{
+  "name": "Agachamento dividido",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Estar em pé. Salte para a posição de pernas abertas, com uma perna para a frente e outra para trás, flexionando os joelhos e abaixando ligeiramente os quadris ao fazer isso.",
+    "Ao descer, inverta imediatamente a direção, levantando-se e saltando, invertendo a posição das pernas. Repita 5 a 10 vezes em cada perna."
+  ],
+  "category": "alongamento"
+}

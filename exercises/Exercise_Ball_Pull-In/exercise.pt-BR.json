@@ -1,0 +1,19 @@
+{
+  "name": "Pull-in de bola de exercício",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloque uma bola de exercícios próxima e deite-se no chão em frente a ela, com as mãos afastadas na largura dos ombros, em uma posição de flexão.",
+    "Agora coloque a parte inferior das canelas em cima de uma bola de exercícios. Dica: Neste ponto suas pernas devem estar totalmente estendidas com as canelas em cima da bola e a parte superior do corpo deve estar em uma posição do tipo flexão sendo apoiada pelos dois braços estendidos à sua frente. Esta será sua posição inicial.",
+    "Mantendo as costas completamente retas e a parte superior do corpo parada, puxe os joelhos em direção ao peito enquanto expira, permitindo que a bola role para a frente sob os tornozelos. Contraia o abdômen e mantenha essa posição por um segundo.",
+    "Agora estique lentamente as pernas, rolando a bola de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Agachamento com peso corporal",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique em pé com os pés afastados na largura dos ombros. Você pode colocar as mãos atrás da cabeça. Esta será sua posição inicial.",
+    "Comece o movimento flexionando os joelhos e quadris, sentando-se com os quadris.",
+    "Continue descendo até a profundidade total, se puder, e inverta rapidamente o movimento até retornar à posição inicial. Ao agachar, mantenha a cabeça e o peito erguidos e empurre os joelhos para fora."
+  ],
+  "category": "força"
+}

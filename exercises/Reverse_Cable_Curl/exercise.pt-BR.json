@@ -1,0 +1,20 @@
+{
+  "name": "Curvatura reversa do cabo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Fique em pé com o tronco ereto enquanto segura uma barra fixada a uma polia baixa usando uma pegada pronada (palmas para baixo) e na largura dos ombros. Certifique-se também de manter os cotovelos próximos ao tronco. Esta será sua posição inicial.",
+    "Enquanto mantém os braços parados, enrole os pesos enquanto contrai os bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que os bíceps estejam totalmente contraídos e a barra esteja na altura dos ombros. Mantenha a posição contraída por um segundo enquanto contrai o músculo.",
+    "Lentamente, comece a trazer a barra de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

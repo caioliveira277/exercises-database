@@ -1,0 +1,19 @@
+{
+  "name": "Extensão de tríceps com barra deitada atrás da cabeça",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Enquanto segura uma barra ou barra EZ Curl com pegada pronada (palmas voltadas para frente), deite-se de costas em um banco plano com a cabeça próxima ao final do banco. Dica: Se você estiver segurando uma barra, segure-a com uma pegada na largura dos ombros e se estiver usando uma barra EZ, segure-a pelas alças internas.",
+    "Estenda os braços à sua frente e lentamente traga a barra para trás em um movimento semicircular (enquanto mantém os braços estendidos) para uma posição acima da cabeça. No final desta etapa, seus braços devem estar acima da cabeça e paralelos ao chão. Esta será sua posição inicial. Dica: mantenha os cotovelos sempre voltados.",
+    "Ao inspirar, abaixe a barra dobrando os cotovelos e mantendo o braço parado. Continue abaixando a barra até que seus antebraços fiquem perpendiculares ao chão.",
+    "Ao expirar, traga a barra de volta à posição inicial, empurrando-a para cima em um movimento semicircular até que os antebraços também fiquem paralelos ao chão. Contraia o tríceps com força no topo do movimento por um segundo. Dica: Novamente, apenas os antebraços devem se mover. Os braços devem permanecer parados o tempo todo.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

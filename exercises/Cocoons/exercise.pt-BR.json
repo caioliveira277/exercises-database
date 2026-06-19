@@ -1,0 +1,17 @@
+{
+  "name": "Casulos",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece deitando-se de costas no chão. Suas pernas devem estar retas e os braços estendidos atrás da cabeça. Esta será sua posição inicial.",
+    "Para realizar o movimento, dobre os joelhos em direção ao peito, girando a pélvis para levantar os glúteos do chão. Ao fazer isso, flexione a coluna, trazendo os braços para trás sobre a cabeça para realizar um movimento simultâneo de trituração.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "força"
+}

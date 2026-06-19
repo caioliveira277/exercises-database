@@ -1,0 +1,21 @@
+{
+  "name": "Mestre da escada",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para começar, suba no stairmaster e selecione a opção desejada no menu. Você pode escolher uma configuração manual ou selecionar um programa para executar. Normalmente, você pode inserir sua idade e peso para estimar a quantidade de calorias queimadas durante o exercício.",
+    "Bombeie as pernas para cima e para baixo em um ritmo estabelecido, abaixando os pedais, mas não até o chão. Recomenda-se que você segure as alças para não cair. As alças podem ser usadas para monitorar sua frequência cardíaca para ajudá-lo a manter a intensidade adequada.",
+    "Os Stairmasters oferecem conveniência, benefícios cardiovasculares e geralmente têm menos impacto do que correr ao ar livre. Eles normalmente são muito mais difíceis do que outros equipamentos cardiovasculares. Uma pessoa de 150 libras normalmente queima mais de 300 calorias em 30 minutos, em comparação com cerca de 175 calorias caminhando."
+  ],
+  "category": "cardio"
+}

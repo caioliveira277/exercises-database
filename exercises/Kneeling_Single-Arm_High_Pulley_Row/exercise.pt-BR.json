@@ -1,0 +1,21 @@
+{
+  "name": "Remada de polia alta ajoelhada com um braço",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Anexe uma única alça a uma polia alta e faça sua seleção de peso.",
+    "Ajoelhe-se em frente à torre de cabos, pegando o cabo com uma das mãos e o braço estendido. Esta será sua posição inicial.",
+    "Começando com a palma da mão voltada para a frente, puxe o peso para baixo em direção ao tronco, flexionando o cotovelo e retraindo a omoplata. Ao fazer isso, gire o pulso de modo que, ao concluir o movimento, a palma da mão fique voltada para você.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "força"
+}

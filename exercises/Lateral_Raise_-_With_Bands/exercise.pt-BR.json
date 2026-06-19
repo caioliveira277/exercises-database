@@ -1,0 +1,18 @@
+{
+  "name": "Elevação Lateral - Com Bandas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, fique em pé sobre uma faixa de exercícios para que a tensão comece no comprimento do braço. Segure as alças usando uma pegada pronada (palmas voltadas para as coxas) um pouco menor que a largura dos ombros. As alças devem ficar apoiadas nas laterais das coxas. Seus braços devem estar estendidos com uma ligeira flexão nos cotovelos e as costas devem estar retas. Esta será sua posição inicial.",
+    "Use os ombros laterais para levantar as alças para os lados enquanto expira. Continue a levantar as alças até que fiquem ligeiramente acima do paralelo. Dica: Ao levantar as alças, incline levemente a mão como se estivesse derramando água e mantenha os braços estendidos. Além disso, mantenha o tronco parado e faça uma pausa por um segundo no início do movimento.",
+    "Abaixe as alças lentamente até a posição inicial. Inspire ao realizar esta parte do movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

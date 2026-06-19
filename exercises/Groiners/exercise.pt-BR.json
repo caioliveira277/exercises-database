@@ -1,0 +1,17 @@
+{
+  "name": "Groiners",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "adutores"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece em uma posição de flexão no chão. Esta será sua posição inicial.",
+    "Usando as duas pernas, salte para frente, pousando com os pés próximos às mãos. Mantenha a cabeça erguida enquanto faz isso.",
+    "Retorne à posição inicial e repita imediatamente o movimento, continuando por 10-20 repetições."
+  ],
+  "category": "alongamento"
+}

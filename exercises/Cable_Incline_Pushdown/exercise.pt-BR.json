@@ -1,0 +1,19 @@
+{
+  "name": "Pushdown de inclinação do cabo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se inclinado em um banco de costas para uma máquina de polia alta que tenha uma barra reta fixada nela.",
+    "Segure a barra reta acima da cabeça com uma pegada pronada (overhand; palmas para baixo) na largura dos ombros e estenda os braços à sua frente. A barra deve estar a cerca de 5 centímetros de distância da parte superior das coxas. Esta será sua posição inicial.",
+    "Mantendo os braços parados, levante-os em um semicírculo até que a barra fique reta sobre sua cabeça. Inspire durante esta parte do movimento.",
+    "Volte lentamente à posição inicial usando os dorsais e mantenha a contração quando chegar à posição inicial. Expire durante a execução deste movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

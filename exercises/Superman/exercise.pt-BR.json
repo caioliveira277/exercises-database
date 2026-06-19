@@ -1,0 +1,21 @@
+{
+  "name": "Super-homem",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para começar, deite-se ereto e de bruços no chão ou colchonete. Seus braços devem estar totalmente estendidos à sua frente. Esta é a posição inicial.",
+    "Levante simultaneamente os braços, pernas e peito do chão e mantenha essa contração por 2 segundos. Dica: contraia a região lombar para obter os melhores resultados com este exercício. Lembre-se de expirar durante esse movimento. Nota: Ao manter a posição contraída, você deverá parecer o super-homem quando estiver voando.",
+    "Lentamente, comece a abaixar os braços, pernas e peito de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições prescritas em seu programa."
+  ],
+  "category": "alongamento"
+}

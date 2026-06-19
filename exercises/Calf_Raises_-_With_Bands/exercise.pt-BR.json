@@ -1,0 +1,19 @@
+{
+  "name": "Elevação de panturrilha – com faixas",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pegue uma faixa de exercícios e fique sobre ela com as pontas dos pés, certificando-se de que o comprimento da faixa entre o pé e os braços seja o mesmo para ambos os lados.",
+    "Enquanto segura as alças da faixa, levante os braços para o lado da cabeça, como se estivesse se preparando para realizar um levantamento de ombros. As palmas das mãos devem estar voltadas para frente com os cotovelos dobrados e para os lados. Este movimento criará tensão na banda. Esta será sua posição inicial.",
+    "Mantendo as mãos nos ombros, fique na ponta dos pés ao expirar e contraia as panturrilhas com força no início do movimento.",
+    "Após uma contração de um segundo, volte lentamente à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

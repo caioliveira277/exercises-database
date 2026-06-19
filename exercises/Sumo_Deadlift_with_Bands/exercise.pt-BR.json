@@ -1,0 +1,27 @@
+{
+  "name": "Deadlift de sumô com bandas",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "adutores",
+    "antebraços",
+    "glúteos",
+    "lombar",
+    "dorsal médio",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Para levantamento terra com faixas curtas, simplesmente passe-as sobre a barra antes de começar e entre nelas para prepará-las. Certifique-se de que eles estejam sob a metade posterior do pé, diretamente no local onde você está pisando no chão.",
+    "Comece com uma barra colocada no chão. Aproxime-se da barra de forma que ela cruze o meio dos pés. Os pés devem ser bem afastados, próximos às golas. Dobre os quadris para segurar a barra. Os braços devem ficar diretamente abaixo dos ombros, dentro das pernas, e você pode usar uma pegada pronada, uma pegada mista ou uma pegada em gancho.",
+    "Respire e abaixe os quadris, olhando para frente com a cabeça e o peito para cima. Dirija pelo chão, afastando os pés, com o peso na parte de trás dos pés. Estenda-se pelos quadris e joelhos.",
+    "À medida que a barra passa pelos joelhos, incline-se para trás e empurre os quadris contra a barra, unindo as omoplatas.",
+    "Retorne o peso ao chão dobrando os quadris e controlando o peso na descida."
+  ],
+  "category": "levantamento de peso básico"
+}

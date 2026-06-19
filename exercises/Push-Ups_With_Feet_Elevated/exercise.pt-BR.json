@@ -1,0 +1,22 @@
+{
+  "name": "Flexões com pés elevados",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão de bruços e coloque as mãos a cerca de 36 centímetros de distância uma da outra, mantendo o tronco erguido com os braços estendidos.",
+    "Coloque os dedos dos pés em cima de um banco plano. Isso permitirá que seu corpo seja elevado. Observação: Quanto maior a elevação do banco plano, maior será a resistência do exercício.",
+    "Abaixe-se até que seu peito quase toque o chão enquanto inspira.",
+    "Usando os músculos peitorais, pressione a parte superior do corpo de volta à posição inicial e contraia o peito. Expire enquanto executa esta etapa.",
+    "Após uma segunda pausa na posição contraída, repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

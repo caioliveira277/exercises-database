@@ -1,0 +1,23 @@
+{
+  "name": "Linha de polia baixa até o pescoço",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio",
+    "trapézios"
+  ],
+  "instructions": [
+    "Sente-se em uma máquina de polia baixa com um acessório de corda.",
+    "Segure as pontas da corda com as palmas para baixo e sente-se com as costas retas e os joelhos ligeiramente dobrados. Dica: Mantenha as costas quase totalmente verticais e os braços totalmente estendidos à sua frente. Esta será sua posição inicial.",
+    "Mantendo o tronco parado, levante os cotovelos e comece a dobrá-los enquanto puxa a corda em direção ao pescoço enquanto expira. Durante todo o movimento, os braços devem permanecer paralelos ao chão. Dica: Continue esse movimento até que suas mãos estejam quase próximas às orelhas (os antebraços não ficarão paralelos ao chão no final do movimento, pois estarão um pouco inclinados para cima) e os cotovelos afastados dos lados.",
+    "Depois de segurar por cerca de um segundo na posição contraída, volte lentamente à posição inicial enquanto inspira. Dica: Novamente, durante nenhuma parte do movimento o tronco deve se mover.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

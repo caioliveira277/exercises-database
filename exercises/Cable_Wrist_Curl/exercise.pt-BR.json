@@ -1,0 +1,20 @@
+{
+  "name": "Curvatura do pulso do cabo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece colocando uma bancada plana na frente de um cabo de polia baixa que possui uma barra reta fixada.",
+    "Use os braços para agarrar a barra do cabo com uma pegada supinada estreita na largura dos ombros (palmas para cima) e levante-os de modo que os antebraços fiquem apoiados na parte superior das coxas. Seus pulsos devem ficar pendurados logo além dos joelhos.",
+    "Comece enrolando o pulso para cima e expirando. Mantenha a contração por um segundo.",
+    "Abaixe lentamente os pulsos de volta à posição inicial enquanto inspira.",
+    "Seus antebraços devem estar parados, pois o pulso é o único movimento necessário para realizar este exercício.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

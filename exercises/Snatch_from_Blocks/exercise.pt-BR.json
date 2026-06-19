@@ -1,0 +1,28 @@
+{
+  "name": "Arrebatar de blocos",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "ombros",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece com uma barra carregada em caixas ou suportes na altura desejada. Uma pegada ampla deve ser feita na barra. Os pés devem ficar diretamente abaixo dos quadris, com os pés voltados para fora conforme necessário. Abaixe os quadris, com o peito para cima e a cabeça voltada para frente. Os ombros devem ficar bem à frente da barra, com os cotovelos apontados. Esta será a posição inicial.",
+    "Comece a primeira puxada passando pela frente dos calcanhares, levantando a barra das caixas.",
+    "Faça a transição para a segunda puxada estendendo-se pelos quadris, joelhos e tornozelos, elevando a barra o mais rápido possível. A barra deve ficar próxima ao corpo. No pico da extensão, encolha os ombros e deixe os cotovelos flexionarem para o lado.",
+    "Ao mover os pés para a posição de recepção, puxe-se com força para baixo da barra enquanto a eleva acima da cabeça. Os pés devem mover-se para fora dos quadris, virados conforme necessário. Receba a barra com o corpo o mais baixo possível e os braços totalmente estendidos acima da cabeça.",
+    "Mantendo a barra alinhada na frente dos calcanhares, com a cabeça e o peito para cima, passe pelos calcanhares dos pés para ficar em pé. Devolva cuidadosamente o peso às caixas."
+  ],
+  "category": "levantamento de peso olímpico"
+}

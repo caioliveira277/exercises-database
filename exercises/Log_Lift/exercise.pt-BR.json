@@ -1,0 +1,27 @@
+{
+  "name": "Levantamento de toras",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "peitoral",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "dorsal médio",
+    "quadríceps",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "Comece com o tronco à sua frente. Segure as alças e comece a limpar a tora. Ao se abaixar para iniciar a limpeza, tente colocar a tora o mais alto possível, puxando-a contra o peito. Estenda-se pelos quadris e joelhos para levantá-lo e completar a limpeza.",
+    "Empurre a cabeça para trás e olhe para cima, criando uma prateleira no peito para apoiar a tora. Comece a pressão mergulhando, flexionando levemente os joelhos e invertendo o movimento. Este push press irá gerar impulso para iniciar o movimento vertical da tora. Continue estendendo os cotovelos para pressionar o tronco acima da cabeça. Não existem regras rígidas de forma, então use as técnicas com as quais você for mais eficiente. À medida que o tronco é pressionado, certifique-se de empurrar a cabeça em cada repetição, olhando para frente.",
+    "Repita quantas vezes for possível. Tente controlar a descida do tronco à medida que ele retorna ao solo."
+  ],
+  "category": "strongman"
+}

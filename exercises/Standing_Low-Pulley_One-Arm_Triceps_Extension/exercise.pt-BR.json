@@ -1,0 +1,22 @@
+{
+  "name": "Extensão de tríceps com um braço e polia baixa em pé",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Segure uma única alça com o braço esquerdo próximo à máquina de polia baixa. Afaste-se da máquina mantendo a alça ao lado do corpo com o braço totalmente estendido. Agora use as duas mãos para elevar a alça única diretamente acima da cabeça, com a palma voltada para frente. Mantenha o braço completamente vertical (perpendicular ao chão) e coloque a mão direita no cotovelo esquerdo para ajudar a mantê-lo firme. Esta é a posição inicial.",
+    "Mantendo os braços próximos à cabeça (cotovelos para dentro) e perpendiculares ao chão, abaixe a resistência em um movimento semicircular atrás da cabeça até que os antebraços toquem o bíceps. Dica: Os braços devem permanecer parados e apenas os antebraços devem se mover. Inspire enquanto executa esta etapa.",
+    "Volte à posição inicial usando o tríceps para levantar a alça única. Expire enquanto executa esta etapa.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Troque de braço e repita o exercício."
+  ],
+  "category": "força"
+}

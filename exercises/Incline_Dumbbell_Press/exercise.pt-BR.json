@@ -1,0 +1,24 @@
+{
+  "name": "Supino inclinado com halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco inclinado com um haltere em cada mão sobre as coxas. As palmas das suas mãos ficarão voltadas uma para a outra.",
+    "Em seguida, usando as coxas para ajudar a empurrar os halteres para cima, levante-os um de cada vez para poder segurá-los na largura dos ombros.",
+    "Depois de levantar os halteres até a largura dos ombros, gire os pulsos para a frente de modo que as palmas das mãos fiquem voltadas para longe de você. Esta será sua posição inicial.",
+    "Certifique-se de manter o controle total dos halteres em todos os momentos. Em seguida, expire e empurre os halteres para cima com o peito.",
+    "Trave os braços na parte superior, segure por um segundo e comece a abaixar lentamente o peso. Dica Idealmente, baixar os pesos deve levar cerca de duas vezes mais tempo do que levantá-los.",
+    "Repita o movimento pela quantidade prescrita de repetições.",
+    "Quando terminar, coloque os halteres de volta nas coxas e depois no chão. Esta é a maneira mais segura de liberar os halteres."
+  ],
+  "category": "força"
+}

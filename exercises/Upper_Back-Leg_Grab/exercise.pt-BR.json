@@ -1,0 +1,19 @@
+{
+  "name": "Agarrar a perna traseira superior",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "lombar",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Enquanto estiver sentado, incline-se para a frente para abraçar as coxas por baixo com ambos os braços.",
+    "Mantenha os joelhos juntos e as pernas estendidas enquanto abaixa o peito até os joelhos. Você também pode alongar o meio das costas afastando as costas dos joelhos enquanto os abraça."
+  ],
+  "category": "alongamento"
+}

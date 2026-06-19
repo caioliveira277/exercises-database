@@ -1,0 +1,23 @@
+{
+  "name": "Remada Delt Traseira com Barra",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Fique em pé enquanto segura uma barra usando uma pegada larga (mais alta que a largura dos ombros) e overhand (palmas voltadas para o corpo).",
+    "Dobre ligeiramente os joelhos e incline-se enquanto mantém o arco natural das costas. Deixe os braços pendurados à sua frente enquanto seguram a barra. Quando o tronco estiver paralelo ao chão, afaste os cotovelos do corpo. Dica: Seu tronco e seus braços devem se parecer com a letra “T”. Agora você está pronto para começar o exercício.",
+    "Mantendo os braços perpendiculares ao tronco, puxe a barra em direção à parte superior do peito enquanto aperta os deltóides posteriores e expira. Dica: Quando executado corretamente, este exercício deve se assemelhar a um supino ao contrário. Além disso, evite usar o bíceps para fazer o trabalho. Concentre-se em atingir os deltóides posteriores; os braços devem funcionar apenas como ganchos.",
+    "Volte lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

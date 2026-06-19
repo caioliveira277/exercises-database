@@ -1,0 +1,25 @@
+{
+  "name": "Pendure limpo",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Comece com uma pegada na largura dos ombros, overhand duplo ou gancho, com a barra pendurada no meio da coxa. Suas costas devem estar retas e ligeiramente inclinadas para a frente.",
+    "Comece estendendo-se agressivamente pelos quadris, joelhos e tornozelos, conduzindo o peso para cima. Ao fazer isso, encolha os ombros em direção às orelhas.",
+    "Recupere-se imediatamente dirigindo pelos calcanhares, mantendo o tronco ereto e os cotovelos para cima. Continue até ficar em pé."
+  ],
+  "category": "levantamento de peso olímpico"
+}

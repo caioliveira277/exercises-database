@@ -1,0 +1,17 @@
+{
+  "name": "Alongamento dos isquiotibiais da perna para cima",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se de costas, dobre um joelho e coloque o pé no chão para estabilizar a coluna.",
+    "Estenda a outra perna no ar. Se você estiver apertado, não conseguirá endireitá-lo. Tudo bem. Estenda o joelho de modo que a sola do pé levantado fique voltada para o teto (ou o mais próximo possível).",
+    "Estique lentamente as pernas o máximo possível e puxe-as em direção ao nariz. Troque de lado."
+  ],
+  "category": "alongamento"
+}

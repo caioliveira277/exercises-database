@@ -1,0 +1,23 @@
+{
+  "name": "Pull-up traseiro de grande aderência",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio",
+    "ombros"
+  ],
+  "instructions": [
+    "Segure a barra pull-up com as palmas das mãos voltadas para a frente, usando uma pegada ampla.",
+    "Como você está com os dois braços estendidos à sua frente segurando a barra, leve o tronco para frente e a cabeça de forma que haja uma linha imaginária da barra de pull-up até a nuca. Esta é a sua posição inicial.",
+    "Puxe o tronco para cima até que a barra fique perto da nuca. Para fazer isso, puxe os ombros e os braços para baixo e para trás enquanto inclina levemente a cabeça para a frente. Expire ao realizar esta parte do movimento. Dica: concentre-se em contrair os músculos das costas quando atingir a posição totalmente contraída. A parte superior do tronco deve permanecer estacionária enquanto se move pelo espaço e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho além de segurar a barra.",
+    "Depois de um segundo na posição contraída, comece a inspirar e abaixe lentamente o tronco de volta à posição inicial quando os braços estiverem totalmente estendidos e os dorsais totalmente esticados.",
+    "Repita este movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

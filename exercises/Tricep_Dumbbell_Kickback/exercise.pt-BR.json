@@ -1,0 +1,18 @@
+{
+  "name": "Retrocesso do haltere de tríceps",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece com um haltere em cada mão e as palmas voltadas para o tronco. Mantenha as costas retas com uma ligeira flexão nos joelhos e incline-se para a frente na cintura. Seu tronco deve estar quase paralelo ao chão. Certifique-se de manter a cabeça erguida. Os braços devem estar próximos ao tronco e paralelos ao chão. Seus antebraços devem estar apontados para o chão enquanto você segura os pesos. Deve haver um ângulo de 90 graus formado entre o antebraço e o braço. Esta é a sua posição inicial.",
+    "Agora, mantendo os braços parados, expire e use os tríceps para levantar os pesos até que o braço esteja totalmente estendido. Concentre-se em mover o antebraço.",
+    "Após uma breve pausa na contração superior, inspire e abaixe lentamente os halteres de volta à posição inicial.",
+    "Repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

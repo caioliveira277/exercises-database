@@ -1,0 +1,24 @@
+{
+  "name": "Elevação lateral assentada no cabo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "dorsal médio",
+    "trapézios"
+  ],
+  "instructions": [
+    "Fique no meio de duas roldanas baixas opostas uma à outra e coloque um banco plano logo atrás de você (perpendicularmente a você; a borda estreita do banco deve ser a que está atrás de você). Selecione o peso a ser usado em cada polia.",
+    "Agora sente-se na beira do banco atrás de você, com os pés colocados na frente dos joelhos.",
+    "Incline-se para a frente enquanto mantém as costas retas e descanse o tronco nas coxas.",
+    "Peça a alguém que lhe dê as alças individuais presas às polias. Segure a polia esquerda com a mão direita e a polia direita com a esquerda depois de selecionar seu peso. As polias devem passar sob os joelhos e os braços ficarão estendidos com as palmas voltadas uma para a outra e uma ligeira flexão nos cotovelos. Esta será a posição inicial.",
+    "Mantendo os braços parados, levante os braços para os lados até que fiquem paralelos ao chão e na altura dos ombros. Expire durante a execução desse movimento e segure a contração por um segundo.",
+    "Abaixe lentamente os braços até a posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições. Dica: Mantenha os braços perpendiculares ao tronco e uma posição fixa dos cotovelos (ângulo de 10 a 30 graus) durante todo o exercício."
+  ],
+  "category": "força"
+}

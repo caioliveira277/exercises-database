@@ -1,0 +1,25 @@
+{
+  "name": "Agachamento completo com barra",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Este exercício é melhor executado dentro de um rack de agachamento por motivos de segurança. Para começar, primeiro coloque a barra em um rack logo acima do nível dos ombros. Depois que a altura correta for escolhida e a barra carregada, passe por baixo da barra e coloque a parte de trás dos ombros (um pouco abaixo do pescoço) sobre ela.",
+    "Segure-se na barra com os dois braços de cada lado e levante-a do rack empurrando primeiro com as pernas e ao mesmo tempo endireitando o tronco.",
+    "Afaste-se do rack e posicione as pernas usando uma postura média na largura dos ombros, com os dedos dos pés ligeiramente apontados. Mantenha a cabeça erguida o tempo todo e mantenha as costas retas. Esta será sua posição inicial.",
+    "Comece a abaixar lentamente a barra dobrando os joelhos e recostando-se com os quadris enquanto mantém uma postura reta com a cabeça erguida. Continue descendo até que os isquiotibiais estejam nas panturrilhas. Inspire ao realizar esta parte do movimento.",
+    "Comece a levantar a barra ao expirar, empurrando o chão com o calcanhar ou meio do pé enquanto estica as pernas e estende os quadris para voltar à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

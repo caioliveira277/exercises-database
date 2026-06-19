@@ -1,0 +1,20 @@
+{
+  "name": "Alongamento de ombro ao redor do mundo",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "peitoral"
+  ],
+  "instructions": [
+    "Fique em pé, com as pernas juntas, segurando uma barra corporal ou um cabo de vassoura.",
+    "Segure o mastro atrás dos quadris com uma pegada mais larga que a largura dos ombros. As palmas das mãos devem estar voltadas para baixo e os polegares voltados para fora.",
+    "Levante lentamente os braços atrás da cabeça. Não force se ficar difícil levantá-lo ainda mais."
+  ],
+  "category": "alongamento"
+}

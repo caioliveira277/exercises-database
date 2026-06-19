@@ -1,0 +1,25 @@
+{
+  "name": "Agachamento dividido com uma perna Smith",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para começar, coloque uma bancada plana de 2 a 3 pés atrás da máquina de ferreiro. Em seguida, coloque a barra na altura que melhor corresponda à sua altura. Depois que a altura correta for escolhida e a barra carregada, passe por baixo da barra e coloque a parte de trás dos ombros (um pouco abaixo do pescoço) sobre ela.",
+    "Segure-se na barra com os dois braços de cada lado (palmas voltadas para a frente), desbloqueie-a e levante-a do rack empurrando primeiro com as pernas e ao mesmo tempo endireitando o tronco.",
+    "Posicione as pernas colocando um pé ligeiramente à frente sob a barra e estendendo a outra perna para trás e coloque a parte superior do pé no banco. Esta será sua posição inicial",
+    "Comece a abaixar lentamente a barra dobrando o joelho enquanto mantém uma postura reta com a cabeça erguida. Continue descendo até que o ângulo entre a parte superior da perna e a panturrilha fique ligeiramente menor que 90 graus (que é o ponto em que a parte superior das pernas fica paralela ao chão). Inspire ao realizar esta parte do movimento. Dica: Se você executou o exercício corretamente, a frente do joelho deve formar uma linha reta imaginária com os dedos dos pés perpendicular à frente. Se o seu joelho ultrapassar essa linha imaginária (se ultrapassar os dedos dos pés), você está colocando uma pressão indevida no joelho e o exercício foi executado incorretamente.",
+    "Comece a levantar a barra ao expirar, empurrando o chão com o calcanhar do pé, principalmente enquanto estica a perna novamente e volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Troque as pernas e repita o movimento."
+  ],
+  "category": "força"
+}

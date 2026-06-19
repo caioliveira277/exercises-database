@@ -1,0 +1,19 @@
+{
+  "name": "Halteres voam",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano com um haltere em cada mão apoiado no topo das coxas. As palmas da sua mão ficarão voltadas uma para a outra.",
+    "Em seguida, usando as coxas para ajudar a levantar os halteres, levante-os um de cada vez para que possa segurá-los à sua frente, na largura dos ombros, com as palmas das mãos voltadas uma para a outra. Levante os halteres como se os estivesse pressionando, mas pare e segure antes de travar. Esta será sua posição inicial.",
+    "Com uma ligeira flexão dos cotovelos para evitar tensão no tendão do bíceps, abaixe os braços em ambos os lados em um amplo arco até sentir um alongamento no peito. Inspire enquanto executa esta parte do movimento. Dica: Lembre-se que durante todo o movimento os braços devem permanecer parados; o movimento deve ocorrer apenas na articulação do ombro.",
+    "Retorne os braços à posição inicial enquanto contrai os músculos do peito e expira. Dica: Certifique-se de usar o mesmo arco de movimento usado para abaixar os pesos.",
+    "Segure por um segundo na posição contraída e repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

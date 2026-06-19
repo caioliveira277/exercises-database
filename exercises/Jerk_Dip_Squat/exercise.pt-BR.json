@@ -1,0 +1,19 @@
+{
+  "name": "Agachamento idiota",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Este movimento fortalece a parte de mergulho do jerk. Comece com a barra levantada na posição jerk, com os ombros para a frente para criar uma prateleira e a barra tocando levemente a garganta. Os pés devem estar diretamente abaixo dos quadris, com os pés voltados para fora, o que for confortável.",
+    "Mantendo o tronco na vertical, mergulhe flexionando os joelhos, permitindo que eles se desloquem para a frente e sem mover os quadris para trás. O mergulho não deve ser excessivo. Retorne o peso à posição inicial conduzindo com força pelos pés."
+  ],
+  "category": "levantamento de peso olímpico"
+}

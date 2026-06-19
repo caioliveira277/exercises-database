@@ -1,0 +1,18 @@
+{
+  "name": "Elevação da perna pendurada",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Pendure-se em uma barra de apoio com os dois braços estendidos na altura dos braços em cima de você, usando uma pegada larga ou média. As pernas devem estar retas para baixo com a pélvis ligeiramente enrolada para trás. Esta será sua posição inicial.",
+    "Levante as pernas até que o tronco faça um ângulo de 90 graus com as pernas. Expire ao realizar esse movimento e mantenha a contração por mais ou menos um segundo.",
+    "Volte lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

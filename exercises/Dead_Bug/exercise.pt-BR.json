@@ -1,0 +1,21 @@
+{
+  "name": "Inseto morto",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece deitado de costas com as mãos estendidas acima de você em direção ao teto.",
+    "Traga seus pés, joelhos e quadris até 90 graus.",
+    "Expire com força para abaixar a caixa torácica e alisar as costas no chão, girando a pélvis para cima e apertando os glúteos. Mantenha esta posição durante todo o movimento. Esta será sua posição inicial.",
+    "Inicie o exercício estendendo uma perna, esticando o joelho e o quadril para trazer a perna logo acima do solo.",
+    "Mantenha a posição da lombar e da pélvis enquanto executa o movimento, pois suas costas vão querer arquear.",
+    "Fique firme e retorne a perna ativa à posição inicial.",
+    "Repita no lado oposto, alternando até completar o conjunto."
+  ],
+  "category": "força"
+}

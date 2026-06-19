@@ -1,0 +1,21 @@
+{
+  "name": "Agachamento dividido com halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Posicione-se em uma posição escalonada com o pé traseiro elevado e o pé dianteiro à frente.",
+    "Segure um haltere em cada mão, deixando-os pendurados nas laterais. Esta será sua posição inicial.",
+    "Comece descendo, flexionando o joelho e o quadril para abaixar o corpo. Mantenha uma boa postura durante todo o movimento. Mantenha o joelho da frente alinhado com o pé enquanto executa o exercício.",
+    "Na parte inferior do movimento, passe pelo calcanhar para estender o joelho e o quadril para retornar à posição inicial."
+  ],
+  "category": "força"
+}

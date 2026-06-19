@@ -1,0 +1,22 @@
+{
+  "name": "Imprensa Anti-Gravidade",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "dorsal médio",
+    "trapézios",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque uma barra no chão, atrás da cabeceira de um banco inclinado.",
+    "Deite-se no banco de bruços. Com uma pegada pronada, levante a barra do chão. Flexione os cotovelos, realizando uma curva reversa para aproximar a barra do peito. Esta será sua posição inicial.",
+    "Para começar, pressione a barra na frente da cabeça, estendendo os cotovelos. Mantenha os braços paralelos ao chão durante todo o movimento.",
+    "Retorne à posição inicial e repita para completar a série."
+  ],
+  "category": "força"
+}

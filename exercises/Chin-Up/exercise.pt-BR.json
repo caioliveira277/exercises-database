@@ -1,0 +1,23 @@
+{
+  "name": "Queixo para cima",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Agarre a barra pull-up com as palmas das mãos voltadas para o tronco e uma pegada mais próxima da largura dos ombros.",
+    "Como você está com os dois braços estendidos à sua frente segurando a barra na largura de pegada escolhida, mantenha o tronco o mais reto possível enquanto cria uma curvatura na parte inferior das costas e estica o peito. Esta é a sua posição inicial. Dica: Manter o tronco o mais reto possível maximiza a estimulação do bíceps e minimiza o envolvimento das costas.",
+    "Ao expirar, puxe o tronco para cima até que a cabeça fique no nível da barra pull-up. Concentre-se em usar os músculos bíceps para realizar o movimento. Mantenha os cotovelos próximos ao corpo. Dica: A parte superior do tronco deve permanecer estacionária enquanto se move pelo espaço e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho além de segurar a barra.",
+    "Após um segundo apertando o bíceps na posição contraída, abaixe lentamente o tronco de volta à posição inicial; quando seus braços estão totalmente estendidos. Inspire enquanto executa esta parte do movimento.",
+    "Repita este movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

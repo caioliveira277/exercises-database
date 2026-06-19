@@ -1,0 +1,20 @@
+{
+  "name": "Enrolamento de cabo de um braço em pé",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece agarrando a alça única ao lado da máquina de polia baixa. Certifique-se de estar longe o suficiente da máquina para que seu braço suporte o peso.",
+    "Certifique-se de que seu braço esteja parado, perpendicular ao chão, com os cotovelos voltados para dentro e as palmas das mãos voltadas para a frente. Seu braço que não levanta deve agarrar sua cintura. Isso permitirá que você mantenha o equilíbrio.",
+    "Lentamente, comece a enrolar a alça única para cima, enquanto mantém o braço parado até que o antebraço toque o bíceps enquanto expira. Dica: Apenas o antebraço deve se mover.",
+    "Mantenha a posição de contração enquanto aperta o bíceps e, em seguida, abaixe a alça única de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Troque de braço enquanto executa este exercício."
+  ],
+  "category": "força"
+}

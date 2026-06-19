@@ -1,0 +1,25 @@
+{
+  "name": "Agachamento com barra com uma perna",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece ficando cerca de 60 a 90 centímetros na frente de um banco plano, com as costas voltadas para o banco. Coloque uma barra à sua frente no chão. Dica: Seus pés devem estar separados um do outro na largura dos ombros.",
+    "Dobre os joelhos e use uma pegada pronada com as mãos mais largas que a largura dos ombros para levantar a barra até que você possa apoiá-la no peito.",
+    "Em seguida, levante a barra sobre a cabeça e apoie-a na base do pescoço. Mova um pé para trás de modo que o dedo do pé fique apoiado no banco plano. O outro pé deve estar parado à sua frente. Mantenha a cabeça erguida o tempo todo, pois olhar para baixo o desequilibrará e também manterá as costas retas. Dica: certifique-se de que suas costas estejam retas e o peito para fora ao realizar este exercício.",
+    "Ao inspirar, abaixe lentamente a perna até que a coxa fique paralela ao chão. Neste ponto, o joelho deve estar sobre os dedos dos pés. Seu peito deve estar diretamente acima do meio da coxa.",
+    "Liderando com o peito e os quadris e contraindo o quadríceps, eleve a perna de volta à posição inicial enquanto expira.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Troque as pernas e repita o movimento."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Leg Press",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Usando uma máquina de leg press, sente-se na máquina e coloque as pernas na plataforma diretamente à sua frente, em uma posição média (na largura dos ombros). (Nota: Para os propósitos desta discussão usaremos a postura média descrita acima, que visa o desenvolvimento geral; no entanto, você pode escolher qualquer uma das três posturas descritas na seção sobre posicionamento dos pés).",
+    "Abaixe as barras de segurança que prendem a plataforma com pesos no lugar e pressione a plataforma totalmente para cima até que suas pernas estejam totalmente estendidas à sua frente. Dica: certifique-se de não travar os joelhos. Seu tronco e as pernas devem formar um ângulo perfeito de 90 graus. Esta será sua posição inicial.",
+    "Ao inspirar, abaixe lentamente a plataforma até que a parte superior e inferior das pernas formem um ângulo de 90 graus.",
+    "Empurrando principalmente com os calcanhares e usando o quadríceps, volte à posição inicial ao expirar.",
+    "Repita pela quantidade recomendada de repetições e certifique-se de travar os alfinetes de segurança corretamente quando terminar. Você não quer que aquela plataforma caia sobre você totalmente carregada."
+  ],
+  "category": "força"
+}

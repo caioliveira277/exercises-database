@@ -1,0 +1,22 @@
+{
+  "name": "Fileira vertical com halteres com um braço",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Pegue um haltere e fique em pé com o braço estendido à sua frente, com uma ligeira flexão nos cotovelos e as costas retas. Esta será sua posição inicial. Dica: O haltere deve ficar apoiado em cima da coxa com a palma das mãos voltada para as coxas.",
+    "Mantenha a outra mão totalmente estendida para o lado, pela cintura ou agarrando uma superfície fixa. Esta será sua posição inicial.",
+    "Use os ombros laterais para levantar o haltere enquanto expira. O haltere deve ficar próximo ao corpo conforme você o move para cima. Continue a levantá-lo até que o haltere esteja quase alinhado com seu queixo. Dica: Seus cotovelos devem conduzir o movimento. Ao levantar o haltere, o cotovelo deve estar sempre mais alto que o antebraço. Além disso, mantenha o tronco parado e faça uma pausa por um segundo no início do movimento.",
+    "Abaixe o haltere lentamente até a posição inicial. Inspire ao realizar esta parte do movimento.",
+    "Repita pela quantidade recomendada de repetições e troque de braço."
+  ],
+  "category": "força"
+}

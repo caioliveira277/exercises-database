@@ -1,0 +1,17 @@
+{
+  "name": "Alongamento da parte superior das costas",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Junte os dedos com os polegares apontando para baixo, em volta dos ombros enquanto estende as mãos para a frente."
+  ],
+  "category": "alongamento"
+}

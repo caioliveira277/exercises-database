@@ -1,0 +1,19 @@
+{
+  "name": "Vácuo de estômago",
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Para começar, fique em pé com os pés afastados na largura dos ombros. Coloque as mãos nos quadris. Esta é a posição inicial.",
+    "Agora inspire lentamente o máximo de ar possível e depois comece a expirar o máximo possível enquanto contrai o estômago o máximo possível e mantém esta posição. Tente visualizar seu umbigo tocando sua coluna vertebral.",
+    "Uma contração isométrica dura cerca de 20 segundos. Durante a espera de 20 segundos, tente respirar normalmente. Em seguida, inspire e traga o estômago de volta à posição inicial.",
+    "Depois de praticar este exercício, tente realizá-lo por mais de 20 segundos. Dica: você pode trabalhar até 40-60 segundos.",
+    "Repita para a quantidade recomendada de conjuntos."
+  ],
+  "category": "alongamento"
+}

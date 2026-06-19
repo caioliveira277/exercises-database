@@ -1,0 +1,19 @@
+{
+  "name": "Rotação interna do cabo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se ao lado de uma polia baixa de lado (com as pernas esticadas à sua frente ou cruzadas) e segure o acessório do cabo com uma mão com o braço mais próximo do cabo. Dica: se você puder ajustar a altura da polia, poderá usar um banco plano para sentar.",
+    "Posicione o cotovelo contra o seu lado com o cotovelo dobrado a 90° e o braço apontando para a polia. Esta será sua posição inicial.",
+    "Puxe o cabo de mão única em direção ao seu corpo, girando internamente o ombro até que o antebraço esteja sobre o abdômen. Você estará criando um semicírculo imaginário. Dica: O antebraço deve estar sempre perpendicular ao tronco.",
+    "Volte lentamente à posição inicial.",
+    "Repita pela quantidade recomendada de repetições e depois repita o movimento com o próximo braço."
+  ],
+  "category": "força"
+}

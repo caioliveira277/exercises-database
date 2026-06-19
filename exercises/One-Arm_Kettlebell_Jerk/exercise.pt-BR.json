@@ -1,0 +1,22 @@
+{
+  "name": "Kettlebell idiota com um braço",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Segure um kettlebell pela alça. Limpe o kettlebell até o ombro, estendendo-o pelas pernas e quadris enquanto puxa o kettlebell em direção ao ombro. Gire o pulso ao fazer isso, de modo que a palma da mão fique voltada para a frente. Esta será sua posição inicial.",
+    "Mergulhe o corpo dobrando os joelhos, mantendo o tronco ereto.",
+    "Inverta imediatamente a direção, passando pelos calcanhares, basicamente saltando para criar impulso. Ao fazer isso, pressione o kettlebell acima da cabeça para travar, estendendo os braços, usando o impulso do corpo para mover o peso. Receba o peso acima da cabeça retornando à posição de agachamento sob o peso. Mantendo o peso acima da cabeça, volte à posição ereta.",
+    "Abaixe o peso para realizar a próxima repetição."
+  ],
+  "category": "força"
+}

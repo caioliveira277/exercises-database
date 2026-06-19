@@ -1,0 +1,24 @@
+{
+  "name": "Levantamento terra de déficit",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "dorsal médio",
+    "quadríceps",
+    "trapézios"
+  ],
+  "instructions": [
+    "Comece tendo uma plataforma ou placas de peso nas quais você possa ficar de pé, geralmente de 1 a 3 polegadas de altura. Aproxime-se da barra de forma que ela fique centralizada sobre seus pés. Seus pés devem estar separados na largura do quadril. Dobre o quadril para segurar a barra na largura dos ombros, permitindo que as omoplatas se projetem. Normalmente, você usaria uma pegada overhand ou uma pegada over/under em séries mais pesadas.",
+    "Com os pés e a pegada firme, respire fundo, abaixe os quadris e dobre os joelhos até que as canelas entrem em contato com a barra. Olhe para frente com a cabeça, mantenha o peito erguido e as costas arqueadas e comece a dirigir pelos calcanhares para mover o peso para cima. Depois que a barra passar pelos joelhos, puxe-a agressivamente para trás, unindo as omoplatas enquanto empurra os quadris para frente na barra.",
+    "Abaixe a barra dobrando os quadris e guiando-a até o chão."
+  ],
+  "category": "levantamento de peso básico"
+}

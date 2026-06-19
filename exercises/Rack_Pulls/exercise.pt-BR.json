@@ -1,0 +1,22 @@
+{
+  "name": "Puxadores de rack",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "lombar"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "glúteos",
+    "posteriores de coxa",
+    "trapézios"
+  ],
+  "instructions": [
+    "Configure em um rack de energia com a barra nos pinos. Os pinos devem ser ajustados no ponto desejado; logo abaixo dos joelhos, logo acima ou no meio da coxa. Posicione-se contra a barra na posição adequada de levantamento terra. Seus pés devem estar sob os quadris, a pegada na largura dos ombros, as costas arqueadas e os quadris para trás para envolver os isquiotibiais. Como o peso normalmente é pesado, você pode usar uma empunhadura mista, uma empunhadura em gancho ou usar tiras para ajudar a segurar o peso.",
+    "Com a cabeça voltada para frente, estenda os quadris e joelhos, puxando o peso para cima e para trás até travar. Certifique-se de puxar os ombros para trás ao completar o movimento.",
+    "Devolva o peso aos pinos e repita."
+  ],
+  "category": "levantamento de peso básico"
+}

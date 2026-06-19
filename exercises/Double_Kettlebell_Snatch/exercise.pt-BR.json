@@ -1,0 +1,21 @@
+{
+  "name": "Arranco Duplo com Kettlebell",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Coloque dois kettlebells atrás dos pés. Dobre os joelhos e sente-se para pegar os kettlebells.",
+    "Balance os kettlebells entre as pernas com força e inverta a direção.",
+    "Dirija com os quadris e trave os kettlebells acima da cabeça em um movimento ininterrupto."
+  ],
+  "category": "força"
+}

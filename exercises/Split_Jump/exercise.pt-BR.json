@@ -1,0 +1,23 @@
+{
+  "name": "Salto dividido",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Assuma uma posição de estocada com um pé à frente, o joelho dobrado e o joelho de trás quase tocando o chão.",
+    "Certifique-se de que o joelho da frente esteja acima da linha média do pé.",
+    "Estendendo-se pelas duas pernas, pule o mais alto possível, balançando os braços para ganhar sustentação.",
+    "Ao pular, junte os pés e mova-os de volta às posições iniciais ao pousar.",
+    "Absorva o impacto voltando à posição inicial."
+  ],
+  "category": "pliometria"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Imprensa de tríceps deitada",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra EZ",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano com uma barra e-z (minha preferência) ou uma barra reta colocada no chão, atrás da cabeça e com os pés no chão.",
+    "Segure a barra atrás de você, usando uma pegada média (pronada), e levante a barra à sua frente com os braços estendidos. Dica: Os braços devem estar perpendiculares ao tronco e ao chão. Os cotovelos devem estar dobrados. Esta é a posição inicial.",
+    "Ao inspirar, abaixe lentamente o peso até que a barra toque levemente sua testa, enquanto mantém os braços e cotovelos estacionários.",
+    "Nesse ponto, use o tríceps para trazer o peso de volta à posição inicial enquanto expira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

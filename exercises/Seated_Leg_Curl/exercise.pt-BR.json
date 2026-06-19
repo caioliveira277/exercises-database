@@ -1,0 +1,19 @@
+{
+  "name": "Flexão de perna sentada",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste a alavanca da máquina de acordo com a sua altura e sente-se na máquina com as costas apoiadas na almofada de apoio das costas.",
+    "Coloque a parte de trás da perna em cima da alavanca acolchoada (apenas alguns centímetros abaixo das panturrilhas) e prenda a almofada abdominal contra as coxas, logo acima dos joelhos. Em seguida, segure as alças laterais da máquina enquanto aponta os dedos dos pés retos (ou você também pode usar qualquer uma das outras duas posturas) e certifique-se de que as pernas estejam totalmente retas bem à sua frente. Esta será sua posição inicial.",
+    "Ao expirar, puxe a alavanca da máquina o máximo possível para a parte de trás das coxas, flexionando os joelhos. Mantenha o tronco parado o tempo todo. Mantenha a posição contraída por um segundo.",
+    "Retorne lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Elevação do cabo frontal",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Selecione o peso em uma máquina de polia baixa e segure o acessório do cabo com uma mão que está preso à polia baixa com a mão esquerda.",
+    "Afaste-se da polia e coloque o braço esticado para baixo com o acessório do cabo de mão na frente das coxas, na altura dos braços, com as palmas das mãos voltadas para as coxas. Esta será sua posição inicial.",
+    "Mantendo o tronco parado (sem balançar), levante o braço esquerdo para a frente com uma ligeira flexão do cotovelo e as palmas das mãos sempre voltadas para baixo. Continue subindo até que o braço fique ligeiramente acima, paralelo ao chão. Expire ao executar esta parte do movimento e faça uma pausa por um segundo no topo.",
+    "Agora, enquanto inspira, abaixe o braço lentamente até a posição inicial.",
+    "Depois de realizar todas as repetições recomendadas para este braço, troque de braço e execute o exercício com o braço correto."
+  ],
+  "category": "força"
+}

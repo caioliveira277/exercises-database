@@ -1,0 +1,22 @@
+{
+  "name": "Laterais laterais para elevação frontal",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "trapézios"
+  ],
+  "instructions": [
+    "Em pé, segure um par de halteres ao seu lado. Esta será sua posição inicial.",
+    "Mantendo os cotovelos ligeiramente dobrados, levante os pesos diretamente à sua frente até a altura dos ombros, evitando qualquer balanço ou trapaça.",
+    "No início do exercício, mova os pesos à sua frente, mantendo os braços estendidos.",
+    "Abaixe os pesos com um movimento controlado.",
+    "Na próxima repetição, levante os pesos à sua frente até a altura dos ombros antes de movê-los lateralmente para os lados.",
+    "Abaixe os pesos para a posição inicial."
+  ],
+  "category": "força"
+}

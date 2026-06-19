@@ -1,0 +1,22 @@
+{
+  "name": "Salto de caixa sentado com halteres",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Posicione uma caixa a alguns metros de distância de um banco. Segure um haltere contra o peito com as duas mãos e sente-se no banco de frente para a caixa. Esta será sua posição inicial.",
+    "Plante os pés firmemente no chão enquanto se inclina para a frente, estendendo-se pelos quadris e joelhos para pular para cima e para frente.",
+    "Aterre na caixa com os dois pés, absorvendo o impacto ao permitir que os quadris e os joelhos dobrem.",
+    "Desça e retorne à posição inicial."
+  ],
+  "category": "pliometria"
+}

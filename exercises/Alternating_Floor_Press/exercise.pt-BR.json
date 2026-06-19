@@ -1,0 +1,22 @@
+{
+  "name": "Prensa de piso alternada",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão com dois kettlebells próximos aos ombros.",
+    "Posicione um no peito e depois o outro, segurando os kettlebells na alça com as palmas voltadas para frente.",
+    "Estenda ambos os braços, de modo que os kettlebells fiquem acima do peito. Abaixe um kettlebell, trazendo-o até o peito e gire o pulso na direção do kettlebell travado.",
+    "Levante o kettlebell e repita no lado oposto."
+  ],
+  "category": "força"
+}

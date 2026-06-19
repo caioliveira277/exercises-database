@@ -1,0 +1,21 @@
+{
+  "name": "Curl EZ-Bar Close-Grip com faixa",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra EZ",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Prenda uma faixa em cada extremidade da barra. Pegue a barra, colocando um pé no meio da faixa. Fique em pé com uma pegada estreita e supinada na barra EZ. Os cotovelos devem estar próximos ao tronco. Esta será sua posição inicial.",
+    "Mantendo os braços no lugar, flexione os cotovelos para executar a rosca direta. Expire enquanto o peso é levantado.",
+    "Continue o movimento até que os bíceps estejam totalmente contraídos e a barra esteja na altura dos ombros. Mantenha a posição contraída por um segundo e contraia os bíceps com força.",
+    "Lentamente, comece a trazer a barra de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

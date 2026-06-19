@@ -1,0 +1,22 @@
+{
+  "name": "Linha curvada com dois halteres",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Com um haltere em cada mão (palmas voltadas para o tronco), dobre levemente os joelhos e leve o tronco para frente dobrando a cintura; ao se curvar, certifique-se de manter as costas retas até que fiquem quase paralelas ao chão. Dica: certifique-se de manter a cabeça erguida. Os pesos devem ficar pendurados diretamente à sua frente, enquanto seus braços ficam pendurados perpendicularmente ao chão e ao tronco. Esta é a sua posição inicial.",
+    "Mantendo o tronco parado, levante os halteres para o lado (enquanto expira), mantendo os cotovelos próximos ao corpo (não exerça nenhuma força com o antebraço além de segurar os pesos). Na posição contraída superior, contraia os músculos das costas e segure por um segundo.",
+    "Abaixe lentamente o peso novamente para a posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

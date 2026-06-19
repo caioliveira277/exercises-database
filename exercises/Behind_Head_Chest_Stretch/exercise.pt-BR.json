@@ -1,0 +1,20 @@
+{
+  "name": "Alongamento do peito atrás da cabeça",
+  "force": "estática",
+  "level": "avançado",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Sente-se ereto no chão com seu parceiro atrás de você.",
+    "Coloque as mãos atrás da mão e empurre os cotovelos para trás o máximo que puder. Seu parceiro deve segurar seus cotovelos. Esta será sua posição inicial.",
+    "Gentilmente, tente puxar os cotovelos para a frente com as mãos ainda atrás da cabeça por 10 segundos ou mais. Seu parceiro deve evitar que seus cotovelos se movam.",
+    "Agora, relaxe os músculos e peça ao seu parceiro que puxe suavemente os cotovelos para trás, tanto quanto for confortável para você. Certifique-se de informar ao seu parceiro quando o alongamento for adequado para evitar alongamento excessivo ou lesões."
+  ],
+  "category": "alongamento"
+}

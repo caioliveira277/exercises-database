@@ -1,0 +1,21 @@
+{
+  "name": "Estocada para trás elevada",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Posicione uma barra em um rack na altura dos ombros, carregada com um peso apropriado. Coloque uma plataforma curta e elevada atrás de você.",
+    "Coloque a barra na parte superior das costas, mantendo-as arqueadas e firmes. Suba na plataforma elevada com os dois pés. Esta será sua posição inicial.",
+    "Comece dando um passo para trás com uma perna. Desça flexionando os quadris e os joelhos até que o joelho toque o chão.",
+    "Faça uma pausa e estenda os quadris e joelhos para subir, retornando totalmente à posição inicial antes de alternar."
+  ],
+  "category": "força"
+}

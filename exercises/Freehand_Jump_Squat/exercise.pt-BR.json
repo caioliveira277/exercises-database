@@ -1,0 +1,24 @@
+{
+  "name": "Agachamento com salto à mão livre",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Cruze os braços sobre o peito.",
+    "Com a cabeça erguida e as costas retas, posicione os pés na largura dos ombros.",
+    "Mantendo as costas retas e o peito para cima, agache-se enquanto inspira até que a parte superior das coxas fique paralela ou inferior ao chão.",
+    "Agora pressionando principalmente com a planta dos pés, pule no ar o mais alto possível, usando as coxas como molas. Expire durante esta parte do movimento.",
+    "Ao tocar o chão novamente, agache-se imediatamente e pule novamente.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

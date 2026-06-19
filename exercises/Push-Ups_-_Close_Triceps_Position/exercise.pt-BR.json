@@ -1,0 +1,21 @@
+{
+  "name": "Flexões - Posição Fechada do Tríceps",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se no chão de bruços e coloque as mãos mais próximas do que a largura dos ombros para uma posição de mão fechada. Certifique-se de manter o tronco erguido com os braços estendidos.",
+    "Abaixe-se até que seu peito quase toque o chão enquanto inspira.",
+    "Usando o tríceps e alguns músculos peitorais, pressione a parte superior do corpo de volta à posição inicial e contraia o peito. Expire enquanto executa esta etapa.",
+    "Após uma segunda pausa na posição contraída, repita o movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

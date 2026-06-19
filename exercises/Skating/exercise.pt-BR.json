@@ -1,0 +1,22 @@
+{
+  "name": "Patinação",
+  "force": null,
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Patinar é uma atividade divertida que pode ser eficaz para melhorar a aptidão cardiorrespiratória e a resistência muscular. Requer equilíbrio e coordenação relativamente bons. É necessário aprender o básico da patinação, incluindo virar e parar, e usar equipamento de proteção para evitar possíveis lesões.",
+    "Você pode patinar em um ritmo confortável por 30 minutos seguidos. Se você quiser um desafio cardiovascular, faça patinação intervalada – patine de velocidade dois minutos a cada cinco minutos, usando os três minutos restantes para se recuperar. Uma pessoa de 150 libras normalmente queima cerca de 175 calorias em 30 minutos patinando em um ritmo confortável, semelhante a uma caminhada rápida."
+  ],
+  "category": "cardio"
+}

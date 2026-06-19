@@ -1,0 +1,20 @@
+{
+  "name": "Prensa de ombro de cabo",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Mova os cabos para a parte inferior das torres e selecione um peso apropriado.",
+    "Fique diretamente entre as colunas. Segure os cabos e segure-os na altura dos ombros, com as palmas voltadas para frente. Esta será sua posição inicial.",
+    "Mantendo a cabeça e o peito erguidos, estenda o cotovelo para pressionar as alças diretamente sobre a cabeça.",
+    "Após uma pausa no topo, retorne à posição inicial e repita."
+  ],
+  "category": "força"
+}

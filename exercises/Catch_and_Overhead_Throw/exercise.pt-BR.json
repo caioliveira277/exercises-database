@@ -1,0 +1,21 @@
+{
+  "name": "Pegar e lançar por cima",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "abdominais",
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Comece em pé de frente para uma parede ou para um parceiro.",
+    "Usando as duas mãos, posicione a bola atrás da cabeça, esticando o máximo possível, e jogue a bola para frente com força.",
+    "Certifique-se de seguir seu arremesso, estando preparado para receber o rebote do arremesso. Se você estiver jogando contra a parede, fique perto o suficiente da parede para receber o rebote e mire um pouco mais alto do que faria com um parceiro."
+  ],
+  "category": "pliometria"
+}

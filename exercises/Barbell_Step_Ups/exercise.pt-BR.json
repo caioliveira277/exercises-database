@@ -1,0 +1,23 @@
+{
+  "name": "Passos com barra",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Fique em pé enquanto segura uma barra colocada na parte de trás dos ombros (um pouco abaixo do pescoço) e fique em pé atrás de uma plataforma elevada (como aquela usada para observar atrás de um banco plano). Esta é a sua posição inicial.",
+    "Coloque o pé direito na plataforma elevada. Suba na plataforma estendendo o quadril e o joelho da perna direita. Use o calcanhar principalmente para levantar o resto do corpo e coloque também o pé da perna esquerda na plataforma. Expire enquanto executa a força necessária para subir.",
+    "Desça com a perna esquerda flexionando o quadril e o joelho da perna direita enquanto inspira. Retorne à posição original de pé colocando o pé direito próximo ao pé esquerdo na posição inicial.",
+    "Repita com a perna direita pela quantidade recomendada de repetições e depois execute com a perna esquerda."
+  ],
+  "category": "força"
+}

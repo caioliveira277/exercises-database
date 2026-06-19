@@ -1,0 +1,20 @@
+{
+  "name": "Arremesso aéreo com dois braços em pé",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "bola medicinal",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "dorsais"
+  ],
+  "instructions": [
+    "Fique em pé com os pés afastados na largura dos ombros, segurando uma bola medicinal com as duas mãos. Para começar, alcance a bola medicinal bem atrás da cabeça enquanto dobra ligeiramente os joelhos e inclina-se para trás.",
+    "Jogue a bola violentamente para frente, flexionando o quadril e usando todo o corpo para completar o movimento.",
+    "A bola medicinal pode ser lançada para um parceiro ou para uma parede, recebendo-a ao ricochetear."
+  ],
+  "category": "pliometria"
+}

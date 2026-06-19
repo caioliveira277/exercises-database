@@ -1,0 +1,21 @@
+{
+  "name": "Propulsor Kettlebell",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "quadríceps",
+    "tríceps"
+  ],
+  "instructions": [
+    "Limpe dois kettlebells nos ombros. Limpe os kettlebells até os ombros, estendendo-os pelas pernas e quadris enquanto puxa os kettlebells em direção aos ombros. Gire os pulsos enquanto faz isso. Esta será sua posição inicial.",
+    "Comece a agachar flexionando os quadris e os joelhos, abaixando os quadris entre as pernas. Mantenha as costas retas e retas enquanto desce o mais baixo que puder.",
+    "Na parte inferior, inverta a direção e agache-se estendendo os joelhos e quadris, passando pelos calcanhares. Ao fazer isso, pressione os dois kettlebells acima da cabeça, estendendo os braços para cima, usando o impulso do agachamento para ajudar a impulsionar os pesos para cima.",
+    "Ao iniciar a próxima repetição, retorne os pesos aos ombros."
+  ],
+  "category": "força"
+}

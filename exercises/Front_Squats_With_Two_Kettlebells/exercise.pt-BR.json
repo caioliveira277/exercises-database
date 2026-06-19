@@ -1,0 +1,20 @@
+{
+  "name": "Agachamento frontal com dois kettlebells",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos"
+  ],
+  "instructions": [
+    "Limpe dois kettlebells nos ombros. Limpe os kettlebells até os ombros, estendendo-os pelas pernas e quadris enquanto puxa os kettlebells em direção aos ombros. Gire os pulsos enquanto faz isso.",
+    "Olhando sempre para frente, agache-se o mais baixo que puder e faça uma pausa na parte inferior. Ao se agachar, empurre os joelhos para fora. Você deve agachar-se entre as pernas, mantendo o tronco ereto, com a cabeça e o peito para cima.",
+    "Levante-se dirigindo pelos calcanhares e repita."
+  ],
+  "category": "força"
+}

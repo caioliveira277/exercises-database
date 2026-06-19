@@ -1,0 +1,20 @@
+{
+  "name": "Passe Kettlebell entre as pernas",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "posteriores de coxa",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque um kettlebell entre as pernas e fique em uma postura confortável. Curve-se empurrando a bunda para fora e mantendo as costas retas.",
+    "Pegue um kettlebell e passe-o para a outra mão entre as pernas, em forma de “W”. Vá e volte por várias repetições."
+  ],
+  "category": "força"
+}

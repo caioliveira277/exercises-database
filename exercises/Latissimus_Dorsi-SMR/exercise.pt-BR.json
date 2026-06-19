@@ -1,0 +1,19 @@
+{
+  "name": "Latíssimo do dorso-SMR",
+  "aliases": [
+    "Liberação Miofascial Auto Latissimus Dorsi"
+  ],
+  "force": "estática",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "rolo de espuma",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Enquanto estiver deitado no chão, coloque um rolo de espuma sob as costas e de lado, logo atrás da axila. Esta será sua posição inicial.",
+    "Mantenha o braço lateral esticado para trás e para o lado enquanto você transfere o peso para o dorso, mantendo a parte superior do corpo fora do chão. Segure por 10-30 segundos e troque de lado."
+  ],
+  "category": "alongamento"
+}

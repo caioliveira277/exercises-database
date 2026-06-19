@@ -1,0 +1,23 @@
+{
+  "name": "Precipitação Suspensa",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "lombar",
+    "ombros"
+  ],
+  "instructions": [
+    "Ajuste as alças para que as alças fiquem na altura adequada, abaixo do nível da cintura.",
+    "Comece de pé e segure as alças. Apoie-se nas alças, passando para uma posição de flexão inclinada. Esta será sua posição inicial.",
+    "Mantendo os braços retos, apoie-se ainda mais nas alças de suspensão, aproximando o corpo do chão, permitindo que os ombros se estendam, levantando os braços para cima e acima da cabeça.",
+    "Mantenha a coluna neutra e o resto do corpo reto, sendo os ombros as únicas articulações que podem se mover.",
+    "Faça uma pausa durante o pico de contração e depois retorne à posição inicial."
+  ],
+  "category": "força"
+}

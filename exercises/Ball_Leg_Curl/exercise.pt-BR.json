@@ -1,0 +1,22 @@
+{
+  "name": "Onda de perna com bola",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "bola de exercício",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos"
+  ],
+  "instructions": [
+    "Comece no chão, deitado de costas com os pés em cima da bola.",
+    "Posicione a bola de forma que, quando as pernas estiverem estendidas, os tornozelos fiquem em cima da bola. Esta será sua posição inicial.",
+    "Levante os quadris do chão, mantendo o peso nas omoplatas e nos pés.",
+    "Flexione os joelhos, puxando a bola o mais próximo possível de você, contraindo os isquiotibiais.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "força"
+}

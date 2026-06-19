@@ -1,0 +1,18 @@
+{
+  "name": "Encolhimento de ombros com máquina de panturrilha",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posicione-se na máquina de panturrilha de forma que as ombreiras fiquem acima dos ombros. Seu tronco deve estar reto com os braços estendidos normalmente ao seu lado. Esta será sua posição inicial.",
+    "Levante os ombros em direção às orelhas enquanto expira e mantenha a contração por um segundo inteiro.",
+    "Retorne lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

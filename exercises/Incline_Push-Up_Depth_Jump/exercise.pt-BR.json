@@ -1,0 +1,21 @@
+{
+  "name": "Salto de profundidade com flexão inclinada",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Para este exercício, você precisará de uma caixa com cerca de 30 centímetros de altura e dois tapetes grossos ou degraus de aeróbica.",
+    "Coloque os degraus fora dos ombros e coloque os pés em cima da caixa para que você fique em uma posição de flexão inclinada, com as mãos dentro dos degraus. Esta será sua posição inicial.",
+    "Comece dobrando os cotovelos para abaixar o corpo, invertendo rapidamente a posição para empurrar o corpo para fora do chão. Ao sair do chão, coloque as mãos nos degraus, dobrando os cotovelos para absorver o impacto.",
+    "Repita o movimento para retornar à posição inicial."
+  ],
+  "category": "pliometria"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Linha vertical da máquina Smith",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio",
+    "ombros"
+  ],
+  "instructions": [
+    "Para começar, coloque a barra da máquina de ferreiro em uma altura próxima ao meio das coxas. Depois que a altura correta for escolhida e a barra carregada, segure a barra usando uma pegada pronada (palmas para frente) na largura dos ombros. Você pode precisar de algumas bandagens nos pulsos se usar uma quantidade significativa de peso.",
+    "Levante a barra e estenda totalmente os braços com as costas retas. Deve haver uma ligeira curvatura nos cotovelos. Esta é a posição inicial.",
+    "Use os ombros laterais para levantar a barra enquanto expira. A barra deve ficar próxima ao corpo conforme você a move para cima. Continue a levantá-lo até quase tocar seu queixo. Dica: Seus cotovelos devem conduzir o movimento. Ao levantar a barra, os cotovelos devem estar sempre mais altos que os antebraços. Além disso, mantenha o tronco parado e faça uma pausa por um segundo no início do movimento.",
+    "Abaixe a barra lentamente até a posição inicial. Inspire ao realizar esta parte do movimento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Impulso de quadril com barra",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "glúteos"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Comece sentado no chão com um banco logo atrás de você. Coloque uma barra carregada sobre as pernas. Usar uma barra gorda ou ter uma almofada na barra pode reduzir bastante o desconforto causado por este exercício.",
+    "Role a barra de modo que fique diretamente acima dos quadris e incline-se para trás no banco de modo que as omoplatas fiquem próximas ao topo.",
+    "Comece o movimento passando pelos pés, estendendo os quadris verticalmente através da barra. Seu peso deve ser suportado pelas omoplatas e pelos pés. Estenda o máximo possível e depois inverta o movimento para retornar à posição inicial."
+  ],
+  "category": "levantamento de peso básico"
+}

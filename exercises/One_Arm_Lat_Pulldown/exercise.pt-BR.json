@@ -1,0 +1,21 @@
+{
+  "name": "Pulldown lateral com um braço",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Selecione um peso apropriado e ajuste a joelheira para ajudar a mantê-lo no chão. Segure a alça com uma pegada pronada. Esta será sua posição inicial.",
+    "Puxe a alça para baixo, apertando o cotovelo para o lado enquanto flexiona o cotovelo.",
+    "Faça uma pausa na parte inferior do movimento e, em seguida, retorne lentamente a alça à posição inicial.",
+    "Para múltiplas repetições, evite devolver completamente o peso para manter a tensão nos músculos que estão sendo trabalhados."
+  ],
+  "category": "força"
+}

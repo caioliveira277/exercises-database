@@ -1,0 +1,19 @@
+{
+  "name": "Pull-in de perna de banco plano",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um colchonete ou banco plano com as pernas para fora.",
+    "Coloque as mãos sob os glúteos, com as palmas voltadas para baixo ou nas laterais, segurando no banco (ou com as palmas voltadas para os lados em um colchonete). Estenda também as pernas para fora. Esta será sua posição inicial.",
+    "Dobre os joelhos e puxe a parte superior das coxas em direção ao meio enquanto expira. Continue esse movimento até que os joelhos estejam perto do peito. Mantenha a posição contraída por um segundo.",
+    "Ao inspirar, retorne lentamente à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

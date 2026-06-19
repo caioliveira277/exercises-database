@@ -1,5 +1,8 @@
 {
   "name": "Brachialis-SMR",
+  "aliases": [
+    "Brachialis Self Myofascial Release"
+  ],
   "force": "static",
   "level": "intermediate",
   "mechanic": null,

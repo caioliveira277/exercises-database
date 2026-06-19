@@ -1,0 +1,21 @@
+{
+  "name": "Conjurador de feitiços",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "ombros"
+  ],
+  "instructions": [
+    "Segure um haltere em cada mão com pegada pronada. Seus pés devem estar largos, com quadris e joelhos estendidos. Esta será sua posição inicial.",
+    "Comece o movimento puxando os dois halteres para um lado próximo ao quadril, girando o tronco.",
+    "Mantendo os braços retos e os halteres paralelos ao chão, gire o tronco para balançar os pesos para o lado oposto.",
+    "Continue alternando, girando de um lado para o outro até completar o conjunto."
+  ],
+  "category": "força"
+}

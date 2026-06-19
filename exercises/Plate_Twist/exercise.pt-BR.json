@@ -1,0 +1,19 @@
+{
+  "name": "Torção da placa",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão ou em uma esteira de exercícios com as pernas totalmente estendidas e a parte superior do corpo ereta. Segure a placa pelas laterais com as duas mãos estendidas na frente dos abdominais e com os braços ligeiramente flexionados.",
+    "Cruze lentamente as pernas perto dos tornozelos e levante-as do chão. Seus joelhos também devem estar ligeiramente flexionados. Nota: Mova ligeiramente a parte superior do corpo para trás para ajudar a mantê-lo equilibrado ao virar este exercício. Esta é a posição inicial.",
+    "Mova a placa para o lado esquerdo e toque no chão com ela. Expire enquanto executa esse movimento.",
+    "Volte à posição inicial enquanto inspira e repita o movimento, mas desta vez para o lado direito do corpo. Dica: Use sempre um movimento lento e controlado. Movimentos bruscos podem machucar as costas.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

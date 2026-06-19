@@ -1,0 +1,22 @@
+{
+  "name": "Supino com Correntes",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "dorsais",
+    "ombros"
+  ],
+  "instructions": [
+    "Ajuste a corrente líder, encurtando-a para o comprimento desejado. Coloque as correntes nas mangas da barra.",
+    "Deitado no banco, coloque a cabeça além da barra, se possível. Coloque os pés embaixo de você e arqueie as costas. Usando a barra para ajudar a suportar o peso, levante os ombros do banco e retraia-os, apertando as omoplatas. Use os pés para colocar as armadilhas no banco. Mantenha essa posição corporal firme durante todo o movimento. Por mais ampla que seja sua pegada, ela deve cobrir o anel da barra.",
+    "Puxe a barra para fora do suporte sem esticar os ombros. Concentre-se em apertar a barra e tentar separá-la. Abaixe a barra até a parte inferior do tórax ou parte superior do estômago. A barra, o pulso e o cotovelo devem permanecer alinhados o tempo todo.",
+    "Faça uma pausa quando a barra tocar seu tronco e, em seguida, mova a barra para cima com o máximo de força possível. Os cotovelos devem ser dobrados até o bloqueio."
+  ],
+  "category": "levantamento de peso básico"
+}

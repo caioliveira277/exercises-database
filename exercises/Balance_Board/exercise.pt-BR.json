@@ -1,0 +1,20 @@
+{
+  "name": "Quadro de equilíbrio",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Coloque uma prancha de equilíbrio à sua frente.",
+    "Levante-se e tente se equilibrar.",
+    "Mantenha o equilíbrio pelo tempo que desejar."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Supino com barra fechada",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano. Usando uma pegada fechada (na largura dos ombros), levante a barra do rack e segure-a diretamente sobre você com os braços travados. Esta será sua posição inicial.",
+    "Ao inspirar, desça lentamente até sentir a barra no meio do peito. Dica: Certifique-se de - ao contrário de um supino normal - manter os cotovelos próximos ao tronco o tempo todo para maximizar o envolvimento do tríceps.",
+    "Após uma segunda pausa, traga a barra de volta à posição inicial enquanto expira e empurre a barra usando os músculos tríceps. Trave os braços na posição contraída, segure por um segundo e depois comece a descer lentamente novamente. Dica: Deve demorar pelo menos o dobro do tempo para descer do que para subir.",
+    "Repita o movimento pela quantidade prescrita de repetições.",
+    "Quando terminar, coloque a barra de volta no rack."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Prensa de chão Kettlebell de alcance estendido com um braço",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se no chão e posicione um kettlebell para pressionar um braço. O kettlebell deve ser segurado pela alça. A perna do mesmo lado que você está pressionando deve estar flexionada, com o joelho cruzando a linha média do corpo.",
+    "Pressione o kettlebell estendendo o cotovelo e aduzindo o braço, pressionando-o acima do corpo. Retorne à posição inicial."
+  ],
+  "category": "força"
+}

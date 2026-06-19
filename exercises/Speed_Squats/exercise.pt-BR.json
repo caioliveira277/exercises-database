@@ -1,0 +1,25 @@
+{
+  "name": "Agachamento rápido",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "lombar"
+  ],
+  "instructions": [
+    "Este exercício é melhor executado dentro de um rack de agachamento por motivos de segurança. Para começar, primeiro coloque a barra em um rack que melhor corresponda à sua altura. Depois que a altura correta for escolhida e a barra carregada, passe por baixo da barra e coloque a parte de trás dos ombros (um pouco abaixo do pescoço) sobre ela.",
+    "Segure-se na barra com os dois braços de cada lado e levante-a do rack empurrando primeiro com as pernas e ao mesmo tempo endireitando o tronco.",
+    "Afaste-se do rack e posicione as pernas usando uma postura média na largura dos ombros, com os dedos dos pés ligeiramente apontados. Mantenha a cabeça erguida o tempo todo, pois olhar para baixo o desequilibrará e também manterá as costas retas. Esta será sua posição inicial. (Nota: Para efeitos desta discussão usaremos a postura média que visa o desenvolvimento geral; no entanto, você pode escolher qualquer uma das três posturas discutidas na seção de posturas dos pés).",
+    "Comece a abaixar a barra dobrando os joelhos enquanto mantém uma postura reta com a cabeça erguida. Continue descendo até que o ângulo entre a parte superior da perna e as panturrilhas fique ligeiramente menor que 90 graus (que é o ponto em que a parte superior das pernas fica paralela ao chão). Inspire ao realizar esta parte do movimento. Dica: Se você executou o exercício corretamente, a frente dos joelhos deve formar uma linha reta imaginária com os dedos dos pés perpendicular à frente. Se seus joelhos ultrapassarem essa linha imaginária (se ultrapassarem os dedos dos pés), você estará colocando uma pressão indevida no joelho e o exercício foi executado incorretamente.",
+    "Comece a levantar a barra o mais rápido possível, sem envolver impulso ao expirar, empurrando o chão com o calcanhar do pé, principalmente ao esticar as pernas novamente e voltar à posição inicial. Nota: Você deve realizar esses exercícios o mais rápido possível, mas sem quebrar a forma perfeita e sem envolver impulso.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Círculos de pulso",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "antebraços"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece ficando em pé, com os pés afastados um do outro na largura dos ombros. Eleve os braços para o lado até que estejam totalmente estendidos e paralelos ao chão, a uma altura que esteja uniformemente alinhada com os ombros. Dica: Seu tronco e braços devem formar a letra \"T: As palmas das mãos devem estar voltadas para baixo. Esta é a posição inicial.",
+    "Mantendo todo o corpo parado, exceto os pulsos, comece a girar ambos os pulsos para a frente em movimentos circulares. Dica: finja que você está tentando desenhar círculos usando as mãos como pincel. Respire normalmente enquanto executa este exercício.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "alongamento"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Bicicleta, Estacionária",
+  "force": null,
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Para começar, sente-se na bicicleta e ajuste o assento à sua altura.",
+    "Selecione a opção desejada no menu. Talvez seja necessário começar a pedalar para ligá-lo. Você pode usar a configuração manual ou selecionar um programa para usar. Normalmente, você pode inserir sua idade e peso para estimar a quantidade de calorias queimadas durante o exercício. O nível de resistência pode ser alterado ao longo do treino. As alças podem ser usadas para monitorar sua frequência cardíaca para ajudá-lo a manter a intensidade adequada."
+  ],
+  "category": "cardio"
+}

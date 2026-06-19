@@ -1,0 +1,20 @@
+{
+  "name": "Elevação de panturrilha sentada",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se na máquina e coloque os dedos dos pés na parte inferior da plataforma com os calcanhares estendidos. Escolha o posicionamento dos dedos de sua preferência (para frente, para dentro ou para fora) conforme o início deste capítulo.",
+    "Coloque a parte inferior das coxas sob a alavanca, que deverá ser ajustada de acordo com a altura das coxas. Agora coloque as mãos em cima da alavanca para evitar que ela deslize para frente.",
+    "Levante ligeiramente a alavanca empurrando os calcanhares para cima e solte a barra de segurança. Esta será sua posição inicial.",
+    "Abaixe lentamente os calcanhares dobrando os tornozelos até que as panturrilhas estejam totalmente esticadas. Inspire enquanto executa esse movimento.",
+    "Levante os calcanhares estendendo os tornozelos o mais alto possível enquanto contrai as panturrilhas e expira. Segure a contração superior por um segundo.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Elevação do quadril com joelho dobrado",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se no chão com os braços próximos ao corpo.",
+    "Agora dobre os joelhos em um ângulo de 75 graus e levante os pés do chão cerca de 5 centímetros.",
+    "Usando os abdominais inferiores, traga os joelhos em sua direção enquanto mantém o ângulo de flexão de 75 graus nas pernas. Continue esse movimento até levantar os quadris do chão, rolando a pélvis para trás. Expire enquanto executa esta parte do movimento. Dica: Ao final do movimento seus joelhos estarão sobre o peito.",
+    "Contraia os abdominais no início do movimento por um segundo e depois retorne à posição inicial lentamente enquanto inspira. Dica: mantenha um movimento controlado o tempo todo.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

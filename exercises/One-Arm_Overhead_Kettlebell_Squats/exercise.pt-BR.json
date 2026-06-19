@@ -1,0 +1,22 @@
+{
+  "name": "Agachamento com Kettlebell com um braço",
+  "force": "empurrar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa",
+    "ombros"
+  ],
+  "instructions": [
+    "Limpe e pressione um kettlebell com um braço. Limpe o kettlebell até o ombro, estendendo-o pelas pernas e quadris enquanto puxa o kettlebell em direção ao ombro. Gire o pulso ao fazer isso. Pressione o peso acima da cabeça, estendendo-o através do cotovelo. Esta será a sua posição inicial.",
+    "Olhando para frente e mantendo um kettlebell travado acima de você, flexione os joelhos e quadris e abaixe o tronco entre as pernas, mantendo a cabeça e o peito erguidos.",
+    "Faça uma pausa na posição inferior por um segundo antes de voltar ao topo, passando pelos calcanhares dos pés."
+  ],
+  "category": "força"
+}

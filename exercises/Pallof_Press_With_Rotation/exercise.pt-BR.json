@@ -1,0 +1,27 @@
+{
+  "name": "Prensa Pallof com rotação",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Conecte uma alça padrão a uma torre e posicione o cabo na altura dos ombros.",
+    "Com o lado voltado para o cabo, segure a alça com uma mão e afaste-se da torre. Você deve estar aproximadamente à distância de um braço da polia, com a tensão do peso no cabo. Alinhe o braço estendido com o cabo.",
+    "Com os pés afastados na largura do quadril, puxe o cabo até o peito e segure a alça com a outra mão. Ambas as mãos devem estar na alça neste momento.",
+    "Olhando para frente, pressione o cabo para longe do peito. Seu núcleo deve estar firme e engajado.",
+    "Mantendo os quadris retos, gire o tronco para longe da polia até obter um quarto de rotação completo.",
+    "Mantenha sua postura rígida e braços esticados. Retorne à posição neutra de maneira lenta e controlada. Seus braços devem estar estendidos à sua frente.",
+    "Com a tensão lateral ainda envolvendo seu núcleo, leve as mãos ao peito e pressione imediatamente para fora, até uma posição totalmente estendida. Isso constitui uma repetição.",
+    "Repita até o fracasso.",
+    "Depois, reposicione e repita a mesma série de movimentos no lado oposto."
+  ],
+  "category": "força"
+}

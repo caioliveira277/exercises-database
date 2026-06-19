@@ -1,0 +1,21 @@
+{
+  "name": "Aproveite a pressão no peito",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Coloque um peso apropriado nos pinos e ajuste o assento à sua altura. As alças devem estar próximas da parte inferior ou central dos peitorais no início do movimento.",
+    "Seu peito e cabeça devem estar levantados e as omoplatas retraídas. Esta será sua posição inicial.",
+    "Pressione as alças para frente estendendo-as pelo cotovelo.",
+    "Após uma breve pausa no topo, retorne o peso logo acima da posição inicial, mantendo a tensão nos músculos, não retornando o peso às paradas até que a série seja concluída."
+  ],
+  "category": "força"
+}

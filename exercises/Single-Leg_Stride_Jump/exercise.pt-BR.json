@@ -1,0 +1,22 @@
+{
+  "name": "Salto com perna única",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique ao lado de uma caixa com o pé interno em cima dela, próximo à borda.",
+    "Comece balançando os braços para cima enquanto empurra a perna de cima, saltando o mais alto possível. Tente levar o joelho oposto para cima.",
+    "Aterrisse na mesma posição em que começou, usando a perna interna para desacelerar o impacto."
+  ],
+  "category": "pliometria"
+}

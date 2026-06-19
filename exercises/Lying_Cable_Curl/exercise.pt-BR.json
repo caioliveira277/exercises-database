@@ -1,0 +1,20 @@
+{
+  "name": "Enrolamento de cabo deitado",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Segure uma barra reta ou um acessório de barra EZ que esteja preso à polia baixa com as duas mãos, usando uma pegada por baixo (palmas voltadas para cima) na largura dos ombros.",
+    "Deite-se de costas em cima de um colchonete em frente à pilha de pesos, com os pés apoiados na estrutura da máquina de polias e as pernas esticadas.",
+    "Com os braços estendidos e os cotovelos próximos ao corpo, dobre levemente os braços. Esta será sua posição inicial.",
+    "Mantendo os braços parados e os cotovelos próximos ao corpo, enrole a barra lentamente em direção ao peito enquanto expira e contrai os bíceps.",
+    "Após um segundo aperto no topo do movimento, retorne lentamente à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

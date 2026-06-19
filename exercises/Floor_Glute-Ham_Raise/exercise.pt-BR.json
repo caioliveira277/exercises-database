@@ -1,0 +1,21 @@
+{
+  "name": "Aumento de presunto e glúteo no chão",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos"
+  ],
+  "instructions": [
+    "Você pode usar um parceiro para este exercício ou apoiar os pés em algo estável.",
+    "Comece de joelhos com a parte superior das pernas e o tronco eretos. Se estiver usando um parceiro, ele segurará seus pés com firmeza para mantê-lo na posição. Esta será sua posição inicial.",
+    "Abaixe-se estendendo o joelho, tomando cuidado para NÃO flexionar os quadris ao avançar.",
+    "Coloque as mãos à sua frente ao chegar ao chão. Este movimento é muito difícil e você pode não conseguir fazê-lo sem ajuda. Use os braços para empurrar levemente o chão para ajudar no retorno à posição inicial."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pé-SMR",
+  "aliases": [
+    "Liberação Miofascial Automática do Pé"
+  ],
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Este exercício alonga a fáscia dos músculos dos pés. Comece sentado e sem os sapatos. Usando um rolo para pés ou um objeto semelhante, como um pequeno pedaço de tubo de pvc, coloque o pé contra o rolo ao longo do arco do pé. Esta será sua posição inicial.",
+    "Pressione com firmeza, rolando pelo arco do pé. Segure por 10 a 30 segundos e depois troque de pé."
+  ],
+  "category": "alongamento"
+}

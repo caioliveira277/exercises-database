@@ -1,0 +1,21 @@
+{
+  "name": "Prensa de Ombro Máquina (Militar)",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Sente-se na máquina de prensa de ombro e selecione o peso.",
+    "Segure as alças ao lado do corpo enquanto mantém os cotovelos dobrados e alinhados com o tronco. Esta será sua posição inicial.",
+    "Agora levante as alças enquanto expira e estende os braços totalmente. No topo da posição, certifique-se de manter a contração por um segundo.",
+    "Abaixe as alças lentamente de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

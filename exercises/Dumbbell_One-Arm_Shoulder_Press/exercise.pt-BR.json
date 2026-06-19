@@ -1,0 +1,22 @@
+{
+  "name": "Pressão de ombro com halteres com um braço",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "tríceps"
+  ],
+  "instructions": [
+    "Pegue um haltere e sente-se em um banco de imprensa militar ou em um banco utilitário que tenha apoio para as costas enquanto você coloca os halteres na posição vertical em cima das coxas ou fica em pé.",
+    "Limpe o haltere para trazê-lo à altura dos ombros. A outra mão pode ser mantida totalmente estendida para o lado, pela cintura ou agarrando uma superfície fixa.",
+    "Gire o pulso de forma que a palma da sua mão fique voltada para frente. Esta é a sua posição inicial.",
+    "Ao expirar, empurre o haltere para cima até que o braço esteja totalmente estendido.",
+    "Após uma segunda pausa, volte lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições e depois troque de braço."
+  ],
+  "category": "força"
+}

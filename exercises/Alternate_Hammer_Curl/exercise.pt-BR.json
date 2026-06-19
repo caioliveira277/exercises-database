@@ -1,0 +1,22 @@
+{
+  "name": "Onda de martelo alternativa",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Fique em pé com o tronco ereto e um haltere em cada mão segurado com os braços estendidos. Os cotovelos devem estar próximos ao tronco.",
+    "As palmas das mãos devem estar voltadas para o tronco. Esta será sua posição inicial.",
+    "Enquanto mantém o braço parado, enrole o peso certo para a frente enquanto contrai o bíceps enquanto expira. Continue o movimento até que o bíceps esteja totalmente contraído e os halteres estejam na altura dos ombros. Mantenha a posição contraída por um segundo enquanto aperta o bíceps. Dica: Apenas os antebraços devem se mover.",
+    "Lentamente, comece a trazer os halteres de volta à posição inicial enquanto inspira.",
+    "Repita o movimento com a mão esquerda. Isso equivale a uma repetição.",
+    "Continue alternando dessa maneira pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Máquina Smith Encolher os ombros pelas costas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [
+    "ombros"
+  ],
+  "instructions": [
+    "Com a barra na altura da coxa, carregue um peso adequado.",
+    "Fique em pé com a barra atrás de você, segurando a barra na largura dos ombros e pronada e solte o peso. Você deve estar em pé, com a cabeça e o peito erguidos e os braços estendidos. Esta será sua posição inicial.",
+    "Inicie o movimento encolhendo os ombros para cima. Não flexione os braços ou pulso durante o movimento.",
+    "Após uma breve pausa, retorne o peso à posição inicial.",
+    "Repita pelo número desejado de repetições antes de engatar os ganchos para suportar o peso."
+  ],
+  "category": "força"
+}

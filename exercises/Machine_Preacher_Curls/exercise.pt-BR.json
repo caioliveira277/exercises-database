@@ -1,0 +1,19 @@
+{
+  "name": "Cachos Pregador Máquina",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se na máquina Preacher Curl e selecione o peso.",
+    "Coloque a parte de trás dos braços (tríceps) na almofada de pregador fornecida e segure as alças usando uma pegada por baixo (palmas voltadas para cima). Dica: Certifique-se de que, ao colocar os braços na almofada, mantenha os cotovelos para dentro. Esta será a sua posição inicial.",
+    "Agora levante as alças ao expirar e contraia o bíceps. No topo da posição, certifique-se de manter a contração por um segundo. Dica: Apenas os antebraços devem se mover. Os braços devem permanecer parados e na almofada o tempo todo.",
+    "Abaixe as alças lentamente de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

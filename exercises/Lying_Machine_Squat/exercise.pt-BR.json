@@ -1,0 +1,24 @@
+{
+  "name": "Agachamento na máquina deitada",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Ajuste a máquina de pernas a uma altura que lhe permita entrar nela com os joelhos dobrados e as coxas ligeiramente abaixo do paralelo.",
+    "Depois de selecionar o peso, posicione-se dentro da máquina com a face para cima, os joelhos dobrados e as coxas ligeiramente abaixo, paralelas à plataforma. Certifique-se de que os joelhos não ultrapassem os dedos dos pés. O ângulo criado entre os isquiotibiais e as panturrilhas deve ser um pouco menor que 90 graus (já que sua posição inicial exige que você comece um pouco abaixo do paralelo). Suas costas e sua cabeça devem estar apoiadas na máquina enquanto seus ombros são pressionados sob as ombreiras.",
+    "Coloque as mãos pelas alças e posicione os pés ligeiramente apontando para fora, na largura dos ombros. Esta será sua posição inicial.",
+    "Enquanto pressiona com a planta dos pés enquanto expira, deixe todo o corpo ereto enquanto aperta os quadríceps. Mantenha a posição contraída por um segundo. Dica: Como você está começando abaixo do paralelo, você pode optar por usar as mãos para ajudá-lo a subir, pressionando as coxas apenas na primeira repetição.",
+    "Agache-se lentamente enquanto inspira, mas em vez de descer até a posição inicial, pare quando as coxas estiverem paralelas à plataforma. O ângulo entre os isquiotibiais e as panturrilhas deve ser de 90 graus.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

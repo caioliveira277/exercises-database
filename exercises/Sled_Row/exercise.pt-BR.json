@@ -1,0 +1,21 @@
+{
+  "name": "Linha de trenó",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsais"
+  ],
+  "instructions": [
+    "Prenda alças duplas a um trenó conectado por uma corda ou corrente. Carregue o trenó com um peso apropriado. Fique de frente para o trenó, recuando até que haja alguma tensão na linha.",
+    "Com uma alça em cada mão, dobre levemente os joelhos, mantenha a cabeça e o peito erguidos e comece com os braços estendidos.",
+    "Para iniciar o movimento, flexione o cotovelo enquanto retrai as omoplatas, puxando o trenó em sua direção.",
+    "Dê um ou dois passos para trás para obter tensão na linha e repita."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pushdown de tríceps com pegada reversa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece configurando um acessório de barra (reto ou ez) em uma máquina de polia alta.",
+    "De frente para a fixação da barra, agarre-a com as palmas voltadas para cima (pegada supinada) na largura dos ombros. Abaixe a barra usando os dorsais até que os braços estejam totalmente estendidos ao lado do corpo. Dica: os cotovelos devem ficar ao lado do corpo e os pés devem estar separados um do outro na largura dos ombros. Esta é a posição inicial.",
+    "Eleve lentamente o acessório da barra enquanto inspira, para que fique alinhado com o peito. Apenas os antebraços devem se mover e os cotovelos/braços devem estar sempre parados ao seu lado.",
+    "Em seguida, comece a abaixar a barra do cabo de volta à posição inicial original enquanto expira e contrai o tríceps com força.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

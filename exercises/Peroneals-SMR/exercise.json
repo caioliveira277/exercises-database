@@ -1,5 +1,8 @@
 {
   "name": "Peroneals-SMR",
+  "aliases": [
+    "Peroneals Self Myofascial Release"
+  ],
   "force": "static",
   "level": "intermediate",
   "mechanic": null,

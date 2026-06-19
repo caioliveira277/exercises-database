@@ -1,0 +1,20 @@
+{
+  "name": "90/90 isquiotibiais",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": null,
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Deite-se de costas, com uma perna estendida.",
+    "Com a outra perna, dobre o quadril e o joelho a 90 graus. Você pode apoiar a perna com as mãos, se necessário. Esta será sua posição inicial.",
+    "Estenda a perna reta no ar, parando brevemente no topo. Retorne a perna à posição inicial.",
+    "Repita por 10 a 20 repetições e depois mude para a outra perna."
+  ],
+  "category": "alongamento"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Banda Bom Dia (Pull Through)",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "elásticos",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar"
+  ],
+  "instructions": [
+    "Passe a banda em torno de um poste. Afastando-se um pouco, passe a extremidade oposta em volta do pescoço. Suas mãos podem ajudar a manter a faixa na posição.",
+    "Comece dobrando os quadris, colocando a bunda para trás o máximo possível. Mantenha as costas retas e incline-se para a frente cerca de 90 graus. Seus joelhos devem estar apenas ligeiramente flexionados.",
+    "Retorne à posição inicial movendo os quadris para voltar à posição ereta."
+  ],
+  "category": "levantamento de peso básico"
+}

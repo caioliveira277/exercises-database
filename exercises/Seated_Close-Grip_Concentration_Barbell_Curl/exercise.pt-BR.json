@@ -1,0 +1,19 @@
+{
+  "name": "Onda com barra de concentração sentada e fechada",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sente-se em um banco plano com uma barra ou barra EZ à sua frente, entre as pernas. Suas pernas devem estar abertas com os joelhos dobrados e os pés no chão.",
+    "Use os braços para levantar a barra e coloque a parte de trás dos braços em cima da parte interna das coxas (cerca de sete centímetros de distância da frente do joelho). Uma pegada supinada mais próxima da largura dos ombros é necessária para realizar este exercício. Dica: Seu braço deve estar estendido na altura dos braços e a barra deve estar acima do chão. Esta será sua posição inicial.",
+    "Enquanto mantém os braços parados, enrole os pesos para a frente enquanto contrai os bíceps enquanto expira. Apenas os antebraços devem se mover. Continue o movimento até que os bíceps estejam totalmente contraídos e os halteres estejam na altura dos ombros. Mantenha a posição contraída por um segundo enquanto aperta o bíceps.",
+    "Lentamente, comece a trazer a barra de volta à posição inicial enquanto inspira. Dica: evite movimentos de balanço a qualquer momento.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

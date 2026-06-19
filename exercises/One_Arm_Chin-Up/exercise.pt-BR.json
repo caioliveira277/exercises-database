@@ -1,0 +1,25 @@
+{
+  "name": "Barra fixa com um braço",
+  "force": "puxar",
+  "level": "avançado",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "dorsal médio"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "antebraços",
+    "dorsais"
+  ],
+  "instructions": [
+    "Para este exercício, comece colocando uma toalha em volta de uma barra para cima.",
+    "Segure a barra fixa com a palma da mão voltada para você. Uma mão agarrará a barra de apoio e a outra agarrará a toalha.",
+    "Traga o tronco para trás cerca de 30 graus ou mais enquanto cria uma curvatura na parte inferior das costas e projeta o peito para fora. Esta é a sua posição inicial.v",
+    "Puxe o tronco para cima até que a barra toque a parte superior do tórax, puxando os ombros e os braços para baixo e para trás. Expire ao realizar esta parte do movimento. Dica: concentre-se em contrair os músculos das costas quando atingir a posição totalmente contraída. A parte superior do tronco deve permanecer estacionária enquanto se move pelo espaço e apenas os braços devem se mover. Os antebraços não devem fazer outro trabalho além de segurar a barra.",
+    "Depois de um segundo na posição contraída, comece a inspirar e abaixe lentamente o tronco de volta à posição inicial quando os braços estiverem totalmente estendidos e os dorsais totalmente esticados.",
+    "Repita este movimento pela quantidade prescrita de repetições.",
+    "Troque de braço e repita o movimento."
+  ],
+  "category": "força"
+}

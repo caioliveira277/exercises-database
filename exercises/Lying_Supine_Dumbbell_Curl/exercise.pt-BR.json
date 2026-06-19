@@ -1,0 +1,19 @@
+{
+  "name": "Curvatura com halteres deitado em decúbito dorsal",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Deite-se em um banco plano com a face para cima enquanto segura um haltere em cada braço, no topo das coxas.",
+    "Traga os halteres para os lados com os braços estendidos e as palmas das mãos voltadas para as coxas (pegada neutra).",
+    "Mantendo os braços próximos ao tronco e os cotovelos para dentro, abaixe lentamente os braços (mantendo-os estendidos com uma ligeira flexão nos cotovelos) o mais próximo possível do chão. Quando você não puder descer mais, trave os braços nessa posição e essa será a sua posição inicial.",
+    "Ao expirar, comece lentamente a enrolar os pesos enquanto gira simultaneamente os pulsos de modo que as palmas das mãos fiquem voltadas para cima. Continue enrolando o peso até que o bíceps esteja totalmente contraído e aperte com força na posição superior por um segundo. Dica: Apenas os antebraços devem se mover. Os braços devem permanecer parados e os cotovelos devem permanecer durante todo o movimento.",
+    "Volte à posição inicial muito lentamente."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Agachamento com barra",
+  "force": "empurrar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "antebraços",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique em pé enquanto segura uma barra atrás de você com os braços estendidos e os pés na largura dos ombros. Dica: Uma pegada na largura dos ombros é melhor com as palmas das mãos voltadas para trás. Você pode usar bandagens para este exercício para uma melhor aderência. Esta será sua posição inicial.",
+    "Mantendo a cabeça e os olhos para cima e as costas retas, agache-se até que a parte superior das coxas fique paralela ao chão. Inspire enquanto desce lentamente.",
+    "Pressionando principalmente com o calcanhar do pé e apertando as coxas, volte a subir enquanto expira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

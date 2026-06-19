@@ -1,0 +1,21 @@
+{
+  "name": "Cordas de Batalha",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "antebraços"
+  ],
+  "instructions": [
+    "Para este exercício, você precisará de uma corda pesada ancorada no centro, a 4,5 a 6 metros de distância. De pé na frente da corda, segure uma ponta em cada mão com os braços estendidos ao lado do corpo. Esta será sua posição inicial.",
+    "Inicie o movimento levantando rapidamente um braço até a altura dos ombros o mais rápido que puder.",
+    "Ao deixar o braço cair para a posição inicial, levante o lado oposto.",
+    "Continue alternando os braços esquerdo e direito, balançando as cordas para cima e para baixo o mais rápido que puder."
+  ],
+  "category": "força"
+}

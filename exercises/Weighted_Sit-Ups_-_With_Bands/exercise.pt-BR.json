@@ -1,0 +1,18 @@
+{
+  "name": "Abdominais ponderados – com faixas",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "isolamento",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "abdominais"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Comece amarrando as faixas ao redor da base do banco de declínio. Coloque as alças voltadas para o interior do banco declinado para que, ao se deitar, você possa alcançar ambas.",
+    "Posicione as pernas na máquina de declínio até que estejam seguras. Agora pegue as faixas de exercício com as duas mãos. Use uma pegada pronada (palmas para frente) para segurar as alças. Posicione-os perto da clavícula e gire o pulso para uma pegada neutra (palmas voltadas para o tronco). Nota: Seus braços devem permanecer parados durante todo o exercício. Esta é a posição inicial.",
+    "Mova o tronco para cima até que a parte superior do corpo fique perpendicular ao chão enquanto expira. Mantenha a contração por um segundo e abaixe a parte superior do corpo de volta à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Aumento de presunto de glúteo",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "glúteos"
+  ],
+  "instructions": [
+    "Comece ajustando o equipamento para se adequar ao seu corpo. Coloque os pés contra a plataforma entre os rolos enquanto se deita de bruços. Seus joelhos devem ficar logo atrás da almofada.",
+    "Comece da parte inferior do movimento. Mantenha as costas arqueadas ao iniciar o movimento flexionando os joelhos. Coloque os dedos dos pés na placa dos pés ao fazer isso. Mantenha a parte superior do corpo reta e continue até que o corpo fique ereto.",
+    "Retorne à posição inicial, mantendo a descida sob controle."
+  ],
+  "category": "levantamento de peso básico"
+}

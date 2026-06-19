@@ -1,0 +1,24 @@
+{
+  "name": "Pulldown lateral de grande aderência",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio",
+    "ombros"
+  ],
+  "instructions": [
+    "Sente-se em uma máquina suspensa com uma barra larga presa à polia superior. Certifique-se de ajustar a joelheira da máquina para se adequar à sua altura. Essas almofadas evitarão que seu corpo seja elevado pela resistência fixada na barra.",
+    "Agarre a barra com as palmas voltadas para frente usando a pegada prescrita. Nota sobre empunhaduras: Para uma empunhadura ampla, suas mãos precisam estar espaçadas a uma distância maior que a largura dos ombros. Para uma pegada média, suas mãos precisam estar espaçadas a uma distância igual à largura dos ombros e para uma pegada fechada a uma distância menor que a largura dos ombros.",
+    "Como você tem os dois braços estendidos à sua frente segurando a barra na largura de pegada escolhida, traga o tronco para trás cerca de 30 graus ou mais enquanto cria uma curvatura na parte inferior das costas e estica o peito. Esta é a sua posição inicial.",
+    "Ao expirar, abaixe a barra até tocar a parte superior do tórax, puxando os ombros e os braços para baixo e para trás. Dica: concentre-se em contrair os músculos das costas quando atingir a posição totalmente contraída. A parte superior do tronco deve permanecer imóvel e apenas os braços devem mover-se. Os antebraços não devem realizar nenhum outro trabalho exceto segurar a barra; portanto, não tente puxar a barra para baixo usando os antebraços.",
+    "Depois de um segundo na posição contraída, apertando as omoplatas, levante lentamente a barra de volta à posição inicial quando os braços estiverem totalmente estendidos e os dorsais totalmente esticados. Inspire durante esta parte do movimento.",
+    "Repita este movimento pela quantidade prescrita de repetições."
+  ],
+  "category": "força"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Cachos de martelo",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "bíceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fique em pé com o tronco ereto e um haltere em cada mão segurado com os braços estendidos. Os cotovelos devem estar próximos ao tronco.",
+    "As palmas das mãos devem estar voltadas para o tronco. Esta será sua posição inicial.",
+    "Agora, enquanto mantém o braço parado, expire e enrole o peso para a frente enquanto contrai o bíceps. Continue a levantar o peso até que os bíceps estejam totalmente contraídos e o haltere esteja na altura dos ombros. Mantenha a posição contraída por um breve momento enquanto aperta o bíceps. Dica: concentre-se em manter o cotovelo parado e mover apenas o antebraço.",
+    "Após a breve pausa, inspire e comece lentamente a baixar os halteres de volta à posição inicial.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}

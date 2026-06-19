@@ -1,0 +1,24 @@
+{
+  "name": "Pulôver com barra com braço dobrado",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "dorsais",
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano com uma barra na largura dos ombros.",
+    "Segure a barra diretamente sobre o peito com os braços dobrados. Esta será sua posição inicial.",
+    "Mantendo os braços na posição flexionada, abaixe o peso lentamente em um arco atrás da cabeça enquanto inspira até sentir um alongamento no peito.",
+    "Nesse ponto, traga a barra de volta à posição inicial usando o arco através do qual o peso foi abaixado e expire ao realizar esse movimento.",
+    "Mantenha o peso na posição inicial por um segundo e repita o movimento pelo número prescrito de repetições."
+  ],
+  "category": "força"
+}

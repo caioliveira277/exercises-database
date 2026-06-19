@@ -1,0 +1,22 @@
+{
+  "name": "Supino com halteres",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "halter",
+  "primaryMuscles": [
+    "peitoral"
+  ],
+  "secondaryMuscles": [
+    "ombros",
+    "tríceps"
+  ],
+  "instructions": [
+    "Deite-se em um banco plano com um haltere em cada mão apoiado nas coxas. As palmas das suas mãos ficarão voltadas uma para a outra.",
+    "Em seguida, usando as coxas para ajudar a levantar os halteres, levante-os um de cada vez para poder segurá-los à sua frente, na largura dos ombros.",
+    "Uma vez na largura dos ombros, gire os pulsos para a frente de modo que as palmas das mãos fiquem voltadas para longe de você. Os halteres devem ficar nas laterais do peito, com o braço e o antebraço criando um ângulo de 90 graus. Certifique-se de manter o controle total dos halteres em todos os momentos. Esta será sua posição inicial.",
+    "Então, ao expirar, use o peito para empurrar os halteres para cima. Trave os braços no topo do elevador e aperte o peito, segure por um segundo e comece a descer lentamente. Dica: O ideal é que abaixar o peso demore cerca de duas vezes mais que aumentá-lo.",
+    "Repita o movimento pela quantidade prescrita de repetições do seu programa de treinamento."
+  ],
+  "category": "força"
+}

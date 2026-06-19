@@ -1,0 +1,20 @@
+{
+  "name": "Empurrão de perna única",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Fique no chão com um pé apoiado na caixa e o calcanhar próximo à borda.",
+    "Empurre com o pé em cima da caixa, tentando ganhar o máximo de altura possível estendendo-se pelo quadril e joelho.",
+    "Pouse com o mesmo pé em cima da caixa, retornando o outro pé à posição inicial."
+  ],
+  "category": "pliometria"
+}

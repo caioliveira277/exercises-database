@@ -1,0 +1,22 @@
+{
+  "name": "Supino de aperto fechado da máquina Smith",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "tríceps"
+  ],
+  "secondaryMuscles": [
+    "peitoral",
+    "ombros"
+  ],
+  "instructions": [
+    "Coloque uma bancada plana embaixo da máquina de ferreiro. Coloque a barra a uma altura que você possa alcançar quando estiver deitado e com os braços quase totalmente estendidos. Depois de selecionar o peso necessário, deite-se no banco plano. Usando uma pegada fechada e pronada (palmas voltadas para a frente) na largura dos ombros, destrave a barra do suporte e segure-a diretamente sobre você com os braços travados. Esta será sua posição inicial.",
+    "Ao inspirar, desça lentamente até sentir a barra no meio do peito. Dica: Certifique-se de que, ao contrário do supino normal, você mantenha os cotovelos próximos ao tronco o tempo todo para maximizar o envolvimento do tríceps.",
+    "Após uma segunda pausa, traga a barra de volta à posição inicial enquanto expira e empurre a barra usando os músculos tríceps. Trave os braços na posição contraída, segure por um segundo e depois comece a descer lentamente novamente. Dica: Deve demorar pelo menos o dobro do tempo para descer do que para subir.",
+    "Repita o movimento pela quantidade prescrita de repetições.",
+    "Quando terminar, trave a barra de volta no rack."
+  ],
+  "category": "força"
+}

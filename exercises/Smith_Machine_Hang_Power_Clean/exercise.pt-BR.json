@@ -1,0 +1,26 @@
+{
+  "name": "Máquina Smith Hang Power Clean",
+  "force": "puxar",
+  "level": "intermediário",
+  "mechanic": "composto",
+  "equipment": "máquina",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "glúteos",
+    "lombar",
+    "quadríceps",
+    "ombros",
+    "trapézios"
+  ],
+  "instructions": [
+    "Posicione a barra na altura do joelho e carregue-a com um peso adequado.",
+    "Segure a barra em pronação fora da largura dos ombros e desenganche a barra da máquina. Seus braços devem estar totalmente estendidos com a cabeça e o peito para cima. Os cotovelos devem estar apontados com os ombros para trás e para baixo. Seus quadris devem estar para trás, carregando a tensão nos isquiotibiais. Esta será sua posição inicial.",
+    "Inicie o movimento estendendo com força os quadris e joelhos, acelerando na barra. Certifique-se de manter os braços retos durante esta parte do movimento.",
+    "Após a extensão total, dobre novamente os quadris e os joelhos para abaixar a posição de recepção.",
+    "Permita que os braços flexionem neste ponto, girando os cotovelos ao redor da barra para recebê-la sobre os ombros.",
+    "Estenda os quadris e joelhos para ficar em pé com a barra apoiada nos ombros para completar o movimento."
+  ],
+  "category": "força"
+}

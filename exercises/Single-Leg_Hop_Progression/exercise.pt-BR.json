@@ -1,0 +1,23 @@
+{
+  "name": "Progressão de salto de perna única",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "quadríceps"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "posteriores de coxa"
+  ],
+  "instructions": [
+    "Organize uma linha de cones à sua frente. Assuma uma posição ereta relaxada, equilibrada em uma perna. Levante o joelho da perna oposta. Esta será sua posição inicial.",
+    "Pule para frente, saltando e pousando com a mesma perna sobre o cone.",
+    "Use um salto com contramovimento para pular de cone em cone.",
+    "No final, vire-se e volte na outra perna."
+  ],
+  "category": "pliometria"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Círculos de Joelho",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "peso corporal",
+  "primaryMuscles": [
+    "panturrilhas"
+  ],
+  "secondaryMuscles": [
+    "posteriores de coxa",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Fique em pé com as pernas juntas e as mãos na cintura.",
+    "Agora mova os joelhos em movimentos circulares enquanto respira normalmente.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "alongamento"
+}

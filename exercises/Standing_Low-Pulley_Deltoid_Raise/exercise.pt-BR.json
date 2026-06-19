@@ -1,0 +1,22 @@
+{
+  "name": "Elevação deltóide em pé com polia baixa",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "ombros"
+  ],
+  "secondaryMuscles": [
+    "antebraços"
+  ],
+  "instructions": [
+    "Comece ficando do lado direito de uma linha de polia baixa. Use a mão esquerda para cruzar o corpo e segure uma única alça presa à polia baixa com uma pegada pronada (palmas voltadas para baixo). Descanse o braço à sua frente. Sua mão direita deve segurar a máquina para melhor suporte e equilíbrio.",
+    "Certifique-se de que suas costas estejam eretas e que seus pés estejam separados um do outro na largura dos ombros. Esta é a posição inicial.",
+    "Comece a usar a mão esquerda e atravesse o corpo até que ele fique elevado à altura dos ombros enquanto expira.",
+    "Sinta a contração na parte superior por um segundo e comece a abaixar lentamente a alça de volta à posição inicial original enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições.",
+    "Troque de braço e repita o exercício."
+  ],
+  "category": "força"
+}

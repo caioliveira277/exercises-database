@@ -1,0 +1,18 @@
+{
+  "name": "Alongamento de isquiotibiais e panturrilhas sentado",
+  "force": "estática",
+  "level": "intermediário",
+  "mechanic": null,
+  "equipment": "outro",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "panturrilhas"
+  ],
+  "instructions": [
+    "Passe um cinto, corda ou faixa em volta de um pé. Sente-se com as duas pernas estendidas. Esta será sua posição inicial.",
+    "Inclinando-se ligeiramente para a frente, puxe o cinto para puxar os dedos do pé para trás. Mantenha esta posição por 10 a 20 segundos e repita com a outra perna."
+  ],
+  "category": "alongamento"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Salto de caixa frontal",
+  "force": "empurrar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "outro",
+  "primaryMuscles": [
+    "posteriores de coxa"
+  ],
+  "secondaryMuscles": [
+    "abdutores",
+    "adutores",
+    "panturrilhas",
+    "glúteos",
+    "quadríceps"
+  ],
+  "instructions": [
+    "Comece com uma caixa de altura apropriada, de 30 a 60 centímetros à sua frente. Fique em pé com os pés afastados na largura. Esta será sua posição inicial.",
+    "Faça um pequeno agachamento em preparação para o salto, balançando os braços atrás de você.",
+    "Saia dessa posição, estendendo-se pelos quadris, joelhos e tornozelos para pular o mais alto possível. Balance os braços para frente e para cima.",
+    "Aterre na caixa com os joelhos dobrados, absorvendo o impacto pelas pernas. Você pode pular da caixa de volta ao chão ou, de preferência, descer com uma perna de cada vez."
+  ],
+  "category": "pliometria"
+}

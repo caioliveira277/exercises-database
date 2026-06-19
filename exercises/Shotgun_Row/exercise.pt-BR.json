@@ -1,0 +1,21 @@
+{
+  "name": "Fileira de espingarda",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "composto",
+  "equipment": "cabo",
+  "primaryMuscles": [
+    "dorsais"
+  ],
+  "secondaryMuscles": [
+    "bíceps",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Anexe uma única alça a um cabo baixo.",
+    "Depois de selecionar o peso correto, fique alguns metros atrás com uma postura ampla. Seu braço deve estar estendido e seu ombro para frente. Esta será sua posição inicial.",
+    "Execute o movimento retraindo o ombro e flexionando o cotovelo. Ao puxar, supine o pulso, virando a palma para cima à medida que avança.",
+    "Após uma breve pausa, retorne à posição inicial."
+  ],
+  "category": "força"
+}

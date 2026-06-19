@@ -1,0 +1,21 @@
+{
+  "name": "Encolher os ombros com barra nas costas",
+  "force": "puxar",
+  "level": "iniciante",
+  "mechanic": "isolamento",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "trapézios"
+  ],
+  "secondaryMuscles": [
+    "antebraços",
+    "dorsal médio"
+  ],
+  "instructions": [
+    "Fique em pé, com os pés na largura dos ombros, enquanto segura uma barra com as duas mãos atrás das costas, usando uma pegada pronada (palmas voltadas para trás). Dica: Suas mãos devem estar um pouco mais afastadas que a largura dos ombros. Você pode usar bandagens para este exercício para melhor aderência. Esta será sua posição inicial.",
+    "Levante os ombros o máximo que puder enquanto expira e mantenha a contração por um segundo. Dica: evite tentar levantar a barra usando o bíceps. Os braços devem permanecer esticados o tempo todo.",
+    "Retorne lentamente à posição inicial enquanto inspira.",
+    "Repita pela quantidade recomendada de repetições."
+  ],
+  "category": "força"
+}
