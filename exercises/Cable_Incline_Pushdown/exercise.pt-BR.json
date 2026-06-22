@@ -1,5 +1,9 @@
 {
   "name": "Pushdown de inclinação do cabo",
+  "aliases": [
+    "Cable Incline Pushdown",
+    "Pushdown de Inclinação do Cable"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

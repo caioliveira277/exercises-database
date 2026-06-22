@@ -1,5 +1,8 @@
 {
   "name": "Agachamento em caixa alta com uma perna",
+  "aliases": [
+    "Single-Leg High Box Squat"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

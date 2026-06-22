@@ -1,5 +1,8 @@
 {
   "name": "Supino com Correntes",
+  "aliases": [
+    "Bench Press with Chains"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

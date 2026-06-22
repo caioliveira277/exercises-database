@@ -1,5 +1,8 @@
 {
   "name": "Limpeza energética",
+  "aliases": [
+    "Power Clean"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

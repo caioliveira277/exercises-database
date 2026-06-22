@@ -1,5 +1,9 @@
 {
   "name": "Elevação lateral traseira com halteres deitado",
+  "aliases": [
+    "Dumbbell Lying Rear Lateral Raise",
+    "Elevação Lateral Traseira com Dumbbells Deitado"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

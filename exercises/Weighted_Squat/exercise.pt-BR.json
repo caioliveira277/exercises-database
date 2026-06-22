@@ -1,5 +1,8 @@
 {
   "name": "Agachamento ponderado",
+  "aliases": [
+    "Weighted Squat"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

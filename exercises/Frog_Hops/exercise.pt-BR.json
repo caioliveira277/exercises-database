@@ -1,5 +1,8 @@
 {
   "name": "Lúpulo de Sapo",
+  "aliases": [
+    "Frog Hops"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

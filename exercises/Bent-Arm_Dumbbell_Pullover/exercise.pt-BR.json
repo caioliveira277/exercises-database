@@ -1,5 +1,9 @@
 {
   "name": "Pulôver com halteres com braço dobrado",
+  "aliases": [
+    "Bent-Arm Dumbbell Pullover",
+    "Pulôver com Dumbbells com Braço Dobrado"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

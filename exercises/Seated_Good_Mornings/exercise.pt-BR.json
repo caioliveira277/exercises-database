@@ -1,5 +1,8 @@
 {
   "name": "Sentado, bom dia",
+  "aliases": [
+    "Seated Good Mornings"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

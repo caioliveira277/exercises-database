@@ -1,5 +1,9 @@
 {
   "name": "Linha Renegada Alternada",
+  "aliases": [
+    "Alternating Renegade Row",
+    "Remada Renegada Alternada"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

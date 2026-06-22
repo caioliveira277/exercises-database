@@ -1,5 +1,8 @@
 {
   "name": "Supino de aperto fechado da máquina Smith",
+  "aliases": [
+    "Smith Machine Close-Grip Bench Press"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

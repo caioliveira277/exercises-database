@@ -1,5 +1,8 @@
 {
   "name": "Agachamento frontal (pega limpa)",
+  "aliases": [
+    "Front Squat (Clean Grip)"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Arrebatamento dividido",
+  "aliases": [
+    "Split Snatch"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Laterais laterais de um braço",
+  "aliases": [
+    "One-Arm Side Laterals"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

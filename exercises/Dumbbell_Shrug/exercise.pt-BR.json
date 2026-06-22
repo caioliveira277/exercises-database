@@ -1,5 +1,9 @@
 {
   "name": "Encolher de ombros com halteres",
+  "aliases": [
+    "Dumbbell Shrug",
+    "Encolher de Ombros com Dumbbells"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

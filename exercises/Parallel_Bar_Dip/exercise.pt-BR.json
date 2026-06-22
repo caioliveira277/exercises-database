@@ -1,5 +1,9 @@
 {
   "name": "Mergulho de barra paralela",
+  "aliases": [
+    "Parallel Bar Dip",
+    "Mergulho de Barbell Paralela"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

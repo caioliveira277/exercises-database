@@ -1,5 +1,8 @@
 {
   "name": "Arremesso aéreo com dois braços em pé",
+  "aliases": [
+    "Standing Two-Arm Overhead Throw"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

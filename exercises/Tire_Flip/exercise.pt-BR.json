@@ -1,5 +1,8 @@
 {
   "name": "Virar pneu",
+  "aliases": [
+    "Tire Flip"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Agachamento com halteres Plie",
+  "aliases": [
+    "Plie Dumbbell Squat",
+    "Agachamento com Dumbbells Plie"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

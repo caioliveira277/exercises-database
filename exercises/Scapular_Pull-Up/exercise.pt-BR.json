@@ -1,5 +1,9 @@
 {
   "name": "Flexão escapular",
+  "aliases": [
+    "Scapular Pull-Up",
+    "Barra Fixa"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Máquina Smith Hang Power Clean",
+  "aliases": [
+    "Smith Machine Hang Power Clean"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

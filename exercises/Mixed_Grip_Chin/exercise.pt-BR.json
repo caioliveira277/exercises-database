@@ -1,5 +1,8 @@
 {
   "name": "Queixo com aderência mista",
+  "aliases": [
+    "Mixed Grip Chin"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

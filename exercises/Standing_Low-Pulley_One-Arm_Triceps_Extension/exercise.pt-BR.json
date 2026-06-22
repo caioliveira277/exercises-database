@@ -1,5 +1,8 @@
 {
   "name": "Extensão de tríceps com um braço e polia baixa em pé",
+  "aliases": [
+    "Standing Low-Pulley One-Arm Triceps Extension"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Cordas de Batalha",
+  "aliases": [
+    "Battling Ropes"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

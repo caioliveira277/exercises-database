@@ -1,5 +1,9 @@
 {
   "name": "Crunch - Pernas na bola de exercícios",
+  "aliases": [
+    "Crunch - Legs On Exercise Ball",
+    "Abdominal - Pernas na Bola de Exercícios"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

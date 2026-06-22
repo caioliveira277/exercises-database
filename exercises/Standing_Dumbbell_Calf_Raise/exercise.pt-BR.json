@@ -1,5 +1,10 @@
 {
   "name": "Levantamento de panturrilha com halteres em pé",
+  "aliases": [
+    "Standing Dumbbell Calf Raise",
+    "Elevação de Panturrilha com Halteres em Pé",
+    "Levantamento de Panturrilha com Dumbbells em Pé"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

@@ -1,5 +1,9 @@
 {
   "name": "Agachamento frontal com barra em um banco",
+  "aliases": [
+    "Front Barbell Squat To A Bench",
+    "Agachamento Frontal com Barbell em Um Banco"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

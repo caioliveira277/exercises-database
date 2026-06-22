@@ -1,5 +1,9 @@
 {
   "name": "Pushdown de tríceps - fixação de barra V",
+  "aliases": [
+    "Triceps Pushdown - V-Bar Attachment",
+    "Pushdown de Tríceps - Fixação de Barbell V"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

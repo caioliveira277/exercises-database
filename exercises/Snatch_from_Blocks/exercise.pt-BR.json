@@ -1,5 +1,8 @@
 {
   "name": "Arrebatar de blocos",
+  "aliases": [
+    "Snatch from Blocks"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

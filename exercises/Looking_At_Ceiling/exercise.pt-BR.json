@@ -1,5 +1,8 @@
 {
   "name": "Olhando para o teto",
+  "aliases": [
+    "Looking At Ceiling"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

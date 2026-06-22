@@ -1,5 +1,8 @@
 {
   "name": "Elevação deltóide em pé com polia baixa",
+  "aliases": [
+    "Standing Low-Pulley Deltoid Raise"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

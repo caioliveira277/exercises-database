@@ -1,5 +1,8 @@
 {
   "name": "Alongamento de gato",
+  "aliases": [
+    "Cat Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

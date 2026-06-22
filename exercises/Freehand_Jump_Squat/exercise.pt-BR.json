@@ -1,5 +1,8 @@
 {
   "name": "Agachamento com salto à mão livre",
+  "aliases": [
+    "Freehand Jump Squat"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Empurrão de tríceps",
+  "aliases": [
+    "Triceps Pushdown"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

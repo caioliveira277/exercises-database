@@ -1,5 +1,9 @@
 {
   "name": "Prensa de ombro com cabo sentado",
+  "aliases": [
+    "Seated Cable Shoulder Press",
+    "Prensa de Ombro com Cable Sentado"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

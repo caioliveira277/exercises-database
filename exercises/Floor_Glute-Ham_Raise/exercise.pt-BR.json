@@ -1,5 +1,9 @@
 {
   "name": "Aumento de presunto e glúteo no chão",
+  "aliases": [
+    "Floor Glute-Ham Raise",
+    "Elevação de Presunto e Glúteo no Chão"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

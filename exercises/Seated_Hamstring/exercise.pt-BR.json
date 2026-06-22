@@ -1,5 +1,8 @@
 {
   "name": "Isquiotibiais sentados",
+  "aliases": [
+    "Seated Hamstring"
+  ],
   "force": "estática",
   "level": "avançado",
   "mechanic": null,

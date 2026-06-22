@@ -1,5 +1,8 @@
 {
   "name": "Resistência do pescoço da placa deitada com a face para cima",
+  "aliases": [
+    "Lying Face Up Plate Neck Resistance"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

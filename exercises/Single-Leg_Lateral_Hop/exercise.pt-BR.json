@@ -1,5 +1,8 @@
 {
   "name": "Salto lateral de perna única",
+  "aliases": [
+    "Single-Leg Lateral Hop"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

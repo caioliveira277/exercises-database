@@ -1,5 +1,8 @@
 {
   "name": "Deadlift de sumô com banda reversa",
+  "aliases": [
+    "Reverse Band Sumo Deadlift"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

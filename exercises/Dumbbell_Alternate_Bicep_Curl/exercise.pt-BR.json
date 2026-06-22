@@ -1,5 +1,10 @@
 {
   "name": "Curvatura alternativa de bíceps com halteres",
+  "aliases": [
+    "Dumbbell Alternate Bicep Curl",
+    "Rosca Alternativa de Bíceps com Halteres",
+    "Rosca Bíceps Alternada com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

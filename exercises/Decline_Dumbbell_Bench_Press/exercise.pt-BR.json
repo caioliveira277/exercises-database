@@ -1,5 +1,9 @@
 {
   "name": "Recusar supino com halteres",
+  "aliases": [
+    "Decline Dumbbell Bench Press",
+    "Recusar Supino com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

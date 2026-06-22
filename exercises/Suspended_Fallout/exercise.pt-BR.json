@@ -1,5 +1,8 @@
 {
   "name": "Precipitação Suspensa",
+  "aliases": [
+    "Suspended Fallout"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

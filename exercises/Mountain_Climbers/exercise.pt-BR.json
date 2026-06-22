@@ -1,5 +1,8 @@
 {
   "name": "Alpinistas",
+  "aliases": [
+    "Mountain Climbers"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

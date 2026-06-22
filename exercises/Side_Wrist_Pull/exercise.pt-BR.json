@@ -1,5 +1,8 @@
 {
   "name": "Tração lateral do pulso",
+  "aliases": [
+    "Side Wrist Pull"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

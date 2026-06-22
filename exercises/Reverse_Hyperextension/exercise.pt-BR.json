@@ -1,5 +1,8 @@
 {
   "name": "Hiperextensão reversa",
+  "aliases": [
+    "Reverse Hyperextension"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": null,

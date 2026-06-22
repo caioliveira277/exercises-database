@@ -1,5 +1,8 @@
 {
   "name": "Lúpulo Cone Lateral",
+  "aliases": [
+    "Lateral Cone Hops"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

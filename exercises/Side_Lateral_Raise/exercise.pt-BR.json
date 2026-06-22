@@ -1,5 +1,8 @@
 {
   "name": "Elevação lateral lateral",
+  "aliases": [
+    "Side Lateral Raise"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

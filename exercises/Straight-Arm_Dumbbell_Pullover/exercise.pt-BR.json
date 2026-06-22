@@ -1,5 +1,9 @@
 {
   "name": "Pulôver com halteres de braço reto",
+  "aliases": [
+    "Straight-Arm Dumbbell Pullover",
+    "Pulôver com Dumbbells de Braço Reto"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

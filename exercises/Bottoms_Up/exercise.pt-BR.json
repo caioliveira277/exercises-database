@@ -1,5 +1,8 @@
 {
   "name": "De baixo para cima",
+  "aliases": [
+    "Bottoms Up"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

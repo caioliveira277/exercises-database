@@ -1,5 +1,10 @@
 {
   "name": "Cachos reversos do pregador com barra",
+  "aliases": [
+    "Reverse Barbell Preacher Curls",
+    "Rosca Reversos do Pregador com Barra",
+    "Rosca Reversa com Barra"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

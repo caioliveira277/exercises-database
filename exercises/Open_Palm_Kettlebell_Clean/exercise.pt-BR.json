@@ -1,5 +1,8 @@
 {
   "name": "Kettlebell de palma aberta limpo",
+  "aliases": [
+    "Open Palm Kettlebell Clean"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

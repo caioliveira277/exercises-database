@@ -1,5 +1,8 @@
 {
   "name": "Pitada de placa",
+  "aliases": [
+    "Plate Pinch"
+  ],
   "force": "estática",
   "level": "intermediário",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Deadlift lateral com um braço",
+  "aliases": [
+    "One-Arm Side Deadlift"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

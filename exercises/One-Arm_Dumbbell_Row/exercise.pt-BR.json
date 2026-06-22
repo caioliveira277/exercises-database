@@ -1,5 +1,9 @@
 {
   "name": "Remada com halteres com um braço",
+  "aliases": [
+    "One-Arm Dumbbell Row",
+    "Remada com Dumbbells com Um Braço"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

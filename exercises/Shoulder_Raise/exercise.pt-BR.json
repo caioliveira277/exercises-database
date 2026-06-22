@@ -1,5 +1,8 @@
 {
   "name": "Elevação de ombro",
+  "aliases": [
+    "Shoulder Raise"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": null,

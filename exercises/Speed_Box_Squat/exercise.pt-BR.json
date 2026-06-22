@@ -1,5 +1,8 @@
 {
   "name": "Agachamento na caixa de velocidade",
+  "aliases": [
+    "Speed Box Squat"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

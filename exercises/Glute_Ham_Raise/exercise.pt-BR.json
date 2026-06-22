@@ -1,5 +1,9 @@
 {
   "name": "Aumento de presunto de glúteo",
+  "aliases": [
+    "Glute Ham Raise",
+    "Elevação de Presunto de Glúteo"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

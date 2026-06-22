@@ -1,5 +1,8 @@
 {
   "name": "Pull-in de perna de banco plano sentado",
+  "aliases": [
+    "Seated Flat Bench Leg Pull-In"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

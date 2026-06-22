@@ -1,5 +1,8 @@
 {
   "name": "Queixos lado a lado",
+  "aliases": [
+    "Side To Side Chins"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Idiota Equilíbrio",
+  "aliases": [
+    "Jerk Balance"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

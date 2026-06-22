@@ -1,5 +1,8 @@
 {
   "name": "Cruzamento de cabos",
+  "aliases": [
+    "Cable Crossover"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

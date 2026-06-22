@@ -1,5 +1,9 @@
 {
   "name": "Abdominais",
+  "aliases": [
+    "Sit-Up",
+    "Abdominal Sit-up"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

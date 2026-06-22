@@ -1,5 +1,10 @@
 {
   "name": "Curvatura com barra em pé de grande aderência",
+  "aliases": [
+    "Wide-Grip Standing Barbell Curl",
+    "Rosca com Barra em Pé de Grande Aderência",
+    "Rosca Bíceps em Pé com Barra"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

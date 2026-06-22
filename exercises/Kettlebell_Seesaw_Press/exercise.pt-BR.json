@@ -1,5 +1,8 @@
 {
   "name": "Prensa gangorra Kettlebell",
+  "aliases": [
+    "Kettlebell Seesaw Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

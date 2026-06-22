@@ -1,5 +1,8 @@
 {
   "name": "Salto com obstáculos",
+  "aliases": [
+    "Hurdle Hops"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

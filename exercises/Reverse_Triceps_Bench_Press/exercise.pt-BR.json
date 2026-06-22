@@ -1,5 +1,8 @@
 {
   "name": "Supino de tríceps reverso",
+  "aliases": [
+    "Reverse Triceps Bench Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

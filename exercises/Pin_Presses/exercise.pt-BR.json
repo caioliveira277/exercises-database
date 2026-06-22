@@ -1,5 +1,8 @@
 {
   "name": "Prensas de pinos",
+  "aliases": [
+    "Pin Presses"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

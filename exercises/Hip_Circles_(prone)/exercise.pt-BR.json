@@ -1,5 +1,8 @@
 {
   "name": "Círculos do quadril (pronado)",
+  "aliases": [
+    "Hip Circles (prone)"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

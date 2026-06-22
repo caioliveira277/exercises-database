@@ -1,5 +1,9 @@
 {
   "name": "Trituração de cabos",
+  "aliases": [
+    "Cable Crunch",
+    "Abdominal de Cabos"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

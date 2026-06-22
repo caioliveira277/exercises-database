@@ -1,5 +1,8 @@
 {
   "name": "Agarrar a perna traseira superior",
+  "aliases": [
+    "Upper Back-Leg Grab"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

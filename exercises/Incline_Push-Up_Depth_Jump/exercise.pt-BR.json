@@ -1,5 +1,8 @@
 {
   "name": "Salto de profundidade com flexão inclinada",
+  "aliases": [
+    "Incline Push-Up Depth Jump"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

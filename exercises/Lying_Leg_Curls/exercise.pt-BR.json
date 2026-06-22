@@ -1,5 +1,10 @@
 {
   "name": "Flexões de pernas deitadas",
+  "aliases": [
+    "Lying Leg Curls",
+    "Flexão de pernas",
+    "Mesa flexora deitada"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

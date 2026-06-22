@@ -1,5 +1,8 @@
 {
   "name": "Levantamento terra de carro",
+  "aliases": [
+    "Car Deadlift"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Encolher de ombros com barra",
+  "aliases": [
+    "Barbell Shrug",
+    "Encolher de Ombros com Barbell"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Aperto manual da placa olímpica em pé",
+  "aliases": [
+    "Standing Olympic Plate Hand Squeeze"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

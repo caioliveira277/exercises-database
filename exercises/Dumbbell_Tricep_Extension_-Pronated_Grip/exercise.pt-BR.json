@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com halteres - pega pronada",
+  "aliases": [
+    "Dumbbell Tricep Extension -Pronated Grip",
+    "Extensão de Tríceps com Dumbbells - Pega Pronada"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

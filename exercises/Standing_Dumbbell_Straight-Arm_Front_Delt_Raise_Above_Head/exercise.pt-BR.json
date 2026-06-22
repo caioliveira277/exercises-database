@@ -1,5 +1,8 @@
 {
   "name": "Haltere em pé com braço reto e deltóide frontal elevado acima da cabeça",
+  "aliases": [
+    "Standing Dumbbell Straight-Arm Front Delt Raise Above Head"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

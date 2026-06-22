@@ -1,5 +1,9 @@
 {
   "name": "Prensa de ombro de cabo",
+  "aliases": [
+    "Cable Shoulder Press",
+    "Prensa de Ombro de Cable"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

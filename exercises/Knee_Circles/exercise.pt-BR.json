@@ -1,5 +1,8 @@
 {
   "name": "Círculos de Joelho",
+  "aliases": [
+    "Knee Circles"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

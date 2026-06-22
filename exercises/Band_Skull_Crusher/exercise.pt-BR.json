@@ -1,5 +1,8 @@
 {
   "name": "Banda Crânio Triturador",
+  "aliases": [
+    "Band Skull Crusher"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

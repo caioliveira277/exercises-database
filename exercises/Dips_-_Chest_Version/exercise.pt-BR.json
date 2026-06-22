@@ -1,5 +1,8 @@
 {
   "name": "Mergulhos - Versão Peito",
+  "aliases": [
+    "Dips - Chest Version"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

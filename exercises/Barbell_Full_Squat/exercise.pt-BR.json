@@ -1,5 +1,9 @@
 {
   "name": "Agachamento completo com barra",
+  "aliases": [
+    "Barbell Full Squat",
+    "Agachamento Completo com Barbell"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

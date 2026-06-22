@@ -1,5 +1,8 @@
 {
   "name": "Remada de polia alta ajoelhada com um braço",
+  "aliases": [
+    "Kneeling Single-Arm High Pulley Row"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

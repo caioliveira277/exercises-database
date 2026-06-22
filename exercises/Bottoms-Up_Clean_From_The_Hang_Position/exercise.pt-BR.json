@@ -1,5 +1,8 @@
 {
   "name": "Limpeza de baixo para cima na posição pendurada",
+  "aliases": [
+    "Bottoms-Up Clean From The Hang Position"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

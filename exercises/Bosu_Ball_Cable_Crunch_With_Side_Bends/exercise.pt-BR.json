@@ -1,5 +1,9 @@
 {
   "name": "Bosu Ball Cable Crunch com curvas laterais",
+  "aliases": [
+    "Bosu Ball Cable Crunch With Side Bends",
+    "Bosu Ball Cable Abdominal com Curvas Laterais"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

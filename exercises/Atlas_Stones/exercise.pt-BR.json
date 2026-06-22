@@ -1,5 +1,8 @@
 {
   "name": "Pedras Atlas",
+  "aliases": [
+    "Atlas Stones"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

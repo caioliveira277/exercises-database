@@ -1,5 +1,8 @@
 {
   "name": "Duplo Kettlebell Idiota",
+  "aliases": [
+    "Double Kettlebell Jerk"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Vácuo de estômago",
+  "aliases": [
+    "Stomach Vacuum"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

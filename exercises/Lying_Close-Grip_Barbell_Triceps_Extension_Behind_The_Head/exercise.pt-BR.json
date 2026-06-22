@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com barra deitada atrás da cabeça",
+  "aliases": [
+    "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+    "Extensão de Tríceps com Barbell Deitada Atrás da Cabeça"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Arrastar para frente com imprensa",
+  "aliases": [
+    "Forward Drag with Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

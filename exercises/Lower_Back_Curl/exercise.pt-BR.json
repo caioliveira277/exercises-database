@@ -1,5 +1,11 @@
 {
   "name": "Curvatura lombar",
+  "aliases": [
+    "Lower Back Curl",
+    "Rosca Lombar",
+    "Flexão lombar",
+    "Abdominal lombar"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

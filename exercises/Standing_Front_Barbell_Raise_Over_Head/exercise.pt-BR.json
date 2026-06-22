@@ -1,5 +1,9 @@
 {
   "name": "Elevação frontal da barra em pé acima da cabeça",
+  "aliases": [
+    "Standing Front Barbell Raise Over Head",
+    "Elevação Frontal da Barbell em Pé Acima da Cabeça"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

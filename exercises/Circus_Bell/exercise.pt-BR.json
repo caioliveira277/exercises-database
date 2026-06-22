@@ -1,5 +1,8 @@
 {
   "name": "Sino de circo",
+  "aliases": [
+    "Circus Bell"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

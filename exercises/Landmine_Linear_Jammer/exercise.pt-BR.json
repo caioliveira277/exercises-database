@@ -1,5 +1,8 @@
 {
   "name": "Jammer Linear de Minas Terrestres",
+  "aliases": [
+    "Landmine Linear Jammer"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

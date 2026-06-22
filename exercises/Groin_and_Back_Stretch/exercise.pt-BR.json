@@ -1,5 +1,8 @@
 {
   "name": "Alongamento de virilha e costas",
+  "aliases": [
+    "Groin and Back Stretch"
+  ],
   "force": "estática",
   "level": "intermediário",
   "mechanic": "composto",

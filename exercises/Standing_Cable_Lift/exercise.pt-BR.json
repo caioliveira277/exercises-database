@@ -1,5 +1,9 @@
 {
   "name": "Elevador de cabo em pé",
+  "aliases": [
+    "Standing Cable Lift",
+    "Elevador de Cable em Pé"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

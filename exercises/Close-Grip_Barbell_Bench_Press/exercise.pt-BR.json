@@ -1,5 +1,9 @@
 {
   "name": "Supino com barra fechada",
+  "aliases": [
+    "Close-Grip Barbell Bench Press",
+    "Supino com Barbell Fechada"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

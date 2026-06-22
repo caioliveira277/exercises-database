@@ -1,5 +1,8 @@
 {
   "name": "Adutor de coxa",
+  "aliases": [
+    "Thigh Adductor"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

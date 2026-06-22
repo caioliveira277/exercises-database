@@ -1,5 +1,10 @@
 {
   "name": "Curvatura do pulso com halteres com um braço e palmas para cima",
+  "aliases": [
+    "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+    "Rosca do Pulso com Halteres com Um Braço e Palmas para Cima",
+    "Rosca de Punho Sentado com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

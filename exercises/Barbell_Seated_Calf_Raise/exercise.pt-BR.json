@@ -1,5 +1,9 @@
 {
   "name": "Elevação de panturrilha sentada com barra",
+  "aliases": [
+    "Barbell Seated Calf Raise",
+    "Elevação de Panturrilha Sentada com Barbell"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com halteres de dois braços curvados sentados",
+  "aliases": [
+    "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "Extensão de Tríceps com Dumbbells de Dois Braços Curvados Sentados"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

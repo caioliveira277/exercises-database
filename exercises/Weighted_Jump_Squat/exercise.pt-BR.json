@@ -1,5 +1,8 @@
 {
   "name": "Agachamento com salto ponderado",
+  "aliases": [
+    "Weighted Jump Squat"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

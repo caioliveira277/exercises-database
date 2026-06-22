@@ -1,5 +1,9 @@
 {
   "name": "Recusar supino com barra",
+  "aliases": [
+    "Decline Barbell Bench Press",
+    "Recusar Supino com Barbell"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

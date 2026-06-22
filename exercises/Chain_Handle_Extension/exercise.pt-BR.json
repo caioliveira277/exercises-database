@@ -1,5 +1,8 @@
 {
   "name": "Extensão de alça de corrente",
+  "aliases": [
+    "Chain Handle Extension"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

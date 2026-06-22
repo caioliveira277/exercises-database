@@ -1,5 +1,8 @@
 {
   "name": "Extensão aérea de tríceps com corda",
+  "aliases": [
+    "Triceps Overhead Extension with Rope"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

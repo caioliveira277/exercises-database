@@ -1,5 +1,8 @@
 {
   "name": "Máquina Smith Encolher os ombros pelas costas",
+  "aliases": [
+    "Smith Machine Behind the Back Shrug"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

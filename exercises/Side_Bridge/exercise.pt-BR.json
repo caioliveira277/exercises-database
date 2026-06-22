@@ -1,5 +1,8 @@
 {
   "name": "Ponte Lateral",
+  "aliases": [
+    "Side Bridge"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

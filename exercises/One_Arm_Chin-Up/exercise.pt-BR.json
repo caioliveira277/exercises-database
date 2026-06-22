@@ -1,5 +1,10 @@
 {
   "name": "Barra fixa com um braço",
+  "aliases": [
+    "One Arm Chin-Up",
+    "Barra Fixa Supinada",
+    "Barbell Fixa com Um Braço"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Salto em profundidade",
+  "aliases": [
+    "Depth Jump Leap"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

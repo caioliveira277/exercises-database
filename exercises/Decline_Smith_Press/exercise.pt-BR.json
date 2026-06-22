@@ -1,5 +1,8 @@
 {
   "name": "Recusar Smith Press",
+  "aliases": [
+    "Decline Smith Press"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

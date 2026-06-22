@@ -1,5 +1,8 @@
 {
   "name": "Tocadores de calcanhar alternativos",
+  "aliases": [
+    "Alternate Heel Touchers"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

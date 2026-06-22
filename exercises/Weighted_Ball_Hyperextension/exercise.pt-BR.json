@@ -1,5 +1,8 @@
 {
   "name": "Hiperextensão de bola ponderada",
+  "aliases": [
+    "Weighted Ball Hyperextension"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

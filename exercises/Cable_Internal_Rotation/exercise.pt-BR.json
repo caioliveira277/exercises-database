@@ -1,5 +1,9 @@
 {
   "name": "Rotação interna do cabo",
+  "aliases": [
+    "Cable Internal Rotation",
+    "Rotação Interna do Cable"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

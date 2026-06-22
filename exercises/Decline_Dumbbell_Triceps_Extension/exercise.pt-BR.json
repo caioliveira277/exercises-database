@@ -1,5 +1,9 @@
 {
   "name": "Recusar extensão de tríceps com halteres",
+  "aliases": [
+    "Decline Dumbbell Triceps Extension",
+    "Recusar Extensão de Tríceps com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

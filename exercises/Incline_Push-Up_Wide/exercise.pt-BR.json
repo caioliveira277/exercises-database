@@ -1,5 +1,8 @@
 {
   "name": "Flexão inclinada ampla",
+  "aliases": [
+    "Incline Push-Up Wide"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

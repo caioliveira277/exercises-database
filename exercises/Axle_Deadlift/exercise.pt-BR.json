@@ -1,5 +1,8 @@
 {
   "name": "Levantamento terra do eixo",
+  "aliases": [
+    "Axle Deadlift"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

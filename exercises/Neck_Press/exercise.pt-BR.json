@@ -1,5 +1,9 @@
 {
   "name": "Pressão de pescoço",
+  "aliases": [
+    "Neck Press",
+    "Press de Pescoço"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

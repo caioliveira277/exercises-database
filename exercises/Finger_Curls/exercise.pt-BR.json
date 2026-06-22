@@ -1,5 +1,11 @@
 {
   "name": "Cachos de dedo",
+  "aliases": [
+    "Finger Curls",
+    "Rosca de Dedo",
+    "Flexão dos dedos",
+    "Rosca de dedos"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

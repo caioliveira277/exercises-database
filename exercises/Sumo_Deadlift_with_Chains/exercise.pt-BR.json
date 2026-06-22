@@ -1,5 +1,8 @@
 {
   "name": "Deadlift de sumô com correntes",
+  "aliases": [
+    "Sumo Deadlift with Chains"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

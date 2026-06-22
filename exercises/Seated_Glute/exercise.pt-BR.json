@@ -1,5 +1,8 @@
 {
   "name": "Glúteo sentado",
+  "aliases": [
+    "Seated Glute"
+  ],
   "force": "estática",
   "level": "avançado",
   "mechanic": null,

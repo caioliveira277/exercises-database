@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps deitado de cabo",
+  "aliases": [
+    "Cable Lying Triceps Extension",
+    "Extensão de Tríceps Deitado de Cable"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Tuck Crunch",
+  "aliases": [
+    "Tuck Abdominal"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

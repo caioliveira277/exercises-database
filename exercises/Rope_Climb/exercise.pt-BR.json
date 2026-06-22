@@ -1,5 +1,8 @@
 {
   "name": "Subida de corda",
+  "aliases": [
+    "Rope Climb"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

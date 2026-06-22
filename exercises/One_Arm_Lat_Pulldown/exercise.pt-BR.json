@@ -1,5 +1,8 @@
 {
   "name": "Pulldown lateral com um braço",
+  "aliases": [
+    "One Arm Lat Pulldown"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

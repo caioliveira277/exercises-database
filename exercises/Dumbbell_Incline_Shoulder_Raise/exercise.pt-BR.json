@@ -1,5 +1,10 @@
 {
   "name": "Levantamento de ombro inclinado com halteres",
+  "aliases": [
+    "Dumbbell Incline Shoulder Raise",
+    "Elevação de Ombro Inclinado com Halteres",
+    "Levantamento de Ombro Inclinado com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

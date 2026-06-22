@@ -1,5 +1,8 @@
 {
   "name": "Treinador elíptico",
+  "aliases": [
+    "Elliptical Trainer"
+  ],
   "force": null,
   "level": "intermediário",
   "mechanic": null,

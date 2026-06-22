@@ -1,5 +1,9 @@
 {
   "name": "Onda de concentração em pé",
+  "aliases": [
+    "Standing Concentration Curl",
+    "Rosca Concentrada em Pé"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

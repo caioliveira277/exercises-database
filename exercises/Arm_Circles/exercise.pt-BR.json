@@ -1,5 +1,8 @@
 {
   "name": "Círculos de braço",
+  "aliases": [
+    "Arm Circles"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

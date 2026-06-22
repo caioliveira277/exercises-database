@@ -1,5 +1,10 @@
 {
   "name": "Curl Pregador com Haltere de Dois Braços",
+  "aliases": [
+    "Two-Arm Dumbbell Preacher Curl",
+    "Rosca Pregador com Haltere de Dois Braços",
+    "Rosca Scott com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

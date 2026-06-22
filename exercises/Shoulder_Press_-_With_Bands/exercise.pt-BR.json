@@ -1,5 +1,9 @@
 {
   "name": "Pressão de Ombro - Com Bandas",
+  "aliases": [
+    "Shoulder Press - With Bands",
+    "Press de Ombro - com Bandas"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

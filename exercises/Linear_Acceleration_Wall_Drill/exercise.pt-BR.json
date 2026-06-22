@@ -1,5 +1,8 @@
 {
   "name": "Broca de parede com aceleração linear",
+  "aliases": [
+    "Linear Acceleration Wall Drill"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": "composto",

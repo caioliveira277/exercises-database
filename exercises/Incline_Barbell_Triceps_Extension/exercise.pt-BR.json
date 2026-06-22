@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com barra inclinada",
+  "aliases": [
+    "Incline Barbell Triceps Extension",
+    "Extensão de Tríceps com Barbell Inclinada"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

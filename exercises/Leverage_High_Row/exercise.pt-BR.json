@@ -1,5 +1,9 @@
 {
   "name": "Aproveite a linha alta",
+  "aliases": [
+    "Leverage High Row",
+    "Aproveite a Remada Alta"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

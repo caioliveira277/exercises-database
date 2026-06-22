@@ -1,5 +1,8 @@
 {
   "name": "Caminhada Monstruosa",
+  "aliases": [
+    "Monster Walk"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

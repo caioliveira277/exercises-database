@@ -1,5 +1,8 @@
 {
   "name": "Arrebatamento de energia de blocos",
+  "aliases": [
+    "Power Snatch from Blocks"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

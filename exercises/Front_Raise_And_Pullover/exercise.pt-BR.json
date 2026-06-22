@@ -1,5 +1,9 @@
 {
   "name": "Levantamento frontal e pulôver",
+  "aliases": [
+    "Front Raise And Pullover",
+    "Elevação Frontal e Pulôver"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

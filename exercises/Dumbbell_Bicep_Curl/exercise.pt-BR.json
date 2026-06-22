@@ -1,5 +1,10 @@
 {
   "name": "Curvatura de bíceps com halteres",
+  "aliases": [
+    "Dumbbell Bicep Curl",
+    "Rosca de Bíceps com Halteres",
+    "Rosca Bíceps com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

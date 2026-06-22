@@ -1,5 +1,8 @@
 {
   "name": "Prensa para panturrilha",
+  "aliases": [
+    "Calf Press"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

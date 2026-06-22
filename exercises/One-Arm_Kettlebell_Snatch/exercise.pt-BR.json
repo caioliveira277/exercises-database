@@ -1,5 +1,8 @@
 {
   "name": "Arranco Kettlebell com um braço",
+  "aliases": [
+    "One-Arm Kettlebell Snatch"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

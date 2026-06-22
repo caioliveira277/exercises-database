@@ -1,5 +1,8 @@
 {
   "name": "Imprensa do quadro",
+  "aliases": [
+    "Board Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

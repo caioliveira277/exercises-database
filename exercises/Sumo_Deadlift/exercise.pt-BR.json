@@ -1,5 +1,8 @@
 {
   "name": "Levantamento terra de sumô",
+  "aliases": [
+    "Sumo Deadlift"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

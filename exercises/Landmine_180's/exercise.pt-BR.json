@@ -1,5 +1,8 @@
 {
   "name": "Mina terrestre dos anos 180",
+  "aliases": [
+    "Landmine 180's"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

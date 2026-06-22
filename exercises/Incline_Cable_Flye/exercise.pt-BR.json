@@ -1,5 +1,9 @@
 {
   "name": "Flye de cabo inclinado",
+  "aliases": [
+    "Incline Cable Flye",
+    "Flye de Cable Inclinado"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

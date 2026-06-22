@@ -1,5 +1,8 @@
 {
   "name": "Pular rápido",
+  "aliases": [
+    "Fast Skipping"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

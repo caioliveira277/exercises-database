@@ -1,5 +1,9 @@
 {
   "name": "Halteres inclinados inclinados - com uma torção",
+  "aliases": [
+    "Incline Dumbbell Flyes - With A Twist",
+    "Dumbbells Inclinados Inclinados - com Uma Torção"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

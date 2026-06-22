@@ -1,5 +1,8 @@
 {
   "name": "Carga de barril",
+  "aliases": [
+    "Keg Load"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Resistência do pescoço do arnês de cabeça sentado",
+  "aliases": [
+    "Seated Head Harness Neck Resistance"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

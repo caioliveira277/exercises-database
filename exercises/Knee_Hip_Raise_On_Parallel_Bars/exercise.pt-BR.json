@@ -1,5 +1,8 @@
 {
   "name": "Elevação de joelho/quadril em barras paralelas",
+  "aliases": [
+    "Knee/Hip Raise On Parallel Bars"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

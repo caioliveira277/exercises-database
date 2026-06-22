@@ -1,5 +1,8 @@
 {
   "name": "Banda Bom Dia (Pull Through)",
+  "aliases": [
+    "Band Good Morning (Pull Through)"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

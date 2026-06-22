@@ -1,5 +1,8 @@
 {
   "name": "Borboleta",
+  "aliases": [
+    "Butterfly"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Prensa de chão",
+  "aliases": [
+    "Floor Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

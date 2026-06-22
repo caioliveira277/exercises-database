@@ -1,5 +1,8 @@
 {
   "name": "Prensa de piso alternada",
+  "aliases": [
+    "Alternating Floor Press"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

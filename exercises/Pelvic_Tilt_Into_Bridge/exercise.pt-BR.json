@@ -1,5 +1,8 @@
 {
   "name": "Inclinação pélvica na ponte",
+  "aliases": [
+    "Pelvic Tilt Into Bridge"
+  ],
   "force": "estática",
   "level": "intermediário",
   "mechanic": "composto",

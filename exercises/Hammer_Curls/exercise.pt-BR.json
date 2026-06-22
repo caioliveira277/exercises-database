@@ -1,5 +1,10 @@
 {
   "name": "Cachos de martelo",
+  "aliases": [
+    "Hammer Curls",
+    "Rosca de Martelo",
+    "Rosca Martelo"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

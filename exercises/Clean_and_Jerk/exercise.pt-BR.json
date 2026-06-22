@@ -1,5 +1,8 @@
 {
   "name": "Limpo e Idiota",
+  "aliases": [
+    "Clean and Jerk"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

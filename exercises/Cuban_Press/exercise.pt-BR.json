@@ -1,5 +1,8 @@
 {
   "name": "Imprensa Cubana",
+  "aliases": [
+    "Cuban Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

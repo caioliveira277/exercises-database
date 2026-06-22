@@ -1,5 +1,9 @@
 {
   "name": "Trituração de corda em pé",
+  "aliases": [
+    "Standing Rope Crunch",
+    "Abdominal de Corda em Pé"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,9 @@
 {
   "name": "Linhas de cabos elevadas",
+  "aliases": [
+    "Elevated Cable Rows",
+    "Remada de Cabos Elevadas"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

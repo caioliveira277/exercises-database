@@ -1,5 +1,8 @@
 {
   "name": "Toques nos dedos dos pés em pé",
+  "aliases": [
+    "Standing Toe Touches"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

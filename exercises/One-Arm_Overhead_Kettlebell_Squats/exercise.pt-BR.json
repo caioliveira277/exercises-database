@@ -1,5 +1,8 @@
 {
   "name": "Agachamento com Kettlebell com um braço",
+  "aliases": [
+    "One-Arm Overhead Kettlebell Squats"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

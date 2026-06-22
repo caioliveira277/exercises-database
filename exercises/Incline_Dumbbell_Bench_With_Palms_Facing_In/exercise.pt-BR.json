@@ -1,5 +1,9 @@
 {
   "name": "Banco inclinado com halteres com as palmas voltadas para dentro",
+  "aliases": [
+    "Incline Dumbbell Bench With Palms Facing In",
+    "Banco Inclinado com Dumbbells com As Palmas Voltadas para Dentro"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

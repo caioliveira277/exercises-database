@@ -1,5 +1,8 @@
 {
   "name": "Kettlebell Arnold Press",
+  "aliases": [
+    "Desenvolvimento Arnold com Kettlebell"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

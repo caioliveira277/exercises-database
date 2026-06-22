@@ -1,5 +1,8 @@
 {
   "name": "Agachamento rápido",
+  "aliases": [
+    "Speed Squats"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

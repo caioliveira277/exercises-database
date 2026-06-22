@@ -1,5 +1,12 @@
 {
   "name": "Curvatura dos isquiotibiais com banda sentada",
+  "aliases": [
+    "Seated Band Hamstring Curl",
+    "Rosca dos Isquiotibiais com Banda Sentada",
+    "Flexão de pernas",
+    "Mesa flexora sentada",
+    "Flexão de pernas com elástico"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

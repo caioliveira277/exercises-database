@@ -1,5 +1,8 @@
 {
   "name": "Alongamento do queixo ao peito",
+  "aliases": [
+    "Chin To Chest Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

@@ -1,5 +1,8 @@
 {
   "name": "Flexões Oblíquas",
+  "aliases": [
+    "Oblique Crunches"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

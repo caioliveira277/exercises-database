@@ -1,5 +1,8 @@
 {
   "name": "Hiperextensões (extensões posteriores)",
+  "aliases": [
+    "Hyperextensions (Back Extensions)"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

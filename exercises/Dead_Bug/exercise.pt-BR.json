@@ -1,5 +1,8 @@
 {
   "name": "Inseto morto",
+  "aliases": [
+    "Dead Bug"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

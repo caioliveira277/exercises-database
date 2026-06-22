@@ -1,5 +1,8 @@
 {
   "name": "Salto de caixa lateral",
+  "aliases": [
+    "Lateral Box Jump"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

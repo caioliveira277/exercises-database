@@ -1,5 +1,9 @@
 {
   "name": "Crunch reverso suspenso",
+  "aliases": [
+    "Suspended Reverse Crunch",
+    "Abdominal Reverso Suspenso"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

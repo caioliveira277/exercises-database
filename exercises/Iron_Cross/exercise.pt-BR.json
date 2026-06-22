@@ -1,5 +1,8 @@
 {
   "name": "Cruz de Ferro",
+  "aliases": [
+    "Iron Cross"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

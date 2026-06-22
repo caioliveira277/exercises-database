@@ -1,5 +1,8 @@
 {
   "name": "Mestre da escada",
+  "aliases": [
+    "Stairmaster"
+  ],
   "force": null,
   "level": "intermediário",
   "mechanic": null,

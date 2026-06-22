@@ -1,5 +1,10 @@
 {
   "name": "Curvatura com halteres deitado em decúbito dorsal",
+  "aliases": [
+    "Lying Supine Dumbbell Curl",
+    "Rosca com Halteres Deitado em Decúbito Dorsal",
+    "Rosca Bíceps Deitado com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

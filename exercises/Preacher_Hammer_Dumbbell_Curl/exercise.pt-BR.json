@@ -1,5 +1,10 @@
 {
   "name": "Curvatura com halteres martelo pregador",
+  "aliases": [
+    "Preacher Hammer Dumbbell Curl",
+    "Rosca com Halteres Martelo Pregador",
+    "Rosca Martelo com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Recusar crise oblíqua",
+  "aliases": [
+    "Decline Oblique Crunch"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

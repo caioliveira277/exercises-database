@@ -1,5 +1,9 @@
 {
   "name": "Prensa de chão com halteres",
+  "aliases": [
+    "Dumbbell Floor Press",
+    "Prensa de Chão com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

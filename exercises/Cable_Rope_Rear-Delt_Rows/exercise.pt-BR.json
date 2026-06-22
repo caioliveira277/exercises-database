@@ -1,5 +1,10 @@
 {
   "name": "Linhas de deltóide traseiro de corda de cabo",
+  "aliases": [
+    "Cable Rope Rear-Delt Rows",
+    "Remada de Deltóide Traseiro de Corda de Cabo",
+    "Linhas de Deltóide Traseiro de Corda de Cable"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

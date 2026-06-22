@@ -1,5 +1,8 @@
 {
   "name": "Levantamento de toras",
+  "aliases": [
+    "Log Lift"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

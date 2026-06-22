@@ -1,5 +1,8 @@
 {
   "name": "Elevação traseira do deltóide curvado sobre o haltere com a cabeça no banco",
+  "aliases": [
+    "Bent Over Dumbbell Rear Delt Raise With Head On Bench"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

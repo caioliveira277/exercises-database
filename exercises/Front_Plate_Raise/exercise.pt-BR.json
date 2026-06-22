@@ -1,5 +1,8 @@
 {
   "name": "Elevação da placa frontal",
+  "aliases": [
+    "Front Plate Raise"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

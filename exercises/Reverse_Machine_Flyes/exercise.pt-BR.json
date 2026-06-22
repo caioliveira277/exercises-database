@@ -1,5 +1,8 @@
 {
   "name": "Máquina reversa voa",
+  "aliases": [
+    "Reverse Machine Flyes"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

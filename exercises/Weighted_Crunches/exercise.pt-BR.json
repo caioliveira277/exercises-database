@@ -1,5 +1,8 @@
 {
   "name": "Abdominais ponderados",
+  "aliases": [
+    "Weighted Crunches"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

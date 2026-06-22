@@ -1,5 +1,8 @@
 {
   "name": "Propulsor Kettlebell",
+  "aliases": [
+    "Kettlebell Thruster"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Agachamento frontal com barra",
+  "aliases": [
+    "Front Barbell Squat",
+    "Agachamento Frontal com Barbell"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

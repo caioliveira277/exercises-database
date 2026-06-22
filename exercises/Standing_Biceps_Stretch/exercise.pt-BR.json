@@ -1,5 +1,8 @@
 {
   "name": "Alongamento de bíceps em pé",
+  "aliases": [
+    "Standing Biceps Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

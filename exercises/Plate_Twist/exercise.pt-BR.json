@@ -1,5 +1,8 @@
 {
   "name": "Torção da placa",
+  "aliases": [
+    "Plate Twist"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

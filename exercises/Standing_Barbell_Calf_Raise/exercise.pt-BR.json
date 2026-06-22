@@ -1,5 +1,9 @@
 {
   "name": "Elevação de panturrilha com barra em pé",
+  "aliases": [
+    "Standing Barbell Calf Raise",
+    "Elevação de Panturrilha com Barbell em Pé"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

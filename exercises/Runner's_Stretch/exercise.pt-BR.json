@@ -1,5 +1,8 @@
 {
   "name": "Alongamento do corredor",
+  "aliases": [
+    "Runner's Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

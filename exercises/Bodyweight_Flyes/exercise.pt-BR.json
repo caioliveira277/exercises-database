@@ -1,5 +1,8 @@
 {
   "name": "Moscas de peso corporal",
+  "aliases": [
+    "Bodyweight Flyes"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

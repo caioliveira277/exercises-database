@@ -1,5 +1,8 @@
 {
   "name": "Arrebatar",
+  "aliases": [
+    "Snatch"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

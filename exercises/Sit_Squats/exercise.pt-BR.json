@@ -1,5 +1,8 @@
 {
   "name": "Agachamento sentado",
+  "aliases": [
+    "Sit Squats"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": null,

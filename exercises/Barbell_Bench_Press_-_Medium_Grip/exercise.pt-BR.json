@@ -1,5 +1,9 @@
 {
   "name": "Supino com Barra - Punho Médio",
+  "aliases": [
+    "Barbell Bench Press - Medium Grip",
+    "Supino com Barbell - Punho Médio"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

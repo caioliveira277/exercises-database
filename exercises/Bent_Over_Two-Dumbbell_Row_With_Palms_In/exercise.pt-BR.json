@@ -1,5 +1,9 @@
 {
   "name": "Curvado sobre a fileira de dois halteres com as palmas das mãos voltadas",
+  "aliases": [
+    "Bent Over Two-Dumbbell Row With Palms In",
+    "Curvado Sobre a Fileira de Dois Dumbbells com As Palmas das Mãos Voltadas"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

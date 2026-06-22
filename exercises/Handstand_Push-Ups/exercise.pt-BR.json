@@ -1,5 +1,9 @@
 {
   "name": "Flexões de mão",
+  "aliases": [
+    "Handstand Push-Ups",
+    "Flexão de Mão"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

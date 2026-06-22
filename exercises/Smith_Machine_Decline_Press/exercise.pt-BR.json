@@ -1,5 +1,8 @@
 {
   "name": "Imprensa de declínio da máquina Smith",
+  "aliases": [
+    "Smith Machine Decline Press"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": "composto",

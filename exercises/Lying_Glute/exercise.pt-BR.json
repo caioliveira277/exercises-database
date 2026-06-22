@@ -1,5 +1,8 @@
 {
   "name": "Glúteo deitado",
+  "aliases": [
+    "Lying Glute"
+  ],
   "force": "estática",
   "level": "avançado",
   "mechanic": null,

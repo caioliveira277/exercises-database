@@ -1,5 +1,8 @@
 {
   "name": "Chute de tesoura",
+  "aliases": [
+    "Scissor Kick"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

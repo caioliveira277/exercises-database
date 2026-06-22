@@ -1,5 +1,8 @@
 {
   "name": "Pulldowns de cabos ocultos",
+  "aliases": [
+    "Underhand Cable Pulldowns"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

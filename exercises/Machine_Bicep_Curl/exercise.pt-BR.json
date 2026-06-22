@@ -1,5 +1,9 @@
 {
   "name": "Onda de bíceps máquina",
+  "aliases": [
+    "Machine Bicep Curl",
+    "Rosca Bíceps"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

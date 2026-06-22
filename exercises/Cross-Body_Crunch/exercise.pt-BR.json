@@ -1,5 +1,9 @@
 {
   "name": "Crunch cruzado",
+  "aliases": [
+    "Cross-Body Crunch",
+    "Abdominal Cruzado"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Extensão de perna única",
+  "aliases": [
+    "Single-Leg Leg Extension"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Agachamento com pistola Kettlebell",
+  "aliases": [
+    "Kettlebell Pistol Squat"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

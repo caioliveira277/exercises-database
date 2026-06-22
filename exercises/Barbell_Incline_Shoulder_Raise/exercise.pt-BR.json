@@ -1,5 +1,9 @@
 {
   "name": "Elevação de ombro inclinada com barra",
+  "aliases": [
+    "Barbell Incline Shoulder Raise",
+    "Elevação de Ombro Inclinada com Barbell"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Ao redor dos mundos",
+  "aliases": [
+    "Around The Worlds"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

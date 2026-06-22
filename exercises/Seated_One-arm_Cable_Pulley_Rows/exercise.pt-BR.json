@@ -1,5 +1,9 @@
 {
   "name": "Fileiras de polias de cabo de um braço sentadas",
+  "aliases": [
+    "Seated One-arm Cable Pulley Rows",
+    "Fileiras de Polias de Cable de Um Braço Sentadas"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

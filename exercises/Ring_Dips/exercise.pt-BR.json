@@ -1,5 +1,8 @@
 {
   "name": "Mergulhos de anel",
+  "aliases": [
+    "Ring Dips"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

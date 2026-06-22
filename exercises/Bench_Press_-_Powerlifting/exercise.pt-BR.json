@@ -1,5 +1,8 @@
 {
   "name": "Supino - Levantamento de peso",
+  "aliases": [
+    "Bench Press - Powerlifting"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

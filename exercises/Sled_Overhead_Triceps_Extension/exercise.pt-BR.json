@@ -1,5 +1,8 @@
 {
   "name": "Extensão de tríceps suspensa em trenó",
+  "aliases": [
+    "Sled Overhead Triceps Extension"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

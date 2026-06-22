@@ -1,5 +1,8 @@
 {
   "name": "Transporte de riquixá",
+  "aliases": [
+    "Rickshaw Carry"
+  ],
   "force": null,
   "level": "intermediário",
   "mechanic": "composto",

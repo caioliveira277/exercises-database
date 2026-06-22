@@ -1,5 +1,9 @@
 {
   "name": "Curvatura reversa com barra",
+  "aliases": [
+    "Reverse Barbell Curl",
+    "Rosca Reversa com Barra"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

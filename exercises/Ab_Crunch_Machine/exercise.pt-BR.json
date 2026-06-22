@@ -1,5 +1,8 @@
 {
   "name": "Máquina de abdominais",
+  "aliases": [
+    "Ab Crunch Machine"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

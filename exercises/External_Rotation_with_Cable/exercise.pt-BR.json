@@ -1,5 +1,9 @@
 {
   "name": "Rotação Externa com Cabo",
+  "aliases": [
+    "External Rotation with Cable",
+    "Rotação Externa com Cable"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

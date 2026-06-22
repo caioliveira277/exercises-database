@@ -1,5 +1,8 @@
 {
   "name": "Limpadores isométricos",
+  "aliases": [
+    "Isometric Wipers"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

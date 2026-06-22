@@ -1,5 +1,8 @@
 {
   "name": "Salto rápido",
+  "aliases": [
+    "Quick Leap"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

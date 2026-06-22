@@ -1,5 +1,9 @@
 {
   "name": "Levantamento terra com barra de armadilha",
+  "aliases": [
+    "Trap Bar Deadlift",
+    "Levantamento Terra com Barbell de Armadilha"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

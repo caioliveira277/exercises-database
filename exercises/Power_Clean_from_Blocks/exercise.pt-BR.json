@@ -1,5 +1,8 @@
 {
   "name": "Limpeza energética de blocos",
+  "aliases": [
+    "Power Clean from Blocks"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

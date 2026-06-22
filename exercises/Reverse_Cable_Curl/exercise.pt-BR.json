@@ -1,5 +1,10 @@
 {
   "name": "Curvatura reversa do cabo",
+  "aliases": [
+    "Reverse Cable Curl",
+    "Rosca Reversa do Cabo",
+    "Rosca Reversa no Cabo"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

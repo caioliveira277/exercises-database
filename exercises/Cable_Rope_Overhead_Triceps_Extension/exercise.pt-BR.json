@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps aérea de corda de cabo",
+  "aliases": [
+    "Cable Rope Overhead Triceps Extension",
+    "Extensão de Tríceps Aérea de Corda de Cable"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

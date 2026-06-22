@@ -1,5 +1,8 @@
 {
   "name": "Isquiotibiais manuais em decúbito",
+  "aliases": [
+    "Prone Manual Hamstring"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

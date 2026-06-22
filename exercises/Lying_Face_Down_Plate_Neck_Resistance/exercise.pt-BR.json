@@ -1,5 +1,8 @@
 {
   "name": "Resistência do pescoço da placa deitada de bruços",
+  "aliases": [
+    "Lying Face Down Plate Neck Resistance"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

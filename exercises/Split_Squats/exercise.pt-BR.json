@@ -1,5 +1,8 @@
 {
   "name": "Agachamento dividido",
+  "aliases": [
+    "Split Squats"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": null,

@@ -1,5 +1,8 @@
 {
   "name": "Retrocesso do haltere de tríceps",
+  "aliases": [
+    "Tricep Dumbbell Kickback"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

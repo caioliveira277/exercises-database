@@ -1,5 +1,9 @@
 {
   "name": "Curvas laterais do cabo de polia alta de um braço",
+  "aliases": [
+    "One-Arm High-Pulley Cable Side Bends",
+    "Curvas Laterais do Cable de Polia Alta de Um Braço"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

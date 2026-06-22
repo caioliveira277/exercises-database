@@ -1,5 +1,9 @@
 {
   "name": "Barra suspensa bom dia",
+  "aliases": [
+    "Hanging Bar Good Morning",
+    "Barbell Suspensa Bom Dia"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

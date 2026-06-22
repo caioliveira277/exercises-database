@@ -1,5 +1,10 @@
 {
   "name": "Curvatura com halteres sentado",
+  "aliases": [
+    "Seated Dumbbell Curl",
+    "Rosca com Halteres Sentado",
+    "Rosca Bíceps Sentado com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,9 @@
 {
   "name": "Pronação deitada com halteres",
+  "aliases": [
+    "Dumbbell Lying Pronation",
+    "Pronação Deitada com Dumbbells"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

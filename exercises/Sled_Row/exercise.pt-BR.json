@@ -1,5 +1,9 @@
 {
   "name": "Linha de trenó",
+  "aliases": [
+    "Sled Row",
+    "Remada de Trenó"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

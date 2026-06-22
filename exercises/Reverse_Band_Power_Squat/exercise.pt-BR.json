@@ -1,5 +1,8 @@
 {
   "name": "Agachamento poderoso com banda reversa",
+  "aliases": [
+    "Reverse Band Power Squat"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

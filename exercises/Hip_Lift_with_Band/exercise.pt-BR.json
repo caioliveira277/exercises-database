@@ -1,5 +1,8 @@
 {
   "name": "Elevador de quadril com faixa",
+  "aliases": [
+    "Hip Lift with Band"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

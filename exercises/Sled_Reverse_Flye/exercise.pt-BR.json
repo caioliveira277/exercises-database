@@ -1,5 +1,8 @@
 {
   "name": "Flye reverso de trenó",
+  "aliases": [
+    "Sled Reverse Flye"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

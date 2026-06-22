@@ -1,5 +1,8 @@
 {
   "name": "Remo, Estacionário",
+  "aliases": [
+    "Rowing, Stationary"
+  ],
   "force": null,
   "level": "intermediário",
   "mechanic": null,

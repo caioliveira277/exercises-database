@@ -1,5 +1,8 @@
 {
   "name": "Alongamento da parte superior das costas",
+  "aliases": [
+    "Upper Back Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

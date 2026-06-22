@@ -1,5 +1,10 @@
 {
   "name": "Banco de barra reta, linhas intermediárias",
+  "aliases": [
+    "Straight Bar Bench Mid Rows",
+    "Banco de Barra Reta, Remada Intermediárias",
+    "Banco de Barbell Reta, Linhas Intermediárias"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

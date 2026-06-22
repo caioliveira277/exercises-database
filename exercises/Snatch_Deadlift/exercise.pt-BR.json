@@ -1,5 +1,8 @@
 {
   "name": "Arrebatar levantamento terra",
+  "aliases": [
+    "Snatch Deadlift"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

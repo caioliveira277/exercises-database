@@ -1,5 +1,9 @@
 {
   "name": "Fileira vertical com halteres com um braço",
+  "aliases": [
+    "Dumbbell One-Arm Upright Row",
+    "Fileira Vertical com Dumbbells com Um Braço"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

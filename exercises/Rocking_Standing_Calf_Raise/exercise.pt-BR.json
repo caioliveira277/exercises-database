@@ -1,5 +1,9 @@
 {
   "name": "Levantamento de panturrilha em pé",
+  "aliases": [
+    "Rocking Standing Calf Raise",
+    "Elevação de Panturrilha em Pé"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

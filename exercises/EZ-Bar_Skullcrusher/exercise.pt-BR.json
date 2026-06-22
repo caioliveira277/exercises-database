@@ -1,5 +1,8 @@
 {
   "name": "Esmagador de Crânios EZ-Bar",
+  "aliases": [
+    "EZ-Bar Skullcrusher"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

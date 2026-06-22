@@ -1,5 +1,8 @@
 {
   "name": "Agachamento Olímpico",
+  "aliases": [
+    "Olympic Squat"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

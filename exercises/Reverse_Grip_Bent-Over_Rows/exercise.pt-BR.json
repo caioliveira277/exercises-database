@@ -1,5 +1,9 @@
 {
   "name": "Linhas dobradas com aderência reversa",
+  "aliases": [
+    "Reverse Grip Bent-Over Rows",
+    "Remada Dobradas com Aderência Reversa"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

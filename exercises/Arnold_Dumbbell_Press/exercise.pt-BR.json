@@ -1,5 +1,9 @@
 {
   "name": "Arnold com halteres",
+  "aliases": [
+    "Arnold Dumbbell Press",
+    "Arnold com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

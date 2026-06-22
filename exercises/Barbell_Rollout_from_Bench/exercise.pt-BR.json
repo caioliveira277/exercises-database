@@ -1,5 +1,9 @@
 {
   "name": "Lançamento da barra a partir do banco",
+  "aliases": [
+    "Barbell Rollout from Bench",
+    "Lançamento da Barbell a Partir do Banco"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

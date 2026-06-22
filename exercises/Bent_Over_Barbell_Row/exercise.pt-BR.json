@@ -1,5 +1,9 @@
 {
   "name": "Remada com barra curvada",
+  "aliases": [
+    "Bent Over Barbell Row",
+    "Remada com Barbell Curvada"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

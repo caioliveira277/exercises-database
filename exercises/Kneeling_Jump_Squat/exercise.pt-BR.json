@@ -1,5 +1,8 @@
 {
   "name": "Agachamento com Salto Ajoelhado",
+  "aliases": [
+    "Kneeling Jump Squat"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

@@ -1,5 +1,10 @@
 {
   "name": "Curvatura de pregador com halteres de um braço",
+  "aliases": [
+    "One Arm Dumbbell Preacher Curl",
+    "Rosca de Pregador com Halteres de Um Braço",
+    "Rosca Scott com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

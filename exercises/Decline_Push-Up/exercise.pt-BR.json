@@ -1,5 +1,8 @@
 {
   "name": "Recusar flexão",
+  "aliases": [
+    "Decline Push-Up"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Elevação frontal com halteres",
+  "aliases": [
+    "Front Dumbbell Raise",
+    "Elevação Frontal com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

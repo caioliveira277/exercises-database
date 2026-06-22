@@ -1,5 +1,9 @@
 {
   "name": "Elevação do cabo frontal",
+  "aliases": [
+    "Front Cable Raise",
+    "Elevação do Cable Frontal"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Recusar banco de aperto próximo para triturador de crânio",
+  "aliases": [
+    "Decline Close-Grip Bench To Skull Crusher"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

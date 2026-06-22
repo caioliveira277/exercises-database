@@ -1,5 +1,8 @@
 {
   "name": "Bom dia",
+  "aliases": [
+    "Good Morning"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

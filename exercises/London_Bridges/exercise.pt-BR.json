@@ -1,5 +1,8 @@
 {
   "name": "Pontes de Londres",
+  "aliases": [
+    "London Bridges"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

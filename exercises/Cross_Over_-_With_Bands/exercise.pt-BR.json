@@ -1,5 +1,8 @@
 {
   "name": "Cross Over - Com Bandas",
+  "aliases": [
+    "Cross Over - With Bands"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

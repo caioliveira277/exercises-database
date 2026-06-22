@@ -1,5 +1,10 @@
 {
   "name": "Crunch reverso do cabo",
+  "aliases": [
+    "Cable Reverse Crunch",
+    "Abdominal Reverso do Cabo",
+    "Crunch Reverso do Cable"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

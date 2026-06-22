@@ -1,5 +1,8 @@
 {
   "name": "Puxar banco inclinado",
+  "aliases": [
+    "Incline Bench Pull"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,9 @@
 {
   "name": "Ondulação de martelo de corpo cruzado",
+  "aliases": [
+    "Cross Body Hammer Curl",
+    "Rosca Martelo"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

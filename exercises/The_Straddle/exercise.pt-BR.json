@@ -1,5 +1,8 @@
 {
   "name": "O Straddle",
+  "aliases": [
+    "The Straddle"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

@@ -1,5 +1,9 @@
 {
   "name": "Janda Sit-Up",
+  "aliases": [
+    "Janda Abdominal",
+    "Abdominal Sit-up"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

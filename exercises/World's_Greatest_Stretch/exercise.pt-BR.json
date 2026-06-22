@@ -1,5 +1,8 @@
 {
   "name": "O maior trecho do mundo",
+  "aliases": [
+    "World's Greatest Stretch"
+  ],
   "force": "estática",
   "level": "intermediário",
   "mechanic": null,

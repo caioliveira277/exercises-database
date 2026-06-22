@@ -1,5 +1,8 @@
 {
   "name": "Bom dia fora dos pins",
+  "aliases": [
+    "Good Morning off Pins"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

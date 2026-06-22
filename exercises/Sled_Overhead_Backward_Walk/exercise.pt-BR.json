@@ -1,5 +1,8 @@
 {
   "name": "Caminhada para trás em trenó",
+  "aliases": [
+    "Sled Overhead Backward Walk"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

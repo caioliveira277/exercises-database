@@ -1,5 +1,10 @@
 {
   "name": "Curvatura com barra em pé com pegada fechada",
+  "aliases": [
+    "Close-Grip Standing Barbell Curl",
+    "Rosca com Barra em Pé com Pegada Fechada",
+    "Rosca Bíceps em Pé com Barra"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

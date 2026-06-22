@@ -1,5 +1,8 @@
 {
   "name": "Abrace uma bola",
+  "aliases": [
+    "Hug A Ball"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

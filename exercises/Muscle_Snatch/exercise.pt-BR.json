@@ -1,5 +1,8 @@
 {
   "name": "Arrebatamento Muscular",
+  "aliases": [
+    "Muscle Snatch"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

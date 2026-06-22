@@ -1,5 +1,8 @@
 {
   "name": "Arrebatar Saldo",
+  "aliases": [
+    "Snatch Balance"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

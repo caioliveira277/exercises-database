@@ -1,5 +1,10 @@
 {
   "name": "Curvatura com halteres em pé sobre banco inclinado",
+  "aliases": [
+    "Standing One-Arm Dumbbell Curl Over Incline Bench",
+    "Rosca com Halteres em Pé Sobre Banco Inclinado",
+    "Rosca Bíceps Inclinada em Pé com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Flexão inclinada Close-Grip",
+  "aliases": [
+    "Incline Push-Up Close-Grip"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

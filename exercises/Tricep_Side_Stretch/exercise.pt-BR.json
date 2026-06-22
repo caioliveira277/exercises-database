@@ -1,5 +1,8 @@
 {
   "name": "Alongamento lateral do tríceps",
+  "aliases": [
+    "Tricep Side Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

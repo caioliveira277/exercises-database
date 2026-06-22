@@ -1,5 +1,8 @@
 {
   "name": "Círculos de Ombro",
+  "aliases": [
+    "Shoulder Circles"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": null,

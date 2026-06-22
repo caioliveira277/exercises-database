@@ -1,5 +1,10 @@
 {
   "name": "Cachos de martelo inclinados",
+  "aliases": [
+    "Incline Hammer Curls",
+    "Rosca de Martelo Inclinados",
+    "Rosca Martelo Inclinada"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

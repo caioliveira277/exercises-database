@@ -1,5 +1,10 @@
 {
   "name": "Curvatura com halteres inclinada alternativa",
+  "aliases": [
+    "Alternate Incline Dumbbell Curl",
+    "Rosca com Halteres Inclinada Alternativa",
+    "Rosca Bíceps Alternada Inclinada com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

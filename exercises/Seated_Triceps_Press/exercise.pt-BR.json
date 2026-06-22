@@ -1,5 +1,8 @@
 {
   "name": "Imprensa de tríceps sentado",
+  "aliases": [
+    "Seated Triceps Press"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

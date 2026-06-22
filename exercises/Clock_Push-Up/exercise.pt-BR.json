@@ -1,5 +1,8 @@
 {
   "name": "Flexão do relógio",
+  "aliases": [
+    "Clock Push-Up"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

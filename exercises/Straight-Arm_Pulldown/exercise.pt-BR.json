@@ -1,5 +1,8 @@
 {
   "name": "Pulldown de braço reto",
+  "aliases": [
+    "Straight-Arm Pulldown"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

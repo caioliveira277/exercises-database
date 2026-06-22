@@ -1,5 +1,8 @@
 {
   "name": "Empurrão no peito a partir da postura de 3 pontos",
+  "aliases": [
+    "Chest Push from 3 point stance"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

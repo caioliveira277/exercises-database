@@ -1,5 +1,8 @@
 {
   "name": "Torção Russa",
+  "aliases": [
+    "Russian Twist"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

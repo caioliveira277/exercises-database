@@ -1,5 +1,8 @@
 {
   "name": "Agachamento Box com Correntes",
+  "aliases": [
+    "Box Squat with Chains"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

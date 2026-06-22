@@ -1,5 +1,8 @@
 {
   "name": "Fileira de cabos verticais",
+  "aliases": [
+    "Upright Cable Row"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

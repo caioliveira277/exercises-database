@@ -1,5 +1,8 @@
 {
   "name": "Passe de peito para bola medicinal",
+  "aliases": [
+    "Medicine Ball Chest Pass"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

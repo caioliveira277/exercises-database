@@ -1,5 +1,8 @@
 {
   "name": "Salto estrela",
+  "aliases": [
+    "Star Jump"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

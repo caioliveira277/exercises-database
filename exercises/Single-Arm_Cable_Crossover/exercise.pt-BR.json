@@ -1,5 +1,9 @@
 {
   "name": "Cruzamento de cabo de braço único",
+  "aliases": [
+    "Single-Arm Cable Crossover",
+    "Cruzamento de Cable de Braço Único"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

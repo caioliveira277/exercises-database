@@ -1,5 +1,10 @@
 {
   "name": "Zottman Pregador Curl",
+  "aliases": [
+    "Zottman Preacher Curl",
+    "Zottman Pregador Rosca",
+    "Rosca Scott"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

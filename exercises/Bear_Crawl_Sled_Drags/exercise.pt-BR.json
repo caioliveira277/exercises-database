@@ -1,5 +1,8 @@
 {
   "name": "Dragas de trenó de rastreamento de urso",
+  "aliases": [
+    "Bear Crawl Sled Drags"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

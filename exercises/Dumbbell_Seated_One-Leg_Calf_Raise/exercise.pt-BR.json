@@ -1,5 +1,9 @@
 {
   "name": "Elevação de panturrilha com uma perna sentada com halteres",
+  "aliases": [
+    "Dumbbell Seated One-Leg Calf Raise",
+    "Elevação de Panturrilha com Uma Perna Sentada com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

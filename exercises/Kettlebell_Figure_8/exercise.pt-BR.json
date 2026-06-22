@@ -1,5 +1,8 @@
 {
   "name": "Kettlebell Figura 8",
+  "aliases": [
+    "Kettlebell Figure 8"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": null,

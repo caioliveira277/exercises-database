@@ -1,5 +1,10 @@
 {
   "name": "Curl Pregador",
+  "aliases": [
+    "Preacher Curl",
+    "Rosca Pregador",
+    "Rosca Scott"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

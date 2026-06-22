@@ -1,5 +1,8 @@
 {
   "name": "Bundas",
+  "aliases": [
+    "Butt-Ups"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

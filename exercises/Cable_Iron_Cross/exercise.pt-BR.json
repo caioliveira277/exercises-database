@@ -1,5 +1,9 @@
 {
   "name": "Cruz de Ferro Cabo",
+  "aliases": [
+    "Cable Iron Cross",
+    "Cruz de Ferro Cable"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

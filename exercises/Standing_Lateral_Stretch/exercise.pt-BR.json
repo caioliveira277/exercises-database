@@ -1,5 +1,8 @@
 {
   "name": "Alongamento lateral em pé",
+  "aliases": [
+    "Standing Lateral Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

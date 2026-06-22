@@ -1,5 +1,8 @@
 {
   "name": "Bicicleta reclinada",
+  "aliases": [
+    "Recumbent Bike"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": null,

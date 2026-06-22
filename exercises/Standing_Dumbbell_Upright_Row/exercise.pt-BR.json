@@ -1,5 +1,10 @@
 {
   "name": "Linha vertical com halteres em pé",
+  "aliases": [
+    "Standing Dumbbell Upright Row",
+    "Remada Vertical com Halteres em Pé",
+    "Linha Vertical com Dumbbells em Pé"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Pirâmide",
+  "aliases": [
+    "Pyramid"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

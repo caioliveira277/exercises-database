@@ -1,5 +1,8 @@
 {
   "name": "Embaralhamento de caixa lado a lado",
+  "aliases": [
+    "Side to Side Box Shuffle"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

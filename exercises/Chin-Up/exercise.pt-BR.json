@@ -1,5 +1,9 @@
 {
   "name": "Queixo para cima",
+  "aliases": [
+    "Chin-Up",
+    "Barra Fixa Supinada"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

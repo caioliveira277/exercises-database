@@ -1,5 +1,9 @@
 {
   "name": "Remada com barra longa com um braço",
+  "aliases": [
+    "One-Arm Long Bar Row",
+    "Remada com Barbell Longa com Um Braço"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

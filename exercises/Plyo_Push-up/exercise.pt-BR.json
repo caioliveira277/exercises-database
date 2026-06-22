@@ -1,5 +1,8 @@
 {
   "name": "Flexão Plyo",
+  "aliases": [
+    "Plyo Push-up"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Estocada de caminhada com peso corporal",
+  "aliases": [
+    "Bodyweight Walking Lunge",
+    "Afundo de Caminhada com Peso Corporal"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,10 @@
 {
   "name": "Pull-up traseiro de grande aderência",
+  "aliases": [
+    "Wide-Grip Rear Pull-Up",
+    "Barra Fixa Traseiro de Grande Aderência",
+    "Barra Fixa"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

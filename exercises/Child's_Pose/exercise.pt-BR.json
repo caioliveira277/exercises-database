@@ -1,5 +1,8 @@
 {
   "name": "Postura de criança",
+  "aliases": [
+    "Child's Pose"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

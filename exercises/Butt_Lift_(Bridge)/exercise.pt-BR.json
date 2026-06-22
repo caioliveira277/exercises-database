@@ -1,5 +1,8 @@
 {
   "name": "Levantamento de bunda (ponte)",
+  "aliases": [
+    "Butt Lift (Bridge)"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

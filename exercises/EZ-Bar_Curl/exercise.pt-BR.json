@@ -1,5 +1,10 @@
 {
   "name": "Curvatura EZ-Bar",
+  "aliases": [
+    "EZ-Bar Curl",
+    "Rosca Ez-bar",
+    "Rosca Bíceps com Barra Ez"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

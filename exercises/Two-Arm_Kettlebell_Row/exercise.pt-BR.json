@@ -1,5 +1,8 @@
 {
   "name": "Remada Kettlebell de dois braços",
+  "aliases": [
+    "Two-Arm Kettlebell Row"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com barra suspensa em pé",
+  "aliases": [
+    "Standing Overhead Barbell Triceps Extension",
+    "Extensão de Tríceps com Barbell Suspensa em Pé"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

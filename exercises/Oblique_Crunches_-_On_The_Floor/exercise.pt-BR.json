@@ -1,5 +1,9 @@
 {
   "name": "Crunches oblíquos - no chão",
+  "aliases": [
+    "Oblique Crunches - On The Floor",
+    "Abdominales Oblíquos - no Chão"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

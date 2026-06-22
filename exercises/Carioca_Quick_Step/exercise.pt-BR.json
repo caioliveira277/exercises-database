@@ -1,5 +1,8 @@
 {
   "name": "Passo Rápido Carioca",
+  "aliases": [
+    "Carioca Quick Step"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": null,

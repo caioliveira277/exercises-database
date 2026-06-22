@@ -1,5 +1,9 @@
 {
   "name": "Flexão lateral com barra",
+  "aliases": [
+    "Barbell Side Bend",
+    "Flexão Lateral com Barbell"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

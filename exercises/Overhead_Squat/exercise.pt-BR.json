@@ -1,5 +1,8 @@
 {
   "name": "Agachamento aéreo",
+  "aliases": [
+    "Overhead Squat"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

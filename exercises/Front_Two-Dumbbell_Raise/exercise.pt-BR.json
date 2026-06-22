@@ -1,5 +1,9 @@
 {
   "name": "Elevação frontal com dois halteres",
+  "aliases": [
+    "Front Two-Dumbbell Raise",
+    "Elevação Frontal com Dois Dumbbells"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

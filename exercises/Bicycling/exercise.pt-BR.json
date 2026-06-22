@@ -1,5 +1,8 @@
 {
   "name": "Ciclismo",
+  "aliases": [
+    "Bicycling"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": null,

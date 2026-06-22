@@ -1,5 +1,9 @@
 {
   "name": "Levantamento Terra por Cabo",
+  "aliases": [
+    "Cable Deadlifts",
+    "Levantamento Terra por Cable"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

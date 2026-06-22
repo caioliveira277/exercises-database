@@ -1,5 +1,8 @@
 {
   "name": "Equilíbrio voltado para baixo",
+  "aliases": [
+    "Downward Facing Balance"
+  ],
   "force": "estática",
   "level": "intermediário",
   "mechanic": "isolamento",

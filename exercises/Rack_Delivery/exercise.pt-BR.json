@@ -1,5 +1,8 @@
 {
   "name": "Entrega de rack",
+  "aliases": [
+    "Rack Delivery"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

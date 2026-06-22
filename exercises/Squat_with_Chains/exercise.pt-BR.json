@@ -1,5 +1,8 @@
 {
   "name": "Agachamento com correntes",
+  "aliases": [
+    "Squat with Chains"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

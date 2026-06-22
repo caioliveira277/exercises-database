@@ -1,5 +1,9 @@
 {
   "name": "Linha vertical de um braço da máquina Smith",
+  "aliases": [
+    "Smith Machine One-Arm Upright Row",
+    "Remada Vertical de Um Braço da Máquina Smith"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

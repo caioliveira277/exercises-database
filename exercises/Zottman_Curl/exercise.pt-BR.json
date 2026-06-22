@@ -1,5 +1,9 @@
 {
   "name": "Curl Zottman",
+  "aliases": [
+    "Zottman Curl",
+    "Rosca Zottman"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

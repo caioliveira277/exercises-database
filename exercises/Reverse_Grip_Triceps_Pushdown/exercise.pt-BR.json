@@ -1,5 +1,8 @@
 {
   "name": "Pushdown de tríceps com pegada reversa",
+  "aliases": [
+    "Reverse Grip Triceps Pushdown"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Pendure o arrebatamento",
+  "aliases": [
+    "Hang Snatch"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

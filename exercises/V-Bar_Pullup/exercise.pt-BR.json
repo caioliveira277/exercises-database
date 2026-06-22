@@ -1,5 +1,11 @@
 {
   "name": "Pull-up da barra V",
+  "aliases": [
+    "V-Bar Pullup",
+    "Barra Fixa da Barra V",
+    "Pull-up da Barbell V",
+    "Barra Fixa"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

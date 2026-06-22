@@ -1,5 +1,8 @@
 {
   "name": "Alongamento lateral no chão",
+  "aliases": [
+    "Side-Lying Floor Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

@@ -1,5 +1,9 @@
 {
   "name": "Recusar extensão de tríceps com barra EZ",
+  "aliases": [
+    "Decline EZ Bar Triceps Extension",
+    "Recusar Extensão de Tríceps com Barbell Ez"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

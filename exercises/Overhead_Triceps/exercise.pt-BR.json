@@ -1,5 +1,8 @@
 {
   "name": "Tríceps aéreos",
+  "aliases": [
+    "Overhead Triceps"
+  ],
   "force": "estática",
   "level": "avançado",
   "mechanic": null,

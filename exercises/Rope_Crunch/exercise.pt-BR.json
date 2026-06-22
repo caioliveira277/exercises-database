@@ -1,5 +1,9 @@
 {
   "name": "Trituração de corda",
+  "aliases": [
+    "Rope Crunch",
+    "Abdominal de Corda"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

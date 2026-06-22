@@ -1,5 +1,8 @@
 {
   "name": "Supino com banda reversa",
+  "aliases": [
+    "Reverse Band Bench Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

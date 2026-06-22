@@ -1,5 +1,8 @@
 {
   "name": "Aproveite a prensa de ombro",
+  "aliases": [
+    "Leverage Shoulder Press"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

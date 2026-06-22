@@ -1,5 +1,9 @@
 {
   "name": "Remada vertical com barra",
+  "aliases": [
+    "Upright Barbell Row",
+    "Remada Vertical com Barbell"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

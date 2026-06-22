@@ -1,5 +1,9 @@
 {
   "name": "Ponte de glúteos com barra",
+  "aliases": [
+    "Barbell Glute Bridge",
+    "Ponte de Glúteos com Barbell"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

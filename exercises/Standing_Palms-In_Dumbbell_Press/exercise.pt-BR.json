@@ -1,5 +1,9 @@
 {
   "name": "Supino com halteres em pé com as palmas das mãos",
+  "aliases": [
+    "Standing Palms-In Dumbbell Press",
+    "Supino com Dumbbells em Pé com As Palmas das Mãos"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Ponte de quadril de fisioball",
+  "aliases": [
+    "Physioball Hip Bridge"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

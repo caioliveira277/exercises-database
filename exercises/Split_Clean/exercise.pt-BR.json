@@ -1,5 +1,8 @@
 {
   "name": "Dividir limpo",
+  "aliases": [
+    "Split Clean"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

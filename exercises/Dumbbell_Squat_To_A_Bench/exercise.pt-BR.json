@@ -1,5 +1,9 @@
 {
   "name": "Agachamento com halteres em um banco",
+  "aliases": [
+    "Dumbbell Squat To A Bench",
+    "Agachamento com Dumbbells em Um Banco"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Flexões",
+  "aliases": [
+    "Crunches"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Cotovelos para trás",
+  "aliases": [
+    "Elbows Back"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

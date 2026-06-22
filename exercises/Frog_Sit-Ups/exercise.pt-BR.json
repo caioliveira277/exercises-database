@@ -1,5 +1,9 @@
 {
   "name": "Abdominais de sapo",
+  "aliases": [
+    "Frog Sit-Ups",
+    "Abdominal Sit-up"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

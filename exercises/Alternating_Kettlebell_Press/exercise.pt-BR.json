@@ -1,5 +1,8 @@
 {
   "name": "Prensa Kettlebell Alternada",
+  "aliases": [
+    "Alternating Kettlebell Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

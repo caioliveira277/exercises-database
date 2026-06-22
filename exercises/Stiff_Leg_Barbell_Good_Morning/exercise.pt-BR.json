@@ -1,5 +1,9 @@
 {
   "name": "Barra de perna rígida, bom dia",
+  "aliases": [
+    "Stiff Leg Barbell Good Morning",
+    "Barbell de Perna Rígida, Bom Dia"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

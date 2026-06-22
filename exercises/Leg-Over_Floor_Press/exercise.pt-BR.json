@@ -1,5 +1,8 @@
 {
   "name": "Prensa de perna sobre o chão",
+  "aliases": [
+    "Leg-Over Floor Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

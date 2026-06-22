@@ -1,5 +1,9 @@
 {
   "name": "Linha invertida",
+  "aliases": [
+    "Inverted Row",
+    "Remada Invertida"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

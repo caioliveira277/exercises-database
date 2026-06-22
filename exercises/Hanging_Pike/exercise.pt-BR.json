@@ -1,5 +1,8 @@
 {
   "name": "Lúcio Pendurado",
+  "aliases": [
+    "Hanging Pike"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

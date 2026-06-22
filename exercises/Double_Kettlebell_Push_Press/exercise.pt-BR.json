@@ -1,5 +1,8 @@
 {
   "name": "Prensa Dupla Kettlebell",
+  "aliases": [
+    "Double Kettlebell Push Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

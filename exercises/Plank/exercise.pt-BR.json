@@ -1,5 +1,8 @@
 {
   "name": "Prancha",
+  "aliases": [
+    "Plank"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

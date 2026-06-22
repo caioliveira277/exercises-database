@@ -1,5 +1,10 @@
 {
   "name": "Pressão de ombro com halteres com um braço",
+  "aliases": [
+    "Dumbbell One-Arm Shoulder Press",
+    "Press de Ombro com Halteres com Um Braço",
+    "Pressão de Ombro com Dumbbells com Um Braço"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

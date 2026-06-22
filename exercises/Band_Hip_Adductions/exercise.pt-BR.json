@@ -1,5 +1,8 @@
 {
   "name": "Banda de aduções de quadril",
+  "aliases": [
+    "Band Hip Adductions"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

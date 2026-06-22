@@ -1,5 +1,8 @@
 {
   "name": "Pular corda",
+  "aliases": [
+    "Rope Jumping"
+  ],
   "force": null,
   "level": "intermediário",
   "mechanic": null,

@@ -1,5 +1,9 @@
 {
   "name": "Abdominais ponderados – com faixas",
+  "aliases": [
+    "Weighted Sit-Ups - With Bands",
+    "Abdominal Sit-up"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

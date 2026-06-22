@@ -1,5 +1,9 @@
 {
   "name": "Prensa de tórax com cabo em pé",
+  "aliases": [
+    "Standing Cable Chest Press",
+    "Prensa de Tórax com Cable em Pé"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

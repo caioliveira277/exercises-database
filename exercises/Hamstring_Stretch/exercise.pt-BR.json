@@ -1,5 +1,8 @@
 {
   "name": "Alongamento dos isquiotibiais",
+  "aliases": [
+    "Hamstring Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

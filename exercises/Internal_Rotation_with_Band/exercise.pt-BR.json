@@ -1,5 +1,8 @@
 {
   "name": "Rotação Interna com Banda",
+  "aliases": [
+    "Internal Rotation with Band"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": "isolamento",

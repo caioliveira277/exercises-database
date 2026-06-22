@@ -1,5 +1,8 @@
 {
   "name": "Kettlebell Turco Get-Up (estilo agachamento)",
+  "aliases": [
+    "Kettlebell Turkish Get-Up (Squat style)"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

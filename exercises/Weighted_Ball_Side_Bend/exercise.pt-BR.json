@@ -1,5 +1,8 @@
 {
   "name": "Curva lateral da bola ponderada",
+  "aliases": [
+    "Weighted Ball Side Bend"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

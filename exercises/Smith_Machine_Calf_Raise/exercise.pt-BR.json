@@ -1,5 +1,8 @@
 {
   "name": "Elevação de panturrilha com máquina Smith",
+  "aliases": [
+    "Smith Machine Calf Raise"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

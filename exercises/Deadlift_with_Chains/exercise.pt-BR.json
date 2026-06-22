@@ -1,5 +1,8 @@
 {
   "name": "Deadlift com Correntes",
+  "aliases": [
+    "Deadlift with Chains"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

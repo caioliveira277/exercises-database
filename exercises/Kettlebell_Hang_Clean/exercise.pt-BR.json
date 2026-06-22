@@ -1,5 +1,8 @@
 {
   "name": "Kettlebell pendurado limpo",
+  "aliases": [
+    "Kettlebell Hang Clean"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

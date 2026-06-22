@@ -1,5 +1,9 @@
 {
   "name": "Levantamento de haltere inclinado frontal",
+  "aliases": [
+    "Front Incline Dumbbell Raise",
+    "Elevação de Haltere Inclinado Frontal"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

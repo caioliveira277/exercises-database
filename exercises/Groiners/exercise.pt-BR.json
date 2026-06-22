@@ -1,5 +1,8 @@
 {
   "name": "Groiners",
+  "aliases": [
+    "Alongamento Groiner"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

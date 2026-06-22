@@ -1,5 +1,8 @@
 {
   "name": "Salto de caixa (resposta múltipla)",
+  "aliases": [
+    "Box Jump (Multiple Response)"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

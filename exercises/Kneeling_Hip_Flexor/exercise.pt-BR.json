@@ -1,5 +1,8 @@
 {
   "name": "Flexor do quadril ajoelhado",
+  "aliases": [
+    "Kneeling Hip Flexor"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

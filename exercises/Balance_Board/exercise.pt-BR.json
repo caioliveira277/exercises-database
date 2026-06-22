@@ -1,5 +1,8 @@
 {
   "name": "Quadro de equilíbrio",
+  "aliases": [
+    "Balance Board"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": "composto",

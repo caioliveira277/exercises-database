@@ -1,5 +1,9 @@
 {
   "name": "Imprensa militar com barra sentada",
+  "aliases": [
+    "Seated Barbell Military Press",
+    "Imprensa Militar com Barbell Sentada"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

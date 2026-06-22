@@ -1,5 +1,9 @@
 {
   "name": "Remo de barra longa curvado sobre um braço",
+  "aliases": [
+    "Bent Over One-Arm Long Bar Row",
+    "Remo de Barbell Longa Curvado Sobre Um Braço"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Flexão lateral do haltere",
+  "aliases": [
+    "Dumbbell Side Bend"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

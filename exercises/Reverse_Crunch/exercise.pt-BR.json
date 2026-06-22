@@ -1,5 +1,9 @@
 {
   "name": "Crunch reverso",
+  "aliases": [
+    "Reverse Crunch",
+    "Abdominal Reverso"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

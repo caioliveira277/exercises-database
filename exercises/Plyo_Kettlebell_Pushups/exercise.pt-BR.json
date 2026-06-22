@@ -1,5 +1,9 @@
 {
   "name": "Flexões Plyo Kettlebell",
+  "aliases": [
+    "Plyo Kettlebell Pushups",
+    "Flexão Plyo Kettlebell"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

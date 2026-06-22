@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com halteres pronados com um braço",
+  "aliases": [
+    "One Arm Pronated Dumbbell Triceps Extension",
+    "Extensão de Tríceps com Dumbbells Pronados com Um Braço"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

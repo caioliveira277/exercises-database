@@ -1,5 +1,10 @@
 {
   "name": "Curvatura do pulso com haltere com as palmas para cima sobre um banco",
+  "aliases": [
+    "Palms-Up Dumbbell Wrist Curl Over A Bench",
+    "Rosca do Pulso com Haltere com As Palmas para Cima Sobre Um Banco",
+    "Rosca de Punho com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

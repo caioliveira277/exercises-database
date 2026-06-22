@@ -1,5 +1,8 @@
 {
   "name": "Moinho de vento Kettlebell",
+  "aliases": [
+    "Kettlebell Windmill"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

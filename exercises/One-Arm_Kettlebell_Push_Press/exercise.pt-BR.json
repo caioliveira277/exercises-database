@@ -1,5 +1,8 @@
 {
   "name": "Prensa Kettlebell com um braço",
+  "aliases": [
+    "One-Arm Kettlebell Push Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

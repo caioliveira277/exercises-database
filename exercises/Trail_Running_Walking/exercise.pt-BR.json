@@ -1,5 +1,8 @@
 {
   "name": "Corrida/caminhada em trilha",
+  "aliases": [
+    "Trail Running/Walking"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": null,

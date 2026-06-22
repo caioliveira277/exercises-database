@@ -1,5 +1,9 @@
 {
   "name": "Exercício de trituração de bola",
+  "aliases": [
+    "Exercise Ball Crunch",
+    "Exercício de Abdominal de Bola"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

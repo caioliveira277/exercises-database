@@ -1,5 +1,8 @@
 {
   "name": "Moinho escalonado",
+  "aliases": [
+    "Step Mill"
+  ],
   "force": null,
   "level": "intermediário",
   "mechanic": null,

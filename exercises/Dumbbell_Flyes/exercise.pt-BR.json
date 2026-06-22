@@ -1,5 +1,9 @@
 {
   "name": "Halteres voam",
+  "aliases": [
+    "Dumbbell Flyes",
+    "Dumbbells Voam"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

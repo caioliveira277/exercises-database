@@ -1,5 +1,9 @@
 {
   "name": "Remada com barra curvada deitada",
+  "aliases": [
+    "Lying Cambered Barbell Row",
+    "Remada com Barbell Curvada Deitada"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

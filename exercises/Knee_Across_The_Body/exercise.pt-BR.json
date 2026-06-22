@@ -1,5 +1,8 @@
 {
   "name": "Joelho ao longo do corpo",
+  "aliases": [
+    "Knee Across The Body"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

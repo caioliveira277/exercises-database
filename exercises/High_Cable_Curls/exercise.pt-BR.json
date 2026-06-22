@@ -1,5 +1,10 @@
 {
   "name": "Cachos de cabo altos",
+  "aliases": [
+    "High Cable Curls",
+    "Rosca de Cabo Altos",
+    "Rosca Bíceps no Cabo"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

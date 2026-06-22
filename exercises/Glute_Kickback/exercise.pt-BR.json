@@ -1,5 +1,8 @@
 {
   "name": "Retrocesso de glúteos",
+  "aliases": [
+    "Glute Kickback"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

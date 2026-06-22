@@ -1,5 +1,10 @@
 {
   "name": "Pressione Sit-Up",
+  "aliases": [
+    "Press Sit-Up",
+    "Pressione Abdominal",
+    "Abdominal Sit-up"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

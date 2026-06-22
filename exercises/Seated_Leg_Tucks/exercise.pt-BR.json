@@ -1,5 +1,8 @@
 {
   "name": "Dobras de pernas sentadas",
+  "aliases": [
+    "Seated Leg Tucks"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

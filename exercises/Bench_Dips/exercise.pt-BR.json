@@ -1,5 +1,8 @@
 {
   "name": "Mergulhos de banco",
+  "aliases": [
+    "Bench Dips"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

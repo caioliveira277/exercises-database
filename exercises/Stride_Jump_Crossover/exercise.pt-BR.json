@@ -1,5 +1,8 @@
 {
   "name": "Cruzamento de salto de passada",
+  "aliases": [
+    "Stride Jump Crossover"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

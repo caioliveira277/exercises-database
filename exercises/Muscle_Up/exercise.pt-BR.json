@@ -1,5 +1,8 @@
 {
   "name": "Músculo para cima",
+  "aliases": [
+    "Muscle Up"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

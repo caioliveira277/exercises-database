@@ -1,5 +1,8 @@
 {
   "name": "Círculos de Tornozelo",
+  "aliases": [
+    "Ankle Circles"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

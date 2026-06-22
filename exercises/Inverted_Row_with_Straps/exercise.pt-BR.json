@@ -1,5 +1,8 @@
 {
   "name": "Fila Invertida com Alças",
+  "aliases": [
+    "Inverted Row with Straps"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,10 @@
 {
   "name": "Linha de barra em T com alça",
+  "aliases": [
+    "T-Bar Row with Handle",
+    "Remada de Barra em T com Alça",
+    "Linha de Barbell em T com Alça"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

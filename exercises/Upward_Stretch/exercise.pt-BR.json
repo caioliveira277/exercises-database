@@ -1,5 +1,8 @@
 {
   "name": "Alongamento para cima",
+  "aliases": [
+    "Upward Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

@@ -1,5 +1,8 @@
 {
   "name": "Mergulho de banco ponderado",
+  "aliases": [
+    "Weighted Bench Dip"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

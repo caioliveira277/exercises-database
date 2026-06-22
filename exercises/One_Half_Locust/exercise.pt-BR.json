@@ -1,5 +1,8 @@
 {
   "name": "Meio gafanhoto",
+  "aliases": [
+    "One Half Locust"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

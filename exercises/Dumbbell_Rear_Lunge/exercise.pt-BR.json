@@ -1,5 +1,10 @@
 {
   "name": "Estocada traseira com halteres",
+  "aliases": [
+    "Dumbbell Rear Lunge",
+    "Afundo Traseira com Halteres",
+    "Estocada Traseira com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

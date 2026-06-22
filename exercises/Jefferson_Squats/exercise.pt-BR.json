@@ -1,5 +1,8 @@
 {
   "name": "Agachamento Jefferson",
+  "aliases": [
+    "Jefferson Squats"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

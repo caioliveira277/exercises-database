@@ -1,5 +1,9 @@
 {
   "name": "Halteres inclinados",
+  "aliases": [
+    "Incline Dumbbell Flyes",
+    "Dumbbells Inclinados"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

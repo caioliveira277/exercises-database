@@ -1,5 +1,10 @@
 {
   "name": "Enrolamento de cabo de um braço em pé",
+  "aliases": [
+    "Standing One-Arm Cable Curl",
+    "Enrolamento de Cable de Um Braço em Pé",
+    "Rosca Bíceps em Pé no Cabo"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

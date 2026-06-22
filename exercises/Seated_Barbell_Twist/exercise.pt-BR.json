@@ -1,5 +1,9 @@
 {
   "name": "Torção com barra sentada",
+  "aliases": [
+    "Seated Barbell Twist",
+    "Torção com Barbell Sentada"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

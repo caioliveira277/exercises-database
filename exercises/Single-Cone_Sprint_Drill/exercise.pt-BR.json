@@ -1,5 +1,8 @@
 {
   "name": "Broca Sprint de Cone Único",
+  "aliases": [
+    "Single-Cone Sprint Drill"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": null,

@@ -1,5 +1,9 @@
 {
   "name": "Escapamento com halteres",
+  "aliases": [
+    "Dumbbell Scaption",
+    "Escapamento com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

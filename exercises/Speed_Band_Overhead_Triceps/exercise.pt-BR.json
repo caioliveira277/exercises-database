@@ -1,5 +1,8 @@
 {
   "name": "Tríceps suspensos com banda de velocidade",
+  "aliases": [
+    "Speed Band Overhead Triceps"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Flexão de quadril com faixa",
+  "aliases": [
+    "Hip Flexion with Band"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

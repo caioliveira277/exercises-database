@@ -1,5 +1,8 @@
 {
   "name": "Front Cone Hops (ou hurdle hops)",
+  "aliases": [
+    "Front Cone Hops (or hurdle hops)"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

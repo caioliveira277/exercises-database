@@ -1,5 +1,10 @@
 {
   "name": "Curl EZ-Bar Close-Grip com faixa",
+  "aliases": [
+    "Close-Grip EZ-Bar Curl with Band",
+    "Rosca Ez-bar Close-grip com Faixa",
+    "Rosca Bíceps com Barra Ez com Elástico"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

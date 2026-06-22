@@ -1,5 +1,9 @@
 {
   "name": "Linha T-Bar Deitada",
+  "aliases": [
+    "Lying T-Bar Row",
+    "Remada T-bar Deitada"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Limite lateral",
+  "aliases": [
+    "Lateral Bound"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

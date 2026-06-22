@@ -1,5 +1,9 @@
 {
   "name": "Supino guilhotina com barra",
+  "aliases": [
+    "Barbell Guillotine Bench Press",
+    "Supino Guilhotina com Barbell"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

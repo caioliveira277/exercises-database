@@ -1,5 +1,9 @@
 {
   "name": "Supino alternado com halteres em pé",
+  "aliases": [
+    "Standing Alternating Dumbbell Press",
+    "Supino Alternado com Dumbbells em Pé"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

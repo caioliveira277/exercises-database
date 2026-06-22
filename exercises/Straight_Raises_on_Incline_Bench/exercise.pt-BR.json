@@ -1,5 +1,8 @@
 {
   "name": "Aumentos retos no banco inclinado",
+  "aliases": [
+    "Straight Raises on Incline Bench"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

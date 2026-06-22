@@ -1,5 +1,8 @@
 {
   "name": "Elevação de perna deitada em banco plano",
+  "aliases": [
+    "Flat Bench Lying Leg Raise"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

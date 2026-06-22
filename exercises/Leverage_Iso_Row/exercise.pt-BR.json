@@ -1,5 +1,9 @@
 {
   "name": "Aproveite a Linha Iso",
+  "aliases": [
+    "Leverage Iso Row",
+    "Aproveite a Remada Iso"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

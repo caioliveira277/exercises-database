@@ -1,5 +1,8 @@
 {
   "name": "Alternando Hang Clean",
+  "aliases": [
+    "Alternating Hang Clean"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

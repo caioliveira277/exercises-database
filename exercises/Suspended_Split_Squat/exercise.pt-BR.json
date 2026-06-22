@@ -1,5 +1,8 @@
 {
   "name": "Agachamento dividido suspenso",
+  "aliases": [
+    "Suspended Split Squat"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

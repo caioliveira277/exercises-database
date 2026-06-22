@@ -1,5 +1,8 @@
 {
   "name": "Alongamento da parte superior do corpo da cadeira",
+  "aliases": [
+    "Chair Upper Body Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

@@ -1,5 +1,8 @@
 {
   "name": "Pendurar com uma mão",
+  "aliases": [
+    "One Handed Hang"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

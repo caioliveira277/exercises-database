@@ -1,5 +1,10 @@
 {
   "name": "Curvatura com barra deitada no banco alto",
+  "aliases": [
+    "Lying High Bench Barbell Curl",
+    "Rosca com Barra Deitada no Banco Alto",
+    "Rosca Bíceps Deitado com Barra"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

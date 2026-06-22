@@ -1,5 +1,9 @@
 {
   "name": "Crunch - mãos acima da cabeça",
+  "aliases": [
+    "Crunch - Hands Overhead",
+    "Abdominal - Mãos Acima da Cabeça"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

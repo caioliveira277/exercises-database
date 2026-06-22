@@ -1,5 +1,8 @@
 {
   "name": "Agachamento caixa com banda reversa",
+  "aliases": [
+    "Reverse Band Box Squat"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

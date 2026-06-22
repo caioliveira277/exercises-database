@@ -1,5 +1,8 @@
 {
   "name": "Puxar rosto",
+  "aliases": [
+    "Face Pull"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

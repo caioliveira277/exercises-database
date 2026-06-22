@@ -1,5 +1,8 @@
 {
   "name": "Escadas elétricas",
+  "aliases": [
+    "Power Stairs"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

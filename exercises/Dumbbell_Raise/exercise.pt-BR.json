@@ -1,5 +1,10 @@
 {
   "name": "Levantamento de halteres",
+  "aliases": [
+    "Dumbbell Raise",
+    "Elevação de Halteres",
+    "Levantamento de Dumbbells"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

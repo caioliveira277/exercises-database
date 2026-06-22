@@ -1,5 +1,10 @@
 {
   "name": "Pressão de ombro com barra",
+  "aliases": [
+    "Barbell Shoulder Press",
+    "Press de Ombro com Barra",
+    "Pressão de Ombro com Barbell"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

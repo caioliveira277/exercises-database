@@ -1,5 +1,8 @@
 {
   "name": "Slides de plataforma para isquiotibiais",
+  "aliases": [
+    "Platform Hamstring Slides"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

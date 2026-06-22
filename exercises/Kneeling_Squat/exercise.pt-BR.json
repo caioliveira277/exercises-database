@@ -1,5 +1,8 @@
 {
   "name": "Agachamento ajoelhado",
+  "aliases": [
+    "Kneeling Squat"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

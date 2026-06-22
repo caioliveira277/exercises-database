@@ -1,5 +1,8 @@
 {
   "name": "Salto de profundidade linear",
+  "aliases": [
+    "Linear Depth Jump"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Onda de martelo alternativa",
+  "aliases": [
+    "Alternate Hammer Curl",
+    "Rosca Martelo Alternada"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

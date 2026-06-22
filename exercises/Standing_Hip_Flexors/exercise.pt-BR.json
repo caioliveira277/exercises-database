@@ -1,5 +1,8 @@
 {
   "name": "Flexores de quadril em pé",
+  "aliases": [
+    "Standing Hip Flexors"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

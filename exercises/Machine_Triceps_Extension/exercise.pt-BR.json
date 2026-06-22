@@ -1,5 +1,8 @@
 {
   "name": "Extensão de tríceps de máquina",
+  "aliases": [
+    "Machine Triceps Extension"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

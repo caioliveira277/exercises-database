@@ -1,5 +1,9 @@
 {
   "name": "Flye com halteres de banco plano de um braço",
+  "aliases": [
+    "One-Arm Flat Bench Dumbbell Flye",
+    "Flye com Dumbbells de Banco Plano de Um Braço"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

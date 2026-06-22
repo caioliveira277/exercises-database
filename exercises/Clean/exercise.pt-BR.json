@@ -1,5 +1,8 @@
 {
   "name": "Limpar",
+  "aliases": [
+    "Clean"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

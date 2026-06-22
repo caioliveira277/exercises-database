@@ -1,5 +1,9 @@
 {
   "name": "Impulso de quadril com barra",
+  "aliases": [
+    "Barbell Hip Thrust",
+    "Impulso de Quadril com Barbell"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

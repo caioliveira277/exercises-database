@@ -1,5 +1,8 @@
 {
   "name": "Pulldown de amplitude total de movimento",
+  "aliases": [
+    "Full Range-Of-Motion Lat Pulldown"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

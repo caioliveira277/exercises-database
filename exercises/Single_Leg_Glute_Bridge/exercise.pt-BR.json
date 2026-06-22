@@ -1,5 +1,8 @@
 {
   "name": "Ponte de glúteos de perna única",
+  "aliases": [
+    "Single Leg Glute Bridge"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

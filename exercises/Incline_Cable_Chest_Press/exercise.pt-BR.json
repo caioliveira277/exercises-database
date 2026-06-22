@@ -1,5 +1,9 @@
 {
   "name": "Prensa de tórax com cabo inclinado",
+  "aliases": [
+    "Incline Cable Chest Press",
+    "Prensa de Tórax com Cable Inclinado"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

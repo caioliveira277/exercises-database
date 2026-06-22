@@ -1,5 +1,8 @@
 {
   "name": "Gironda Esterno Queixos",
+  "aliases": [
+    "Gironda Sternum Chins"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

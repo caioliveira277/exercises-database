@@ -1,5 +1,9 @@
 {
   "name": "Supinação deitada com halteres",
+  "aliases": [
+    "Dumbbell Lying Supination",
+    "Supinação Deitada com Dumbbells"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

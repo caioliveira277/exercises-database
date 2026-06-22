@@ -1,5 +1,8 @@
 {
   "name": "Inclinação pélvica em pé",
+  "aliases": [
+    "Standing Pelvic Tilt"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

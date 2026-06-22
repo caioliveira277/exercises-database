@@ -1,5 +1,8 @@
 {
   "name": "Exercício Isométrico de Pescoço - Frente e Costas",
+  "aliases": [
+    "Isometric Neck Exercise - Front And Back"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

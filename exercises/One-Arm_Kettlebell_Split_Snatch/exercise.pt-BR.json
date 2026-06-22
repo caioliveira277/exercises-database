@@ -1,5 +1,8 @@
 {
   "name": "Arrebatamento dividido com Kettlebell com um braço",
+  "aliases": [
+    "One-Arm Kettlebell Split Snatch"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

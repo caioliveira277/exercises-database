@@ -1,5 +1,8 @@
 {
   "name": "Alongamento estendido da perna da cadeira",
+  "aliases": [
+    "Chair Leg Extended Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

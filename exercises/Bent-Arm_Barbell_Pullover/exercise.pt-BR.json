@@ -1,5 +1,9 @@
 {
   "name": "Pulôver com barra com braço dobrado",
+  "aliases": [
+    "Bent-Arm Barbell Pullover",
+    "Pulôver com Barbell com Braço Dobrado"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

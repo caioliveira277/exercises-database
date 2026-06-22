@@ -1,5 +1,8 @@
 {
   "name": "Kettlebell totalmente limpo",
+  "aliases": [
+    "Kettlebell Dead Clean"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

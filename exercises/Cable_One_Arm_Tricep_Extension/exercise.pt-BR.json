@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps de um braço com cabo",
+  "aliases": [
+    "Cable One Arm Tricep Extension",
+    "Extensão de Tríceps de Um Braço com Cable"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

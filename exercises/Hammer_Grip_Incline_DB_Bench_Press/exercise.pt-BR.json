@@ -1,5 +1,8 @@
 {
   "name": "Prensa de banco inclinada DB Hammer Grip",
+  "aliases": [
+    "Hammer Grip Incline DB Bench Press"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

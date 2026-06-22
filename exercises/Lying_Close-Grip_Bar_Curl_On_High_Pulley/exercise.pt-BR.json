@@ -1,5 +1,10 @@
 {
   "name": "Curvatura da barra deitada na polia alta",
+  "aliases": [
+    "Lying Close-Grip Bar Curl On High Pulley",
+    "Rosca da Barra Deitada na Polia Alta",
+    "Rosca Bíceps Deitado"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

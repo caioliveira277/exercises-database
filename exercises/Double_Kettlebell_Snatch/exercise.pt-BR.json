@@ -1,5 +1,8 @@
 {
   "name": "Arranco Duplo com Kettlebell",
+  "aliases": [
+    "Double Kettlebell Snatch"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

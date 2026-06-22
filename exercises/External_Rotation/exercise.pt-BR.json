@@ -1,5 +1,8 @@
 {
   "name": "Rotação Externa",
+  "aliases": [
+    "External Rotation"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

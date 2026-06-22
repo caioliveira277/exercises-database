@@ -1,5 +1,8 @@
 {
   "name": "Alongamento de tríceps",
+  "aliases": [
+    "Triceps Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

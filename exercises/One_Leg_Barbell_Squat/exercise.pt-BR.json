@@ -1,5 +1,9 @@
 {
   "name": "Agachamento com barra com uma perna",
+  "aliases": [
+    "One Leg Barbell Squat",
+    "Agachamento com Barbell com Uma Perna"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

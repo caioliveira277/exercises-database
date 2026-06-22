@@ -1,5 +1,8 @@
 {
   "name": "Deadlift de sumô com bandas",
+  "aliases": [
+    "Sumo Deadlift with Bands"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

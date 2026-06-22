@@ -1,5 +1,8 @@
 {
   "name": "Elevação lateral lateral sentada",
+  "aliases": [
+    "Seated Side Lateral Raise"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

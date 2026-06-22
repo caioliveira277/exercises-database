@@ -1,5 +1,8 @@
 {
   "name": "Pegar e lançar por cima",
+  "aliases": [
+    "Catch and Overhead Throw"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Retrocesso de cabo de uma perna",
+  "aliases": [
+    "One-Legged Cable Kickback",
+    "Retrocesso de Cable de Uma Perna"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

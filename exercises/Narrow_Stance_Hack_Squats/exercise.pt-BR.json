@@ -1,5 +1,8 @@
 {
   "name": "Agachamento com postura estreita",
+  "aliases": [
+    "Narrow Stance Hack Squats"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

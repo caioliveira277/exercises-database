@@ -1,5 +1,8 @@
 {
   "name": "Prensa gangorra (prensa lateral alternada)",
+  "aliases": [
+    "See-Saw Press (Alternating Side Press)"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

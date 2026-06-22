@@ -1,5 +1,8 @@
 {
   "name": "Pulldown lateral de grande aderência",
+  "aliases": [
+    "Wide-Grip Lat Pulldown"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

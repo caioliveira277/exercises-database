@@ -1,5 +1,8 @@
 {
   "name": "Exercício de braço ajoelhado",
+  "aliases": [
+    "Kneeling Arm Drill"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": null,

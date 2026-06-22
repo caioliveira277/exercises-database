@@ -1,5 +1,8 @@
 {
   "name": "Abrace os joelhos no peito",
+  "aliases": [
+    "Hug Knees To Chest"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

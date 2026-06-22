@@ -1,5 +1,9 @@
 {
   "name": "Agachamento com barra",
+  "aliases": [
+    "Barbell Hack Squat",
+    "Agachamento com Barbell"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

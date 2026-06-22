@@ -1,5 +1,8 @@
 {
   "name": "Isquiotibial deitado",
+  "aliases": [
+    "Lying Hamstring"
+  ],
   "force": "estática",
   "level": "avançado",
   "mechanic": null,

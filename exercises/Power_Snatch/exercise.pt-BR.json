@@ -1,5 +1,8 @@
 {
   "name": "Arrebatamento de poder",
+  "aliases": [
+    "Power Snatch"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Deadlift Romeno do Déficit",
+  "aliases": [
+    "Romanian Deadlift from Deficit"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

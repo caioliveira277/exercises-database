@@ -1,5 +1,8 @@
 {
   "name": "Moinhos de vento",
+  "aliases": [
+    "Windmills"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": null,

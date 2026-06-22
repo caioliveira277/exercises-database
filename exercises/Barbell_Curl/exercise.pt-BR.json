@@ -1,5 +1,10 @@
 {
   "name": "Curvatura com barra",
+  "aliases": [
+    "Barbell Curl",
+    "Rosca com Barra",
+    "Rosca Bíceps com Barra"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

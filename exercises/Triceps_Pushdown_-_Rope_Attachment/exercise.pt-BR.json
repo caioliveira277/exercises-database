@@ -1,5 +1,8 @@
 {
   "name": "Pushdown de tríceps - fixação de corda",
+  "aliases": [
+    "Triceps Pushdown - Rope Attachment"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

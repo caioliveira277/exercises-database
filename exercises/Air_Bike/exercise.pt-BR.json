@@ -1,5 +1,8 @@
 {
   "name": "Bicicleta aérea",
+  "aliases": [
+    "Air Bike"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

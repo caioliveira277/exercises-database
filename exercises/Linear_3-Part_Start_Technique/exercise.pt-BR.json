@@ -1,5 +1,8 @@
 {
   "name": "Técnica de início linear de 3 partes",
+  "aliases": [
+    "Linear 3-Part Start Technique"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

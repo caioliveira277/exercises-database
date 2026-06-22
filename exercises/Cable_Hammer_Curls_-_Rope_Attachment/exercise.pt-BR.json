@@ -1,5 +1,10 @@
 {
   "name": "Cachos de martelo de cabo - fixação de corda",
+  "aliases": [
+    "Cable Hammer Curls - Rope Attachment",
+    "Rosca de Martelo de Cabo - Fixação de Corda",
+    "Rosca Martelo no Cabo"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

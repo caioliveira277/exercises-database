@@ -1,5 +1,9 @@
 {
   "name": "Empurre Pressione",
+  "aliases": [
+    "Push Press",
+    "Empurre Press"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

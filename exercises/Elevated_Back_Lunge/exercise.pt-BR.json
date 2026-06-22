@@ -1,5 +1,9 @@
 {
   "name": "Estocada para trás elevada",
+  "aliases": [
+    "Elevated Back Lunge",
+    "Afundo para Trás Elevada"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

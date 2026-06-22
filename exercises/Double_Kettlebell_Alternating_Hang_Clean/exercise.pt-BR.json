@@ -1,5 +1,8 @@
 {
   "name": "Kettlebell duplo alternado pendurado limpo",
+  "aliases": [
+    "Double Kettlebell Alternating Hang Clean"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

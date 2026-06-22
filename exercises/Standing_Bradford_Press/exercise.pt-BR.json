@@ -1,5 +1,8 @@
 {
   "name": "Imprensa permanente de Bradford",
+  "aliases": [
+    "Standing Bradford Press"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

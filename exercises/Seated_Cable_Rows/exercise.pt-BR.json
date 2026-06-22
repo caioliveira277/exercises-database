@@ -1,5 +1,8 @@
 {
   "name": "Fileiras de cabos sentados",
+  "aliases": [
+    "Seated Cable Rows"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

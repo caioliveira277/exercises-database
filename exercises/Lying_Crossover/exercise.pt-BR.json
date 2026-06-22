@@ -1,5 +1,8 @@
 {
   "name": "Cruzamento mentiroso",
+  "aliases": [
+    "Lying Crossover"
+  ],
   "force": "estática",
   "level": "avançado",
   "mechanic": null,

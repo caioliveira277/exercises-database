@@ -1,5 +1,8 @@
 {
   "name": "Alongamento lateral do pescoço",
+  "aliases": [
+    "Side Neck Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Cabos de bancada plana voam",
+  "aliases": [
+    "Flat Bench Cable Flyes"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

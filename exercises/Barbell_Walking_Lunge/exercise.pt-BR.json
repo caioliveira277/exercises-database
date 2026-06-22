@@ -1,5 +1,10 @@
 {
   "name": "Estocada de caminhada com barra",
+  "aliases": [
+    "Barbell Walking Lunge",
+    "Afundo de Caminhada com Barra",
+    "Estocada de Caminhada com Barbell"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com cabo baixo",
+  "aliases": [
+    "Low Cable Triceps Extension",
+    "Extensão de Tríceps com Cable Baixo"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

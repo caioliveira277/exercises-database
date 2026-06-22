@@ -1,5 +1,9 @@
 {
   "name": "Rosca interna do bíceps em pé",
+  "aliases": [
+    "Standing Inner-Biceps Curl",
+    "Rosca Bíceps em Pé"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

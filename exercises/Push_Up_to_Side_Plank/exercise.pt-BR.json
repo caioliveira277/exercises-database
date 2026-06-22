@@ -1,5 +1,8 @@
 {
   "name": "Empurre para cima para a prancha lateral",
+  "aliases": [
+    "Push Up to Side Plank"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

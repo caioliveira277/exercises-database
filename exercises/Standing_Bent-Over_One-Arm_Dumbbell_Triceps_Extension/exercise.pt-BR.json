@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com halteres com um braço curvado em pé",
+  "aliases": [
+    "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+    "Extensão de Tríceps com Dumbbells com Um Braço Curvado em Pé"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

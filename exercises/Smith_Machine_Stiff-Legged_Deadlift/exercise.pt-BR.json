@@ -1,5 +1,8 @@
 {
   "name": "Deadlift com pernas rígidas da Smith Machine",
+  "aliases": [
+    "Smith Machine Stiff-Legged Deadlift"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

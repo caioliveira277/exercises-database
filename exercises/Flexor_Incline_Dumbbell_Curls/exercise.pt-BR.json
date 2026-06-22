@@ -1,5 +1,10 @@
 {
   "name": "Cachos flexores inclinados com halteres",
+  "aliases": [
+    "Flexor Incline Dumbbell Curls",
+    "Rosca Flexores Inclinados com Halteres",
+    "Rosca Bíceps Inclinada com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

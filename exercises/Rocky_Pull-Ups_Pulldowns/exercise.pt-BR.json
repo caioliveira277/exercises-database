@@ -1,5 +1,9 @@
 {
   "name": "Flexões/pulldowns rochosos",
+  "aliases": [
+    "Rocky Pull-Ups/Pulldowns",
+    "Barra Fixa"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

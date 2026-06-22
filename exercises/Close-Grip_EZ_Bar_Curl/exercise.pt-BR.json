@@ -1,5 +1,10 @@
 {
   "name": "Curvatura com barra EZ de aperto próximo",
+  "aliases": [
+    "Close-Grip EZ Bar Curl",
+    "Rosca com Barra Ez de Aperto Próximo",
+    "Rosca Bíceps com Barra Ez"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

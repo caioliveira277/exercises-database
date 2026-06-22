@@ -1,5 +1,8 @@
 {
   "name": "Salto com joelho",
+  "aliases": [
+    "Knee Tuck Jump"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

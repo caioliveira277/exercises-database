@@ -1,5 +1,8 @@
 {
   "name": "Prensa de corrente",
+  "aliases": [
+    "Chain Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

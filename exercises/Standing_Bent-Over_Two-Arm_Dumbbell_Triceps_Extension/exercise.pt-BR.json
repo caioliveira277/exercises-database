@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com halteres de dois braços curvados em pé",
+  "aliases": [
+    "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "Extensão de Tríceps com Dumbbells de Dois Braços Curvados em Pé"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

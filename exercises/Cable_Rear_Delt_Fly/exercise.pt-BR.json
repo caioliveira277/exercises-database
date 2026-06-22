@@ -1,5 +1,9 @@
 {
   "name": "Cabo Traseiro Delt Fly",
+  "aliases": [
+    "Cable Rear Delt Fly",
+    "Cable Traseiro Delt Fly"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

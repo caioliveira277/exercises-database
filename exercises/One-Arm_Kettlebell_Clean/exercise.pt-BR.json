@@ -1,5 +1,8 @@
 {
   "name": "Kettlebell limpo com um braço",
+  "aliases": [
+    "One-Arm Kettlebell Clean"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

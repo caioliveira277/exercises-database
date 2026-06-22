@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps inclinada por cabo",
+  "aliases": [
+    "Cable Incline Triceps Extension",
+    "Extensão de Tríceps Inclinada por Cable"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

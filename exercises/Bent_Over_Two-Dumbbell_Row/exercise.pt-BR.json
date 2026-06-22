@@ -1,5 +1,10 @@
 {
   "name": "Linha curvada com dois halteres",
+  "aliases": [
+    "Bent Over Two-Dumbbell Row",
+    "Remada Curvada com Dois Halteres",
+    "Linha Curvada com Dois Dumbbells"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Extensões de pernas",
+  "aliases": [
+    "Leg Extensions"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

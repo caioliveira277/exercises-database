@@ -1,5 +1,9 @@
 {
   "name": "Suspensão da barra V",
+  "aliases": [
+    "V-Bar Pulldown",
+    "Suspensão da Barbell V"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

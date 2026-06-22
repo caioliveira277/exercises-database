@@ -1,5 +1,9 @@
 {
   "name": "Limpe e pressione",
+  "aliases": [
+    "Clean and Press",
+    "Limpe e Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

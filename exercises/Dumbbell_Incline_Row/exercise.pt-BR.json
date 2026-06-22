@@ -1,5 +1,10 @@
 {
   "name": "Linha inclinada com halteres",
+  "aliases": [
+    "Dumbbell Incline Row",
+    "Remada Inclinada com Halteres",
+    "Linha Inclinada com Dumbbells"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

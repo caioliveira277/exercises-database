@@ -1,5 +1,8 @@
 {
   "name": "Parciais de potência",
+  "aliases": [
+    "Power Partials"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

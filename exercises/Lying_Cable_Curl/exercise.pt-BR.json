@@ -1,5 +1,10 @@
 {
   "name": "Enrolamento de cabo deitado",
+  "aliases": [
+    "Lying Cable Curl",
+    "Enrolamento de Cable Deitado",
+    "Rosca Bíceps Deitado no Cabo"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

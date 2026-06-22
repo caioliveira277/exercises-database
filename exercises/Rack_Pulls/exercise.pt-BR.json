@@ -1,5 +1,8 @@
 {
   "name": "Puxadores de rack",
+  "aliases": [
+    "Rack Pulls"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,10 @@
 {
   "name": "Flexão de perna em pé",
+  "aliases": [
+    "Standing Leg Curl",
+    "Flexão de pernas",
+    "Flexora em pé"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

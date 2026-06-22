@@ -1,5 +1,8 @@
 {
   "name": "Imprensa dobrada",
+  "aliases": [
+    "Bent Press"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

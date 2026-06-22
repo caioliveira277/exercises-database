@@ -1,5 +1,9 @@
 {
   "name": "Levantamento terra com barra",
+  "aliases": [
+    "Barbell Deadlift",
+    "Levantamento Terra com Barbell"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

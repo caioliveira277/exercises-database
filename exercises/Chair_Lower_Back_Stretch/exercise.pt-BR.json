@@ -1,5 +1,8 @@
 {
   "name": "Alongamento da parte inferior das costas da cadeira",
+  "aliases": [
+    "Chair Lower Back Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

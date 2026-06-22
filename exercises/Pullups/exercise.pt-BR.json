@@ -1,5 +1,9 @@
 {
   "name": "Flexões",
+  "aliases": [
+    "Pullups",
+    "Barra Fixa"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

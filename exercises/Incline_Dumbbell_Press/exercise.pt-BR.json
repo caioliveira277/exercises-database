@@ -1,5 +1,9 @@
 {
   "name": "Supino inclinado com halteres",
+  "aliases": [
+    "Incline Dumbbell Press",
+    "Supino Inclinado com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

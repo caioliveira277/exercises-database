@@ -1,5 +1,9 @@
 {
   "name": "Implementação de barra abdominal",
+  "aliases": [
+    "Barbell Ab Rollout",
+    "Implementação de Barbell Abdominal"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

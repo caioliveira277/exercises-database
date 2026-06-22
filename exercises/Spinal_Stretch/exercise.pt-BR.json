@@ -1,5 +1,8 @@
 {
   "name": "Alongamento da coluna",
+  "aliases": [
+    "Spinal Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

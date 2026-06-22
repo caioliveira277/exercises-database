@@ -1,5 +1,8 @@
 {
   "name": "Supino de máquina",
+  "aliases": [
+    "Machine Bench Press"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

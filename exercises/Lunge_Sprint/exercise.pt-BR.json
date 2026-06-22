@@ -1,5 +1,9 @@
 {
   "name": "Corrida de estocada",
+  "aliases": [
+    "Lunge Sprint",
+    "Corrida de Afundo"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

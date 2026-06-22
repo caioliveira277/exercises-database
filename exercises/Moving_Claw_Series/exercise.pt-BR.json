@@ -1,5 +1,8 @@
 {
   "name": "Série de garras móveis",
+  "aliases": [
+    "Moving Claw Series"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": "composto",

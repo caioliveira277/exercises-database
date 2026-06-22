@@ -1,5 +1,8 @@
 {
   "name": "Lagarta",
+  "aliases": [
+    "Inchworm"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": "composto",

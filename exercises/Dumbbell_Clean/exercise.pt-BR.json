@@ -1,5 +1,8 @@
 {
   "name": "Haltere limpo",
+  "aliases": [
+    "Dumbbell Clean"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

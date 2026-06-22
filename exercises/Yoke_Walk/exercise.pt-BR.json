@@ -1,5 +1,8 @@
 {
   "name": "Caminhada do Jugo",
+  "aliases": [
+    "Yoke Walk"
+  ],
   "force": null,
   "level": "intermediário",
   "mechanic": "composto",

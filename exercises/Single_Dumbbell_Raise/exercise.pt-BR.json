@@ -1,5 +1,8 @@
 {
   "name": "Elevação de haltere único",
+  "aliases": [
+    "Single Dumbbell Raise"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,9 @@
 {
   "name": "Rotações de pulso com barra reta",
+  "aliases": [
+    "Wrist Rotations with Straight Bar",
+    "Rotações de Pulso com Barbell Reta"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

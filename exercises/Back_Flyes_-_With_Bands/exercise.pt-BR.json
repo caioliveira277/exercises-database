@@ -1,5 +1,8 @@
 {
   "name": "Back Flyes - Com Bandas",
+  "aliases": [
+    "Back Flyes - With Bands"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Pular caixa",
+  "aliases": [
+    "Box Skip"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

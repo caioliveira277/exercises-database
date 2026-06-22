@@ -1,5 +1,8 @@
 {
   "name": "Moinho de vento Kettlebell avançado",
+  "aliases": [
+    "Advanced Kettlebell Windmill"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

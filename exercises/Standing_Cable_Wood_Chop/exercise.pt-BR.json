@@ -1,5 +1,9 @@
 {
   "name": "Corte de madeira com cabo em pé",
+  "aliases": [
+    "Standing Cable Wood Chop",
+    "Corte de Madeira com Cable em Pé"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

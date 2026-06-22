@@ -1,5 +1,8 @@
 {
   "name": "Remada de polia alta ajoelhada",
+  "aliases": [
+    "Kneeling High Pulley Row"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

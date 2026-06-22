@@ -1,5 +1,9 @@
 {
   "name": "Deadlift com halteres com pernas rígidas",
+  "aliases": [
+    "Stiff-Legged Dumbbell Deadlift",
+    "Deadlift com Dumbbells com Pernas Rígidas"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

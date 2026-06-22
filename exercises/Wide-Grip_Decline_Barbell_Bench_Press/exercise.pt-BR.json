@@ -1,5 +1,9 @@
 {
   "name": "Supino com barra com declínio de aderência ampla",
+  "aliases": [
+    "Wide-Grip Decline Barbell Bench Press",
+    "Supino com Barbell com Declínio de Aderência Ampla"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

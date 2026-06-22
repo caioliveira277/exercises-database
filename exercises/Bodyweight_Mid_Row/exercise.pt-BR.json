@@ -1,5 +1,9 @@
 {
   "name": "Linha intermediária de peso corporal",
+  "aliases": [
+    "Bodyweight Mid Row",
+    "Remada Intermediária de Peso Corporal"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

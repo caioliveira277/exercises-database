@@ -1,5 +1,8 @@
 {
   "name": "Um braço contra a parede",
+  "aliases": [
+    "One Arm Against Wall"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

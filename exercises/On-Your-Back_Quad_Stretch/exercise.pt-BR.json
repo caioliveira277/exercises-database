@@ -1,5 +1,8 @@
 {
   "name": "Alongamento quádruplo nas costas",
+  "aliases": [
+    "On-Your-Back Quad Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

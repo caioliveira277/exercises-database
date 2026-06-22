@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com halteres deitados",
+  "aliases": [
+    "Lying Dumbbell Tricep Extension",
+    "Extensão de Tríceps com Dumbbells Deitados"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "isolamento",

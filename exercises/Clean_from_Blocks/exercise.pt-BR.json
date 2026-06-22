@@ -1,5 +1,8 @@
 {
   "name": "Limpar de blocos",
+  "aliases": [
+    "Clean from Blocks"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

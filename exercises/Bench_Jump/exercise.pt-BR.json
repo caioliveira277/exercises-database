@@ -1,5 +1,8 @@
 {
   "name": "Salto de banco",
+  "aliases": [
+    "Bench Jump"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

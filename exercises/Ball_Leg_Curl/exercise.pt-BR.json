@@ -1,5 +1,10 @@
 {
   "name": "Onda de perna com bola",
+  "aliases": [
+    "Ball Leg Curl",
+    "Flexão de pernas",
+    "Flexão de pernas na bola"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

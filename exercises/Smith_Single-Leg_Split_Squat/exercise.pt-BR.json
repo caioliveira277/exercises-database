@@ -1,5 +1,8 @@
 {
   "name": "Agachamento dividido com uma perna Smith",
+  "aliases": [
+    "Smith Single-Leg Split Squat"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

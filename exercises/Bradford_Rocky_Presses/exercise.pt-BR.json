@@ -1,5 +1,8 @@
 {
   "name": "Bradford/Rocky Presses",
+  "aliases": [
+    "Desenvolvimento Bradford Rocky"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

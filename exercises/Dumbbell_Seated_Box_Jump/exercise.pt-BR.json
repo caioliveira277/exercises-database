@@ -1,5 +1,9 @@
 {
   "name": "Salto de caixa sentado com halteres",
+  "aliases": [
+    "Dumbbell Seated Box Jump",
+    "Salto de Caixa Sentado com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,10 @@
 {
   "name": "Pull-up assistido por banda",
+  "aliases": [
+    "Band Assisted Pull-Up",
+    "Barra Fixa Assistido por Banda",
+    "Barra Fixa"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,10 @@
 {
   "name": "Crunch sentado no cabo",
+  "aliases": [
+    "Cable Seated Crunch",
+    "Abdominal Sentado no Cabo",
+    "Crunch Sentado no Cable"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

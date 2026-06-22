@@ -1,5 +1,8 @@
 {
   "name": "Elevação da perna pendurada",
+  "aliases": [
+    "Hanging Leg Raise"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "isolamento",

@@ -1,5 +1,9 @@
 {
   "name": "Supino com halteres com pegada neutra",
+  "aliases": [
+    "Dumbbell Bench Press with Neutral Grip",
+    "Supino com Dumbbells com Pegada Neutra"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

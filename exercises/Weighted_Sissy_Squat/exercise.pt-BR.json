@@ -1,5 +1,8 @@
 {
   "name": "Agachamento Sissy Ponderado",
+  "aliases": [
+    "Weighted Sissy Squat"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

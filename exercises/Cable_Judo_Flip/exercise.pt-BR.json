@@ -1,5 +1,8 @@
 {
   "name": "Cabo Judô Flip",
+  "aliases": [
+    "Cable Judo Flip"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

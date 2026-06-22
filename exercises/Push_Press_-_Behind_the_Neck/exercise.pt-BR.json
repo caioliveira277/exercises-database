@@ -1,5 +1,8 @@
 {
   "name": "Push Press - Atrás do Pescoço",
+  "aliases": [
+    "Push Press - Behind the Neck"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

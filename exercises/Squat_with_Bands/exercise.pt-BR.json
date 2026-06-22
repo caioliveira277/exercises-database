@@ -1,5 +1,8 @@
 {
   "name": "Agachamento com bandas",
+  "aliases": [
+    "Squat with Bands"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

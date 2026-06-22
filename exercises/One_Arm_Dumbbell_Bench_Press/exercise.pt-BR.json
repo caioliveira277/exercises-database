@@ -1,5 +1,9 @@
 {
   "name": "Supino com halteres com um braço",
+  "aliases": [
+    "One Arm Dumbbell Bench Press",
+    "Supino com Dumbbells com Um Braço"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

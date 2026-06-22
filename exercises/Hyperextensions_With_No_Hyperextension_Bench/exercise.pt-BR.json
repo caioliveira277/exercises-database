@@ -1,5 +1,8 @@
 {
   "name": "Hiperextensões sem banco de hiperextensão",
+  "aliases": [
+    "Hyperextensions With No Hyperextension Bench"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

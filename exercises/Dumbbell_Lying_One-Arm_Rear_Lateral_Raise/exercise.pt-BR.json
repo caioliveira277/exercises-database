@@ -1,5 +1,9 @@
 {
   "name": "Elevação lateral traseira com halteres deitado com um braço",
+  "aliases": [
+    "Dumbbell Lying One-Arm Rear Lateral Raise",
+    "Elevação Lateral Traseira com Dumbbells Deitado com Um Braço"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

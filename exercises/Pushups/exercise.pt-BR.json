@@ -1,5 +1,9 @@
 {
   "name": "Flexões",
+  "aliases": [
+    "Pushups",
+    "Flexão"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

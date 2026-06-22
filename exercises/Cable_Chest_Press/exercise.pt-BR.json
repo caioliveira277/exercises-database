@@ -1,5 +1,9 @@
 {
   "name": "Prensa de peito de cabo",
+  "aliases": [
+    "Cable Chest Press",
+    "Prensa de Peito de Cable"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

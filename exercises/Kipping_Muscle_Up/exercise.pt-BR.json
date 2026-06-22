@@ -1,5 +1,8 @@
 {
   "name": "Aumentando os músculos",
+  "aliases": [
+    "Kipping Muscle Up"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

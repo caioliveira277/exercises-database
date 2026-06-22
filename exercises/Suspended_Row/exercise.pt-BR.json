@@ -1,5 +1,9 @@
 {
   "name": "Linha suspensa",
+  "aliases": [
+    "Suspended Row",
+    "Remada Suspensa"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

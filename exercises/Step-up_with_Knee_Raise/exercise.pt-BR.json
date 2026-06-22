@@ -1,5 +1,8 @@
 {
   "name": "Step-up com elevação do joelho",
+  "aliases": [
+    "Step-up with Knee Raise"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

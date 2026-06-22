@@ -1,5 +1,9 @@
 {
   "name": "Flexões - Posição Fechada do Tríceps",
+  "aliases": [
+    "Push-Ups - Close Triceps Position",
+    "Flexão - Posição Fechada do Tríceps"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

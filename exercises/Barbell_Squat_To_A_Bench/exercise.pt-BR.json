@@ -1,5 +1,9 @@
 {
   "name": "Agachamento com barra em um banco",
+  "aliases": [
+    "Barbell Squat To A Bench",
+    "Agachamento com Barbell em Um Banco"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

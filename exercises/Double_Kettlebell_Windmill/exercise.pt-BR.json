@@ -1,5 +1,8 @@
 {
   "name": "Moinho de Vento Duplo Kettlebell",
+  "aliases": [
+    "Double Kettlebell Windmill"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": null,

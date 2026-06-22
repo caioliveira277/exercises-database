@@ -1,5 +1,8 @@
 {
   "name": "Agachamento Máquina Smith",
+  "aliases": [
+    "Smith Machine Squat"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

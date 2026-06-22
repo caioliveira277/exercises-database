@@ -1,5 +1,9 @@
 {
   "name": "Deadlift com barra com pernas rígidas",
+  "aliases": [
+    "Stiff-Legged Barbell Deadlift",
+    "Deadlift com Barbell com Pernas Rígidas"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

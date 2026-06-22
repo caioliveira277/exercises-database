@@ -1,5 +1,9 @@
 {
   "name": "Onda com barra de concentração sentada e fechada",
+  "aliases": [
+    "Seated Close-Grip Concentration Barbell Curl",
+    "Rosca Concentrada Sentado com Barra"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

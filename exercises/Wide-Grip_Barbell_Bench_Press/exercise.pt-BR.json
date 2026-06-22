@@ -1,5 +1,9 @@
 {
   "name": "Supino com barra de grande aderência",
+  "aliases": [
+    "Wide-Grip Barbell Bench Press",
+    "Supino com Barbell de Grande Aderência"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

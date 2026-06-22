@@ -1,5 +1,8 @@
 {
   "name": "Empurrão no peito (resposta múltipla)",
+  "aliases": [
+    "Chest Push (multiple response)"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

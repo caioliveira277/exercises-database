@@ -1,5 +1,8 @@
 {
   "name": "Imprensa JM",
+  "aliases": [
+    "JM Press"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

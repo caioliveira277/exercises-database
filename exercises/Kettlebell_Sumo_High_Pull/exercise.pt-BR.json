@@ -1,5 +1,8 @@
 {
   "name": "Kettlebell Sumo High Pull",
+  "aliases": [
+    "Puxada Alta Sumô com Kettlebell"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

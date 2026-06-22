@@ -1,5 +1,8 @@
 {
   "name": "Rotação do tronco",
+  "aliases": [
+    "Torso Rotation"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": null,

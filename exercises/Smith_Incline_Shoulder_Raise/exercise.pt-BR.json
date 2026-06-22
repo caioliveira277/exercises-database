@@ -1,5 +1,8 @@
 {
   "name": "Elevação de ombro inclinada Smith",
+  "aliases": [
+    "Smith Incline Shoulder Raise"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

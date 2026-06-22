@@ -1,5 +1,8 @@
 {
   "name": "Puxador de Rack com Bandas",
+  "aliases": [
+    "Rack Pull with Bands"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

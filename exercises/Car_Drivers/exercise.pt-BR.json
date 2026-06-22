@@ -1,5 +1,8 @@
 {
   "name": "Motoristas de automóveis",
+  "aliases": [
+    "Car Drivers"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

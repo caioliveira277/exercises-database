@@ -1,5 +1,8 @@
 {
   "name": "Abdutor de coxa",
+  "aliases": [
+    "Thigh Abductor"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

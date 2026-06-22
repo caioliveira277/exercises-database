@@ -1,5 +1,9 @@
 {
   "name": "Passagem de estocada",
+  "aliases": [
+    "Lunge Pass Through",
+    "Passagem de Afundo"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Supino com halteres em pé com a palma da mão e um braço",
+  "aliases": [
+    "Standing Palm-In One-Arm Dumbbell Press",
+    "Supino com Dumbbells em Pé com a Palma da Mão e Um Braço"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

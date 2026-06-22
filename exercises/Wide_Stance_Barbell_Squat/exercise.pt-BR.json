@@ -1,5 +1,9 @@
 {
   "name": "Agachamento com barra de postura ampla",
+  "aliases": [
+    "Wide Stance Barbell Squat",
+    "Agachamento com Barbell de Postura Ampla"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

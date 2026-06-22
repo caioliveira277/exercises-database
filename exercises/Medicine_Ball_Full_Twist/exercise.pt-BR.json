@@ -1,5 +1,8 @@
 {
   "name": "Torção completa da bola medicinal",
+  "aliases": [
+    "Medicine Ball Full Twist"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

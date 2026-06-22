@@ -1,5 +1,8 @@
 {
   "name": "Cruzes de Ferro (alongamento)",
+  "aliases": [
+    "Iron Crosses (stretch)"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

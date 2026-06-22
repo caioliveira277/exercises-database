@@ -1,5 +1,9 @@
 {
   "name": "Flexões (posições de mãos fechadas e abertas)",
+  "aliases": [
+    "Pushups (Close and Wide Hand Positions)",
+    "Flexão (posições de Mãos Fechadas e Abertas)"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

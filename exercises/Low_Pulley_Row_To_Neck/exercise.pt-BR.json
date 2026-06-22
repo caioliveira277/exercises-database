@@ -1,5 +1,9 @@
 {
   "name": "Linha de polia baixa até o pescoço",
+  "aliases": [
+    "Low Pulley Row To Neck",
+    "Remada de Polia Baixa Até O Pescoço"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Levantamento terra romeno",
+  "aliases": [
+    "Romanian Deadlift"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

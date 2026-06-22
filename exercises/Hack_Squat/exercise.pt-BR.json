@@ -1,5 +1,8 @@
 {
   "name": "Agachamento hackeado",
+  "aliases": [
+    "Hack Squat"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

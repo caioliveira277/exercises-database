@@ -1,5 +1,8 @@
 {
   "name": "Deadlift com uma perna Kettlebell",
+  "aliases": [
+    "Kettlebell One-Legged Deadlift"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

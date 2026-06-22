@@ -1,5 +1,8 @@
 {
   "name": "Agachamento Box com Bandas",
+  "aliases": [
+    "Box Squat with Bands"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

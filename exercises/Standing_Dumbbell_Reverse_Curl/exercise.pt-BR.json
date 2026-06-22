@@ -1,5 +1,10 @@
 {
   "name": "Curvatura reversa com halteres em pé",
+  "aliases": [
+    "Standing Dumbbell Reverse Curl",
+    "Rosca Reversa com Halteres em Pé",
+    "Rosca Reversa em Pé com Halter"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

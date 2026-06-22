@@ -1,5 +1,8 @@
 {
   "name": "Imprensa sentada com kettlebell",
+  "aliases": [
+    "Kettlebell Seated Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

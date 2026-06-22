@@ -1,5 +1,8 @@
 {
   "name": "Moscas reversas com rotação externa",
+  "aliases": [
+    "Reverse Flyes With External Rotation"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

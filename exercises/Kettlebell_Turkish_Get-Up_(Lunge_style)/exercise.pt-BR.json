@@ -1,5 +1,8 @@
 {
   "name": "Kettlebell Turco Get-Up (estilo Lunge)",
+  "aliases": [
+    "Kettlebell Turkish Get-Up (Lunge style)"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

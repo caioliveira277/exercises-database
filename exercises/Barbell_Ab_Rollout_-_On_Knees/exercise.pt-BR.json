@@ -1,5 +1,8 @@
 {
   "name": "Barbell Ab Rollout - De Joelhos",
+  "aliases": [
+    "Barbell Ab Rollout - On Knees"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Side Hop-Sprint",
+  "aliases": [
+    "Salto Lateral com Sprint"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

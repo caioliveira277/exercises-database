@@ -1,5 +1,8 @@
 {
   "name": "Puxar Limpo",
+  "aliases": [
+    "Clean Pull"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

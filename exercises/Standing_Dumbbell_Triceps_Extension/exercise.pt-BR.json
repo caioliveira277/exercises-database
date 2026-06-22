@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com halteres em pé",
+  "aliases": [
+    "Standing Dumbbell Triceps Extension",
+    "Extensão de Tríceps com Dumbbells em Pé"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Agachamento em Cálice",
+  "aliases": [
+    "Goblet Squat"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

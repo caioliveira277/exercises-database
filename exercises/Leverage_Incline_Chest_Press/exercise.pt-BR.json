@@ -1,5 +1,9 @@
 {
   "name": "Aproveite a pressão torácica inclinada",
+  "aliases": [
+    "Leverage Incline Chest Press",
+    "Aproveite a Press Torácica Inclinada"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

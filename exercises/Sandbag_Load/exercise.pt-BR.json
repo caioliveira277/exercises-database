@@ -1,5 +1,8 @@
 {
   "name": "Carga de saco de areia",
+  "aliases": [
+    "Sandbag Load"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

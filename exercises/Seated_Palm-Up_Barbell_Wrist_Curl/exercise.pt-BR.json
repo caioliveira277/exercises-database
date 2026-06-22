@@ -1,5 +1,10 @@
 {
   "name": "Curvatura de pulso com barra com a palma para cima sentada",
+  "aliases": [
+    "Seated Palm-Up Barbell Wrist Curl",
+    "Rosca de Pulso com Barra com a Palma para Cima Sentada",
+    "Rosca de Punho Sentado com Barra"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

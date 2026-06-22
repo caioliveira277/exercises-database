@@ -1,5 +1,8 @@
 {
   "name": "Imprensa corporal de tríceps",
+  "aliases": [
+    "Body Tricep Press"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

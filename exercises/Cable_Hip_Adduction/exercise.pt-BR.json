@@ -1,5 +1,9 @@
 {
   "name": "Adução de quadril por cabo",
+  "aliases": [
+    "Cable Hip Adduction",
+    "Adução de Quadril por Cable"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

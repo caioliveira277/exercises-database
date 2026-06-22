@@ -1,5 +1,10 @@
 {
   "name": "Curvatura do cabo do bíceps em pé",
+  "aliases": [
+    "Standing Biceps Cable Curl",
+    "Rosca do Cabo do Bíceps em Pé",
+    "Rosca Bíceps em Pé no Cabo"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

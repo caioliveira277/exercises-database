@@ -1,5 +1,8 @@
 {
   "name": "Apertos Isométricos no Peito",
+  "aliases": [
+    "Isometric Chest Squeezes"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "composto",

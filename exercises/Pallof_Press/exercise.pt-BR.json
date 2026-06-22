@@ -1,5 +1,8 @@
 {
   "name": "Imprensa Pallof",
+  "aliases": [
+    "Pallof Press"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

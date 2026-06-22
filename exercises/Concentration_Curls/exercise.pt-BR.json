@@ -1,5 +1,10 @@
 {
   "name": "Cachos de Concentração",
+  "aliases": [
+    "Concentration Curls",
+    "Rosca de Concentração",
+    "Rosca Concentrada"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Aproveite o encolher de ombros",
+  "aliases": [
+    "Leverage Shrug"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

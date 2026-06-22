@@ -1,5 +1,9 @@
 {
   "name": "Agachamento com barra",
+  "aliases": [
+    "Barbell Squat",
+    "Agachamento com Barbell"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

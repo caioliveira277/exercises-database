@@ -1,5 +1,8 @@
 {
   "name": "Rolo Ab",
+  "aliases": [
+    "Ab Roller"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

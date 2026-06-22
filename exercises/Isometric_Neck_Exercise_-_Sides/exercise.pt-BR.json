@@ -1,5 +1,8 @@
 {
   "name": "Exercício Isométrico de Pescoço - Lados",
+  "aliases": [
+    "Isometric Neck Exercise - Sides"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "isolamento",

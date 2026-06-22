@@ -1,5 +1,8 @@
 {
   "name": "Soltar Empurrão",
+  "aliases": [
+    "Drop Push"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

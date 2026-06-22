@@ -1,5 +1,9 @@
 {
   "name": "Pulmões com halteres",
+  "aliases": [
+    "Dumbbell Lunges",
+    "Pulmões com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Estocada reversa cruzada",
+  "aliases": [
+    "Crossover Reverse Lunge",
+    "Afundo Reversa Cruzada"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": null,

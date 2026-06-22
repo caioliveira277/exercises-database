@@ -1,5 +1,8 @@
 {
   "name": "Deadlift com banda reversa",
+  "aliases": [
+    "Reverse Band Deadlift"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

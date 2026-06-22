@@ -1,5 +1,8 @@
 {
   "name": "Remada Kettlebell Alternada",
+  "aliases": [
+    "Alternating Kettlebell Row"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

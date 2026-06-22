@@ -1,5 +1,8 @@
 {
   "name": "Separação da banda",
+  "aliases": [
+    "Band Pull Apart"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

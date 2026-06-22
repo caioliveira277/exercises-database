@@ -1,5 +1,8 @@
 {
   "name": "Tornozelo no joelho",
+  "aliases": [
+    "Ankle On The Knee"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

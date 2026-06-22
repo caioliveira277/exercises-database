@@ -1,5 +1,9 @@
 {
   "name": "Crossover de cabo baixo",
+  "aliases": [
+    "Low Cable Crossover",
+    "Crossover de Cable Baixo"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

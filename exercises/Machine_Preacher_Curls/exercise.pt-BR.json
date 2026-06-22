@@ -1,5 +1,10 @@
 {
   "name": "Cachos Pregador Máquina",
+  "aliases": [
+    "Machine Preacher Curls",
+    "Rosca Pregador Máquina",
+    "Rosca Scott"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

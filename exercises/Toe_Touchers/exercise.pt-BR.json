@@ -1,5 +1,8 @@
 {
   "name": "Tocadores de dedo do pé",
+  "aliases": [
+    "Toe Touchers"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

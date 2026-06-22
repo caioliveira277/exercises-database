@@ -1,5 +1,8 @@
 {
   "name": "Pernas rígidas de postura ampla",
+  "aliases": [
+    "Wide Stance Stiff Legs"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

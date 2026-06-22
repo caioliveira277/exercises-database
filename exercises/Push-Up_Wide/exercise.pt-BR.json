@@ -1,5 +1,8 @@
 {
   "name": "Flexão ampla",
+  "aliases": [
+    "Push-Up Wide"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": "composto",

@@ -1,5 +1,9 @@
 {
   "name": "Aproveite a pressão no peito",
+  "aliases": [
+    "Leverage Chest Press",
+    "Aproveite a Press no Peito"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

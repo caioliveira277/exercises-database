@@ -1,5 +1,9 @@
 {
   "name": "Torções russas de cabo",
+  "aliases": [
+    "Cable Russian Twists",
+    "Torções Russas de Cable"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

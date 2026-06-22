@@ -1,5 +1,9 @@
 {
   "name": "Pulôver com barra larga e larga",
+  "aliases": [
+    "Wide-Grip Decline Barbell Pullover",
+    "Pulôver com Barbell Larga e Larga"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

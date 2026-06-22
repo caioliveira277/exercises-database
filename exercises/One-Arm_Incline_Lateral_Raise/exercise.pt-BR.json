@@ -1,5 +1,8 @@
 {
   "name": "Elevação lateral inclinada com um braço",
+  "aliases": [
+    "One-Arm Incline Lateral Raise"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Levantamento terra de déficit",
+  "aliases": [
+    "Deficit Deadlift"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

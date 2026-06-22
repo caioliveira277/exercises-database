@@ -1,5 +1,8 @@
 {
   "name": "Prensa de chão com correntes",
+  "aliases": [
+    "Floor Press with Chains"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

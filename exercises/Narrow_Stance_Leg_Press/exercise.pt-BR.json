@@ -1,5 +1,9 @@
 {
   "name": "Leg press de postura estreita",
+  "aliases": [
+    "Narrow Stance Leg Press",
+    "Pressão de Pernas"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

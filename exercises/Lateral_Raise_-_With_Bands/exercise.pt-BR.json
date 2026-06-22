@@ -1,5 +1,8 @@
 {
   "name": "Elevação Lateral - Com Bandas",
+  "aliases": [
+    "Lateral Raise - With Bands"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

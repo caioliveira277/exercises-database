@@ -1,5 +1,8 @@
 {
   "name": "Conjurador de feitiços",
+  "aliases": [
+    "Spell Caster"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

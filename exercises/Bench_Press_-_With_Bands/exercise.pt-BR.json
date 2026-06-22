@@ -1,5 +1,8 @@
 {
   "name": "Supino - Com Bandas",
+  "aliases": [
+    "Bench Press - With Bands"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

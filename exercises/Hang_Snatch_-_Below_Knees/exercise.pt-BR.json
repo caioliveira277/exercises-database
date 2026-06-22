@@ -1,5 +1,8 @@
 {
   "name": "Hang Snatch – abaixo dos joelhos",
+  "aliases": [
+    "Hang Snatch - Below Knees"
+  ],
   "force": "puxar",
   "level": "avançado",
   "mechanic": "composto",

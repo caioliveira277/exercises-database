@@ -1,5 +1,9 @@
 {
   "name": "Barbell Curls deitado contra uma inclinação",
+  "aliases": [
+    "Barbell Curls Lying Against An Incline",
+    "Rosca Bíceps Inclinada Deitado com Barra"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

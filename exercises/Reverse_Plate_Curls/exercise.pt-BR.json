@@ -1,5 +1,10 @@
 {
   "name": "Cachos de placa reversa",
+  "aliases": [
+    "Reverse Plate Curls",
+    "Rosca de Placa Reversa",
+    "Rosca Reversa"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

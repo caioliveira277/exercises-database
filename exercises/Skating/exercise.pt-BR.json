@@ -1,5 +1,8 @@
 {
   "name": "Patinação",
+  "aliases": [
+    "Skating"
+  ],
   "force": null,
   "level": "intermediário",
   "mechanic": null,

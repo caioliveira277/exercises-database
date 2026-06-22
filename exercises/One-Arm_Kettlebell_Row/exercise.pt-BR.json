@@ -1,5 +1,8 @@
 {
   "name": "Remada Kettlebell com um braço",
+  "aliases": [
+    "One-Arm Kettlebell Row"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

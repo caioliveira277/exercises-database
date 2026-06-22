@@ -1,5 +1,9 @@
 {
   "name": "Remada Delt Traseira com Barra",
+  "aliases": [
+    "Barbell Rear Delt Row",
+    "Remada Delt Traseira com Barbell"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

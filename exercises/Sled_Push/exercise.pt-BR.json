@@ -1,5 +1,8 @@
 {
   "name": "Empurrão de trenó",
+  "aliases": [
+    "Sled Push"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

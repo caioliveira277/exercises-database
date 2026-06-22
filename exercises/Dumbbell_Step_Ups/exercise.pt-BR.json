@@ -1,5 +1,9 @@
 {
   "name": "Step Ups com halteres",
+  "aliases": [
+    "Dumbbell Step Ups",
+    "Step Ups com Dumbbells"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

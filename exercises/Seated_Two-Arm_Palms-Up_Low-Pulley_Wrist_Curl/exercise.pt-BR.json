@@ -1,5 +1,10 @@
 {
   "name": "Curvatura de pulso com polia baixa e dois braços sentados com as palmas para cima",
+  "aliases": [
+    "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+    "Rosca de Pulso com Polia Baixa e Dois Braços Sentados com As Palmas para Cima",
+    "Rosca de Punho Sentado"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

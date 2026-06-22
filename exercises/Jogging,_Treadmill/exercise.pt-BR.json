@@ -1,5 +1,8 @@
 {
   "name": "Corrida, esteira",
+  "aliases": [
+    "Jogging, Treadmill"
+  ],
   "force": null,
   "level": "iniciante",
   "mechanic": null,

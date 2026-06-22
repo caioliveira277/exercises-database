@@ -1,5 +1,9 @@
 {
   "name": "Elevação lateral assentada no cabo",
+  "aliases": [
+    "Cable Seated Lateral Raise",
+    "Elevação Lateral Assentada no Cable"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

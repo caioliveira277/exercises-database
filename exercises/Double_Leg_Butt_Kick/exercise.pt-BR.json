@@ -1,5 +1,8 @@
 {
   "name": "Chute duplo na bunda",
+  "aliases": [
+    "Double Leg Butt Kick"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

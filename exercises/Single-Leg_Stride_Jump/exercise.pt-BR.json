@@ -1,5 +1,8 @@
 {
   "name": "Salto com perna única",
+  "aliases": [
+    "Single-Leg Stride Jump"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

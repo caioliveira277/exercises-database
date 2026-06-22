@@ -1,5 +1,8 @@
 {
   "name": "Balanços Kettlebell com um braço",
+  "aliases": [
+    "One-Arm Kettlebell Swings"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

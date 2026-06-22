@@ -1,5 +1,8 @@
 {
   "name": "Extensão de tríceps com toalha em pé",
+  "aliases": [
+    "Standing Towel Triceps Extension"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

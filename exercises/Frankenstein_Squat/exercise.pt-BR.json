@@ -1,5 +1,8 @@
 {
   "name": "Agachamento Frankenstein",
+  "aliases": [
+    "Frankenstein Squat"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

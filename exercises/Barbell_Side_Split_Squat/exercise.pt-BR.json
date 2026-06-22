@@ -1,5 +1,9 @@
 {
   "name": "Agachamento lateral com barra",
+  "aliases": [
+    "Barbell Side Split Squat",
+    "Agachamento Lateral com Barbell"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

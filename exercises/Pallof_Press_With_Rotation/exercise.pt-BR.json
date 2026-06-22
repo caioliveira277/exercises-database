@@ -1,5 +1,8 @@
 {
   "name": "Prensa Pallof com rotação",
+  "aliases": [
+    "Pallof Press With Rotation"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

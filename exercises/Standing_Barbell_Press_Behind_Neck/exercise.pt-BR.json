@@ -1,5 +1,10 @@
 {
   "name": "Pressão com barra em pé atrás do pescoço",
+  "aliases": [
+    "Standing Barbell Press Behind Neck",
+    "Press com Barra em Pé Atrás do Pescoço",
+    "Pressão com Barbell em Pé Atrás do Pescoço"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

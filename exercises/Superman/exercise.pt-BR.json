@@ -1,5 +1,8 @@
 {
   "name": "Super-homem",
+  "aliases": [
+    "Superman"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "composto",

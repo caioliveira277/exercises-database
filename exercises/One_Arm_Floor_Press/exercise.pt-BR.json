@@ -1,5 +1,8 @@
 {
   "name": "Prensa de chão com um braço",
+  "aliases": [
+    "One Arm Floor Press"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

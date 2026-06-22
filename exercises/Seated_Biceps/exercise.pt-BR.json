@@ -1,5 +1,8 @@
 {
   "name": "Bíceps sentado",
+  "aliases": [
+    "Seated Biceps"
+  ],
   "force": "estática",
   "level": "avançado",
   "mechanic": "isolamento",

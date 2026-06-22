@@ -1,5 +1,8 @@
 {
   "name": "Círculos de quadril em pé",
+  "aliases": [
+    "Standing Hip Circles"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

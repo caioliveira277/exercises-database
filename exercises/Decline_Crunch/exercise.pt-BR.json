@@ -1,5 +1,8 @@
 {
   "name": "Recusar crise",
+  "aliases": [
+    "Decline Crunch"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

@@ -1,5 +1,8 @@
 {
   "name": "Lat superior",
+  "aliases": [
+    "Overhead Lat"
+  ],
   "force": "estática",
   "level": "avançado",
   "mechanic": null,

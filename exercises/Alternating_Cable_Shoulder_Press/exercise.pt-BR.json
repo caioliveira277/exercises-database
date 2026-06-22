@@ -1,5 +1,10 @@
 {
   "name": "Pressão alternada de ombro com cabo",
+  "aliases": [
+    "Alternating Cable Shoulder Press",
+    "Press Alternada de Ombro com Cabo",
+    "Pressão Alternada de Ombro com Cable"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

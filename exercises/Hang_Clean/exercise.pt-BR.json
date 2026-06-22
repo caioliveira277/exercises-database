@@ -1,5 +1,8 @@
 {
   "name": "Pendure limpo",
+  "aliases": [
+    "Hang Clean"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

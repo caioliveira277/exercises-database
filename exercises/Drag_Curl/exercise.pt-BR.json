@@ -1,5 +1,9 @@
 {
   "name": "Arrastar onda",
+  "aliases": [
+    "Drag Curl",
+    "Rosca Arrastada"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

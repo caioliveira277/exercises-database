@@ -1,5 +1,9 @@
 {
   "name": "Aumento do quadril da máquina Smith",
+  "aliases": [
+    "Smith Machine Hip Raise",
+    "Elevação do Quadril da Máquina Smith"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

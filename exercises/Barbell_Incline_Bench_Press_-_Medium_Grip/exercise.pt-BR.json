@@ -1,5 +1,9 @@
 {
   "name": "Supino inclinado com barra - aderência média",
+  "aliases": [
+    "Barbell Incline Bench Press - Medium Grip",
+    "Supino Inclinado com Barbell - Aderência Média"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

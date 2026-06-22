@@ -1,5 +1,9 @@
 {
   "name": "Leg Press Máquina Smith",
+  "aliases": [
+    "Smith Machine Leg Press",
+    "Pressão de Pernas"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

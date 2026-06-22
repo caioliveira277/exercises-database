@@ -1,5 +1,8 @@
 {
   "name": "Arrastar para trás",
+  "aliases": [
+    "Backward Drag"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

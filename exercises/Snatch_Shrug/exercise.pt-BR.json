@@ -1,5 +1,8 @@
 {
   "name": "Encolher os ombros",
+  "aliases": [
+    "Snatch Shrug"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

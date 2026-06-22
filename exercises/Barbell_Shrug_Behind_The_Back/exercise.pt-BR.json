@@ -1,5 +1,9 @@
 {
   "name": "Encolher os ombros com barra nas costas",
+  "aliases": [
+    "Barbell Shrug Behind The Back",
+    "Encolher Os Ombros com Barbell nas Costas"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

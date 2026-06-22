@@ -1,5 +1,8 @@
 {
   "name": "Agachamento com pistola automática Smith",
+  "aliases": [
+    "Smith Machine Pistol Squat"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

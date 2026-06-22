@@ -1,5 +1,8 @@
 {
   "name": "Deltoide frontal sentado",
+  "aliases": [
+    "Seated Front Deltoid"
+  ],
   "force": "estática",
   "level": "avançado",
   "mechanic": null,

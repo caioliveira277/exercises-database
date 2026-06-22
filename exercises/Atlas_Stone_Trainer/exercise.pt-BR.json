@@ -1,5 +1,8 @@
 {
   "name": "Treinador de Pedra Atlas",
+  "aliases": [
+    "Atlas Stone Trainer"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",

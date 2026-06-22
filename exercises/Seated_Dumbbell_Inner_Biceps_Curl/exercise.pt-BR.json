@@ -1,5 +1,10 @@
 {
   "name": "Curva interna do bíceps com halteres sentado",
+  "aliases": [
+    "Seated Dumbbell Inner Biceps Curl",
+    "Curva Interna do Bíceps com Dumbbells Sentado",
+    "Rosca Bíceps Sentado com Halter"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

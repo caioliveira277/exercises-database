@@ -1,5 +1,8 @@
 {
   "name": "Agachamento com movimentadores de placas",
+  "aliases": [
+    "Squat with Plate Movers"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

@@ -1,5 +1,8 @@
 {
   "name": "Golpe de bola medicinal com um braço",
+  "aliases": [
+    "One-Arm Medicine Ball Slam"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "composto",

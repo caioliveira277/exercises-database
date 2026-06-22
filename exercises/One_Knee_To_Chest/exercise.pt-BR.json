@@ -1,5 +1,8 @@
 {
   "name": "Um joelho no peito",
+  "aliases": [
+    "One Knee To Chest"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": "composto",

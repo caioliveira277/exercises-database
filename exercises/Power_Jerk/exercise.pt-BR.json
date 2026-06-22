@@ -1,5 +1,8 @@
 {
   "name": "Poder Idiota",
+  "aliases": [
+    "Power Jerk"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

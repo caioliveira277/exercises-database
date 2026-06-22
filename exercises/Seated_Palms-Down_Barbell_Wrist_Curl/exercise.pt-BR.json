@@ -1,5 +1,10 @@
 {
   "name": "Flexão de pulso com barra com as palmas para baixo sentada",
+  "aliases": [
+    "Seated Palms-Down Barbell Wrist Curl",
+    "Flexão de Pulso com Barbell com As Palmas para Baixo Sentada",
+    "Rosca de Punho Sentado com Barra"
+  ],
   "force": "puxar",
   "level": "iniciante",
   "mechanic": "isolamento",

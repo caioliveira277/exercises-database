@@ -1,5 +1,8 @@
 {
   "name": "Elevação de panturrilha sentada",
+  "aliases": [
+    "Seated Calf Raise"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

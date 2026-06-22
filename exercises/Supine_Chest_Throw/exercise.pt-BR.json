@@ -1,5 +1,8 @@
 {
   "name": "Lançamento de peito supino",
+  "aliases": [
+    "Supine Chest Throw"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

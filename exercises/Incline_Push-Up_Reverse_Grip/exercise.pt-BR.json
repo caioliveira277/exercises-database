@@ -1,5 +1,9 @@
 {
   "name": "Punho reverso push-up inclinado",
+  "aliases": [
+    "Incline Push-Up Reverse Grip",
+    "Punho Reverso Flexão Inclinado"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "composto",

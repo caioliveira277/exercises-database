@@ -1,5 +1,9 @@
 {
   "name": "Extensão de tríceps com halteres supinados com um braço",
+  "aliases": [
+    "One Arm Supinated Dumbbell Triceps Extension",
+    "Extensão de Tríceps com Dumbbells Supinados com Um Braço"
+  ],
   "force": "empurrar",
   "level": "iniciante",
   "mechanic": "isolamento",

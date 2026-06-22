@@ -1,5 +1,10 @@
 {
   "name": "Estocada com barra",
+  "aliases": [
+    "Barbell Lunge",
+    "Afundo com Barra",
+    "Estocada com Barbell"
+  ],
   "force": "empurrar",
   "level": "intermediário",
   "mechanic": "composto",

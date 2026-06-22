@@ -1,5 +1,8 @@
 {
   "name": "Agachamento idiota",
+  "aliases": [
+    "Squat Jerk"
+  ],
   "force": "empurrar",
   "level": "avançado",
   "mechanic": "composto",

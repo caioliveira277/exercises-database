@@ -1,5 +1,8 @@
 {
   "name": "Elevação lateral deitada com um braço",
+  "aliases": [
+    "Lying One-Arm Lateral Raise"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "isolamento",

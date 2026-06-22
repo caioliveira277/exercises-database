@@ -1,5 +1,8 @@
 {
   "name": "Alongamento do dançarino",
+  "aliases": [
+    "Dancer's Stretch"
+  ],
   "force": "estática",
   "level": "iniciante",
   "mechanic": null,

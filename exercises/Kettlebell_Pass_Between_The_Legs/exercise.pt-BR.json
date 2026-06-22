@@ -1,5 +1,8 @@
 {
   "name": "Passe Kettlebell entre as pernas",
+  "aliases": [
+    "Kettlebell Pass Between The Legs"
+  ],
   "force": "puxar",
   "level": "intermediário",
   "mechanic": "composto",
